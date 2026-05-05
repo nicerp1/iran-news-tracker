@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "محکومیت فزاینده حملات به امارات؛ بقایی: آمریکا متحدان عربش را سپر انسانی کرده است",
-    "title_en": "محکومیت فزاینده حملات به امارات؛ بقایی: آمریکا متحدان عربش را سپر انسانی کرده است",
+    "title_fa": "بحران در تنگه هرمز؛ وزیر دفاع آمریکا: آتش‌بس هنوز برقرار است",
+    "title_en": "بحران در تنگه هرمز؛ وزیر دفاع آمریکا: آتش‌بس هنوز برقرار است",
     "summary": [
-      "سخنگوی وزارت خارجه ایران آمریکا را متهم کرد که از متحدانش در منطقه خلیج فارس به عنوان «سپر انسانی» استفاده می‌کند. اسماعیل بقایی گفت که ایران با هیچ یک از کشورهای منطقه «خصومتی» ندارد و «تنها دلیل اینکه آنها را هدف قرار دادیم» دفاع در برابر حملات آمریکا و اسرائیل بود. از روز دوشنبه که آمریکا طرح خود موسوم به «پروژه آزادی» را برای کمک به عبور کشتی‌های تجاری در تنگه هرمز آغاز کرد، تنش در منطقه خلیج فارس تشدید شده است. علاوه بر تبادل آتش بین ایران و آمریکا، امارات متحده عربی هم هدف حملاتی پهپادی و "
+      "پیت هگست و ژنرال دن کین، وزیر دفاع و فرمانده ارتش آمریکا، در کنفرانس خبری درباره آخرین تحولات در جنگ ایران شرکت کردند. وزیر دفاع آمریکا، قرار است در حالی سخنرانی کند که تنش‌ها در تنگه هرمز به‌شدت افزایش یافته است. در همین حال رئیس مجلس ایران آمریکا را به نقض‌ آتش‌بس، به خطر انداختن کشتیرانی و انتقال انرژی در تنگه هرمز متهم کرده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c98r3l2gkx9t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c98r3l2gkx9t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777982158.6911705
+    "timestamp": 1777987091.1276274
+  },
+  {
+    "title_fa": "میانجی غیرمنتظره؛ پاکستان چگونه پل ارتباطی ایران و آمریکا شد؟",
+    "title_en": "میانجی غیرمنتظره؛ پاکستان چگونه پل ارتباطی ایران و آمریکا شد؟",
+    "summary": [
+      "در میانه یکی از پیچیده‌ترین بحران‌های ژئوپلیتیکی سال‌های اخیر، جایی که تنش میان ایران و آمریکا می‌توانست از سطح کنونی نیز فراتر رود، نامی به‌عنوان میانجی مطرح شد که برای بسیاری غیرمنتظره بود: پاکستان."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1777987091.127652
   },
   {
     "title_fa": "چگونه جنگ ایران زمینه دستگیری یکی از خطرناک‌ترین افراد تحت تعقیب اروپا را در دوبی فراهم کرد؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777982158.6911938
+    "timestamp": 1777987091.1276865
   },
   {
     "title_fa": "ایران سه نفر از معترضان ۱۸ و ۱۹ دی را اعدام کرد",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/clypgr04vleo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypgr04vleo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777982158.691264
+    "timestamp": 1777987091.1277437
   },
   {
     "title_fa": "آیا پروژه «چهار دریا» سوریه می‌تواند جایگزین تنگه هرمز شود؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c1d234q3999o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1d234q3999o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777982158.6912837
+    "timestamp": 1777987091.1277707
   },
   {
     "title_fa": "عواقب جنگ آمریکا با ایران؛ ورشکستگی خطوط هوایی اسپریت بلیت هواپیما در آمریکا را گران خواهد کرد",
@@ -77,23 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cglp9804jggo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cglp9804jggo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777982158.6913154
-  },
-  {
-    "title_fa": "ویدیوی خوشگذرانی در کیش؛ هوش مصنوعی، تبلیغات اغراق‌شده یا مقاومت در سایه جنگ؟",
-    "title_en": "ویدیوی خوشگذرانی در کیش؛ هوش مصنوعی، تبلیغات اغراق‌شده یا مقاومت در سایه جنگ؟",
-    "summary": [
-      "دادستانی عمومی و انقلاب کیش در واکنش به ویدیویی پربازدید که حضور زنان و مردان جوان در ساحل این جزیره را به تصویر می‌کشید، آن را «تلفیق یک کلیپ اصلی با تصاویر تولید‌شده با هوش مصنوعی» توصیف کرد. انتشار این کلیپ در حین آتش‌بس شکننده و زمزمه‌ زبانه کشیدن دوباره آتش جنگ توجه ناظران را به چند و چون زندگی ایرانیان در شرایط اقتصادی وخیم و سایه وضعیت «نه جنگ و نه صلح» جلب کرده است. اما این نخستین تصاویری نیست که از «چهره دیگر» ایران منتشر می‌شود. بعضی مخالفان حکومت هدف این ویدیوها را «سفیدشویی و عادی‌سا"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cn9pg2r329ro?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cn9pg2r329ro?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1777982158.6913683
+    "timestamp": 1777987091.1277952
   },
   {
     "title_fa": "سونامی بیکاری در ایران؛ ویرانی گسترده در اقتصاد و خانواده ایرانی",
@@ -109,7 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/c4g0p58ynd7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g0p58ynd7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777982158.6913939
+    "timestamp": 1777987091.127833
+  },
+  {
+    "title_fa": "ویدیوی خوشگذرانی در کیش؛ هوش مصنوعی، تبلیغات اغراق‌شده یا مقاومت در سایه جنگ؟",
+    "title_en": "ویدیوی خوشگذرانی در کیش؛ هوش مصنوعی، تبلیغات اغراق‌شده یا مقاومت در سایه جنگ؟",
+    "summary": [
+      "دادستانی عمومی و انقلاب کیش در واکنش به ویدیویی پربازدید که حضور زنان و مردان جوان در ساحل این جزیره را به تصویر می‌کشید، آن را «تلفیق یک کلیپ اصلی با تصاویر تولید‌شده با هوش مصنوعی» توصیف کرد. انتشار این کلیپ در حین آتش‌بس شکننده و زمزمه‌ زبانه کشیدن دوباره آتش جنگ توجه ناظران را به چند و چون زندگی ایرانیان در شرایط اقتصادی وخیم و سایه وضعیت «نه جنگ و نه صلح» جلب کرده است. اما این نخستین تصاویری نیست که از «چهره دیگر» ایران منتشر می‌شود. بعضی مخالفان حکومت هدف این ویدیوها را «سفیدشویی و عادی‌سا"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cn9pg2r329ro?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cn9pg2r329ro?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1777987091.1279318
   },
   {
     "title_fa": "چرا یک پست در شبکه‌های اجتماعی می‌تواند در کشورهای خلیج فارس به زندان یا اخراج ختم شود؟",
@@ -125,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cy52y01glxno?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy52y01glxno?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777982158.6914463
-  },
-  {
-    "title_fa": "آنچه گذشت؛ شرکت مرسک از عبور ایمن یک کشتی تجاری با پرچم امریکا خبر داد",
-    "title_en": "آنچه گذشت؛ شرکت مرسک از عبور ایمن یک کشتی تجاری با پرچم امریکا خبر داد",
-    "summary": [
-      "شرکت کشتیرانی مرسک گزارش داده است که يک کشتی تجاری با پرچم آمريکا با «همراهی نيروهای نظامی امريکا» از تنگه هرمز خارج شده است. آمریکا پیش‌تر مدعی عبور ایمن دو کشتی تجاری از تنگه هرمز پس از آغاز «پروژه آزادی» به دستور دونالد ترامپ شده بود اما ایران این ادعا را «کذب محض» خوانده است. در همین حال، امارات از حمله موشکی و پهپادی ایران و آتش‌سوزی در تاسیسات نفتی فیجره خبر داده و در بیانیه ای اعلام کرده که ایران را «به‌طور کامل مسئول» حملات امروز می‌داند و «حق مشروع» برای پاسخ احتمالی دارد. قیمت نفت برنت"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c3d2xmjm0d4t?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c3d2xmjm0d4t?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1777982158.6914825
+    "timestamp": 1777987091.1279895
   },
   {
     "title_fa": "جنگ، «لوبیای سحرآمیز» و «سوپرانقلابی‌ها»؛ تلاش تندروها در ایران برای گرفتن سکان زمامداری",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c4gvzlqdv0go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4gvzlqdv0go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777982158.6915424
+    "timestamp": 1777987091.128014
   },
   {
     "title_fa": "۶۵ روز تاریکی دیجیتال در ایران؛ آنها که به اینترنت جهانی وصل شده‌اند می‌گویند بدون دیگران خیلی سوت‌وکور است",
@@ -173,7 +173,23 @@
     "url": "https://www.bbc.com/persian/articles/crlp3z8wxxro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crlp3z8wxxro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777982158.691566
+    "timestamp": 1777987091.1280386
+  },
+  {
+    "title_fa": "Israel extends detention of Gaza flotilla activists, lawyers say",
+    "title_en": "Israel extends detention of Gaza flotilla activists, lawyers say",
+    "summary": [
+      "The lawyers representing the two activists will appeal the extension decision, calling it &#039;the state&#039;s lawlessness&#039;."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/5/israel-extends-detention-of-gaza-flotilla-activists-say-lawyers?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/5/israel-extends-detention-of-gaza-flotilla-activists-say-lawyers?traffic_source=rss",
+    "image": null,
+    "timestamp": 1777987091.266815
   },
   {
     "title_fa": "NBA semifinal series: Timberwolves stun Spurs in Game 1; Knicks beat 76ers",
@@ -189,7 +205,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/5/nba-semifinal-series-timberwolves-stun-spurs-in-game-1-knicks-beat-76ers?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/5/nba-semifinal-series-timberwolves-stun-spurs-in-game-1-knicks-beat-76ers?traffic_source=rss",
     "image": null,
-    "timestamp": 1777982158.7643
+    "timestamp": 1777987091.2670052
   },
   {
     "title_fa": "What Iran is saying about attack on UAE",
@@ -205,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss",
     "image": null,
-    "timestamp": 1777982158.7643101
+    "timestamp": 1777987091.2670147
   },
   {
     "title_fa": "Afghanistan accuses Pakistan of killing three civilians in ‘war crime’",
@@ -221,54 +237,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/5/afghanistan-accuses-pakistan-of-killing-three-civilians-in-war-crime?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/5/afghanistan-accuses-pakistan-of-killing-three-civilians-in-war-crime?traffic_source=rss",
     "image": null,
-    "timestamp": 1777982158.7643352
-  },
-  {
-    "title_fa": "As summer approaches, skin diseases spread through Gaza’s refugee camps",
-    "title_en": "As summer approaches, skin diseases spread through Gaza’s refugee camps",
-    "summary": [
-      "Skin conditions have become a serious issue for healthcare workers in Gaza, particularly when temperatures rise."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/5/as-summer-approaches-skin-diseases-spread-through-gazas-refugee-camps?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/5/as-summer-approaches-skin-diseases-spread-through-gazas-refugee-camps?traffic_source=rss",
-    "image": null,
-    "timestamp": 1777982158.7643561
-  },
-  {
-    "title_fa": "Palestine weekly wrap: Israeli security agencies sound alarm on settlers",
-    "title_en": "Palestine weekly wrap: Israeli security agencies sound alarm on settlers",
-    "summary": [
-      "Israeli officials warn that violence threatens state, but attacks, land seizures and blockades continue in West Bank."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/5/palestine-weekly-wrap-israeli-security-agencies-sound-alarm-on-settlers?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/5/palestine-weekly-wrap-israeli-security-agencies-sound-alarm-on-settlers?traffic_source=rss",
-    "image": null,
-    "timestamp": 1777982158.7643747
-  },
-  {
-    "title_fa": "Nine workers killed in Colombia coal mine explosion",
-    "title_en": "Nine workers killed in Colombia coal mine explosion",
-    "summary": [
-      "The national mining ​agency had warned weeks earlier that a buildup of gases at the mine could become dangerous."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/5/nine-workers-killed-in-colombia-coal-mine-explosion?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/5/nine-workers-killed-in-colombia-coal-mine-explosion?traffic_source=rss",
-    "image": null,
-    "timestamp": 1777982158.7643974
+    "timestamp": 1777987091.2670267
   }
 ]
