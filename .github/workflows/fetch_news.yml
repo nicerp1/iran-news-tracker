@@ -3,35 +3,31 @@ name: Fetch Iran News
 
 on:
   schedule:
-    # هر ۶ ساعت
     - cron: '0 */6 * * *'
-  workflow_dispatch:  # اجرای دستی
+  workflow_dispatch:
 
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GH_TOKEN }}
+        persist-credentials: true
     
-    - name: Set up Python
-      uses: actions/setup-python@v5
+    - uses: actions/setup-python@v5
       with:
         python-version: '3.11'
     
-    - name: Install dependencies
-      run: |
-        pip install feedparser
-        pip install -r requirements.txt
+    - run: pip install feedparser
     
-    - name: Fetch news
-      run: python src/fetcher.py
+    - run: python src/fetcher.py
     
-    - name: Commit and push changes
+    - name: Commit and push
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "GitHub Actions Bot"
-        git add data/news.json
-        git diff --staged --quiet || git commit -m "🤖 آپدیت اخبار - $(date +'%Y-%m-%d %H:%M')"
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git diff --staged --quiet || git commit -m "🤖 آپدیت اخبار $(date +'%Y-%m-%d %H:%M')"
         git push
