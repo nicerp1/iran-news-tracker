@@ -3,7 +3,7 @@
     "title_fa": "بحران در تنگه هرمز؛ وزیر دفاع آمریکا: آتش‌بس هنوز برقرار است",
     "title_en": "بحران در تنگه هرمز؛ وزیر دفاع آمریکا: آتش‌بس هنوز برقرار است",
     "summary": [
-      "پیت هگست و ژنرال دن کین، وزیر دفاع و فرمانده ارتش آمریکا، در کنفرانس خبری درباره آخرین تحولات در جنگ ایران شرکت کردند. وزیر دفاع آمریکا، قرار است در حالی سخنرانی کند که تنش‌ها در تنگه هرمز به‌شدت افزایش یافته است. در همین حال رئیس مجلس ایران آمریکا را به نقض‌ آتش‌بس، به خطر انداختن کشتیرانی و انتقال انرژی در تنگه هرمز متهم کرده است."
+      "پیت هگست و ژنرال دن کین، وزیر دفاع و رئیس ستاد مشترک نیروهای مسلح آمریکا، در کنفرانس خبری درباره آخرین تحولات در جنگ ایران شرکت کردند. وزیر دفاع آمریکا، قرار است در حالی سخنرانی کند که تنش‌ها در تنگه هرمز به‌شدت افزایش یافته است. در همین حال رئیس مجلس ایران آمریکا را به نقض‌ آتش‌بس، به خطر انداختن کشتیرانی و انتقال انرژی در تنگه هرمز متهم کرده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c98r3l2gkx9t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c98r3l2gkx9t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777987091.1276274
+    "timestamp": 1778000314.8311694
+  },
+  {
+    "title_fa": "ماجرای دلفین‌های انتحاری که ایران از «اوکراین» خرید چیست؟",
+    "title_en": "ماجرای دلفین‌های انتحاری که ایران از «اوکراین» خرید چیست؟",
+    "summary": [
+      "در نشست خبری روز سه‌شنبه (۵ مه/۱۵ اردیبهشت) پنتاگون در کنار سئوال‌های عادی مربوط به درگیری‌های آمریکا و ایران نکته‌ای مطرح شد که تعجب بسیاری برانگیخت: «آیا ایران از دلفین‌های انتحاری استفاده می‌کند؟»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c8xwq9expevo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c8xwq9expevo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778000314.8311884
   },
   {
     "title_fa": "میانجی غیرمنتظره؛ پاکستان چگونه پل ارتباطی ایران و آمریکا شد؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777987091.127652
+    "timestamp": 1778000314.8312201
   },
   {
     "title_fa": "چگونه جنگ ایران زمینه دستگیری یکی از خطرناک‌ترین افراد تحت تعقیب اروپا را در دوبی فراهم کرد؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777987091.1276865
+    "timestamp": 1778000314.8312447
   },
   {
     "title_fa": "ایران سه نفر از معترضان ۱۸ و ۱۹ دی را اعدام کرد",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/clypgr04vleo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypgr04vleo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777987091.1277437
+    "timestamp": 1778000314.8312805
   },
   {
     "title_fa": "آیا پروژه «چهار دریا» سوریه می‌تواند جایگزین تنگه هرمز شود؟",
@@ -77,23 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c1d234q3999o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1d234q3999o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777987091.1277707
-  },
-  {
-    "title_fa": "عواقب جنگ آمریکا با ایران؛ ورشکستگی خطوط هوایی اسپریت بلیت هواپیما در آمریکا را گران خواهد کرد",
-    "title_en": "عواقب جنگ آمریکا با ایران؛ ورشکستگی خطوط هوایی اسپریت بلیت هواپیما در آمریکا را گران خواهد کرد",
-    "summary": [
-      "کتی نسترو، سخنگوی وبسایت گوینگ دات کام که متمرکز بر بازار پروازهای مسافری است به شبکه ان‌بی‌سی گفته ورشکستگی اسپریت احتمالا بهای بلیت را در مسیرهای خطوطی که این شرکت فعالیت داشت یک باره بالا خواهد برد اما در کل صنعت مسافرت هوایی هم ممکن است تا حدود ۱۵ درصد بهای بلیت‌ها را افزایش دهد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cglp9804jggo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cglp9804jggo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1777987091.1277952
+    "timestamp": 1778000314.8312964
   },
   {
     "title_fa": "سونامی بیکاری در ایران؛ ویرانی گسترده در اقتصاد و خانواده ایرانی",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g0p58ynd7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g0p58ynd7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777987091.127833
+    "timestamp": 1778000314.8313372
   },
   {
     "title_fa": "ویدیوی خوشگذرانی در کیش؛ هوش مصنوعی، تبلیغات اغراق‌شده یا مقاومت در سایه جنگ؟",
@@ -125,7 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/cn9pg2r329ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn9pg2r329ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777987091.1279318
+    "timestamp": 1778000314.8313992
+  },
+  {
+    "title_fa": "عواقب جنگ آمریکا با ایران؛ ورشکستگی خطوط هوایی اسپریت بلیت هواپیما در آمریکا را گران خواهد کرد",
+    "title_en": "عواقب جنگ آمریکا با ایران؛ ورشکستگی خطوط هوایی اسپریت بلیت هواپیما در آمریکا را گران خواهد کرد",
+    "summary": [
+      "کتی نسترو، سخنگوی وبسایت گوینگ دات کام که متمرکز بر بازار پروازهای مسافری است به شبکه ان‌بی‌سی گفته ورشکستگی اسپریت احتمالا بهای بلیت را در مسیرهای خطوطی که این شرکت فعالیت داشت یک باره بالا خواهد برد اما در کل صنعت مسافرت هوایی هم ممکن است تا حدود ۱۵ درصد بهای بلیت‌ها را افزایش دهد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cglp9804jggo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cglp9804jggo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778000314.8314266
   },
   {
     "title_fa": "چرا یک پست در شبکه‌های اجتماعی می‌تواند در کشورهای خلیج فارس به زندان یا اخراج ختم شود؟",
@@ -141,39 +157,183 @@
     "url": "https://www.bbc.com/persian/articles/cy52y01glxno?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy52y01glxno?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1777987091.1279895
+    "timestamp": 1778000314.8314562
   },
   {
-    "title_fa": "جنگ، «لوبیای سحرآمیز» و «سوپرانقلابی‌ها»؛ تلاش تندروها در ایران برای گرفتن سکان زمامداری",
-    "title_en": "جنگ، «لوبیای سحرآمیز» و «سوپرانقلابی‌ها»؛ تلاش تندروها در ایران برای گرفتن سکان زمامداری",
+    "title_fa": "Iran’s judiciary vows action against ‘enemy’s mercenaries’ amid executions",
+    "title_en": "Iran’s judiciary vows action against ‘enemy’s mercenaries’ amid executions",
     "summary": [
-      "با گذشت نزدیک به دو ماه از کشته شدن علی خامنه‌ای و جنگ ۴۰ روزه چه تغییراتی در دسته‌بندی‌ها و جریان‌های سیاسی درون حکومت شکل گرفته است؟ آیا همه مسئولان تندرو هستند و میانه‌ای وجود ندارد؟ اختلاف نظر رسانه‌ها و چهره‌های نزدیک به حکومت برسر چیست و آیا بین تندورها نیز باید تفاوت قائل شد؟"
+      "Authorities target accused foreign agents, citing national security, as executions and confiscation of assets intensify."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c4gvzlqdv0go?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c4gvzlqdv0go?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/5/irans-judiciary-vows-action-against-enemys-mercenaries-amid-executions?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/5/irans-judiciary-vows-action-against-enemys-mercenaries-amid-executions?traffic_source=rss",
     "image": null,
-    "timestamp": 1777987091.128014
+    "timestamp": 1778000314.9355836
   },
   {
-    "title_fa": "۶۵ روز تاریکی دیجیتال در ایران؛ آنها که به اینترنت جهانی وصل شده‌اند می‌گویند بدون دیگران خیلی سوت‌وکور است",
-    "title_en": "۶۵ روز تاریکی دیجیتال در ایران؛ آنها که به اینترنت جهانی وصل شده‌اند می‌گویند بدون دیگران خیلی سوت‌وکور است",
+    "title_fa": "What’s the significance of UAE’s Fujairah, hit on Monday?",
+    "title_en": "What’s the significance of UAE’s Fujairah, hit on Monday?",
     "summary": [
-      "قطع اینترنت در ایران به ۶۵ روز رسید. میلیون‌ها نفر در دوماه گذشته در «تاریکی دیجیتال» به اینترنت جهانی دسترسی نداشته‌اند. در این مدت شهروندان عادی به‌ندرت با پرداخت‌ هزینه‌های سنگین توانسته‌اند به اینترنت وصل شوند و تعداد بسیار محدودی به نسبت جمعیت با استفاده از راه‌های بحث‌برانگیزی مانند اینترنت پرو، سیم‌کارت سفید و خبرنگاری به اینترنت دسترسی دارند."
+      "If confirmed, it would be Iran’s first attack on the UAE since the US-Iran ceasefire took effect on April 8."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/crlp3z8wxxro?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/crlp3z8wxxro?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/5/whats-the-significance-of-uaes-fujairah-hit-on-monday?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/5/whats-the-significance-of-uaes-fujairah-hit-on-monday?traffic_source=rss",
     "image": null,
-    "timestamp": 1777987091.1280386
+    "timestamp": 1778000314.935617
+  },
+  {
+    "title_fa": "Hegseth says US ‘hasn’t capitulated on anything’ regarding Iran",
+    "title_en": "Hegseth says US ‘hasn’t capitulated on anything’ regarding Iran",
+    "summary": [
+      "US Defense Secretary Pete Hegseth told a reporter the US had not capitulated on its demands from Iran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/hegseth-says-us-hasnt-capitulated-on-anything-regarding-iran?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/hegseth-says-us-hasnt-capitulated-on-anything-regarding-iran?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778000314.9356415
+  },
+  {
+    "title_fa": "US-Iran ceasefire holds despite Hormuz standoff: Pentagon chief Hegseth",
+    "title_en": "US-Iran ceasefire holds despite Hormuz standoff: Pentagon chief Hegseth",
+    "summary": [
+      "Trump aide says the US has established a security &#039;dome&#039; for ships over Hormuz, but traffic in strait remains stalled."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/5/us-iran-ceasefire-holds-despite-hormuz-standoff-pentagon-chief-hegseth?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/5/us-iran-ceasefire-holds-despite-hormuz-standoff-pentagon-chief-hegseth?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778000314.9356503
+  },
+  {
+    "title_fa": "Why Europe’s car industry is at the centre of a new US trade war",
+    "title_en": "Why Europe’s car industry is at the centre of a new US trade war",
+    "summary": [
+      "Trump has threatened to increase tariffs on EU cars and trucks exported to the US from 15 percent to 25 percent."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/5/why-europes-car-industry-is-at-the-centre-of-a-new-us-trade-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/5/why-europes-car-industry-is-at-the-centre-of-a-new-us-trade-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778000314.9356594
+  },
+  {
+    "title_fa": "Map of dominance: Why Iran can’t afford to give up Hormuz control",
+    "title_en": "Map of dominance: Why Iran can’t afford to give up Hormuz control",
+    "summary": [
+      "The vital passageway is key for Tehran as it seeks to leverage in negotiations with Washington."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/5/map-of-dominance-why-iran-cant-afford-to-give-up-hormuz-control?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/5/map-of-dominance-why-iran-cant-afford-to-give-up-hormuz-control?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778000314.935668
+  },
+  {
+    "title_fa": "Smotrich says he promised his son ‘more destruction’ in Lebanon",
+    "title_en": "Smotrich says he promised his son ‘more destruction’ in Lebanon",
+    "summary": [
+      "Israeli Finance Minister Bezalel Smotrich said he promised his son there would be ‘more destruction’ in Lebanon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/smotrich-says-he-promised-his-son-more-destruction-in-lebanon?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/smotrich-says-he-promised-his-son-more-destruction-in-lebanon?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778000314.9356787
+  },
+  {
+    "title_fa": "Hegseth says US blockade on Iran ‘gift to the world’",
+    "title_en": "Hegseth says US blockade on Iran ‘gift to the world’",
+    "summary": [
+      "US Defense Secretary Pete Hegseth says the US has gifted the world a ‘powerful red, white, and blue dome’."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/hegseth-says-us-blockade-on-iran-gift-to-the?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/hegseth-says-us-blockade-on-iran-gift-to-the?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778000314.9357011
+  },
+  {
+    "title_fa": "Released Flotilla activists describe‘torture’ in Israeli prison",
+    "title_en": "Released Flotilla activists describe‘torture’ in Israeli prison",
+    "summary": [
+      "Flotilla activists returning home to Argentina say they were subjected to ‘torture’ by Israeli forces who detained them."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/released-flotilla-activists-describetorture-in-israeli-prison?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/released-flotilla-activists-describetorture-in-israeli-prison?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778000314.935712
+  },
+  {
+    "title_fa": "Iran’s football team shows World Cup readiness with social media posts",
+    "title_en": "Iran’s football team shows World Cup readiness with social media posts",
+    "summary": [
+      "Videos from tournament kit reveal photo shoot and images from training sessions highlighting Team Melli&#039;s preparations."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/5/irans-football-team-shows-world-cup-readiness-with-social-media-posts?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/5/irans-football-team-shows-world-cup-readiness-with-social-media-posts?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778000314.9357204
+  },
+  {
+    "title_fa": "US, Iran, UAE trade Hormuz attack claims: What we know",
+    "title_en": "US, Iran, UAE trade Hormuz attack claims: What we know",
+    "summary": [
+      "Experts say claims and counterclaims threaten the diplomatic route to end the US-Israel war on Iran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/5/us-iran-uae-trade-hormuz-attack-claims-what-we-know?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/5/us-iran-uae-trade-hormuz-attack-claims-what-we-know?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778000314.9357274
   },
   {
     "title_fa": "Israel extends detention of Gaza flotilla activists, lawyers say",
@@ -189,54 +349,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/5/israel-extends-detention-of-gaza-flotilla-activists-say-lawyers?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/5/israel-extends-detention-of-gaza-flotilla-activists-say-lawyers?traffic_source=rss",
     "image": null,
-    "timestamp": 1777987091.266815
-  },
-  {
-    "title_fa": "NBA semifinal series: Timberwolves stun Spurs in Game 1; Knicks beat 76ers",
-    "title_en": "NBA semifinal series: Timberwolves stun Spurs in Game 1; Knicks beat 76ers",
-    "summary": [
-      "Anthony Edwards returned from injury to score 18 points as the visitors beat San Antonio Spurs 104-102."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/5/nba-semifinal-series-timberwolves-stun-spurs-in-game-1-knicks-beat-76ers?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/5/nba-semifinal-series-timberwolves-stun-spurs-in-game-1-knicks-beat-76ers?traffic_source=rss",
-    "image": null,
-    "timestamp": 1777987091.2670052
-  },
-  {
-    "title_fa": "What Iran is saying about attack on UAE",
-    "title_en": "What Iran is saying about attack on UAE",
-    "summary": [
-      "What Iran is saying about attack on UAE"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss",
-    "image": null,
-    "timestamp": 1777987091.2670147
-  },
-  {
-    "title_fa": "Afghanistan accuses Pakistan of killing three civilians in ‘war crime’",
-    "title_en": "Afghanistan accuses Pakistan of killing three civilians in ‘war crime’",
-    "summary": [
-      "The incident is the latest test of a fragile ceasefire agreed between the two countries last month."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/5/afghanistan-accuses-pakistan-of-killing-three-civilians-in-war-crime?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/5/afghanistan-accuses-pakistan-of-killing-three-civilians-in-war-crime?traffic_source=rss",
-    "image": null,
-    "timestamp": 1777987091.2670267
+    "timestamp": 1778000314.9357352
   }
 ]
