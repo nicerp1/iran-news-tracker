@@ -1,9 +1,9 @@
-# .github/workflows/fetch_news.yml
 name: Fetch Iran News
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    # هر ۳۰ دقیقه
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
