@@ -3,7 +3,7 @@ name: Fetch Iran News
 on:
   schedule:
     # هر 5 دقیقه
-    - cron: '*/5 * * * *'
+    - cron: '*/1 * * * *'
   workflow_dispatch:
 
 jobs:
