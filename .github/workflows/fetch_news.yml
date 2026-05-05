@@ -2,8 +2,8 @@ name: Fetch Iran News
 
 on:
   schedule:
-    # هر ۳۰ دقیقه
-    - cron: '*/30 * * * *'
+    # هر 5 دقیقه
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
