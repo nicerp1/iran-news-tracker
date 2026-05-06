@@ -1,7 +1,7 @@
 [
   {
-    "title_fa": "ترامپ: «پروژه آزادی» در تنگه هرمز متوقف می‌شود",
-    "title_en": "ترامپ: «پروژه آزادی» در تنگه هرمز متوقف می‌شود",
+    "title_fa": "ترامپ «پروژه آزادی» در تنگه هرمز را متوقف کرد، روبیو: مرحله تهاجمی جنگ با ایران پایان یافته است",
+    "title_en": "ترامپ «پروژه آزادی» در تنگه هرمز را متوقف کرد، روبیو: مرحله تهاجمی جنگ با ایران پایان یافته است",
     "summary": [
       "دونالد ترامپ از توقف عملیات دریایی تحت عنوان «پروژه آزادی» در تنگه هرمز تنها یک روز پس از آغاز آن خبر داده و گفته این تصمیم در مشورت با پاکستان و با هدف به نتیجه رسیدن مذاکرات با ایران اتخاذ شده است. همزمان مارکو روبیو، وزیر خارجه آمریکا، در کاخ‌سفید به خبرنگاران گفت که «مرحله تهاجمی جنگ با ایران پایان یافته» است و دونالد ترامپ اکنون به دنبال توافق با ایران به ويژه درباره تنگه هرمز است. وزارت خارجه ایران و قرارگاه خاتم الانبیاء که مرکز فرماندهی جنگ در این کشور است با صدور بیانیه ادعای امارات متح"
     ],
@@ -13,7 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/clyp48qz897t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/clyp48qz897t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778026341.1724465
+    "timestamp": 1778040217.0314686
+  },
+  {
+    "title_fa": "جرمی بوئن: بن‌بست در تنگه هرمز خطر لغزش به سوی جنگی تمام‌عیار را افزایش می‌دهد",
+    "title_en": "جرمی بوئن: بن‌بست در تنگه هرمز خطر لغزش به سوی جنگی تمام‌عیار را افزایش می‌دهد",
+    "summary": [
+      "عزم آمریکا و ایران برای تداوم فشار بر یکدیگر، آتش‌بس شکننده در خلیج فارس را با خطری جدی روبه‌رو کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cg7pzv322pxo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cg7pzv322pxo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778040217.0315046
+  },
+  {
+    "title_fa": "«فقط می‌خواستم جانش را نجات بدهم»؛ روایت ایرانی ساکن لندن از نجات جان یک مرد یهودی",
+    "title_en": "«فقط می‌خواستم جانش را نجات بدهم»؛ روایت ایرانی ساکن لندن از نجات جان یک مرد یهودی",
+    "summary": [
+      "مردی که هنگام حمله با چاقو به یک مرد یهودی در شمال لندن مداخله کرده بود، به بی‌بی‌سی گفت چگونه تلاش کرده که جان یک نفر را نجات دهد. اشکان اسدیان تلاش کرد تا به موشه شاین ۷۶ ساله که در ایستگاه اتوبوس هدف حمله قرار گرفت، کمک کند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cx21ypvl5wqo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cx21ypvl5wqo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778040217.0315263
   },
   {
     "title_fa": "ماجرای دلفین‌های انتحاری که ایران از «اوکراین» خرید چیست؟",
@@ -29,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c8xwq9expevo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8xwq9expevo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778026341.1724722
+    "timestamp": 1778040217.0315602
   },
   {
     "title_fa": "چرا پاکستان کانال تماس ایران و آمریکا شد؟",
@@ -45,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778026341.1725116
+    "timestamp": 1778040217.0315776
   },
   {
     "title_fa": "آنچه گذشت؛ مارکو روبیو: مرحله تهاجمی جنگ با ایران «به پایان رسیده» است",
@@ -61,7 +93,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c98r3l2gkx9t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c98r3l2gkx9t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778026341.1725621
+    "timestamp": 1778040217.031616
   },
   {
     "title_fa": "چگونه جنگ ایران زمینه دستگیری یکی از خطرناک‌ترین افراد تحت تعقیب اروپا را در دوبی فراهم کرد؟",
@@ -77,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778026341.1725788
-  },
-  {
-    "title_fa": "ایران سه نفر از معترضان ۱۸ و ۱۹ دی را اعدام کرد",
-    "title_en": "ایران سه نفر از معترضان ۱۸ و ۱۹ دی را اعدام کرد",
-    "summary": [
-      "در ادامه موج اعدام‌ها، ایران سه نفر از بازداشت‌شدگان اعتراضات ۱۸ و ۱۹ دی ماه دی ماه ۱۴۰۴ در مشهد را اعدام کرد. قوه قضائیه ایران اعدام‌شدگان را «عوامل موساد و لیدر اغتشاشات» خواند. مهدی رسولی، محمدرضا میری و ابراهیم دولت آبادی، که هر سه در جریان اعتراضات ۱۸ و ۱۹ دی ماه سال گذشته بازداشت شده بودند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/clypgr04vleo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/clypgr04vleo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778026341.1726236
+    "timestamp": 1778040217.0316398
   },
   {
     "title_fa": "سونامی بیکاری در ایران؛ ویرانی گسترده در اقتصاد و خانواده ایرانی",
@@ -109,7 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/c4g0p58ynd7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g0p58ynd7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778026341.1726763
+    "timestamp": 1778040217.0317297
+  },
+  {
+    "title_fa": "ایران سه نفر از معترضان ۱۸ و ۱۹ دی را اعدام کرد",
+    "title_en": "ایران سه نفر از معترضان ۱۸ و ۱۹ دی را اعدام کرد",
+    "summary": [
+      "در ادامه موج اعدام‌ها، ایران سه نفر از بازداشت‌شدگان اعتراضات ۱۸ و ۱۹ دی ماه دی ماه ۱۴۰۴ در مشهد را اعدام کرد. قوه قضائیه ایران اعدام‌شدگان را «عوامل موساد و لیدر اغتشاشات» خواند. مهدی رسولی، محمدرضا میری و ابراهیم دولت آبادی، که هر سه در جریان اعتراضات ۱۸ و ۱۹ دی ماه سال گذشته بازداشت شده بودند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/clypgr04vleo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/clypgr04vleo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778040217.0317812
   },
   {
     "title_fa": "ویدیوی خوشگذرانی در کیش؛ هوش مصنوعی، تبلیغات اغراق‌شده یا مقاومت در سایه جنگ؟",
@@ -125,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cn9pg2r329ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn9pg2r329ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778026341.172752
+    "timestamp": 1778040217.03182
   },
   {
     "title_fa": "آیا پروژه «چهار دریا» سوریه می‌تواند جایگزین تنگه هرمز شود؟",
@@ -141,29 +173,29 @@
     "url": "https://www.bbc.com/persian/articles/c1d234q3999o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1d234q3999o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778026341.172783
+    "timestamp": 1778040217.0318518
   },
   {
-    "title_fa": "عواقب جنگ آمریکا با ایران؛ ورشکستگی خطوط هوایی اسپریت بلیت هواپیما در آمریکا را گران خواهد کرد",
-    "title_en": "عواقب جنگ آمریکا با ایران؛ ورشکستگی خطوط هوایی اسپریت بلیت هواپیما در آمریکا را گران خواهد کرد",
+    "title_fa": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
+    "title_en": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
     "summary": [
-      "کتی نسترو، سخنگوی وبسایت گوینگ دات کام که متمرکز بر بازار پروازهای مسافری است به شبکه ان‌بی‌سی گفته ورشکستگی اسپریت احتمالا بهای بلیت را در مسیرهای خطوطی که این شرکت فعالیت داشت یک باره بالا خواهد برد اما در کل صنعت مسافرت هوایی هم ممکن است تا حدود ۱۵ درصد بهای بلیت‌ها را افزایش دهد."
+      "US Defense Secretary Pete Hegseth says ceasefire with Iran remains in place despite growing tensions in Hormuz Strait."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cglp9804jggo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cglp9804jggo?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
     "image": null,
-    "timestamp": 1778026341.1728048
+    "timestamp": 1778040217.1586835
   },
   {
-    "title_fa": "Trump announces pause on US operation to reopen Strait of Hormuz",
-    "title_en": "Trump announces pause on US operation to reopen Strait of Hormuz",
+    "title_fa": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran",
+    "title_en": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran",
     "summary": [
-      "US president says Project Freedom paused to see whether an agreement with Iran can be finalised and signed."
+      "US president says &#039;Project Freedom&#039; suspended to see whether an agreement with Iran can be finalised and signed."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -173,7 +205,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss",
     "image": null,
-    "timestamp": 1778026341.3045287
+    "timestamp": 1778040217.1587183
   },
   {
     "title_fa": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’",
@@ -189,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
     "image": null,
-    "timestamp": 1778026341.304542
+    "timestamp": 1778040217.1587303
   },
   {
     "title_fa": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
@@ -205,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1778026341.3045635
+    "timestamp": 1778040217.1587508
   },
   {
     "title_fa": "Israel kills one boy, injures officers in strike on Gaza police station",
@@ -221,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss",
     "image": null,
-    "timestamp": 1778026341.3045735
+    "timestamp": 1778040217.1587605
   },
   {
     "title_fa": "Miscalculation over Strait of Hormuz could ‘bring an all-out war’",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/quotable/2026/5/5/miscalculation-over-strait-of-hormuz-could-bring-an-all-out?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/quotable/2026/5/5/miscalculation-over-strait-of-hormuz-could-bring-an-all-out?traffic_source=rss",
     "image": null,
-    "timestamp": 1778026341.3046224
+    "timestamp": 1778040217.1588135
   },
   {
     "title_fa": "Video: Trump says Iran should ‘wave the white flag’",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/video-trump-says-iran-should-wave-the-white-flag?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/video-trump-says-iran-should-wave-the-white-flag?traffic_source=rss",
     "image": null,
-    "timestamp": 1778026341.3046446
+    "timestamp": 1778040217.158837
   },
   {
     "title_fa": "US push for Lebanon and Israel leaders to meet could inflame tensions",
@@ -269,7 +301,7 @@
     "url": "https://www.aljazeera.com/features/2026/5/5/us-push-for-lebanon-and-israel-leaders-to-meet-could-inflame-tensions?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/5/us-push-for-lebanon-and-israel-leaders-to-meet-could-inflame-tensions?traffic_source=rss",
     "image": null,
-    "timestamp": 1778026341.3046558
+    "timestamp": 1778040217.158848
   },
   {
     "title_fa": "UK convicts four Palestine Action activists over break-in at Israeli firm",
@@ -285,22 +317,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/5/uk-convicts-four-palestine-action-activists-over-break-in-at-israeli-firm?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/5/uk-convicts-four-palestine-action-activists-over-break-in-at-israeli-firm?traffic_source=rss",
     "image": null,
-    "timestamp": 1778026341.304666
-  },
-  {
-    "title_fa": "UAE comes under Iranian attacks for second consecutive day: Ministry",
-    "title_en": "UAE comes under Iranian attacks for second consecutive day: Ministry",
-    "summary": [
-      "Iran says the country&#039;s forces &#039;have not carried out any missile or drone operations against the UAE in recent days&#039;."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778026341.304684
+    "timestamp": 1778040217.1588578
   }
 ]
