@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/clyp48qz897t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/clyp48qz897t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778049592.2570648
+    "timestamp": 1778058406.0498486
   },
   {
     "title_fa": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778049592.257091
+    "timestamp": 1778058406.049892
   },
   {
     "title_fa": "جرمی بوئن: بن‌بست در تنگه هرمز خطر لغزش به سوی جنگی تمام‌عیار را افزایش می‌دهد",
@@ -45,39 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cg7pzv322pxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg7pzv322pxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778049592.257137
-  },
-  {
-    "title_fa": "چرا پاکستان کانال تماس ایران و آمریکا شد؟",
-    "title_en": "چرا پاکستان کانال تماس ایران و آمریکا شد؟",
-    "summary": [
-      "در میانه یکی از پیچیده‌ترین بحران‌های ژئوپلیتیکی سال‌های اخیر، جایی که تنش میان ایران و آمریکا می‌توانست از سطح کنونی نیز فراتر رود، نامی به‌عنوان میانجی مطرح شد که برای بسیاری غیرمنتظره بود: پاکستان."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778049592.2571545
-  },
-  {
-    "title_fa": "آنچه گذشت؛ مارکو روبیو: مرحله تهاجمی جنگ با ایران «به پایان رسیده» است",
-    "title_en": "آنچه گذشت؛ مارکو روبیو: مرحله تهاجمی جنگ با ایران «به پایان رسیده» است",
-    "summary": [
-      "مارکو روبیو، وزیر خارجه آمریکا و مشاور عالی امنیت ملی دونالد ترامپ از «پایان مرحله تهاجمی» عملیات نظامی علیه ایران خبر داده است. آقای روبیو این اظهارات را عصر سه‌شنبه به خبرنگاران گفت وتاکید کرد که اکنون دونالد ترامپ ترجيح می‌دهد با ايران به توافقی دست يابد، از جمله يک يادداشت تفاهم درباره نحوه بازگشايی کامل تنگه هرمز، هر چند از نظر او ایران هنوز به این «مسیر روی نیاورده» است. اظهارات آقای روبیو درباره پایان مرحله تهاجمی جنگ مشترک امریکا و اسرائیل علیه ایران تنها ساعتی پس از آن عنوان شد که ژنرال"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c98r3l2gkx9t?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c98r3l2gkx9t?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778049592.2571971
+    "timestamp": 1778058406.0499206
   },
   {
     "title_fa": "چگونه جنگ ایران زمینه دستگیری یکی از خطرناک‌ترین افراد تحت تعقیب اروپا را در دوبی فراهم کرد؟",
@@ -93,7 +61,39 @@
     "url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778049592.2572215
+    "timestamp": 1778058406.0499375
+  },
+  {
+    "title_fa": "چرا پاکستان کانال تماس ایران و آمریکا شد؟",
+    "title_en": "چرا پاکستان کانال تماس ایران و آمریکا شد؟",
+    "summary": [
+      "در میانه یکی از پیچیده‌ترین بحران‌های ژئوپلیتیکی سال‌های اخیر، جایی که تنش میان ایران و آمریکا می‌توانست از سطح کنونی نیز فراتر رود، نامی به‌عنوان میانجی مطرح شد که برای بسیاری غیرمنتظره بود: پاکستان."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778058406.0499568
+  },
+  {
+    "title_fa": "آنچه گذشت؛ مارکو روبیو: مرحله تهاجمی جنگ با ایران «به پایان رسیده» است",
+    "title_en": "آنچه گذشت؛ مارکو روبیو: مرحله تهاجمی جنگ با ایران «به پایان رسیده» است",
+    "summary": [
+      "مارکو روبیو، وزیر خارجه آمریکا و مشاور عالی امنیت ملی دونالد ترامپ از «پایان مرحله تهاجمی» عملیات نظامی علیه ایران خبر داده است. آقای روبیو این اظهارات را عصر سه‌شنبه به خبرنگاران گفت وتاکید کرد که اکنون دونالد ترامپ ترجيح می‌دهد با ايران به توافقی دست يابد، از جمله يک يادداشت تفاهم درباره نحوه بازگشايی کامل تنگه هرمز، هر چند از نظر او ایران هنوز به این «مسیر روی نیاورده» است. اظهارات آقای روبیو درباره پایان مرحله تهاجمی جنگ مشترک امریکا و اسرائیل علیه ایران تنها ساعتی پس از آن عنوان شد که ژنرال"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/c98r3l2gkx9t?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c98r3l2gkx9t?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778058406.0500157
   },
   {
     "title_fa": "«فقط می‌خواستم جانش را نجات بدهم»؛ روایت ایرانی ساکن لندن از نجات جان یک مرد یهودی",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21ypvl5wqo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21ypvl5wqo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778049592.2572575
+    "timestamp": 1778058406.0500367
   },
   {
     "title_fa": "ماجرای دلفین‌های انتحاری که ایران از «اوکراین» خرید چیست؟",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c8xwq9expevo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8xwq9expevo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778049592.2572749
+    "timestamp": 1778058406.0500543
   },
   {
     "title_fa": "ایران سه نفر از معترضان ۱۸ و ۱۹ دی را اعدام کرد",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/clypgr04vleo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypgr04vleo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778049592.2573698
+    "timestamp": 1778058406.0501356
   },
   {
     "title_fa": "آیا پروژه «چهار دریا» سوریه می‌تواند جایگزین تنگه هرمز شود؟",
@@ -157,7 +157,103 @@
     "url": "https://www.bbc.com/persian/articles/c1d234q3999o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1d234q3999o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778049592.2574022
+    "timestamp": 1778058406.0501885
+  },
+  {
+    "title_fa": "‘A stress test’: US-Germany rift widens as Iran-war drags on",
+    "title_en": "‘A stress test’: US-Germany rift widens as Iran-war drags on",
+    "summary": [
+      "German official says US-Europe relationship is being tested as opposition MP says Berlin is &#039;not neutral&#039;"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778058406.216042
+  },
+  {
+    "title_fa": "Shopping centre fire kills at least eight people in Iran",
+    "title_en": "Shopping centre fire kills at least eight people in Iran",
+    "summary": [
+      "Shopping centre fire kills at least eight people in Iran"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/shopping-centre-fire-kills-at-least-eight-people-in-iran?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/shopping-centre-fire-kills-at-least-eight-people-in-iran?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778058406.216053
+  },
+  {
+    "title_fa": "US must not insult IRGC during the World Cup: Iran’s football chief",
+    "title_en": "US must not insult IRGC during the World Cup: Iran’s football chief",
+    "summary": [
+      "Mehdi Taj says cohosts US must ensure the Iranian military and IRGC are not &#039;insulted&#039; during the FIFA World Cup."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/6/us-must-not-insult-irgc-during-the-world-cup-irans-football-chief?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/6/us-must-not-insult-irgc-during-the-world-cup-irans-football-chief?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778058406.2160947
+  },
+  {
+    "title_fa": "Iran war day 68: Trump talks about progress in talks; Rubio says war ‘over’",
+    "title_en": "Iran war day 68: Trump talks about progress in talks; Rubio says war ‘over’",
+    "summary": [
+      "Trump pauses US &#039;Project Freedom&#039; operation in Strait of Hormuz, citing progress towards Iran agreement."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/6/iran-war-day-68-trump-talks-about-progress-in-talks-rubio-says-war-over?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/6/iran-war-day-68-trump-talks-about-progress-in-talks-rubio-says-war-over?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778058406.2161145
+  },
+  {
+    "title_fa": "Iranian Foreign Minister Araghchi arrives in China for talks",
+    "title_en": "Iranian Foreign Minister Araghchi arrives in China for talks",
+    "summary": [
+      "Iran’s Foreign Minister Abbas Araghchi has arrived in Beijing for talks with his Chinese counterpart, Wang Yi."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iranian-foreign-minister-araghchi-arrives-in-china-for-talks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iranian-foreign-minister-araghchi-arrives-in-china-for-talks?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778058406.21615
+  },
+  {
+    "title_fa": "Airlines hike fares, cut millions of seats as Iran war drives up fuel costs",
+    "title_en": "Airlines hike fares, cut millions of seats as Iran war drives up fuel costs",
+    "summary": [
+      "Surging jet fuel prices are prompting carriers to slash their flight schedules, casting a cloud over summer travel rush."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/6/airlines-hike-fares-cut-millions-of-seats-as-iran-war-drives-up-fuel-costs?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/6/airlines-hike-fares-cut-millions-of-seats-as-iran-war-drives-up-fuel-costs?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778058406.2161665
   },
   {
     "title_fa": "In Gaza, the simplest of weddings are barely affordable",
@@ -173,7 +269,7 @@
     "url": "https://www.aljazeera.com/features/2026/5/6/in-gaza-the-simplest-of-weddings-are-barely-affordable?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/6/in-gaza-the-simplest-of-weddings-are-barely-affordable?traffic_source=rss",
     "image": null,
-    "timestamp": 1778049592.5501597
+    "timestamp": 1778058406.2161758
   },
   {
     "title_fa": "What to know about Israeli President Herzog’s trip to Central America?",
@@ -189,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/6/what-to-know-about-israeli-president-herzogs-trip-to-central-america?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/6/what-to-know-about-israeli-president-herzogs-trip-to-central-america?traffic_source=rss",
     "image": null,
-    "timestamp": 1778049592.550179
+    "timestamp": 1778058406.2161894
   },
   {
     "title_fa": "US president Trump restarts Pope feud ahead of Rubio visit to Vatican",
@@ -205,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-president-trump-restarts-pope-feud-ahead-of-rubio-visit-to-vatican?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-president-trump-restarts-pope-feud-ahead-of-rubio-visit-to-vatican?traffic_source=rss",
     "image": null,
-    "timestamp": 1778049592.550191
+    "timestamp": 1778058406.2161994
   },
   {
     "title_fa": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
@@ -221,86 +317,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss",
     "image": null,
-    "timestamp": 1778049592.5502028
-  },
-  {
-    "title_fa": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
-    "title_en": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
-    "summary": [
-      "US Defense Secretary Pete Hegseth says ceasefire with Iran remains in place despite growing tensions in Hormuz Strait."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778049592.5502503
-  },
-  {
-    "title_fa": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran",
-    "title_en": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran",
-    "summary": [
-      "US president says &#039;Project Freedom&#039; suspended to see whether an agreement with Iran can be finalised and signed."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778049592.5502827
-  },
-  {
-    "title_fa": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’",
-    "title_en": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’",
-    "summary": [
-      "US CENTCOM spokesman Tim Hawkins says the main priorities in Hormuz are securing safe routes &amp; blockading Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778049592.5502942
-  },
-  {
-    "title_fa": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
-    "title_en": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
-    "summary": [
-      "Comments come before Marco Rubio’s meeting with Pope Leo XIV at the Vatican on Thursday."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778049592.5503159
-  },
-  {
-    "title_fa": "Israel kills one boy, injures officers in strike on Gaza police station",
-    "title_en": "Israel kills one boy, injures officers in strike on Gaza police station",
-    "summary": [
-      "A 15-year-old boy, Mahmoud Sahweil, was killed when Israel struck a Gaza police station."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778049592.5503252
+    "timestamp": 1778058406.2162101
   }
 ]
