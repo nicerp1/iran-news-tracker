@@ -1,7 +1,7 @@
 [
   {
-    "title_fa": "هدف قرار گرفتن یکی از فرماندهان ارشد حزب‌الله در حملات اسرائیل،‌ خوش‌بینی ترامپ به نزدیک بودن توافق با ایران",
-    "title_en": "هدف قرار گرفتن یکی از فرماندهان ارشد حزب‌الله در حملات اسرائیل،‌ خوش‌بینی ترامپ به نزدیک بودن توافق با ایران",
+    "title_fa": "کشته‌شدن یک فرمانده ارشد حزب‌الله در حملات اسرائیل،‌ خوش‌بینی ترامپ به توافق نزدیک با ایران",
+    "title_en": "کشته‌شدن یک فرمانده ارشد حزب‌الله در حملات اسرائیل،‌ خوش‌بینی ترامپ به توافق نزدیک با ایران",
     "summary": [
       "حزب الله از کشته شدن یکی از فرماندهان ارشد این گروه در حمله دیروز اسرائیل به جنوب بیروت خبر داده است. دونالد ترامپ پس از متوقف کردن عملیات موسوم به «پروژه آزادی» در تنگه هرمز به خبرنگاران گفت که ایران با تحویل موادغنی‌شده خود و دست نیافتن به سلاح هسته‌ای «موافقت کرده» است؛ ادعایی که ایران آن را تایید نکرده است. مسعود پزشکیان در تماسی تلفنی با امانوئل مکرون گفته است که هرگونه توافقی باید با تضمین ترک مخاصمه و پایان محاصره دریایی ایران همراه شود. رسانه‌های ایران هم از بازگشایی فرودگاه تبریز خبر دا"
     ],
@@ -13,23 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778134932.6927316
+    "timestamp": 1778144910.140754
   },
   {
-    "title_fa": "«هیچ چیز پسرم را برنمی‌گرداند»؛ چگونه ۱۰ دقیقه بمباران اسرائیل، زندگی‌ها را در لبنان نابود کرد",
-    "title_en": "«هیچ چیز پسرم را برنمی‌گرداند»؛ چگونه ۱۰ دقیقه بمباران اسرائیل، زندگی‌ها را در لبنان نابود کرد",
+    "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
+    "title_en": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
     "summary": [
-      "بمباران اسرائیل ساعت ۱۴:۱۵ روز ۸ آوریل آغاز شد و در عرض ۱۰ دقیقه موجی از آشفتگی و ویرانی را در سراسر لبنان ایجاد کرد."
+      "نشانه‌هایی از شتاب‌گرفتن دوباره تلاش‌ها برای پایان دادن به جنگ ایران دیده می‌شود، اما دونالد ترامپ لحنی احتیاط‌آمیز در پیش گرفته است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c0l218jwk60o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c0l218jwk60o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778134932.6928
+    "timestamp": 1778144910.1407752
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778134932.6928227
+    "timestamp": 1778144910.1408467
   },
   {
     "title_fa": "سفر عراقچی به چین؛ پکن خواستار بازگشایی تنگه «هرمز» در اسرع وقت شد",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778134932.6928477
+    "timestamp": 1778144910.1408696
   },
   {
     "title_fa": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
@@ -77,39 +77,23 @@
     "url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778134932.6928732
+    "timestamp": 1778144910.140896
   },
   {
-    "title_fa": "چرا پاکستان کانال تماس ایران و آمریکا شد؟",
-    "title_en": "چرا پاکستان کانال تماس ایران و آمریکا شد؟",
+    "title_fa": "«هیچ چیز پسرم را برنمی‌گرداند»؛ چگونه ۱۰ دقیقه بمباران اسرائیل، زندگی‌ها را در لبنان نابود کرد",
+    "title_en": "«هیچ چیز پسرم را برنمی‌گرداند»؛ چگونه ۱۰ دقیقه بمباران اسرائیل، زندگی‌ها را در لبنان نابود کرد",
     "summary": [
-      "در میانه یکی از پیچیده‌ترین بحران‌های ژئوپلیتیکی سال‌های اخیر، جایی که تنش میان ایران و آمریکا می‌توانست از سطح کنونی نیز فراتر رود، نامی به‌عنوان میانجی مطرح شد که برای بسیاری غیرمنتظره بود: پاکستان."
+      "بمباران اسرائیل ساعت ۱۴:۱۵ روز ۸ آوریل آغاز شد و در عرض ۱۰ دقیقه موجی از آشفتگی و ویرانی را در سراسر لبنان ایجاد کرد."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c0l218jwk60o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c0l218jwk60o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778134932.6929197
-  },
-  {
-    "title_fa": "چگونه جنگ ایران زمینه دستگیری یکی از خطرناک‌ترین افراد تحت تعقیب اروپا را در دوبی فراهم کرد؟",
-    "title_en": "چگونه جنگ ایران زمینه دستگیری یکی از خطرناک‌ترین افراد تحت تعقیب اروپا را در دوبی فراهم کرد؟",
-    "summary": [
-      "جنگ ایران موجب افزایش فشارهای دیپلماتیک و دستگیری دنیل کیناهان در دوبی شد. او رهبر «کارتل کیناهان» بود که به قاچاق مواد مخدر، اسلحه و ارتباط با ایران و حزب‌الله لبنان متهم است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778134932.6929362
+    "timestamp": 1778144910.1409273
   },
   {
     "title_fa": "«فقط می‌خواستم جانش را نجات بدهم»؛ روایت ایرانی ساکن لندن از نجات جان یک مرد یهودی",
@@ -125,23 +109,39 @@
     "url": "https://www.bbc.com/persian/articles/cx21ypvl5wqo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21ypvl5wqo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778134932.692957
+    "timestamp": 1778144910.1409488
   },
   {
-    "title_fa": "ماجرای دلفین‌های انتحاری که ایران از «اوکراین» خرید چیست؟",
-    "title_en": "ماجرای دلفین‌های انتحاری که ایران از «اوکراین» خرید چیست؟",
+    "title_fa": "چرا پاکستان کانال تماس ایران و آمریکا شد؟",
+    "title_en": "چرا پاکستان کانال تماس ایران و آمریکا شد؟",
     "summary": [
-      "در نشست خبری روز سه‌شنبه (۵ مه/۱۵ اردیبهشت) پنتاگون در کنار سئوال‌های عادی مربوط به درگیری‌های آمریکا و ایران نکته‌ای مطرح شد که تعجب بسیاری برانگیخت: «آیا ایران از دلفین‌های انتحاری استفاده می‌کند؟»"
+      "در میانه یکی از پیچیده‌ترین بحران‌های ژئوپلیتیکی سال‌های اخیر، جایی که تنش میان ایران و آمریکا می‌توانست از سطح کنونی نیز فراتر رود، نامی به‌عنوان میانجی مطرح شد که برای بسیاری غیرمنتظره بود: پاکستان."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c8xwq9expevo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c8xwq9expevo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c4g431gmrkgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778134932.6929736
+    "timestamp": 1778144910.1409667
+  },
+  {
+    "title_fa": "چگونه جنگ ایران زمینه دستگیری یکی از خطرناک‌ترین افراد تحت تعقیب اروپا را در دوبی فراهم کرد؟",
+    "title_en": "چگونه جنگ ایران زمینه دستگیری یکی از خطرناک‌ترین افراد تحت تعقیب اروپا را در دوبی فراهم کرد؟",
+    "summary": [
+      "جنگ ایران موجب افزایش فشارهای دیپلماتیک و دستگیری دنیل کیناهان در دوبی شد. او رهبر «کارتل کیناهان» بود که به قاچاق مواد مخدر، اسلحه و ارتباط با ایران و حزب‌الله لبنان متهم است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c0e2ng1pgewo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778144910.1409829
   },
   {
     "title_fa": "قوه قضائیه ایران اموال ۴۰ نفر دیگر را توقیف کرد؛ آپارتمان «۳۵ میلیارد تومانی» در فهرست دارایی‌های مصادره‌ای",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c1d245v2kqro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1d245v2kqro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778134932.692995
+    "timestamp": 1778144910.1410048
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ، بدون تایید تهران، گفت ایران با نداشتن سلاح هسته‌ای موافقت کرده است",
@@ -173,7 +173,87 @@
     "url": "https://www.bbc.co.uk/persian/live/clyp48qz897t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/clyp48qz897t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778134932.693046
+    "timestamp": 1778144910.1410956
+  },
+  {
+    "title_fa": "ماجرای دلفین‌های انتحاری که ایران از «اوکراین» خرید چیست؟",
+    "title_en": "ماجرای دلفین‌های انتحاری که ایران از «اوکراین» خرید چیست؟",
+    "summary": [
+      "در نشست خبری روز سه‌شنبه (۵ مه/۱۵ اردیبهشت) پنتاگون در کنار سئوال‌های عادی مربوط به درگیری‌های آمریکا و ایران نکته‌ای مطرح شد که تعجب بسیاری برانگیخت: «آیا ایران از دلفین‌های انتحاری استفاده می‌کند؟»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c8xwq9expevo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c8xwq9expevo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778144910.141133
+  },
+  {
+    "title_fa": "French warship moves towards Hormuz for possible defensive mission",
+    "title_en": "French warship moves towards Hormuz for possible defensive mission",
+    "summary": [
+      "Iran says it is reviewing a US proposal that Donald Trump says could bring the war to an end."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778144910.3337853
+  },
+  {
+    "title_fa": "The Gaza journalist killed on the day his daughter was born",
+    "title_en": "The Gaza journalist killed on the day his daughter was born",
+    "summary": [
+      "Sana&#039;s first birthday is shadowed by loss; her father Yahya was killed in an Israeli attack hours after her birth."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778144910.3338008
+  },
+  {
+    "title_fa": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
+    "title_en": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
+    "summary": [
+      "Trump says US-Iran talks are progressing as Tehran reviews a US proposal delivered through Pakistan."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778144910.333813
+  },
+  {
+    "title_fa": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
+    "title_en": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
+    "summary": [
+      "Khalil al-Hayya says his son, Azzam, was &#039;seriously wounded&#039; in deadly Israeli attack on Gaza City."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778144910.3338447
   },
   {
     "title_fa": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
@@ -189,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778134932.9629452
+    "timestamp": 1778144910.3338838
   },
   {
     "title_fa": "Israeli soldier caught desecrating statue of Virgin Mary in Lebanon",
@@ -205,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/israeli-soldier-caught-desecrating-statue-of-virgin-mary-in-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/israeli-soldier-caught-desecrating-statue-of-virgin-mary-in-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778134932.962989
+    "timestamp": 1778144910.3339214
   },
   {
     "title_fa": "US says Hezbollah is ‘trying to derail talks’ with Israel",
@@ -221,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/us-says-hezbollah-is-trying-to-derail-talks-with-israel?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/us-says-hezbollah-is-trying-to-derail-talks-with-israel?traffic_source=rss",
     "image": null,
-    "timestamp": 1778134932.9630167
+    "timestamp": 1778144910.3339472
   },
   {
     "title_fa": "Police arrest protester after five-days atop Washington bridge",
@@ -237,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/police-arrest-protester-after-five-days-atop-washington-bridge?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/police-arrest-protester-after-five-days-atop-washington-bridge?traffic_source=rss",
     "image": null,
-    "timestamp": 1778134932.963047
+    "timestamp": 1778144910.333977
   },
   {
     "title_fa": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut",
@@ -253,54 +333,6 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss",
     "image": null,
-    "timestamp": 1778134932.963059
-  },
-  {
-    "title_fa": "What are China’s surprise gains in the war on Iran?",
-    "title_en": "What are China’s surprise gains in the war on Iran?",
-    "summary": [
-      "Iran&#039;s Foreign Minister Abbas Araghchi is in Beijing, seeking support on a deal with the US."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778134932.9630702
-  },
-  {
-    "title_fa": "Israeli strikes kill five Palestinians across Gaza in one day",
-    "title_en": "Israeli strikes kill five Palestinians across Gaza in one day",
-    "summary": [
-      "Five Palestinians were killed in one day in separate Israeli strikes across Gaza."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778134932.9630797
-  },
-  {
-    "title_fa": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
-    "title_en": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
-    "summary": [
-      "Lawmakers say US policy of ambiguity on Israel&#039;s nuclear capabilities heightens risks amid US-Israel war on Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778134932.9630973
+    "timestamp": 1778144910.3339884
   }
 ]
