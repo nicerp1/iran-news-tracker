@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778219322.1094983
+    "timestamp": 1778224225.099377
+  },
+  {
+    "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
+    "title_en": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
+    "summary": [
+      "روابط ترکیه و اسرائیل در سه سال گذشته از آستانه عادی‌سازی دیپلماتیک به نقطه‌ای رسیده که اکنون از خطر درگیری مستقیم نظامی سخن گفته می‌شود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778224225.0994015
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -29,23 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778219322.1095614
-  },
-  {
-    "title_fa": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
-    "title_en": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
-    "summary": [
-      "مارکو روبیو، وزیر خارجه آمریکا که برای یک سفر دو روزه وارد رم شد در ابتدای سفرش به واتیکان رفت و با پاپ لئون چهاردهم،‌ رهبر کاتولیک‌های جهان گفت‌وگو کرد. کاخ سفید این دیدار را که در پی هفته‌ها تنش میان کاخ سفید و واتیکان بود،‌ «دوستانه و سازنده» توصیف کرد. واتیکان هم در یک بیانیه اعلام کرد که پاپ لئون و آقای روبیو بر «تعهد مشترک برای حفظ روابط دوجانبه خوب میان آمریکا و واتیکان» تاکید کردند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778219322.1096036
+    "timestamp": 1778224225.0994563
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778219322.1096265
+    "timestamp": 1778224225.0994787
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778219322.109642
+    "timestamp": 1778224225.0994928
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778219322.1096728
+    "timestamp": 1778224225.0995216
   },
   {
     "title_fa": "سفر عراقچی به چین؛ پکن خواستار بازگشایی تنگه «هرمز» در اسرع وقت شد",
@@ -109,7 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778219322.1096966
+    "timestamp": 1778224225.09955
+  },
+  {
+    "title_fa": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
+    "title_en": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
+    "summary": [
+      "مارکو روبیو، وزیر خارجه آمریکا که برای یک سفر دو روزه وارد رم شد در ابتدای سفرش به واتیکان رفت و با پاپ لئون چهاردهم،‌ رهبر کاتولیک‌های جهان گفت‌وگو کرد. کاخ سفید این دیدار را که در پی هفته‌ها تنش میان کاخ سفید و واتیکان بود،‌ «دوستانه و سازنده» توصیف کرد. واتیکان هم در یک بیانیه اعلام کرد که پاپ لئون و آقای روبیو بر «تعهد مشترک برای حفظ روابط دوجانبه خوب میان آمریکا و واتیکان» تاکید کردند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778224225.0996456
   },
   {
     "title_fa": "آنچه گذشت؛ درگیری دریایی ایران و آمریکا همزمان با خبر «دیدار» پزشکیان با مجتبی خامنه‌ای",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778219322.1098247
+    "timestamp": 1778224225.0997074
   },
   {
     "title_fa": "قوه قضائیه ایران اموال ۴۰ نفر دیگر را توقیف کرد؛ آپارتمان «۳۵ میلیارد تومانی» در فهرست دارایی‌های مصادره‌ای",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c1d245v2kqro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1d245v2kqro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778219322.109846
+    "timestamp": 1778224225.09973
   },
   {
     "title_fa": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778219322.1098812
+    "timestamp": 1778224225.0997486
   },
   {
     "title_fa": "«هیچ چیز پسرم را برنمی‌گرداند»؛ چگونه ۱۰ دقیقه بمباران اسرائیل، زندگی‌ها را در لبنان نابود کرد",
@@ -173,7 +189,23 @@
     "url": "https://www.bbc.com/persian/articles/c0l218jwk60o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0l218jwk60o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778219322.109909
+    "timestamp": 1778224225.0997772
+  },
+  {
+    "title_fa": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
+    "title_en": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
+    "summary": [
+      "Iran accuses US of breaching ceasefire near Hormuz as CENTCOM says forces responded to Iranian attacks."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778224225.3014874
   },
   {
     "title_fa": "Ex-prisoners recount abuse in Israeli detention centres",
@@ -189,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/ex-prisoners-recount-abuse-in-israeli-detention-centres?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/ex-prisoners-recount-abuse-in-israeli-detention-centres?traffic_source=rss",
     "image": null,
-    "timestamp": 1778219322.274046
+    "timestamp": 1778224225.3015208
   },
   {
     "title_fa": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
@@ -205,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement?traffic_source=rss",
     "image": null,
-    "timestamp": 1778219322.2740626
+    "timestamp": 1778224225.3015327
   },
   {
     "title_fa": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
@@ -221,7 +253,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
     "image": null,
-    "timestamp": 1778219322.2740715
+    "timestamp": 1778224225.3015409
   },
   {
     "title_fa": "Seafarers trapped in limbo as US and Iran clash in Strait of Hormuz",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo?traffic_source=rss",
     "image": null,
-    "timestamp": 1778219322.274097
+    "timestamp": 1778224225.3015645
   },
   {
     "title_fa": "Iran war live: UAE says intercepted attacks after Iran, US trade blows",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
     "image": null,
-    "timestamp": 1778219322.274106
+    "timestamp": 1778224225.301574
   },
   {
     "title_fa": "Videos show interceptions over the skies of Tehran",
@@ -269,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss",
     "image": null,
-    "timestamp": 1778219322.2741442
+    "timestamp": 1778224225.301615
   },
   {
     "title_fa": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
@@ -285,38 +317,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
     "image": null,
-    "timestamp": 1778219322.2741907
-  },
-  {
-    "title_fa": "Senators press US military on Israel’s displacement campaign in Lebanon",
-    "title_en": "Senators press US military on Israel’s displacement campaign in Lebanon",
-    "summary": [
-      "In letter to CENTCOM commander, 12 Democrats raise questions about possible US role in Israel&#039;s &#039;mass evacuation zones&#039;."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778219322.274212
-  },
-  {
-    "title_fa": "Palestinians expose torture and sexual violence in Israeli detention",
-    "title_en": "Palestinians expose torture and sexual violence in Israeli detention",
-    "summary": [
-      "Palestinian detainees and rights groups share disturbing accounts of rape, sexual violence and physical abuse."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778219322.27423
+    "timestamp": 1778224225.3016593
   }
 ]
