@@ -3,17 +3,17 @@
     "title_fa": "آمریکا در انتظار پاسخ ایران؛ تنش‌ها در تنگه هرمز ادامه دارد",
     "title_en": "آمریکا در انتظار پاسخ ایران؛ تنش‌ها در تنگه هرمز ادامه دارد",
     "summary": [
-      "وزیر خارجه آمریکا می‌گوید که واشنگتن انتظار دارد امروز جمعه پاسخ ایران به پیشنهاد صلح ارائه‌شده از سوی آمریکا را دریافت کند. مارکو روبیو ابراز امیدواری کرد که ایران «پیشنهادی جدی» ارائه دهد. در حالی که درگیری‌ها در تنگه هرمز ادامه دارد، گمانه‌زنی‌هایی درباره احتمال شکست مذاکرات مطرح شده است. آمریکا اعلام کرد که به سوی دو کشتی ایرانی که قصد نقض محاصره بنادر آن کشور را داشتند، آتش گشوده است. پیش‌تر نیز عباس عراقچی، آمریکا را متهم کرده بود که بارها دیپلماسی را فدای «ماجراجویی نظامی بی‌خردانه» کرده "
+      "وزیر خارجه آمریکا می‌گوید که واشنگتن انتظار دارد امروز جمعه پاسخ ایران به پیشنهاد صلح ارائه‌شده از سوی آمریکا را دریافت کند. مارکو روبیو ابراز امیدواری کرد که ایران «پیشنهادی جدی» ارائه دهد. در حالی که درگیری‌ها در تنگه هرمز ادامه دارد، گمانه‌زنی‌هایی درباره احتمال شکست مذاکرات مطرح شده است. آمریکا اعلام کرد که به سوی دو کشتی ایرانی که قصد نقض محاصره بنادر آن کشور را داشتند، آتش گشوده است. پیش‌تر نیز عباس عراقچی، آمریکا را متهم کرده بود که بارها دیپلماسی را قربانی «ماجراجویی نظامی بی‌خردانه» کرد"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778278263.1914701
+    "timestamp": 1778281734.783919
   },
   {
     "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778278263.1915464
+    "timestamp": 1778281734.784002
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778278263.1915634
+    "timestamp": 1778281734.7840192
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778278263.191585
+    "timestamp": 1778281734.7840426
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778278263.191605
+    "timestamp": 1778281734.7840617
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -93,7 +93,23 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778278263.1916287
+    "timestamp": 1778281734.7840886
+  },
+  {
+    "title_fa": "آنچه گذشت؛ عراقچی: آمریکا با ماجراجویی نظامی بی‌خردانه دیپلماسی را قربانی می‌کند",
+    "title_en": "آنچه گذشت؛ عراقچی: آمریکا با ماجراجویی نظامی بی‌خردانه دیپلماسی را قربانی می‌کند",
+    "summary": [
+      "وزیر خارجه آمریکا می‌گوید که واشنگتن انتظار دارد امروز جمعه پاسخ ایران به پیشنهاد صلح ارائه‌شده از سوی آمریکا را دریافت کند. مارکو روبیو ابراز امیدواری کرد که ایران «پیشنهادی جدی» ارائه دهد. در حالی که درگیری‌ها در تنگه هرمز ادامه دارد، گمانه‌زنی‌هایی درباره احتمال شکست مذاکرات مطرح شده است. آمریکا اعلام کرد که به سوی دو کشتی ایرانی که قصد نقض محاصره بنادر آن کشور را داشتند، آتش گشوده است. پیش‌تر نیز عباس عراقچی، آمریکا را متهم کرده بود که بارها دیپلماسی را فدای «ماجراجویی نظامی بی‌خردانه» کرده "
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778281734.784189
   },
   {
     "title_fa": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
@@ -109,23 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778278263.1917448
-  },
-  {
-    "title_fa": "سفر عراقچی به چین؛ پکن خواستار بازگشایی تنگه «هرمز» در اسرع وقت شد",
-    "title_en": "سفر عراقچی به چین؛ پکن خواستار بازگشایی تنگه «هرمز» در اسرع وقت شد",
-    "summary": [
-      "وانگ یی، وزیر خارجه چین در گفت‌وگو با عباس عراقچی، همتای ایرانی خود خواستار بازگشایی تنگه هرمز «در اسرع وقت» شد. آقای عراقجی برای دیار با مقامات چین به آن کشور سفر کرده است. این نخستین سفر آقای عراقچی به چین از زمان آغاز جنگ آمریکا و اسرائیل با ایران است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778278263.1917822
+    "timestamp": 1778281734.7842357
   },
   {
     "title_fa": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
@@ -141,7 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778278263.1918447
+    "timestamp": 1778281734.7843137
+  },
+  {
+    "title_fa": "Pentagon releases video of strikes on Iranian oil tankers",
+    "title_en": "Pentagon releases video of strikes on Iranian oil tankers",
+    "summary": [
+      "Footage released by the Pentagon shows US strikes on two Iranian oil tankers in the Strait of Hormuz."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778281734.9128773
   },
   {
     "title_fa": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
@@ -157,7 +173,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778278263.3738472
+    "timestamp": 1778281734.9129508
   },
   {
     "title_fa": "Trump announces three-day ceasefire in Russia-Ukraine war",
@@ -173,7 +189,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778278263.373888
+    "timestamp": 1778281734.9129891
   },
   {
     "title_fa": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
@@ -189,7 +205,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778278263.3738976
+    "timestamp": 1778281734.9129982
   },
   {
     "title_fa": "More than a dozen reported killed in Israeli attacks on south Lebanon",
@@ -205,22 +221,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778278263.3739257
-  },
-  {
-    "title_fa": "Rubio says Iranian boats firing at Americans will be ‘blown up’",
-    "title_en": "Rubio says Iranian boats firing at Americans will be ‘blown up’",
-    "summary": [
-      "US Secretary of State Marco Rubio defended the US military’s actions in the Strait of Hormuz."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/rubio-says-iranian-boats-firing-at-americans-will-be-blown?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/rubio-says-iranian-boats-firing-at-americans-will-be-blown?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778278263.3739862
+    "timestamp": 1778281734.9130263
   }
 ]
