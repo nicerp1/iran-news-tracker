@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778270690.349755
+    "timestamp": 1778274787.8944397
   },
   {
     "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778270690.34981
+    "timestamp": 1778274787.894512
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778270690.3498476
+    "timestamp": 1778274787.8945289
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778270690.3498693
+    "timestamp": 1778274787.8945506
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778270690.3498893
+    "timestamp": 1778274787.8945706
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -93,23 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778270690.3499136
-  },
-  {
-    "title_fa": "سفر عراقچی به چین؛ پکن خواستار بازگشایی تنگه «هرمز» در اسرع وقت شد",
-    "title_en": "سفر عراقچی به چین؛ پکن خواستار بازگشایی تنگه «هرمز» در اسرع وقت شد",
-    "summary": [
-      "وانگ یی، وزیر خارجه چین در گفت‌وگو با عباس عراقچی، همتای ایرانی خود خواستار بازگشایی تنگه هرمز «در اسرع وقت» شد. آقای عراقجی برای دیار با مقامات چین به آن کشور سفر کرده است. این نخستین سفر آقای عراقچی به چین از زمان آغاز جنگ آمریکا و اسرائیل با ایران است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778270690.3500042
+    "timestamp": 1778274787.8946154
   },
   {
     "title_fa": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
@@ -125,23 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778270690.350032
+    "timestamp": 1778274787.8947353
   },
   {
-    "title_fa": "آنچه گذشت؛ درگیری دریایی ایران و آمریکا همزمان با خبر «دیدار» پزشکیان با مجتبی خامنه‌ای",
-    "title_en": "آنچه گذشت؛ درگیری دریایی ایران و آمریکا همزمان با خبر «دیدار» پزشکیان با مجتبی خامنه‌ای",
+    "title_fa": "سفر عراقچی به چین؛ پکن خواستار بازگشایی تنگه «هرمز» در اسرع وقت شد",
+    "title_en": "سفر عراقچی به چین؛ پکن خواستار بازگشایی تنگه «هرمز» در اسرع وقت شد",
     "summary": [
-      "پس از آن که قرارگاه خاتم الانبیاء از درگیری با نیروهای آمریکایی در تنگه هرمز خبر داد و مدعی خسارت وارد کردن به نیروهای آمریکایی شد، فرماندهی مرکزی نیروهای آمریکایی هم با تایید این درگیری‌ها مدعی شد که در پاسخ به حملات پهپادی و موشکی ایران آتش گشوده است اما آسیبی به سه ناو این کشور وارد نشده است. دونالد ترامپ گفته این درگیری به معنای پایان آتش‌بس نیست. ایران علت اغاز حملات را تلاش نیروهای آمریکایی برای تصرف یک نفتکش این کشور اعلام کرده است. در حالی که ایران نیروهای آمریکایی را به «نقض آتش‌بس» مته"
+      "وانگ یی، وزیر خارجه چین در گفت‌وگو با عباس عراقچی، همتای ایرانی خود خواستار بازگشایی تنگه هرمز «در اسرع وقت» شد. آقای عراقجی برای دیار با مقامات چین به آن کشور سفر کرده است. این نخستین سفر آقای عراقچی به چین از زمان آغاز جنگ آمریکا و اسرائیل با ایران است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778270690.3500934
+    "timestamp": 1778274787.8947732
   },
   {
     "title_fa": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
@@ -157,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778270690.3501403
+    "timestamp": 1778274787.894822
   },
   {
     "title_fa": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
@@ -173,7 +157,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778270690.5179973
+    "timestamp": 1778274788.1689382
   },
   {
     "title_fa": "Trump announces three-day ceasefire in Russia-Ukraine war",
@@ -189,7 +173,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778270690.5180376
+    "timestamp": 1778274788.1689768
   },
   {
     "title_fa": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
@@ -205,7 +189,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778270690.5180464
+    "timestamp": 1778274788.1689858
   },
   {
     "title_fa": "More than a dozen reported killed in Israeli attacks on south Lebanon",
@@ -221,7 +205,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778270690.5180733
+    "timestamp": 1778274788.169012
   },
   {
     "title_fa": "Rubio says Iranian boats firing at Americans will be ‘blown up’",
@@ -237,6 +221,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/rubio-says-iranian-boats-firing-at-americans-will-be-blown?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/rubio-says-iranian-boats-firing-at-americans-will-be-blown?traffic_source=rss",
     "image": null,
-    "timestamp": 1778270690.5181324
+    "timestamp": 1778274788.1690705
   }
 ]
