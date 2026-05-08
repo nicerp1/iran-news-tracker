@@ -1,19 +1,19 @@
 [
   {
-    "title_fa": "درگیری ایران و آمریکا در تنگه هرمز، ترامپ می‌گوید آتش‌بس همچنان پابرجاست",
-    "title_en": "درگیری ایران و آمریکا در تنگه هرمز، ترامپ می‌گوید آتش‌بس همچنان پابرجاست",
+    "title_fa": "ایران: به ناوهای آمریکایی شلیک کردیم، آمریکا: نقاطی در قشم و بندرعباس را هدف قرار دادیم",
+    "title_en": "ایران: به ناوهای آمریکایی شلیک کردیم، آمریکا: نقاطی در قشم و بندرعباس را هدف قرار دادیم",
     "summary": [
-      "پس از آن که قرارگاه خاتم الانبیاء از درگیری با نیروهای آمریکایی در تنگه هرمز خبر داد و مدعی خسارت وارد کردن به نیروهای آمریکایی شد، فرماندهی مرکزی نیروهای آمریکایی هم با تایید این درگیری‌ها مدعی شد که در پاسخ به حملات پهپادی و موشکی ایران آتش گشوده است اما آسیبی به سه ناو این کشور وارد نشده است. دونالد ترامپ گفته این درگیری به معنای پایان آتش‌بس نیست. ایران علت اغاز حملات را تلاش نیروهای آمریکایی برای تصرف یک نفتکش این کشور اعلام کرده است. در حالی که ایران نیروهای آمریکایی را به «نقض آتش‌بس» مته"
+      "درگیری نظامی که «جدی» توصیف شده میان ایران و آمریکا در تنگه هرمز و سواحل بندرعباس و قشم روی داده که هر دو طرف مدعی‌اند آن یکی آغازکننده آن بوده است. دونالد ترامپ، مدعی شده سه ناو آمریکایی توانسته‌اند از تنگه هرمز عبور کنند و موشک‌ها و پهپادهای ایرانی را منهدم کرده‌اند. با این حال، آقای ترامپ این درگیری را ناقض آتش‌بس ندانسته و همچنان به توافق با تهران خوش‌بین است. در برابر، ایران با انتشار تصاویری از لحظه شلیک به سوی ناوهای آمریکایی گفته این نقض آتش‌بس بوده و در جواب به تلاش برای تصرف یک نفتکش ا"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778198816.9543529
+    "timestamp": 1778212216.5689697
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778198816.9543746
+    "timestamp": 1778212216.5690129
   },
   {
     "title_fa": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778198816.9544232
+    "timestamp": 1778212216.5690434
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778198816.9544675
+    "timestamp": 1778212216.569085
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778198816.954482
+    "timestamp": 1778212216.569099
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778198816.954506
+    "timestamp": 1778212216.5691268
   },
   {
     "title_fa": "سفر عراقچی به چین؛ پکن خواستار بازگشایی تنگه «هرمز» در اسرع وقت شد",
@@ -109,23 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778198816.9545326
+    "timestamp": 1778212216.5691495
   },
   {
-    "title_fa": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
-    "title_en": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
+    "title_fa": "آنچه گذشت؛ درگیری دریایی ایران و آمریکا همزمان با خبر «دیدار» پزشکیان با مجتبی خامنه‌ای",
+    "title_en": "آنچه گذشت؛ درگیری دریایی ایران و آمریکا همزمان با خبر «دیدار» پزشکیان با مجتبی خامنه‌ای",
     "summary": [
-      "وقتی ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، با چهره‌ای جدی و لباس سیاه، در ماه مارس روی فرشی به رنگ یاسی در عربستان سعودی قدم می‌زد، این صحنه به یک لحظه قابل توجه در جنگ آمریکا و اسرائیل با ایران تبدیل شد؛ لحظه‌ای تا حدی غیرمنتظره."
+      "پس از آن که قرارگاه خاتم الانبیاء از درگیری با نیروهای آمریکایی در تنگه هرمز خبر داد و مدعی خسارت وارد کردن به نیروهای آمریکایی شد، فرماندهی مرکزی نیروهای آمریکایی هم با تایید این درگیری‌ها مدعی شد که در پاسخ به حملات پهپادی و موشکی ایران آتش گشوده است اما آسیبی به سه ناو این کشور وارد نشده است. دونالد ترامپ گفته این درگیری به معنای پایان آتش‌بس نیست. ایران علت اغاز حملات را تلاش نیروهای آمریکایی برای تصرف یک نفتکش این کشور اعلام کرده است. در حالی که ایران نیروهای آمریکایی را به «نقض آتش‌بس» مته"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778198816.9545546
+    "timestamp": 1778212216.5692601
   },
   {
     "title_fa": "قوه قضائیه ایران اموال ۴۰ نفر دیگر را توقیف کرد؛ آپارتمان «۳۵ میلیارد تومانی» در فهرست دارایی‌های مصادره‌ای",
@@ -141,23 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/c1d245v2kqro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1d245v2kqro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778198816.9546385
+    "timestamp": 1778212216.569282
   },
   {
-    "title_fa": "آنچه گذشت؛ ترامپ، بدون تایید تهران، گفت ایران با نداشتن سلاح هسته‌ای موافقت کرده است",
-    "title_en": "آنچه گذشت؛ ترامپ، بدون تایید تهران، گفت ایران با نداشتن سلاح هسته‌ای موافقت کرده است",
+    "title_fa": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
+    "title_en": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
     "summary": [
-      "دونالد ترامپ در جدیدترین اظهارات خود گفت که تهران با تحویل موادغنی شده خود و نداشتن سلاح هسته‌ای موافقت کرده است. این در حالی است ایران این ادعاها را تایید یا تکذیب نکرده است. بنیامین نتانیاهو، نخست وزیر اسرائیل هم گفته «مهمترین هدف، خارج کردن تمام مواد غنی‌شده از ایران و برچیدن قابلیت‌های غنی‌سازی ایران است.» اسرائیل، اعلام کرد که ارتش این کشور پس از حمله به بیروت، یکی از فرماندهان ارشد حزب‌الله لبنان را هدف قرار داده است. دونالد ترامپ ساعاتی پیش گفت عملیات نظامی آمریکا پایان خواهد یافت «اگر ای"
+      "وقتی ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، با چهره‌ای جدی و لباس سیاه، در ماه مارس روی فرشی به رنگ یاسی در عربستان سعودی قدم می‌زد، این صحنه به یک لحظه قابل توجه در جنگ آمریکا و اسرائیل با ایران تبدیل شد؛ لحظه‌ای تا حدی غیرمنتظره."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/clyp48qz897t?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/clyp48qz897t?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778198816.9546878
+    "timestamp": 1778212216.5693314
   },
   {
     "title_fa": "«هیچ چیز پسرم را برنمی‌گرداند»؛ چگونه ۱۰ دقیقه بمباران اسرائیل، زندگی‌ها را در لبنان نابود کرد",
@@ -173,23 +173,55 @@
     "url": "https://www.bbc.com/persian/articles/c0l218jwk60o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0l218jwk60o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778198816.9547281
+    "timestamp": 1778212216.56936
   },
   {
-    "title_fa": "«فقط می‌خواستم جانش را نجات بدهم»؛ روایت ایرانی ساکن لندن از نجات جان یک مرد یهودی",
-    "title_en": "«فقط می‌خواستم جانش را نجات بدهم»؛ روایت ایرانی ساکن لندن از نجات جان یک مرد یهودی",
+    "title_fa": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
+    "title_en": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
     "summary": [
-      "مردی که هنگام حمله با چاقو به یک مرد یهودی در شمال لندن مداخله کرده بود، به بی‌بی‌سی گفت چگونه تلاش کرده که جان یک نفر را نجات دهد. اشکان اسدیان تلاش کرد تا به موشه شاین ۷۶ ساله که در ایستگاه اتوبوس هدف حمله قرار گرفت، کمک کند."
+      "Brent crude rises amid clashes in critical waterway."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cx21ypvl5wqo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cx21ypvl5wqo?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
     "image": null,
-    "timestamp": 1778198816.9547472
+    "timestamp": 1778212216.8516366
+  },
+  {
+    "title_fa": "As US and Iran weigh peace deal, stranded seafarers wait in limbo",
+    "title_en": "As US and Iran weigh peace deal, stranded seafarers wait in limbo",
+    "summary": [
+      "Some 20,000 seafarers are stranded in the Gulf amid the closure of the Strait of Hormuz."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778212216.85167
+  },
+  {
+    "title_fa": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
+    "title_en": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
+    "summary": [
+      "Iran accuses the US of violating the ceasefire by targeting Iranian vessels and carrying out strikes on coastal areas."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778212216.8516836
   },
   {
     "title_fa": "Videos show interceptions over the skies of Tehran",
@@ -205,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss",
     "image": null,
-    "timestamp": 1778198817.0754056
+    "timestamp": 1778212216.8517227
   },
   {
     "title_fa": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
@@ -221,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
     "image": null,
-    "timestamp": 1778198817.075455
+    "timestamp": 1778212216.8517714
   },
   {
     "title_fa": "Senators press US military on Israel’s displacement campaign in Lebanon",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778198817.0754776
+    "timestamp": 1778212216.8517945
   },
   {
     "title_fa": "Palestinians expose torture and sexual violence in Israeli detention",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss",
     "image": null,
-    "timestamp": 1778198817.075496
+    "timestamp": 1778212216.851814
   },
   {
     "title_fa": "Palestinian boy mourns father killed in Israeli strike on security post",
@@ -269,70 +301,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/palestinian-boy-mourns-father-killed-in-israeli-strike-on-security-post?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/palestinian-boy-mourns-father-killed-in-israeli-strike-on-security-post?traffic_source=rss",
     "image": null,
-    "timestamp": 1778198817.0755148
-  },
-  {
-    "title_fa": "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
-    "title_en": "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
-    "summary": [
-      "Latest sanctions target military-controlled conglomerate, come as effective US fuel blockade continues."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/7/us-issues-new-cuba-sanctions-as-un-experts-warn-of-energy-starvation?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/7/us-issues-new-cuba-sanctions-as-un-experts-warn-of-energy-starvation?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778198817.0755262
-  },
-  {
-    "title_fa": "Gulf states urge UN action to ensure Strait of Hormuz safety",
-    "title_en": "Gulf states urge UN action to ensure Strait of Hormuz safety",
-    "summary": [
-      "Draft resolution demands Iran halt attacks, pin-point mines and ensure passage of humanitarian aid through strait."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/7/gulf-states-urge-un-action-to-ensure-strait-of-hormuz-safety?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/7/gulf-states-urge-un-action-to-ensure-strait-of-hormuz-safety?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778198817.0755455
-  },
-  {
-    "title_fa": "Can China help end the Iran war?",
-    "title_en": "Can China help end the Iran war?",
-    "summary": [
-      "Chinese and Iranian foreign ministers meet while a tense ceasefire holds."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/5/7/can-china-help-end-the-iran-war?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/7/can-china-help-end-the-iran-war?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778198817.0755532
-  },
-  {
-    "title_fa": "Inside the Israeli bloc that could topple Netanyahu",
-    "title_en": "Inside the Israeli bloc that could topple Netanyahu",
-    "summary": [
-      "Netanyahu’s rivals unite ahead of elections, but is this alliance strong enough to actually unseat him?"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/the-take-2/2026/5/7/aje-onl-isr_bibipressure_av_v1-070526?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/the-take-2/2026/5/7/aje-onl-isr_bibipressure_av_v1-070526?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778198817.0755677
+    "timestamp": 1778212216.8518333
   }
 ]
