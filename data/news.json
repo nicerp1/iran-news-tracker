@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778262105.5264986
+    "timestamp": 1778266611.2503529
   },
   {
     "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778262105.5265417
+    "timestamp": 1778266611.2504065
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778262105.5265698
+    "timestamp": 1778266611.2504435
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778262105.5265868
+    "timestamp": 1778266611.2504654
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778262105.526603
+    "timestamp": 1778266611.2504852
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778262105.5266216
+    "timestamp": 1778266611.2505085
   },
   {
     "title_fa": "سفر عراقچی به چین؛ پکن خواستار بازگشایی تنگه «هرمز» در اسرع وقت شد",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3e2490x43yo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778262105.5266917
+    "timestamp": 1778266611.2506196
   },
   {
     "title_fa": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778262105.5267134
+    "timestamp": 1778266611.25065
   },
   {
     "title_fa": "آنچه گذشت؛ درگیری دریایی ایران و آمریکا همزمان با خبر «دیدار» پزشکیان با مجتبی خامنه‌ای",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c4gvmre6z9dt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778262105.5267613
+    "timestamp": 1778266611.250712
   },
   {
     "title_fa": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
@@ -157,7 +157,39 @@
     "url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778262105.5267997
+    "timestamp": 1778266611.2507613
+  },
+  {
+    "title_fa": "Trump announces three-day ceasefire in Russia-Ukraine war",
+    "title_en": "Trump announces three-day ceasefire in Russia-Ukraine war",
+    "summary": [
+      "Truce will also include swap of 1,000 prisoners of war from each country, US president says."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778266611.3644698
+  },
+  {
+    "title_fa": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
+    "title_en": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
+    "summary": [
+      "The bloc currently imports more than half of its crude oil from the Middle East."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778266611.3644803
   },
   {
     "title_fa": "More than a dozen reported killed in Israeli attacks on south Lebanon",
@@ -173,7 +205,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778262105.6755357
+    "timestamp": 1778266611.3645086
   },
   {
     "title_fa": "Rubio says Iranian boats firing at Americans will be ‘blown up’",
@@ -189,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/rubio-says-iranian-boats-firing-at-americans-will-be-blown?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/rubio-says-iranian-boats-firing-at-americans-will-be-blown?traffic_source=rss",
     "image": null,
-    "timestamp": 1778262105.6755877
+    "timestamp": 1778266611.3645716
   },
   {
     "title_fa": "Thousands run Palestine Marathon under shadow of Israel’s war on Gaza",
@@ -205,54 +237,6 @@
     "url": "https://www.aljazeera.com/gallery/2026/5/8/thousands-run-palestine-marathon-under-shadow-of-israels-war-on-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/gallery/2026/5/8/thousands-run-palestine-marathon-under-shadow-of-israels-war-on-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1778262105.6756442
-  },
-  {
-    "title_fa": "What would prolonged war mean for Sudan?",
-    "title_en": "What would prolonged war mean for Sudan?",
-    "summary": [
-      "War in Sudan has triggered one of the world’s worst humanitarian crises, with fears protracted fighting could worsen it."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/features/2026/5/8/what-would-prolonged-war-mean-for-sudan?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/features/2026/5/8/what-would-prolonged-war-mean-for-sudan?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778262105.675661
-  },
-  {
-    "title_fa": "Italy-US ties strained as pope and Iran war dominate talks",
-    "title_en": "Italy-US ties strained as pope and Iran war dominate talks",
-    "summary": [
-      "Rome balances US ties with domestic pressure as the Iran war strains the alliance and fuels economic fallout."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/8/italy-us-ties-strained-as-pope-and-iran-war-dominate-talks?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/8/italy-us-ties-strained-as-pope-and-iran-war-dominate-talks?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778262105.6756685
-  },
-  {
-    "title_fa": "Iran says seized tanker in Gulf of Oman, as US ‘disables’ two ships",
-    "title_en": "Iran says seized tanker in Gulf of Oman, as US ‘disables’ two ships",
-    "summary": [
-      "Latest claims come hours after US and Iran exchanged fire in Strait of Hormuz, threatening ongoing push for ceasefire."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778262105.6756842
+    "timestamp": 1778266611.3646638
   }
 ]
