@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "ترامپ: منتظر پاسخ ایران هستیم؛ ارتش اسرائیل برای چند روستا در جنوب لبنان هشدار تخلیه صادر کرد",
-    "title_en": "ترامپ: منتظر پاسخ ایران هستیم؛ ارتش اسرائیل برای چند روستا در جنوب لبنان هشدار تخلیه صادر کرد",
+    "title_fa": "بازداشت ۴۱ فرد «مرتبط با سپاه» در بحرین؛ قوه قضائیه از توقیف «۲۶۲ ملک» خبر داد",
+    "title_en": "بازداشت ۴۱ فرد «مرتبط با سپاه» در بحرین؛ قوه قضائیه از توقیف «۲۶۲ ملک» خبر داد",
     "summary": [
-      "دونالد ترامپ به خبرنگاران گفت که انتظار دارد به‌زودی پاسخ ایران را درباره توافق پایان جنگ دریافت کند. اما سخنگوی وزارت خارجه ایران، می‌گوید که این پیشنهاد همچنان «در دست بررسی» است. ارتش اسرائیل روز شنبه از ساکنان چندین روستا در جنوب لبنان خواست تا پیش از حملات احتمالی علیه حزب‌الله، علی‌رغم آتش‌بس با لبنان، فورا آنجا را ترک کنند. با گذشت چند هفته از جنگ و در حالی که آتش‌بس شکننده‌ای برقرار شده، بحران دارو در ایران هر روز گسترده‌تر می‌شود. روزنامه اعتماد در گزارشی از افزایش «۳۰ تا ۳۰۰ درصدی» قیم"
+      "وزارت کشور بحرین می‌گوید که ۴۱ فرد «مرتبط با سپاه پاسداران» را بازداشت کرده است. خبرگزاری رسمی بحرین از وزارت کشور نقل کرده است که این بازداشت‌ها پس از آن صورت گرفت که مقامات امنیتی از یک گروه مرتبط با سپاه پاسداران پرده برداشتند. سخنگوی قوه قضائیه ایران تعداد املاک توقیف شده پس از آغاز جنگ در این کشور را «۲۶۲ مورد» اعلام کرده است. نهادهای جمهوری اسلامی پیشتر اتهام این افراد را «همراهی با دشمن» اعلام کرده بودند. در حالیکه قطعی سراسری اینترنت در ایران وارد یازدهمین هفته خود شده است، معاون وزیر ار"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778328603.3415368
+    "timestamp": 1778334615.0166128
+  },
+  {
+    "title_fa": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
+    "title_en": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
+    "summary": [
+      "رئیس‌جمهور روسیه از سخنرانی سالانه خود به مناسبت «روز پیروزی» در میدان سرخ مسکو برای توجیه جنگ در اوکراین و محکوم کردن ناتو استفاده کرد. ولادیمیر پوتین در حضور صدها پرسنل نظامی و در کنار چند نفر از رهبران جهان، گفت که در حال جنگی «موجه» است؛ او اوکراین را «نیرویی متجاوز» خواند که «از سوی ناتو مسلح و حمایت می‌شود»."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778334615.0166461
   },
   {
     "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778328603.3415735
+    "timestamp": 1778334615.016677
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778328603.341634
+    "timestamp": 1778334615.0167165
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778328603.341656
+    "timestamp": 1778334615.0167375
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778328603.341676
+    "timestamp": 1778334615.0167575
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778328603.3416996
+    "timestamp": 1778334615.0167809
   },
   {
     "title_fa": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778328603.3417253
+    "timestamp": 1778334615.0168064
   },
   {
     "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778328603.3417552
+    "timestamp": 1778334615.0168362
   },
   {
     "title_fa": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778328603.3417878
+    "timestamp": 1778334615.0168881
   },
   {
     "title_fa": "آنچه گذشت؛ عراقچی: آمریکا با ماجراجویی نظامی بی‌خردانه دیپلماسی را قربانی می‌کند",
@@ -157,23 +173,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778328603.3418207
+    "timestamp": 1778334615.0169206
   },
   {
-    "title_fa": "«فقط می‌خواستم جانش را نجات بدهم»؛ روایت ایرانی ساکن لندن از نجات جان یک مرد یهودی",
-    "title_en": "«فقط می‌خواستم جانش را نجات بدهم»؛ روایت ایرانی ساکن لندن از نجات جان یک مرد یهودی",
+    "title_fa": "Iran says it will play at 2026 World Cup if hosts address ‘concerns’",
+    "title_en": "Iran says it will play at 2026 World Cup if hosts address ‘concerns’",
     "summary": [
-      "مردی که هنگام حمله با چاقو به یک مرد یهودی در شمال لندن مداخله کرده بود، به بی‌بی‌سی گفت چگونه تلاش کرده که جان یک نفر را نجات دهد. اشکان اسدیان تلاش کرد تا به موشه شاین ۷۶ ساله که در ایستگاه اتوبوس هدف حمله قرار گرفت، کمک کند."
+      "Iran&#039;s presence at the tournament has been shrouded in uncertainty since the US and Israel launched war on the country."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cx21ypvl5wqo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cx21ypvl5wqo?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns?traffic_source=rss",
     "image": null,
-    "timestamp": 1778328603.3418593
+    "timestamp": 1778334615.1022387
   },
   {
     "title_fa": "Gaza at the Venice Biennale: Where language falls short, threads take over",
@@ -189,7 +205,7 @@
     "url": "https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over?traffic_source=rss",
     "image": null,
-    "timestamp": 1778328603.4957228
+    "timestamp": 1778334615.1022925
   },
   {
     "title_fa": "The war on Iran will likely end in American retreat",
@@ -205,7 +221,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss",
     "image": null,
-    "timestamp": 1778328603.4957647
+    "timestamp": 1778334615.1023302
   },
   {
     "title_fa": "Russia holds downsized Victory Day parade",
@@ -221,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day?traffic_source=rss",
     "image": null,
-    "timestamp": 1778328603.4957926
+    "timestamp": 1778334615.1023552
   },
   {
     "title_fa": "Israeli settlers set fire to homes and cars in violent West Bank raids",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
     "image": null,
-    "timestamp": 1778328603.4958143
+    "timestamp": 1778334615.1023762
   },
   {
     "title_fa": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
@@ -253,13 +269,13 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
     "image": null,
-    "timestamp": 1778328603.4958444
+    "timestamp": 1778334615.1024053
   },
   {
-    "title_fa": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
-    "title_en": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
+    "title_fa": "Iran war live: Israel attacks Lebanon as US expects Iran’s response to deal",
+    "title_en": "Iran war live: Israel attacks Lebanon as US expects Iran’s response to deal",
     "summary": [
-      "Israel killed 31 people in southern Lebanon on Friday, including a rescue worker, Lebanon&#039;s National News Agency said."
+      "No letup in Israel&#039;s deadly attacks on Lebanon despite a US-brokered ceasefire."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -269,22 +285,6 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
     "image": null,
-    "timestamp": 1778328603.4958556
-  },
-  {
-    "title_fa": "Pentagon releases video of strikes on Iranian oil tankers",
-    "title_en": "Pentagon releases video of strikes on Iranian oil tankers",
-    "summary": [
-      "Footage released by the Pentagon shows US strikes on two Iranian oil tankers in the Strait of Hormuz."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778328603.4958658
+    "timestamp": 1778334615.1024148
   }
 ]
