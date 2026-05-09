@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "آمریکا در انتظار پاسخ ایران؛ تنش‌ها در تنگه هرمز ادامه دارد",
-    "title_en": "آمریکا در انتظار پاسخ ایران؛ تنش‌ها در تنگه هرمز ادامه دارد",
+    "title_fa": "ترامپ: منتظر پاسخ ایران هستیم؛ گسترش لکه نفتی در نزدیکی خارگ",
+    "title_en": "ترامپ: منتظر پاسخ ایران هستیم؛ گسترش لکه نفتی در نزدیکی خارگ",
     "summary": [
-      "وزیر خارجه آمریکا می‌گوید که واشنگتن انتظار دارد امروز جمعه پاسخ ایران به پیشنهاد صلح ارائه‌شده از سوی آمریکا را دریافت کند. مارکو روبیو ابراز امیدواری کرد که ایران «پیشنهادی جدی» ارائه دهد. در حالی که درگیری‌ها در تنگه هرمز ادامه دارد، گمانه‌زنی‌هایی درباره احتمال شکست مذاکرات مطرح شده است. آمریکا اعلام کرد که به سوی دو کشتی ایرانی که قصد نقض محاصره بنادر آن کشور را داشتند، آتش گشوده است. پیش‌تر نیز عباس عراقچی، آمریکا را متهم کرده بود که بارها دیپلماسی را قربانی «ماجراجویی نظامی بی‌خردانه» کرد"
+      "دونالد ترامپ به خبرنگاران گفت که انتظار دارد به‌زودی پاسخ ایران را درباره توافق پایان جنگ دریافت کند. اما سخنگوی وزارت خارجه ایران، می‌گوید که این پیشنهاد همچنان «در دست بررسی» است. در همین حال نخست‌وزیر قطر، در دیدار با معاون رئیس جمهور آمریکا، خواهان ازسرگیری دیپلماسی برای دستیابی به توافقی با ایران شد و سرگئی لاوروف به همتای اماراتی خود گفت که از مذاکرات میان آمریکا و ایران باید حمایت کرد تا از شروع دوباره درگیری‌ها در خاورمیانه جلوگیری شود. این در حالیست که درگیری‌ها در تنگه هرمز ادامه دارد "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778285261.273575
+    "timestamp": 1778298724.1625974
+  },
+  {
+    "title_fa": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
+    "title_en": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
+    "summary": [
+      "اوکراین و روسیه توافق کرده‌اند هر کدام هزار اسیر جنگی را مبادله کنند، اقدامی که بخشی از توافق آتش‌بس سه‌روزه میان دو کشور است و اکنون اجرایی شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778298724.1626456
   },
   {
     "title_fa": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778285261.2736306
+    "timestamp": 1778298724.1626732
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778285261.2737136
+    "timestamp": 1778298724.1627097
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778285261.2737358
+    "timestamp": 1778298724.1627312
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778285261.2737565
+    "timestamp": 1778298724.1627514
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778285261.2737827
+    "timestamp": 1778298724.1627748
   },
   {
     "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778285261.2738125
+    "timestamp": 1778298724.1628048
   },
   {
     "title_fa": "آنچه گذشت؛ عراقچی: آمریکا با ماجراجویی نظامی بی‌خردانه دیپلماسی را قربانی می‌کند",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778285261.2738788
+    "timestamp": 1778298724.1628716
   },
   {
     "title_fa": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
@@ -141,7 +157,39 @@
     "url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778285261.2739265
+    "timestamp": 1778298724.16292
+  },
+  {
+    "title_fa": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
+    "title_en": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
+    "summary": [
+      "Families displaced by fighting fear new clashes with Thailand, say education among areas most affected by border war."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778298724.3697257
+  },
+  {
+    "title_fa": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
+    "title_en": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
+    "summary": [
+      "Israel killed 31 people in southern Lebanon on Friday, including a rescue worker, Lebanon&#039;s National News Agency said."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778298724.3697395
   },
   {
     "title_fa": "Pentagon releases video of strikes on Iranian oil tankers",
@@ -157,7 +205,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
     "image": null,
-    "timestamp": 1778285261.4929957
+    "timestamp": 1778298724.3697503
   },
   {
     "title_fa": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
@@ -173,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778285261.493068
+    "timestamp": 1778298724.3698127
   },
   {
     "title_fa": "Trump announces three-day ceasefire in Russia-Ukraine war",
@@ -189,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778285261.4931073
+    "timestamp": 1778298724.369848
   },
   {
     "title_fa": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
@@ -205,7 +253,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778285261.4931157
+    "timestamp": 1778298724.3698566
   },
   {
     "title_fa": "More than a dozen reported killed in Israeli attacks on south Lebanon",
@@ -221,6 +269,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778285261.4931438
+    "timestamp": 1778298724.3698826
   }
 ]
