@@ -13,23 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778281734.783919
+    "timestamp": 1778285261.273575
   },
   {
-    "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
-    "title_en": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
+    "title_fa": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
+    "title_en": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
     "summary": [
-      "روابط ترکیه و اسرائیل در سه سال گذشته از آستانه عادی‌سازی دیپلماتیک به نقطه‌ای رسیده که اکنون از خطر درگیری مستقیم نظامی سخن گفته می‌شود."
+      "نزدیک به هشت نفر از هر ده نفرِ جمعیت ۲٫۲ میلیونی غزه همچنان در اردوگاه‌های آوارگان زندگی می‌کنند که قرار بود پناهگاهی موقت باشد، اما خود زمینی که این اردوگاه‌ها بر آن برپا شده اکنون به منبعی از تهدید روزمره بدل شده است؛ در محیطی رو‌به‌وخامت و بیش‌ازحد متراکم، گسترش بی‌سابقه جوندگان و حشرات جان ساکنان را تهدید می‌کند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778281734.784002
+    "timestamp": 1778285261.2736306
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778281734.7840192
+    "timestamp": 1778285261.2737136
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778281734.7840426
+    "timestamp": 1778285261.2737358
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778281734.7840617
+    "timestamp": 1778285261.2737565
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -93,7 +93,23 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778281734.7840886
+    "timestamp": 1778285261.2737827
+  },
+  {
+    "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
+    "title_en": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
+    "summary": [
+      "روابط ترکیه و اسرائیل در سه سال گذشته از آستانه عادی‌سازی دیپلماتیک به نقطه‌ای رسیده که اکنون از خطر درگیری مستقیم نظامی سخن گفته می‌شود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778285261.2738125
   },
   {
     "title_fa": "آنچه گذشت؛ عراقچی: آمریکا با ماجراجویی نظامی بی‌خردانه دیپلماسی را قربانی می‌کند",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778281734.784189
+    "timestamp": 1778285261.2738788
   },
   {
     "title_fa": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
@@ -125,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778281734.7842357
-  },
-  {
-    "title_fa": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
-    "title_en": "جنگ ایران چطور به شکل غیرمنتظره‌ای اوکراین را تقویت کرد؟",
-    "summary": [
-      "وقتی ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، با چهره‌ای جدی و لباس سیاه، در ماه مارس روی فرشی به رنگ یاسی در عربستان سعودی قدم می‌زد، این صحنه به یک لحظه قابل توجه در جنگ آمریکا و اسرائیل با ایران تبدیل شد؛ لحظه‌ای تا حدی غیرمنتظره."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c3v2r3nnr1no?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778281734.7843137
+    "timestamp": 1778285261.2739265
   },
   {
     "title_fa": "Pentagon releases video of strikes on Iranian oil tankers",
@@ -157,7 +157,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
     "image": null,
-    "timestamp": 1778281734.9128773
+    "timestamp": 1778285261.4929957
   },
   {
     "title_fa": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
@@ -173,7 +173,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778281734.9129508
+    "timestamp": 1778285261.493068
   },
   {
     "title_fa": "Trump announces three-day ceasefire in Russia-Ukraine war",
@@ -189,7 +189,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778281734.9129891
+    "timestamp": 1778285261.4931073
   },
   {
     "title_fa": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
@@ -205,7 +205,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778281734.9129982
+    "timestamp": 1778285261.4931157
   },
   {
     "title_fa": "More than a dozen reported killed in Israeli attacks on south Lebanon",
@@ -221,6 +221,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778281734.9130263
+    "timestamp": 1778285261.4931438
   }
 ]
