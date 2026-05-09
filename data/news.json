@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "بازداشت ۴۱ فرد «مرتبط با سپاه» در بحرین؛ قوه قضائیه از توقیف «۲۶۲ ملک» خبر داد",
-    "title_en": "بازداشت ۴۱ فرد «مرتبط با سپاه» در بحرین؛ قوه قضائیه از توقیف «۲۶۲ ملک» خبر داد",
+    "title_fa": "روایت مسئول دیدارهای رهبر سابق جمهوری اسلامی از چگونگی زنده ماندن مجتبی خامنه‌ای",
+    "title_en": "روایت مسئول دیدارهای رهبر سابق جمهوری اسلامی از چگونگی زنده ماندن مجتبی خامنه‌ای",
     "summary": [
-      "وزارت کشور بحرین می‌گوید که ۴۱ فرد «مرتبط با سپاه پاسداران» را بازداشت کرده است. خبرگزاری رسمی بحرین از وزارت کشور نقل کرده است که این بازداشت‌ها پس از آن صورت گرفت که مقامات امنیتی از یک گروه مرتبط با سپاه پاسداران پرده برداشتند. سخنگوی قوه قضائیه ایران تعداد املاک توقیف شده پس از آغاز جنگ در این کشور را «۲۶۲ مورد» اعلام کرده است. نهادهای جمهوری اسلامی پیشتر اتهام این افراد را «همراهی با دشمن» اعلام کرده بودند. در حالیکه قطعی سراسری اینترنت در ایران وارد یازدهمین هفته خود شده است، معاون وزیر ار"
+      "مسئول دیدارهای دفتر علی خامنه‌ای، رهبر سابق جمهوری اسلامی، گفته است که مجتبی خامنه‌ای بر اثر «موج انفجار» مجروح شده بود و اکنون بهبود یافته و در «سلامت کامل» است. در حالی که دونالد ترامپ، رئیس‌جمهور آمریکا، به خبرنگاران گفته است که انتظار دارد به‌زودی پاسخ ایران درباره توافقی برای پایان دادن به جنگ را دریافت کند، وزارت دفاع بریتانیا اعلام کرده است که یک ناوشکن نیروی دریایی را به خاورمیانه اعزام خواهد کرد. خبرگزاری اسوشیتدپرس می‌گوید این اقدام ممکن است در قالب یک ماموریت بین‌المللی برای حفاظت از "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778344274.5624473
+    "timestamp": 1778347790.4867935
+  },
+  {
+    "title_fa": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
+    "title_en": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
+    "summary": [
+      "انتشار تصویری از دونالد ترامپ که با هوش مصنوعی ساخته شده بود و رئیس‌جمهور آمریکا را به صورت دراز کشیده با چشمان بسته در قبر نشان می‌داد، انتقاد کاخ سفید را برانگیخت. در این تصویر که مارک همیل، بازیگر جنگ ستارگان، آنرا در شبکه اجتماعی بلواسکای به اشتراک گذاشته بود، سنگ قبری دیده می‌شد که روی آن نوشته شده بود: «دونالد جی. ترامپ ۱۹۴۶-۲۰۲۴». در این تصویر که مارک همیل، بازیگر جنگ ستارگان، آنرا در شبکه اجتماعی بلواسکای به اشتراک گذاشته بود، سنگ قبری دیده می‌شد که روی آن نوشته شده بود: «دونالد جی. ترام"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778347790.486859
   },
   {
     "title_fa": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778344274.5624788
+    "timestamp": 1778347790.4868867
   },
   {
     "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778344274.562507
+    "timestamp": 1778347790.4869158
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778344274.562571
+    "timestamp": 1778347790.4869363
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778344274.5625932
+    "timestamp": 1778347790.4869583
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778344274.5626132
+    "timestamp": 1778347790.4869788
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778344274.5626352
+    "timestamp": 1778347790.4870024
   },
   {
     "title_fa": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778344274.562659
+    "timestamp": 1778347790.4870508
   },
   {
     "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778344274.5626867
+    "timestamp": 1778347790.4870799
   },
   {
     "title_fa": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778344274.5627358
+    "timestamp": 1778347790.487114
   },
   {
     "title_fa": "آنچه گذشت؛ عراقچی: آمریکا با ماجراجویی نظامی بی‌خردانه دیپلماسی را قربانی می‌کند",
@@ -173,7 +189,39 @@
     "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778344274.5627668
+    "timestamp": 1778347790.4871473
+  },
+  {
+    "title_fa": "Israeli attacks across Lebanon kill at least 19",
+    "title_en": "Israeli attacks across Lebanon kill at least 19",
+    "summary": [
+      "No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778347790.702403
+  },
+  {
+    "title_fa": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
+    "title_en": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
+    "summary": [
+      "The strait represents &#039;a capability that can affect the entire global economy with a single decision&#039;, politician says."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778347790.7024345
   },
   {
     "title_fa": "Israel to release two detained Gaza flotilla activists",
@@ -189,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/israel-to-release-two-detained-gaza-flotilla-activists?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/9/israel-to-release-two-detained-gaza-flotilla-activists?traffic_source=rss",
     "image": null,
-    "timestamp": 1778344274.6997015
+    "timestamp": 1778347790.7024724
   },
   {
     "title_fa": "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
@@ -205,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss",
     "image": null,
-    "timestamp": 1778344274.6997137
+    "timestamp": 1778347790.7024822
   },
   {
     "title_fa": "Iran says it will play at 2026 World Cup if hosts address ‘concerns’",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns?traffic_source=rss",
     "image": null,
-    "timestamp": 1778344274.6997554
+    "timestamp": 1778347790.7025442
   },
   {
     "title_fa": "Gaza at the Venice Biennale: Where language falls short, threads take over",
@@ -237,22 +285,6 @@
     "url": "https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over?traffic_source=rss",
     "image": null,
-    "timestamp": 1778344274.699803
-  },
-  {
-    "title_fa": "The war on Iran will likely end in American retreat",
-    "title_en": "The war on Iran will likely end in American retreat",
-    "summary": [
-      "The American empire cannot win the war against Iran at acceptable financial, military, and political costs."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778344274.6998389
+    "timestamp": 1778347790.702595
   }
 ]
