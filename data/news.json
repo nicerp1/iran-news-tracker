@@ -13,39 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778298724.1625974
+    "timestamp": 1778306804.689833
   },
   {
-    "title_fa": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
-    "title_en": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
+    "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
+    "title_en": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
     "summary": [
-      "اوکراین و روسیه توافق کرده‌اند هر کدام هزار اسیر جنگی را مبادله کنند، اقدامی که بخشی از توافق آتش‌بس سه‌روزه میان دو کشور است و اکنون اجرایی شده است."
+      "یک شرکت تولیدکننده تسلیحات بریتانیایی-اوکراینی به بی‌بی‌سی گفت که ممکن است روزی در میدان نبرد اوکراین، تعداد ربات‌ها از نیروهای انسانی بیشتر شود."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778298724.1626456
-  },
-  {
-    "title_fa": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
-    "title_en": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
-    "summary": [
-      "نزدیک به هشت نفر از هر ده نفرِ جمعیت ۲٫۲ میلیونی غزه همچنان در اردوگاه‌های آوارگان زندگی می‌کنند که قرار بود پناهگاهی موقت باشد، اما خود زمینی که این اردوگاه‌ها بر آن برپا شده اکنون به منبعی از تهدید روزمره بدل شده است؛ در محیطی رو‌به‌وخامت و بیش‌ازحد متراکم، گسترش بی‌سابقه جوندگان و حشرات جان ساکنان را تهدید می‌کند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778298724.1626732
+    "timestamp": 1778306804.6898692
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -61,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778298724.1627097
+    "timestamp": 1778306804.68993
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778298724.1627312
+    "timestamp": 1778306804.6899517
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778298724.1627514
+    "timestamp": 1778306804.6899717
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -109,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778298724.1627748
+    "timestamp": 1778306804.6899955
   },
   {
     "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
@@ -125,7 +109,39 @@
     "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778298724.1628048
+    "timestamp": 1778306804.6900263
+  },
+  {
+    "title_fa": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
+    "title_en": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
+    "summary": [
+      "اوکراین و روسیه توافق کرده‌اند هر کدام هزار اسیر جنگی را مبادله کنند، اقدامی که بخشی از توافق آتش‌بس سه‌روزه میان دو کشور است و اکنون اجرایی شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778306804.6900766
+  },
+  {
+    "title_fa": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
+    "title_en": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
+    "summary": [
+      "نزدیک به هشت نفر از هر ده نفرِ جمعیت ۲٫۲ میلیونی غزه همچنان در اردوگاه‌های آوارگان زندگی می‌کنند که قرار بود پناهگاهی موقت باشد، اما خود زمینی که این اردوگاه‌ها بر آن برپا شده اکنون به منبعی از تهدید روزمره بدل شده است؛ در محیطی رو‌به‌وخامت و بیش‌ازحد متراکم، گسترش بی‌سابقه جوندگان و حشرات جان ساکنان را تهدید می‌کند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778306804.6901019
   },
   {
     "title_fa": "آنچه گذشت؛ عراقچی: آمریکا با ماجراجویی نظامی بی‌خردانه دیپلماسی را قربانی می‌کند",
@@ -141,23 +157,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778298724.1628716
-  },
-  {
-    "title_fa": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
-    "title_en": "دیدار «دوستانه» روبیو با پاپ لئون پس از هفته‌ها تنش کاخ سفید با واتیکان بر سر جنگ ایران",
-    "summary": [
-      "مارکو روبیو، وزیر خارجه آمریکا که برای یک سفر دو روزه وارد رم شد در ابتدای سفرش به واتیکان رفت و با پاپ لئون چهاردهم،‌ رهبر کاتولیک‌های جهان گفت‌وگو کرد. کاخ سفید این دیدار را که در پی هفته‌ها تنش میان کاخ سفید و واتیکان بود،‌ «دوستانه و سازنده» توصیف کرد. واتیکان هم در یک بیانیه اعلام کرد که پاپ لئون و آقای روبیو بر «تعهد مشترک برای حفظ روابط دوجانبه خوب میان آمریکا و واتیکان» تاکید کردند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cq8pyp1ny7lo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778298724.16292
+    "timestamp": 1778306804.6901355
   },
   {
     "title_fa": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
@@ -173,7 +173,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
     "image": null,
-    "timestamp": 1778298724.3697257
+    "timestamp": 1778306804.9447434
   },
   {
     "title_fa": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
@@ -189,7 +189,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
     "image": null,
-    "timestamp": 1778298724.3697395
+    "timestamp": 1778306804.9447577
   },
   {
     "title_fa": "Pentagon releases video of strikes on Iranian oil tankers",
@@ -205,7 +205,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
     "image": null,
-    "timestamp": 1778298724.3697503
+    "timestamp": 1778306804.9447687
   },
   {
     "title_fa": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
@@ -221,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778298724.3698127
+    "timestamp": 1778306804.944833
   },
   {
     "title_fa": "Trump announces three-day ceasefire in Russia-Ukraine war",
@@ -237,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778298724.369848
+    "timestamp": 1778306804.9448702
   },
   {
     "title_fa": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
@@ -253,7 +253,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778298724.3698566
+    "timestamp": 1778306804.9448795
   },
   {
     "title_fa": "More than a dozen reported killed in Israeli attacks on south Lebanon",
@@ -269,6 +269,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778298724.3698826
+    "timestamp": 1778306804.9449067
   }
 ]
