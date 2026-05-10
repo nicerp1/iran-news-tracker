@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778371855.9875324
+    "timestamp": 1778386355.0071588
+  },
+  {
+    "title_fa": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
+    "title_en": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
+    "summary": [
+      "در حالی که چشم‌انداز مذاکرات صلح میان آمریکا و ایران همچنان نامشخص است، چین به تدریج به میانجی قدرتمندی در پشت صحنه تبدیل می‌شود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778386355.007201
   },
   {
     "title_fa": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
@@ -29,39 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778371855.9875994
-  },
-  {
-    "title_fa": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
-    "title_en": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
-    "summary": [
-      "رئیس‌جمهور روسیه از سخنرانی سالانه خود به مناسبت «روز پیروزی» در میدان سرخ مسکو برای توجیه جنگ در اوکراین و محکوم کردن ناتو استفاده کرد. ولادیمیر پوتین در حضور صدها پرسنل نظامی و در کنار چند نفر از رهبران جهان، گفت که در حال جنگی «موجه» است؛ او اوکراین را «نیرویی متجاوز» خواند که «از سوی ناتو مسلح و حمایت می‌شود»."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778371855.9876285
-  },
-  {
-    "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
-    "title_en": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
-    "summary": [
-      "یک شرکت تولیدکننده تسلیحات بریتانیایی-اوکراینی به بی‌بی‌سی گفت که ممکن است روزی در میدان نبرد اوکراین، تعداد ربات‌ها از نیروهای انسانی بیشتر شود."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778371855.987659
+    "timestamp": 1778386355.0072606
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778371855.9876752
+    "timestamp": 1778386355.0072908
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778371855.9877183
+    "timestamp": 1778386355.0073123
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -109,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778371855.9877427
+    "timestamp": 1778386355.0073326
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -125,7 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778371855.9877677
+    "timestamp": 1778386355.0073562
+  },
+  {
+    "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
+    "title_en": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
+    "summary": [
+      "یک شرکت تولیدکننده تسلیحات بریتانیایی-اوکراینی به بی‌بی‌سی گفت که ممکن است روزی در میدان نبرد اوکراین، تعداد ربات‌ها از نیروهای انسانی بیشتر شود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778386355.0073721
   },
   {
     "title_fa": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
@@ -141,23 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778371855.9878175
+    "timestamp": 1778386355.0074186
   },
   {
-    "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
-    "title_en": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
+    "title_fa": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
+    "title_en": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
     "summary": [
-      "روابط ترکیه و اسرائیل در سه سال گذشته از آستانه عادی‌سازی دیپلماتیک به نقطه‌ای رسیده که اکنون از خطر درگیری مستقیم نظامی سخن گفته می‌شود."
+      "رئیس‌جمهور روسیه از سخنرانی سالانه خود به مناسبت «روز پیروزی» در میدان سرخ مسکو برای توجیه جنگ در اوکراین و محکوم کردن ناتو استفاده کرد. ولادیمیر پوتین در حضور صدها پرسنل نظامی و در کنار چند نفر از رهبران جهان، گفت که در حال جنگی «موجه» است؛ او اوکراین را «نیرویی متجاوز» خواند که «از سوی ناتو مسلح و حمایت می‌شود»."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778371855.9878473
+    "timestamp": 1778386355.0074573
   },
   {
     "title_fa": "آنچه گذشت: روایت مسئول دیدارهای رهبر سابق جمهوری اسلامی از چگونگی زنده ماندن مجتبی خامنه‌ای",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778371855.9878879
+    "timestamp": 1778386355.0074966
   },
   {
     "title_fa": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
@@ -189,23 +189,55 @@
     "url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778371855.9879227
+    "timestamp": 1778386355.0075307
   },
   {
-    "title_fa": "آنچه گذشت؛ عراقچی: آمریکا با ماجراجویی نظامی بی‌خردانه دیپلماسی را قربانی می‌کند",
-    "title_en": "آنچه گذشت؛ عراقچی: آمریکا با ماجراجویی نظامی بی‌خردانه دیپلماسی را قربانی می‌کند",
+    "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
+    "title_en": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
     "summary": [
-      "وزیر خارجه آمریکا می‌گوید که واشنگتن انتظار دارد امروز جمعه پاسخ ایران به پیشنهاد صلح ارائه‌شده از سوی آمریکا را دریافت کند. مارکو روبیو ابراز امیدواری کرد که ایران «پیشنهادی جدی» ارائه دهد. در حالی که درگیری‌ها در تنگه هرمز ادامه دارد، گمانه‌زنی‌هایی درباره احتمال شکست مذاکرات مطرح شده است. آمریکا اعلام کرد که به سوی دو کشتی ایرانی که قصد نقض محاصره بنادر آن کشور را داشتند، آتش گشوده است. پیش‌تر نیز عباس عراقچی، آمریکا را متهم کرده بود که بارها دیپلماسی را فدای «ماجراجویی نظامی بی‌خردانه» کرده "
+      "روابط ترکیه و اسرائیل در سه سال گذشته از آستانه عادی‌سازی دیپلماتیک به نقطه‌ای رسیده که اکنون از خطر درگیری مستقیم نظامی سخن گفته می‌شود."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cg7p079ej48t?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778371855.9879565
+    "timestamp": 1778386355.007546
+  },
+  {
+    "title_fa": "Satellite images show likely oil slick off Iran’s Kharg Island",
+    "title_en": "Satellite images show likely oil slick off Iran’s Kharg Island",
+    "summary": [
+      "Satellite images have captured a suspected oil slick spanning dozens of square kilometres near Iran’s Kharg Island."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778386355.2051413
+  },
+  {
+    "title_fa": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
+    "title_en": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
+    "summary": [
+      "US-Iran ceasefire holds as Tehran warns Washington against attacks on tankers and Israel kills 24 people in Lebanon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778386355.2051556
   },
   {
     "title_fa": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
@@ -221,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
     "image": null,
-    "timestamp": 1778371856.1905642
+    "timestamp": 1778386355.2051873
   },
   {
     "title_fa": "Palestinian family says settlers forced them to exhume father’s body",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
     "image": null,
-    "timestamp": 1778371856.1905892
+    "timestamp": 1778386355.205211
   },
   {
     "title_fa": "Israeli settlers force Palestinian family to exhume and rebury their father",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss",
     "image": null,
-    "timestamp": 1778371856.190626
+    "timestamp": 1778386355.205247
   },
   {
     "title_fa": "Tucker Carlson’s pivot",
@@ -269,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/9/tucker-carlsons-pivot?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/the-listening-post/2026/5/9/tucker-carlsons-pivot?traffic_source=rss",
     "image": null,
-    "timestamp": 1778371856.1906538
+    "timestamp": 1778386355.2052739
   },
   {
     "title_fa": "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
@@ -285,11 +317,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
     "image": null,
-    "timestamp": 1778371856.1906862
+    "timestamp": 1778386355.2053053
   },
   {
-    "title_fa": "Israeli attacks across Lebanon kill at least 23",
-    "title_en": "Israeli attacks across Lebanon kill at least 23",
+    "title_fa": "Israeli attacks across Lebanon kill at least 24",
+    "title_en": "Israeli attacks across Lebanon kill at least 24",
     "summary": [
       "No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week."
     ],
@@ -301,22 +333,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss",
     "image": null,
-    "timestamp": 1778371856.1907234
-  },
-  {
-    "title_fa": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
-    "title_en": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
-    "summary": [
-      "The strait represents &#039;a capability that can affect the entire global economy with a single decision&#039;, politician says."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778371856.190757
+    "timestamp": 1778386355.2053156
   }
 ]
