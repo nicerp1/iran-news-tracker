@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "یک کشتی فله‌بر در نزدیکی قطر هدف «پرتابه ناشناس» قرار گرفت",
-    "title_en": "یک کشتی فله‌بر در نزدیکی قطر هدف «پرتابه ناشناس» قرار گرفت",
+    "title_fa": "بحران تنگه هرمز؛ ایران از «تدابیر جدید» و «پایان خویشتنداری» می‌گوید",
+    "title_en": "بحران تنگه هرمز؛ ایران از «تدابیر جدید» و «پایان خویشتنداری» می‌گوید",
     "summary": [
-      "اداره عملیات تجارت دریایی بریتانیا می‌گوید گزارشی از هدف قرار گرفتن یک کشتی فله‌بر با یک «پرتابه ناشناس» در ۴۳ کیلومتری شمال شرق دوحه، پایتخت قطر، دریافت کرده است. بنابر این گزارش، آتش‌سوزی کوچکی در این کشتی رخ داده است. در همین حال مارکو روبیو، وزیر امور خارجه آمریکا، با نخست‌وزیر قطر در میامی ملاقات و درباره امنیت خاورمیانه صحبت کرده‌ است. آمریکا همچنان منتظر جواب ایران به طرح پیشنهادیش برای پایان جنگ است."
+      "رسانه‌های ایران از دیدار رهبر جمهوری اسلامی با فرمانده قرارگاه مرکزی خاتم‌الانبیا خبر می‌دهند و می‌گویند مجتبی خامنه‌ای «تدابیر جدیدی» به سرلشکر علی عبداللهی ابلاغ کرده است. در همین حال سخنگوی کمیسیون امنیت ملی مجلس در شبکه‌های اجتماعی نوشت «از امروز خویشتنداری تمام شده است» و هر حمله به شناورهای ایران با حمله به شناورها و پایگاه‌های آمریکا پاسخ داده خواهد شد. کویت و امارات از رهگیری حمله پهپادی خبر می‌دهند و یک کشتی باری هم در نزدیکی قطر هدف قرار گرفته است، درحالی‌که ایران هنوز به آخرین پیشنهاد"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.7926395
+    "timestamp": 1778413094.4365559
+  },
+  {
+    "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
+    "title_en": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
+    "summary": [
+      "در حالی که خانواده‌ها در سراسر جهان هزینه‌های جنگ آمریکا و اسرائیل علیه ایران را می‌پردازند، برخی شرکت‌ها در همین مدت سودهای کلانی به دست آورده‌اند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778413094.4365966
   },
   {
     "title_fa": "پوتین می‌گوید به اعتقاد او جنگ اوکراین «رو به پایان است»",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.792665
+    "timestamp": 1778413094.4366384
   },
   {
     "title_fa": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
@@ -45,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.7926896
-  },
-  {
-    "title_fa": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
-    "title_en": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
-    "summary": [
-      "در حالی که چشم‌انداز مذاکرات صلح میان آمریکا و ایران همچنان نامشخص است، چین به تدریج به میانجی قدرتمندی در پشت صحنه تبدیل می‌شود."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778410331.7927237
+    "timestamp": 1778413094.4366617
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.7927403
+    "timestamp": 1778413094.4366786
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.7927623
+    "timestamp": 1778413094.4366999
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.7927828
+    "timestamp": 1778413094.4367206
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -125,7 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.792819
+    "timestamp": 1778413094.4367445
+  },
+  {
+    "title_fa": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
+    "title_en": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
+    "summary": [
+      "در حالی که چشم‌انداز مذاکرات صلح میان آمریکا و ایران همچنان نامشخص است، چین به تدریج به میانجی قدرتمندی در پشت صحنه تبدیل می‌شود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778413094.4367766
   },
   {
     "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
@@ -141,23 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.7928474
-  },
-  {
-    "title_fa": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
-    "title_en": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
-    "summary": [
-      "نزدیک به هشت نفر از هر ده نفرِ جمعیت ۲٫۲ میلیونی غزه همچنان در اردوگاه‌های آوارگان زندگی می‌کنند که قرار بود پناهگاهی موقت باشد، اما خود زمینی که این اردوگاه‌ها بر آن برپا شده اکنون به منبعی از تهدید روزمره بدل شده است؛ در محیطی رو‌به‌وخامت و بیش‌ازحد متراکم، گسترش بی‌سابقه جوندگان و حشرات جان ساکنان را تهدید می‌کند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778410331.7928967
+    "timestamp": 1778413094.4368062
   },
   {
     "title_fa": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.7929547
+    "timestamp": 1778413094.4368632
   },
   {
     "title_fa": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.7929807
+    "timestamp": 1778413094.4368882
   },
   {
     "title_fa": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
@@ -205,23 +205,55 @@
     "url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.7930136
+    "timestamp": 1778413094.4369252
   },
   {
-    "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
-    "title_en": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
+    "title_fa": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
+    "title_en": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
     "summary": [
-      "روابط ترکیه و اسرائیل در سه سال گذشته از آستانه عادی‌سازی دیپلماتیک به نقطه‌ای رسیده که اکنون از خطر درگیری مستقیم نظامی سخن گفته می‌شود."
+      "نزدیک به هشت نفر از هر ده نفرِ جمعیت ۲٫۲ میلیونی غزه همچنان در اردوگاه‌های آوارگان زندگی می‌کنند که قرار بود پناهگاهی موقت باشد، اما خود زمینی که این اردوگاه‌ها بر آن برپا شده اکنون به منبعی از تهدید روزمره بدل شده است؛ در محیطی رو‌به‌وخامت و بیش‌ازحد متراکم، گسترش بی‌سابقه جوندگان و حشرات جان ساکنان را تهدید می‌کند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778410331.7930417
+    "timestamp": 1778413094.4369712
+  },
+  {
+    "title_fa": "El Clasico: Kylian Mbappe not in Real Madrid squad to face Barcelona",
+    "title_en": "El Clasico: Kylian Mbappe not in Real Madrid squad to face Barcelona",
+    "summary": [
+      "French forward to miss the crucial fixture despite training with teammates on Friday following his recovery from injury."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/10/el-clasico-kylian-mbappe-not-in-real-madrid-squad-to-face-barcelona?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/10/el-clasico-kylian-mbappe-not-in-real-madrid-squad-to-face-barcelona?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778413094.6665916
+  },
+  {
+    "title_fa": "Why is Iran taking time to respond to the US proposal to end the war?",
+    "title_en": "Why is Iran taking time to respond to the US proposal to end the war?",
+    "summary": [
+      "Iran continues to review the proposal as Tehran&#039;s nuclear programme and Strait of Hormuz remain main sticking points."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/10/why-is-iran-taking-time-to-respond-to-the-us-proposal-to-end-the-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/10/why-is-iran-taking-time-to-respond-to-the-us-proposal-to-end-the-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778413094.6666043
   },
   {
     "title_fa": "Iran military warns of ‘surprising’ methods of warfare if attacked again",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again?traffic_source=rss",
     "image": null,
-    "timestamp": 1778410332.014647
+    "timestamp": 1778413094.666639
   },
   {
     "title_fa": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778410332.0147295
+    "timestamp": 1778413094.6667185
   },
   {
     "title_fa": "Flotilla activists arrive in Turkiye before setting sail to Gaza",
@@ -269,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/flotilla-activists-arrive-in-turkiye-before-setting-sail-to-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/flotilla-activists-arrive-in-turkiye-before-setting-sail-to-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1778410332.014744
+    "timestamp": 1778413094.6667318
   },
   {
     "title_fa": "Flotilla activist gives defiant message after Israel deports him to Greece",
@@ -285,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/flotilla-activist-gives-defiant-message-after-israel-deports-him-to-greece?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/flotilla-activist-gives-defiant-message-after-israel-deports-him-to-greece?traffic_source=rss",
     "image": null,
-    "timestamp": 1778410332.0147548
+    "timestamp": 1778413094.6667423
   },
   {
     "title_fa": "Israel deports two abducted Gaza aid flotilla activists",
@@ -301,7 +333,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/israel-deports-two-gaza-aid-flotilla-activists?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/israel-deports-two-gaza-aid-flotilla-activists?traffic_source=rss",
     "image": null,
-    "timestamp": 1778410332.014777
+    "timestamp": 1778413094.6667643
   },
   {
     "title_fa": "Dubois stops Wardley in 11th round to take WBO heavyweight boxing title",
@@ -317,7 +349,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/10/dubois-stops-wardley-in-11th-round-to-take-wbo-heavyweight-boxing-title?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/10/dubois-stops-wardley-in-11th-round-to-take-wbo-heavyweight-boxing-title?traffic_source=rss",
     "image": null,
-    "timestamp": 1778410332.0148165
+    "timestamp": 1778413094.6667936
   },
   {
     "title_fa": "Two wins, two losses: What India, Pakistan have learned a year after war",
@@ -333,22 +365,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778410332.0148363
-  },
-  {
-    "title_fa": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
-    "title_en": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
-    "summary": [
-      "Russian president also says he is willing to meet Zelenskyy in a third country if a long-term peace deal is reached."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778410332.0148582
+    "timestamp": 1778413094.6668122
   }
 ]
