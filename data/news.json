@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "ترامپ: ایران، امریکا و جهان را بازی داده است",
-    "title_en": "ترامپ: ایران، امریکا و جهان را بازی داده است",
+    "title_fa": "ترامپ: پاسخ ایران کاملا غیرقابل قبول است الجزیره: ایران می‌گوید پاسخ ما واقع‌بینانه و مثبت است",
+    "title_en": "ترامپ: پاسخ ایران کاملا غیرقابل قبول است الجزیره: ایران می‌گوید پاسخ ما واقع‌بینانه و مثبت است",
     "summary": [
-      "دونالد ترامپ در پیامی تند در شبکه اجتماعی تروث، ایران را متهم کرده است که ۴۷ سال آمریکا و جهان «بازی داده است.» اکنون آقای ترامپ ایران را به کشتن شهروندان آمریکایی و سرکوب اعتراضات داخلی متهم کرد و هشدار داد که این وضعیت ادامه نخواهد یافت. ساعتی پیش منابع ایرانی از پاسخ ایران به پیشنهاد آمریکا خبر داده بودند و پاکستان گفت که این پیام را به آمریکا منتقل کرده است. بنیامین نتانیاهو هم در مصاحبه‌ای گفته است برای اینکه بتوان گفت جنگ به پایان رسیده، باید ذخایر اورانیوم غنی‌شده ایران از بین برود. در هم"
+      "دونالد ترامپ پس از آن که ساعتی پیش در انتقادی تند ایران را متهم به «بازی دادن آمریکا و جهان» کرد، در پست جدیدی گفته که پاسخ ایران را خوانده اما آن را «دوست ندارد» و از نظرش «کاملا غیرقابل قبول است». ساعتی پیش منابع ایرانی از پاسخ به پیشنهاد آمریکا خبر داده بودند و پاکستان گفت که این پیام را به آمریکا منتقل کرده است. یک مقام ایرانی به الجزیره گفته است پاسخ ایران «واقع بینانه و مثبت و بر پایان جنگ، تنگه هرمز و موضوع هسته‌ای» متمرکز است. بنیامین نتانیاهو هم در مصاحبه‌ای گفته است برای اینکه بتوان گف"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.4913163
+    "timestamp": 1778446766.7704763
+  },
+  {
+    "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
+    "title_en": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
+    "summary": [
+      "جنگ ایران اقتصادهای خلیج فارس را به لرزه درآورده است: خسارت در بخش انرژی، رکود در گردشگری و فشارهای مالی که ممکن است سال‌ها تداوم یابد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778446766.770498
   },
   {
     "title_fa": "ایران به پیشنهاد آمریکا برای پایان جنگ پاسخ داد",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8pz2njx5ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8pz2njx5ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.4913528
+    "timestamp": 1778446766.77055
   },
   {
     "title_fa": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.4913712
+    "timestamp": 1778446766.7705672
   },
   {
     "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.4913871
+    "timestamp": 1778446766.7705827
   },
   {
     "title_fa": "پوتین می‌گوید به اعتقاد او جنگ اوکراین «رو به پایان است»",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.4914205
+    "timestamp": 1778446766.7706022
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.491436
+    "timestamp": 1778446766.7706244
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -109,23 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.49148
-  },
-  {
-    "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
-    "title_en": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
-    "summary": [
-      "نشانه‌هایی از شتاب‌گرفتن دوباره تلاش‌ها برای پایان دادن به جنگ ایران دیده می‌شود، اما دونالد ترامپ لحنی احتیاط‌آمیز در پیش گرفته است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778443420.4914954
+    "timestamp": 1778446766.7706478
   },
   {
     "title_fa": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.4915156
+    "timestamp": 1778446766.7706828
   },
   {
     "title_fa": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
@@ -157,23 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.4915466
-  },
-  {
-    "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
-    "title_en": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
-    "summary": [
-      "یک شرکت تولیدکننده تسلیحات بریتانیایی-اوکراینی به بی‌بی‌سی گفت که ممکن است روزی در میدان نبرد اوکراین، تعداد ربات‌ها از نیروهای انسانی بیشتر شود."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778443420.4915605
+    "timestamp": 1778446766.7707155
   },
   {
     "title_fa": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
@@ -189,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.4916167
+    "timestamp": 1778446766.7707748
   },
   {
     "title_fa": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
@@ -205,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.491641
+    "timestamp": 1778446766.7708
   },
   {
     "title_fa": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
@@ -221,23 +205,23 @@
     "url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.4916775
+    "timestamp": 1778446766.770859
   },
   {
-    "title_fa": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
-    "title_en": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
+    "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
+    "title_en": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
     "summary": [
-      "نزدیک به هشت نفر از هر ده نفرِ جمعیت ۲٫۲ میلیونی غزه همچنان در اردوگاه‌های آوارگان زندگی می‌کنند که قرار بود پناهگاهی موقت باشد، اما خود زمینی که این اردوگاه‌ها بر آن برپا شده اکنون به منبعی از تهدید روزمره بدل شده است؛ در محیطی رو‌به‌وخامت و بیش‌ازحد متراکم، گسترش بی‌سابقه جوندگان و حشرات جان ساکنان را تهدید می‌کند."
+      "یک شرکت تولیدکننده تسلیحات بریتانیایی-اوکراینی به بی‌بی‌سی گفت که ممکن است روزی در میدان نبرد اوکراین، تعداد ربات‌ها از نیروهای انسانی بیشتر شود."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778443420.4917364
+    "timestamp": 1778446766.770887
   },
   {
     "title_fa": "Gaza volunteers plant olive trees at devastated al-Shifa Hospital",
@@ -253,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss",
     "image": null,
-    "timestamp": 1778443420.6140122
+    "timestamp": 1778446766.902787
   },
   {
     "title_fa": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
@@ -269,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
     "image": null,
-    "timestamp": 1778443420.614025
+    "timestamp": 1778446766.9028
   },
   {
     "title_fa": "Iran may ‘give assurances on the use of nuclear facilities’",
@@ -285,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
     "image": null,
-    "timestamp": 1778443420.6140406
+    "timestamp": 1778446766.902811
   },
   {
     "title_fa": "Trump says US will not allow Iran to reach enriched uranium",
@@ -301,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss",
     "image": null,
-    "timestamp": 1778443420.6140516
+    "timestamp": 1778446766.9028418
   },
   {
     "title_fa": "Food inflation hammers households in war-hit Iran",
@@ -317,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1778443420.6140609
+    "timestamp": 1778446766.9028528
   },
   {
     "title_fa": "Putin hints at ending Russia’s war in Ukraine, but why now?",
@@ -333,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
     "image": null,
-    "timestamp": 1778443420.6140916
+    "timestamp": 1778446766.9028888
   },
   {
     "title_fa": "Iran sends response to US ceasefire proposal via Pakistan",
@@ -349,7 +333,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
     "image": null,
-    "timestamp": 1778443420.6141105
+    "timestamp": 1778446766.9029078
   },
   {
     "title_fa": "Football on ruins: Gaza’s orphans find refuge on the pitch",
@@ -365,7 +349,7 @@
     "url": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss",
     "image": null,
-    "timestamp": 1778443420.6141224
+    "timestamp": 1778446766.9029198
   },
   {
     "title_fa": "Stories of those killed in a single day of Israeli strikes on Lebanon",
@@ -381,7 +365,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778443420.6141393
+    "timestamp": 1778446766.9029343
   },
   {
     "title_fa": "‘Ukraine has momentum in war with Russia’",
@@ -397,7 +381,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/ukraine-has-momentum-in-war-with?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/ukraine-has-momentum-in-war-with?traffic_source=rss",
     "image": null,
-    "timestamp": 1778443420.6141577
+    "timestamp": 1778446766.9029524
   },
   {
     "title_fa": "Can Asian economies cope with the fallout from the Iran war?",
@@ -413,22 +397,6 @@
     "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778443420.614174
-  },
-  {
-    "title_fa": "Iran sends response to US proposal to end war via mediator Pakistan",
-    "title_en": "Iran sends response to US proposal to end war via mediator Pakistan",
-    "summary": [
-      "According to the proposal, initial negotiations will focus on ending hostilities."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778443420.6141896
+    "timestamp": 1778446766.9029684
   }
 ]
