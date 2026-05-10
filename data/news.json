@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "دیدار مارکو روبیو با نخست‌وزیر قطر پیرامون امنیت در خاورمیانه",
-    "title_en": "دیدار مارکو روبیو با نخست‌وزیر قطر پیرامون امنیت در خاورمیانه",
+    "title_fa": "یک کشتی فله‌بر در نزدیکی قطر مورد اصابت «پرتابه ناشناس» قرار گرفت",
+    "title_en": "یک کشتی فله‌بر در نزدیکی قطر مورد اصابت «پرتابه ناشناس» قرار گرفت",
     "summary": [
-      "مارکو روبیو، وزیر امور خارجه آمریکا با شیخ محمد بن عبدالرحمن بن جاسم آل ثانی، نخست‌وزیر و وزیر خارجه قطر دیدار کرده و دو طرف درباره امنیت در خاورمیانه صحبت کرده‌اند. آمریکا همچنان منتظر پاسخ ایران به طرح پیشنهادی صلح برای پایان دادن به جنگ است. مسئول دیدارهای دفتر علی خامنه‌ای، رهبر سابق جمهوری اسلامی، گفته است که مجتبی خامنه‌ای بر اثر «موج انفجار» مجروح شده بود و اکنون بهبود یافته و در «سلامت کامل» است. وزارت دفاع بریتانیا اعلام کرده است که یک ناوشکن نیروی دریایی را به خاورمیانه اعزام خواهد کرد"
+      "اداره عملیات تجارت دریایی بریتانیا می‌گوید گزارشی از وقع یک حادثه‌ در فاصله ۴۳ کیلومتری شمال شرقی دوحه، پایتخت قطر را دریافت کرده است. این اداره اعلام کرد که یک کشتی فله‌بر گزارش کرده که توسط یک «پرتابه ناشناخته» مورد اصابت قرار گرفته و آتش‌سوزی کوچکی در این کشتی رخ داده است. مارکو روبیو، وزیر امور خارجه آمریکا با شیخ محمد بن عبدالرحمن بن جاسم آل ثانی، نخست‌وزیر و وزیر خارجه قطر دیدار کرده و دو طرف درباره امنیت در خاورمیانه صحبت کرده‌اند. آمریکا همچنان منتظر پاسخ ایران به طرح پیشنهادی صلح برای پ"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778386355.0071588
+    "timestamp": 1778395409.106343
+  },
+  {
+    "title_fa": "پوتین می‌گوید به اعتقاد او جنگ اوکراین «رو به پایان است»",
+    "title_en": "پوتین می‌گوید به اعتقاد او جنگ اوکراین «رو به پایان است»",
+    "summary": [
+      "ولادیمیر پوتین، رئیس جمهور روسیه، پس از رژه نظامی کوچکی که در مسکو به مناسبت پیروزی شوروی سابق در جنگ جهانی دوم انجام شد، در جمع خبرنگاران گفت که او فکر می‌کند درگیری روسیه با اوکراین رو به پایان است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778395409.1063685
+  },
+  {
+    "title_fa": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
+    "title_en": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
+    "summary": [
+      "از زمان رسیدن سانائه تاکائیچی به قدرت در اکتبر ۲۰۲۵، نخست‌وزیر ژاپن گام‌های بزرگی برای فاصله گرفتن از موضع صلح‌طلبانه پس از جنگ جهانی دوم برداشته است؛ از جمله لغو محدودیت‌های دیرینه بر صادرات تسلیحات و گسترش نقش نظامی ژاپن در خارج از کشور."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778395409.106393
   },
   {
     "title_fa": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
@@ -29,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778386355.007201
-  },
-  {
-    "title_fa": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
-    "title_en": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
-    "summary": [
-      "انتشار تصویری از دونالد ترامپ که با هوش مصنوعی ساخته شده بود و رئیس‌جمهور آمریکا را به صورت دراز کشیده با چشمان بسته در قبر نشان می‌داد، انتقاد کاخ سفید را برانگیخت. در این تصویر که مارک همیل، بازیگر جنگ ستارگان، آنرا در شبکه اجتماعی بلواسکای به اشتراک گذاشته بود، سنگ قبری دیده می‌شد که روی آن نوشته شده بود: «دونالد جی. ترامپ ۱۹۴۶-۲۰۲۴». در این تصویر که مارک همیل، بازیگر جنگ ستارگان، آنرا در شبکه اجتماعی بلواسکای به اشتراک گذاشته بود، سنگ قبری دیده می‌شد که روی آن نوشته شده بود: «دونالد جی. ترام"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778386355.0072606
+    "timestamp": 1778395409.1064286
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778386355.0072908
+    "timestamp": 1778395409.1064453
   },
   {
     "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778386355.0073123
+    "timestamp": 1778395409.1064668
   },
   {
     "title_fa": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5ye0873k49o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778386355.0073326
+    "timestamp": 1778395409.106488
   },
   {
     "title_fa": "رئیس پیشین سرویس اطلاعات مخفی بریتانیا: ایران تنگه هرمز را رها نخواهد کرد",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q21zzz9z4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778386355.0073562
+    "timestamp": 1778395409.1065114
   },
   {
     "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778386355.0073721
+    "timestamp": 1778395409.1065385
   },
   {
     "title_fa": "در غزه، خطر فقط بمباران نیست؛ موش‌ها و حشرات هم جان می‌گیرند",
@@ -141,7 +157,23 @@
     "url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg7pr05mjnlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778386355.0074186
+    "timestamp": 1778395409.1065848
+  },
+  {
+    "title_fa": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
+    "title_en": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
+    "summary": [
+      "انتشار تصویری از دونالد ترامپ که با هوش مصنوعی ساخته شده بود و رئیس‌جمهور آمریکا را به صورت دراز کشیده با چشمان بسته در قبر نشان می‌داد، انتقاد کاخ سفید را برانگیخت. در این تصویر که مارک همیل، بازیگر جنگ ستارگان، آنرا در شبکه اجتماعی بلواسکای به اشتراک گذاشته بود، سنگ قبری دیده می‌شد که روی آن نوشته شده بود: «دونالد جی. ترامپ ۱۹۴۶-۲۰۲۴». در این تصویر که مارک همیل، بازیگر جنگ ستارگان، آنرا در شبکه اجتماعی بلواسکای به اشتراک گذاشته بود، سنگ قبری دیده می‌شد که روی آن نوشته شده بود: «دونالد جی. ترام"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778395409.106641
   },
   {
     "title_fa": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
@@ -157,23 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778386355.0074573
-  },
-  {
-    "title_fa": "آنچه گذشت: روایت مسئول دیدارهای رهبر سابق جمهوری اسلامی از چگونگی زنده ماندن مجتبی خامنه‌ای",
-    "title_en": "آنچه گذشت: روایت مسئول دیدارهای رهبر سابق جمهوری اسلامی از چگونگی زنده ماندن مجتبی خامنه‌ای",
-    "summary": [
-      "مسئول دیدارهای دفتر علی خامنه‌ای، رهبر سابق جمهوری اسلامی، گفته است که مجتبی خامنه‌ای بر اثر «موج انفجار» مجروح شده بود و اکنون بهبود یافته و در «سلامت کامل» است. در حالی که دونالد ترامپ، رئیس‌جمهور آمریکا، به خبرنگاران گفته است که انتظار دارد به‌زودی پاسخ ایران درباره توافقی برای پایان دادن به جنگ را دریافت کند، وزارت دفاع بریتانیا اعلام کرده است که یک ناوشکن نیروی دریایی را به خاورمیانه اعزام خواهد کرد. خبرگزاری اسوشیتدپرس می‌گوید این اقدام ممکن است در قالب یک ماموریت بین‌المللی برای حفاظت از "
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c78qj1zxvzlt?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778386355.0074966
+    "timestamp": 1778395409.1066673
   },
   {
     "title_fa": "روسیه و اوکراین بر سر آتش‌بس سه‌روزه و تبادل هزار اسیر توافق کردند",
@@ -189,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg4p1xdy40xo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778386355.0075307
+    "timestamp": 1778395409.106701
   },
   {
     "title_fa": "آیا خطر درگیری نظامی مستقیم میان ترکیه و اسرائیل وجود دارد؟",
@@ -205,7 +221,55 @@
     "url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjdpndeg1m8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778386355.007546
+    "timestamp": 1778395409.1067286
+  },
+  {
+    "title_fa": "Dubois stops Wardley in 11th round to take WBO heavyweight boxing title",
+    "title_en": "Dubois stops Wardley in 11th round to take WBO heavyweight boxing title",
+    "summary": [
+      "Daniel Dubois recovered from two knockdowns to win a second World Heavyweight title with a stoppage of Fabio Wardley."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/10/dubois-stops-wardley-in-11th-round-to-take-wbo-heavyweight-boxing-title?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/10/dubois-stops-wardley-in-11th-round-to-take-wbo-heavyweight-boxing-title?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778395409.1713974
+  },
+  {
+    "title_fa": "Two wins, two losses: What India, Pakistan have learned a year after war",
+    "title_en": "Two wins, two losses: What India, Pakistan have learned a year after war",
+    "summary": [
+      "India and Pakistan each claim strategic successes after the four-day conflict, as tensions continue to simmer."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778395409.171424
+  },
+  {
+    "title_fa": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
+    "title_en": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
+    "summary": [
+      "Russian president also says he is willing to meet Zelenskyy in a third country if a long-term peace deal is reached."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778395409.171449
   },
   {
     "title_fa": "Satellite images show likely oil slick off Iran’s Kharg Island",
@@ -221,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
     "image": null,
-    "timestamp": 1778386355.2051413
+    "timestamp": 1778395409.171472
   },
   {
     "title_fa": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
@@ -237,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778386355.2051556
+    "timestamp": 1778395409.1714818
   },
   {
     "title_fa": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
@@ -253,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
     "image": null,
-    "timestamp": 1778386355.2051873
+    "timestamp": 1778395409.17151
   },
   {
     "title_fa": "Palestinian family says settlers forced them to exhume father’s body",
@@ -269,7 +333,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
     "image": null,
-    "timestamp": 1778386355.205211
+    "timestamp": 1778395409.171531
   },
   {
     "title_fa": "Israeli settlers force Palestinian family to exhume and rebury their father",
@@ -285,7 +349,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss",
     "image": null,
-    "timestamp": 1778386355.205247
+    "timestamp": 1778395409.1715646
   },
   {
     "title_fa": "Tucker Carlson’s pivot",
@@ -301,38 +365,6 @@
     "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/9/tucker-carlsons-pivot?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/the-listening-post/2026/5/9/tucker-carlsons-pivot?traffic_source=rss",
     "image": null,
-    "timestamp": 1778386355.2052739
-  },
-  {
-    "title_fa": "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
-    "title_en": "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
-    "summary": [
-      "Al Jazeera’s Tareq Abu Azzoum reports from Al-Shati Refugee Camp after overnight Israeli airstrikes."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778386355.2053053
-  },
-  {
-    "title_fa": "Israeli attacks across Lebanon kill at least 24",
-    "title_en": "Israeli attacks across Lebanon kill at least 24",
-    "summary": [
-      "No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778386355.2053156
+    "timestamp": 1778395409.1715896
   }
 ]
