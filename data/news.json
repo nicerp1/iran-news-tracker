@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "ترامپ: پاسخ ایران کاملا غیرقابل قبول است؛ بقایی: مطالباتمان معقول و مشروع است",
-    "title_en": "ترامپ: پاسخ ایران کاملا غیرقابل قبول است؛ بقایی: مطالباتمان معقول و مشروع است",
+    "title_fa": "افزایش قیمت نفت در پی بن‌بست دیپلماتیک ایران و آمریکا",
+    "title_en": "افزایش قیمت نفت در پی بن‌بست دیپلماتیک ایران و آمریکا",
     "summary": [
-      "سخنگوی وزارت خارجه خواسته‌های ایران را «معقول، مسئولانه و سخاوتمندانه» توصیف و آمریکا را به پافشاری بر دیدگاه‌های «یکسویه و نامعقول» متهم کرد.اظهارات اسماعیل بقایی پس از آن است که دونالد ترامپ پاسخ تهران به پیشنهاد آمریکا را «کاملا غیرقابل قبول» خواند و ایران را به فریبکاری متهم کرد. برقراری صلح در همه منطقه از جمله لبنان، آزادی دارایی‌های توقیف شده ایران و رفع محاصره دریایی از مواردی است که آقای بقایی به عنوان «حقوق مشروع» ایران بر شمرده است. در پی اظهارات منفی رئیس‌جمهور آمریکا در مورد پاسخ ای"
+      "رئیس شرکت عظیم نفتی سعودی آرامکو می‌گوید که جنگ ایران بزرگترین شوک تاریخ را به بازارهای انرژی جهان وارد کرده و هشدار داده است که حتی در صورت باز شدن فوری تنگه هرمز، وضعیت بازار نفت حداقل تا سال ۲۰۲۷ به حال عادی باز نخواهد گشت. این هشدار در حالی مطرح شده است که تلاش‌های دیپلماتیک برای پایان دادن به جنگ فعلا به بن‌بست رسیده است. بعد از ابراز نارضایتی دونالد ترامپ از پاسخ ایران به پیشنهاد آمریکا و اصرار تهران بر «معقول و سخاوتمندانه» بودن خواسته‌هایش، قیمت نفت دوباره رو به افزایش گذاشت. قیمت نفت بر"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,23 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.8980503
+    "timestamp": 1778517765.0881145
   },
   {
-    "title_fa": "قوه‌قضائیه ایران: عرفان شکورزاده به جرم «جاسوسی برای آمریکا و اسرائیل» اعدام شد",
-    "title_en": "قوه‌قضائیه ایران: عرفان شکورزاده به جرم «جاسوسی برای آمریکا و اسرائیل» اعدام شد",
+    "title_fa": "«هیچ جایگزینی برای زعفران ایران وجود ندارد»؛ چگونه جنگ قیمت «طلای سرخ» را افزایش داد؟",
+    "title_en": "«هیچ جایگزینی برای زعفران ایران وجود ندارد»؛ چگونه جنگ قیمت «طلای سرخ» را افزایش داد؟",
     "summary": [
-      "دستگاه قضایی ایران می‌گوید که امروز عرفان شکورزاده را به جرم «همکاری با سرویس اطلاعاتی آمریکا و سرویس جاسوسی موساد» اعدام کرده است."
+      "در پی بسته شدن تنگه هرمز، عرضه زعفران کاهش یافته و این محدودیت شامل برخی اقلام اساسی دیگر مانند نخود و زرشک نیز شده است؛ موادی که در بسیاری از غذاهای ایرانی و خاورمیانه‌ای کاربرد گسترده‌ای دارند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.8980951
+    "timestamp": 1778517765.088139
+  },
+  {
+    "title_fa": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
+    "title_en": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
+    "summary": [
+      "دونالد ترامپ دو روز دیگر عازم چین می‌شود. این نخستین سفر یک رئیس‌جمهور آمریکا به چین از زمان سفر قبلی آقای ترامپ در سال ۲۰۱۷ است؛ این سفر از روز چهارشنبه تا جمعه (۱۳ تا ۱۵ مه) انجام خواهد شد. مذاکره‌کنندگان ارشد تجاری دو کشور، یک روز پیش از دیدار آقای ترامپ با رهبر چین، در سئول دیدار خواهند کرد تا جزئیات مسائل تجاری و اقتصادی را نهایی کنند؛ موضوعی که نشان‌دهنده اهمیت این سفر است. این مذاکرات را اسکات بسنت، وزیر دارایی آمریکا، هدایت می‎‌کند. قرار بود رئیس‌جمهور آمریکا در اواخر مارس یا اوایل آوریل"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778517765.0882032
   },
   {
     "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.8981154
+    "timestamp": 1778517765.0882444
   },
   {
     "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.8981488
+    "timestamp": 1778517765.0882597
   },
   {
     "title_fa": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.8981652
+    "timestamp": 1778517765.0882819
   },
   {
     "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
@@ -93,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.8981872
-  },
-  {
-    "title_fa": "پوتین می‌گوید به اعتقاد او جنگ اوکراین «رو به پایان است»",
-    "title_en": "پوتین می‌گوید به اعتقاد او جنگ اوکراین «رو به پایان است»",
-    "summary": [
-      "ولادیمیر پوتین، رئیس جمهور روسیه، پس از رژه نظامی کوچکی که در مسکو به مناسبت پیروزی شوروی سابق در جنگ جهانی دوم انجام شد، در جمع خبرنگاران گفت که او فکر می‌کند درگیری روسیه با اوکراین رو به پایان است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778499851.8982086
+    "timestamp": 1778517765.0882986
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.8982255
+    "timestamp": 1778517765.088332
   },
   {
     "title_fa": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
@@ -141,23 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.8982606
+    "timestamp": 1778517765.088352
   },
   {
-    "title_fa": "بازیگر نقش نازنین زاغری جایزه بهترین هنرپیشه زن بفتا را گرفت",
-    "title_en": "بازیگر نقش نازنین زاغری جایزه بهترین هنرپیشه زن بفتا را گرفت",
+    "title_fa": "قوه‌قضائیه ایران: عرفان شکورزاده به جرم «جاسوسی برای آمریکا و اسرائیل» اعدام شد",
+    "title_en": "قوه‌قضائیه ایران: عرفان شکورزاده به جرم «جاسوسی برای آمریکا و اسرائیل» اعدام شد",
     "summary": [
-      "نرگس رشیدی، بازیگر ایرانی-آلمانی برای بازی در نقش نازنین زاغری-رتکلیف در سریال درام «زندانی ۹۵۱» شبکه بی‌بی‌سی وان، که بر اساس داستانی واقعی ساخته شده است، جایزه بهترین بازیگر زن نقش اول بفتا را از آن خود کرد."
+      "دستگاه قضایی ایران می‌گوید که امروز عرفان شکورزاده را به جرم «همکاری با سرویس اطلاعاتی آمریکا و سرویس جاسوسی موساد» اعدام کرده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c9v3glp2rk8o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c9v3glp2rk8o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.8982978
+    "timestamp": 1778517765.088383
   },
   {
     "title_fa": "ایران به پیشنهاد آمریکا برای پایان جنگ پاسخ داد",
@@ -173,23 +173,23 @@
     "url": "https://www.bbc.com/persian/articles/cn8pz2njx5ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8pz2njx5ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.8983514
+    "timestamp": 1778517765.0884328
   },
   {
-    "title_fa": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
-    "title_en": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
+    "title_fa": "بازیگر نقش نازنین زاغری جایزه بهترین هنرپیشه زن بفتا را گرفت",
+    "title_en": "بازیگر نقش نازنین زاغری جایزه بهترین هنرپیشه زن بفتا را گرفت",
     "summary": [
-      "انتشار تصویری از دونالد ترامپ که با هوش مصنوعی ساخته شده بود و رئیس‌جمهور آمریکا را به صورت دراز کشیده با چشمان بسته در قبر نشان می‌داد، انتقاد کاخ سفید را برانگیخت. در این تصویر که مارک همیل، بازیگر جنگ ستارگان، آنرا در شبکه اجتماعی بلواسکای به اشتراک گذاشته بود، سنگ قبری دیده می‌شد که روی آن نوشته شده بود: «دونالد جی. ترامپ ۱۹۴۶-۲۰۲۴». در این تصویر که مارک همیل، بازیگر جنگ ستارگان، آنرا در شبکه اجتماعی بلواسکای به اشتراک گذاشته بود، سنگ قبری دیده می‌شد که روی آن نوشته شده بود: «دونالد جی. ترام"
+      "نرگس رشیدی، بازیگر ایرانی-آلمانی برای بازی در نقش نازنین زاغری-رتکلیف در سریال درام «زندانی ۹۵۱» شبکه بی‌بی‌سی وان، که بر اساس داستانی واقعی ساخته شده است، جایزه بهترین بازیگر زن نقش اول بفتا را از آن خود کرد."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c9v3glp2rk8o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c9v3glp2rk8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.8984134
+    "timestamp": 1778517765.088451
   },
   {
     "title_fa": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
@@ -205,23 +205,135 @@
     "url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778499851.898428
+    "timestamp": 1778517765.0884638
   },
   {
-    "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
-    "title_en": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
+    "title_fa": "Iran denies proposal sent to US contains ‘excessive demands’",
+    "title_en": "Iran denies proposal sent to US contains ‘excessive demands’",
     "summary": [
-      "یک شرکت تولیدکننده تسلیحات بریتانیایی-اوکراینی به بی‌بی‌سی گفت که ممکن است روزی در میدان نبرد اوکراین، تعداد ربات‌ها از نیروهای انسانی بیشتر شود."
+      "Iran says Tehran’s response to the latest US proposal to end the war was “not excessive.&quot;"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-denies-proposal-sent-to-us-contains-excessive-demands?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-denies-proposal-sent-to-us-contains-excessive-demands?traffic_source=rss",
     "image": null,
-    "timestamp": 1778499851.8984544
+    "timestamp": 1778517765.2442856
+  },
+  {
+    "title_fa": "Israeli killings in Lebanon rise: Is even the pretence of a ceasefire over?",
+    "title_en": "Israeli killings in Lebanon rise: Is even the pretence of a ceasefire over?",
+    "summary": [
+      "Israel and Hezbollah have increased their attacks on each other, despite official ceasefire."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/11/israeli-killings-in-lebanon-rise-is-even-the-pretence-of-a-ceasefire-over?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/11/israeli-killings-in-lebanon-rise-is-even-the-pretence-of-a-ceasefire-over?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778517765.244314
+  },
+  {
+    "title_fa": "Iran war effect: Why is Modi asking Indians to avoid foreign trips, gold?",
+    "title_en": "Iran war effect: Why is Modi asking Indians to avoid foreign trips, gold?",
+    "summary": [
+      "PM urges Indians to work from home and avoid foreign trips during the global energy crisis due to the Iran war."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778517765.244325
+  },
+  {
+    "title_fa": "Is the US empire in the middle of a long decline?",
+    "title_en": "Is the US empire in the middle of a long decline?",
+    "summary": [
+      "Iran war has put the US in a situation where ‘it’s not in control but can’t walk away’, argues economist Richard Wolff."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/11/is-the-us-empire-in-the-middle-of-a-long-decline?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/11/is-the-us-empire-in-the-middle-of-a-long-decline?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778517765.2443388
+  },
+  {
+    "title_fa": "Lebanese civil defence worker captures moment of Israeli strike",
+    "title_en": "Lebanese civil defence worker captures moment of Israeli strike",
+    "summary": [
+      "A Lebanese civil defence worker captured the moment an Israeli strike hit a rescue operation in southern Lebanon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/lebanese-civil-defence-worker-captures-moment-of-israeli-strike?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/lebanese-civil-defence-worker-captures-moment-of-israeli-strike?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778517765.2443562
+  },
+  {
+    "title_fa": "Israel pushes for hangings and ‘show trials’ for ‘October 7 detainees’",
+    "title_en": "Israel pushes for hangings and ‘show trials’ for ‘October 7 detainees’",
+    "summary": [
+      "Israel advances legislation to try October 7 detainees in military courts, raising fears of show trials and executions."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/11/israel-pushes-for-death-penalty-and-show-trials-for-oct-7-detainees?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/11/israel-pushes-for-death-penalty-and-show-trials-for-oct-7-detainees?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778517765.2443697
+  },
+  {
+    "title_fa": "‘Unacceptable’: What’s Iran’s peace proposal that Trump has rejected?",
+    "title_en": "‘Unacceptable’: What’s Iran’s peace proposal that Trump has rejected?",
+    "summary": [
+      "On Sunday, Tehran sent a response to an earlier US proposal to end the war through mediator Pakistan."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/11/unacceptable-whats-irans-peace-proposal-that-trump-has-rejected?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/11/unacceptable-whats-irans-peace-proposal-that-trump-has-rejected?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778517765.2444103
+  },
+  {
+    "title_fa": "Iran says its demands were seeking peace, while the US’s are ‘unreasonable’",
+    "title_en": "Iran says its demands were seeking peace, while the US’s are ‘unreasonable’",
+    "summary": [
+      "Iranian foreign ministry spokesman Esmaeil Baqaei says Iran’s latest response was dismissed by the US Baqaei said."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-says-its-demands-were-seeking-peace-while-the-uss-are?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-says-its-demands-were-seeking-peace-while-the-uss-are?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778517765.2444394
   },
   {
     "title_fa": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
@@ -237,118 +349,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
     "image": null,
-    "timestamp": 1778499852.0286255
-  },
-  {
-    "title_fa": "Iran says US making ‘unreasonable’ demands in negotiations to end war",
-    "title_en": "Iran says US making ‘unreasonable’ demands in negotiations to end war",
-    "summary": [
-      "Foreign ministry spokesman Esmaeil Baghaei says Iran&#039;s proposal to end conflict, unblock Strait of Hormuz is generous."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/11/iran-says-us-making-unreasonable-demands-in-negotiations-to-end-war?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/11/iran-says-us-making-unreasonable-demands-in-negotiations-to-end-war?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778499852.0286655
-  },
-  {
-    "title_fa": "Narendra Modi urges Indians to conserve fuel amid war on Iran",
-    "title_en": "Narendra Modi urges Indians to conserve fuel amid war on Iran",
-    "summary": [
-      "Narendra Modi urges Indians to conserve fuel amid war on Iran"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/narendra-modi-urges-indians-to-conserve-fuel-amid-war-on-iran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/narendra-modi-urges-indians-to-conserve-fuel-amid-war-on-iran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778499852.0286846
-  },
-  {
-    "title_fa": "The Global Sumud Flotilla is sailing on, here is why",
-    "title_en": "The Global Sumud Flotilla is sailing on, here is why",
-    "summary": [
-      "The Israeli attack on part of our flotilla has convinced us we must continue with our mission."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/opinions/2026/5/11/the-global-sumud-flotilla-is-sailing-on-here-is-why?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/opinions/2026/5/11/the-global-sumud-flotilla-is-sailing-on-here-is-why?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778499852.0287094
-  },
-  {
-    "title_fa": "Iran war day 73: Trump and Tehran clash over latest peace proposals",
-    "title_en": "Iran war day 73: Trump and Tehran clash over latest peace proposals",
-    "summary": [
-      "Brent crude rises amid a continuing deadlock as Trump describes Iran&#039;s response as &#039;totally unacceptable&#039;."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778499852.028728
-  },
-  {
-    "title_fa": "Ex-Israeli PM: Hezbollah is the enemy of Lebanon and must be disarmed",
-    "title_en": "Ex-Israeli PM: Hezbollah is the enemy of Lebanon and must be disarmed",
-    "summary": [
-      "Former Israeli PM Ehud Olmert speaks to Redi Tlhabi on Lebanon, the 2006 war, Hezbollah, and the US-Israeli war on Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/upfront/2026/5/11/ex-israeli-pm-hezbollah-is-the-enemy-of-lebanon-and-must-be-disarmed?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/upfront/2026/5/11/ex-israeli-pm-hezbollah-is-the-enemy-of-lebanon-and-must-be-disarmed?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778499852.028747
-  },
-  {
-    "title_fa": "Gaza filmmakers slam BBC after shelved documentary wins Bafta",
-    "title_en": "Gaza filmmakers slam BBC after shelved documentary wins Bafta",
-    "summary": [
-      "&#039;We refuse to be silenced and censored,&#039; journalist and presenter Ramita Navai says while accepting the award."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/11/gaza-filmmakers-slam-bbc-after-shelved-documentary-wins-bafta?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/11/gaza-filmmakers-slam-bbc-after-shelved-documentary-wins-bafta?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778499852.0287683
-  },
-  {
-    "title_fa": "Timberwolves win, tie playoff series after Spurs’ Wembanyama ejected",
-    "title_en": "Timberwolves win, tie playoff series after Spurs’ Wembanyama ejected",
-    "summary": [
-      "Edwards&#039;s 36 points give Minnesota 114-109 win and tie the Western Conference semifinals 2-2 against San Antonio Spurs."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/11/timberwolves-win-tie-playoff-series-after-spurs-wembanyama-is-ejected?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/11/timberwolves-win-tie-playoff-series-after-spurs-wembanyama-is-ejected?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778499852.0288079
+    "timestamp": 1778517765.244477
   }
 ]
