@@ -1,19 +1,19 @@
 [
   {
-    "title_fa": "وال استریت ژورنال: امارات مخفیانه «در حملات به ایران» شرکت داشته است",
-    "title_en": "وال استریت ژورنال: امارات مخفیانه «در حملات به ایران» شرکت داشته است",
+    "title_fa": "سی‌بی‌اس: پاکستان همزمان با میانجی‌گری، به هواپیماهای نظامی ایران «پناه» داده است",
+    "title_en": "سی‌بی‌اس: پاکستان همزمان با میانجی‌گری، به هواپیماهای نظامی ایران «پناه» داده است",
     "summary": [
-      "به گزارش نشریه آمریکایی وال استريت ژورنال، امارات متحده عربی به‌طور مخفيانه حملات نظامی عليه ايران انجام داده است. منابع آگاه به وال استریت ژورنال گفته‌اند حملاتی که امارات تاکنون به‌صورت علنی تاييد نکرده، شامل حمله به يک پالايشگاه در جزيره لاوان در خليج فارس بوده است. دونالد ترامپ یک بار دیگر از پاسخ ایران به پیشنهاد آمریکا به‌شدت انتقاد کرد و هشدار داد که آتش‌بس در وضعیت بسیار شکننده‌ای قرار داد. رئیس‌جمهور آمریکا گفت که در متن ایران اشاره‌ای به چشم‌پوشی از سلاح هسته‌ای نشده است. او پاسخ ایران"
+      "شبکه سی‌بی‌اس - شریک کاری بی‌بی‌سی در آمریکا - گزارش کرده که پاکستان همزمان با میانجی‌گری میان تهران و واشنگتن به ایران اجازه داده چند هواپیمای نظامی خود را به این کشور منتقل کند. در همین حال، وال استریت ژورنال هم گزارش کرده که امارات در حملات نظامی علیه ایران نقش مستقیم داشته و در ساعات اولیه اعلام آتش‌بس به پالایشگاهی در جزیره لاوان حمله هوایی کرده است. همزمان دونالد ترامپ بار دیگر نارضایتی خود از پاسخ ایران را علنی ابراز کرده و گفته از نظر او آتش بس با ایران تنها با دستگاه تنفس مصنوعی برقرار "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778539050.9447885
+    "timestamp": 1778542558.1020064
   },
   {
     "title_fa": "«هیچ جایگزینی برای زعفران ایران وجود ندارد»؛ چگونه جنگ قیمت «طلای سرخ» را افزایش داد؟",
@@ -29,7 +29,23 @@
     "url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778539050.9448426
+    "timestamp": 1778542558.102056
+  },
+  {
+    "title_fa": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
+    "title_en": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
+    "summary": [
+      "به گزارش نشریه آمریکایی وال استريت ژورنال، امارات متحده عربی به‌طور مخفيانه حملات نظامی عليه ايران انجام داده است. منابع آگاه به وال استریت ژورنال گفته‌اند حملاتی که امارات تاکنون به‌صورت علنی تاييد نکرده، شامل حمله به يک پالايشگاه در جزيره لاوان در خليج فارس بوده است. دونالد ترامپ یک بار دیگر از پاسخ ایران به پیشنهاد آمریکا به‌شدت انتقاد کرد و هشدار داد که آتش‌بس در وضعیت بسیار شکننده‌ای قرار داد. رئیس‌جمهور آمریکا گفت که در متن ایران اشاره‌ای به چشم‌پوشی از سلاح هسته‌ای نشده است. او پاسخ ایران"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778542558.102142
   },
   {
     "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778539050.944904
+    "timestamp": 1778542558.1021621
   },
   {
     "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778539050.9449205
+    "timestamp": 1778542558.102183
   },
   {
     "title_fa": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778539050.9449441
+    "timestamp": 1778542558.1022005
   },
   {
     "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778539050.9449613
+    "timestamp": 1778542558.1022158
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778539050.9449973
+    "timestamp": 1778542558.1022491
   },
   {
     "title_fa": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778539050.9450197
+    "timestamp": 1778542558.1022692
   },
   {
     "title_fa": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778539050.9450855
+    "timestamp": 1778542558.1023111
   },
   {
     "title_fa": "قوه‌قضائیه ایران: عرفان شکورزاده به جرم «جاسوسی برای آمریکا و اسرائیل» اعدام شد",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778539050.9451241
+    "timestamp": 1778542558.102347
   },
   {
     "title_fa": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778539050.9451575
+    "timestamp": 1778542558.1023953
   },
   {
     "title_fa": "EU, UK sanction Russians over deportations of Ukrainian children",
@@ -189,7 +205,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss",
     "image": null,
-    "timestamp": 1778539051.0716183
+    "timestamp": 1778542558.215049
   },
   {
     "title_fa": "EU sanctions violent Israeli settlers after months of deadlock",
@@ -205,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
     "image": null,
-    "timestamp": 1778539051.0716417
+    "timestamp": 1778542558.2150717
   },
   {
     "title_fa": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
@@ -221,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
     "image": null,
-    "timestamp": 1778539051.071705
+    "timestamp": 1778542558.2151353
   },
   {
     "title_fa": "UK sanctions network accused of planning attacks for Iran",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1778539051.0717146
+    "timestamp": 1778542558.2151456
   },
   {
     "title_fa": "Philippine senator flees ICC arrest over role in Duterte’s drug war",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778539051.0717247
+    "timestamp": 1778542558.2151554
   },
   {
     "title_fa": "How impunity in Shireen Abu Akleh’s case fuels Israeli attacks on the press",
@@ -269,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss",
     "image": null,
-    "timestamp": 1778539051.0717463
+    "timestamp": 1778542558.2151783
   },
   {
     "title_fa": "Trump says ceasefire is on ‘life support’ after rejecting Iran’s proposal",
@@ -285,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss",
     "image": null,
-    "timestamp": 1778539051.071761
+    "timestamp": 1778542558.215193
   },
   {
     "title_fa": "Trump says ceasefire on ‘life support’, slams Iran response to US proposal",
@@ -301,6 +317,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/trump-says-ceasefire-on-life-support-slams-iran-response-to-us-proposal?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/trump-says-ceasefire-on-life-support-slams-iran-response-to-us-proposal?traffic_source=rss",
     "image": null,
-    "timestamp": 1778539051.0717888
+    "timestamp": 1778542558.2152212
   }
 ]
