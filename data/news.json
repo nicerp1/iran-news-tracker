@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.0587318
+    "timestamp": 1778476102.2621284
+  },
+  {
+    "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
+    "title_en": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
+    "summary": [
+      "جنگ ایران پرسش‌هایی را درباره ماهیت شراکت امنیتی واشنگتن و کشورهای عضو شورای همکاری خلیج فارس مطرح کرده است. آیا جنگ کنونی می‌تواند معادلات این شراکت را تغییر دهد؟ و آیا جایگزینی برای چتر امنیتی آمریکا وجود دارد؟"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778476102.2621524
   },
   {
     "title_fa": "نرگس رشیدی بازیگر نقش نازنین زاغری-رتکلیف، بفتا نقش اول بهترین بازیگر زن را از آن خود کرد",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c9v3glp2rk8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9v3glp2rk8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.0587776
+    "timestamp": 1778476102.2621927
   },
   {
     "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.058794
+    "timestamp": 1778476102.2622244
   },
   {
     "title_fa": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.0588279
+    "timestamp": 1778476102.2622402
   },
   {
     "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.0588431
+    "timestamp": 1778476102.2622614
   },
   {
     "title_fa": "پوتین می‌گوید به اعتقاد او جنگ اوکراین «رو به پایان است»",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.0588684
+    "timestamp": 1778476102.2622821
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.058886
+    "timestamp": 1778476102.262299
   },
   {
     "title_fa": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
@@ -125,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.0589218
-  },
-  {
-    "title_fa": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
-    "title_en": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
-    "summary": [
-      "در حالی که چشم‌انداز مذاکرات صلح میان آمریکا و ایران همچنان نامشخص است، چین به تدریج به میانجی قدرتمندی در پشت صحنه تبدیل می‌شود."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778462604.0589538
+    "timestamp": 1778476102.2623339
   },
   {
     "title_fa": "آنچه گذشت؛ ایران به پیشنهادهای آمریکا از طریق پاکستان پاسخ داد",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.0590005
+    "timestamp": 1778476102.2624009
   },
   {
     "title_fa": "ایران به پیشنهاد آمریکا برای پایان جنگ پاسخ داد",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8pz2njx5ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8pz2njx5ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.059032
+    "timestamp": 1778476102.262431
   },
   {
     "title_fa": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.05909
+    "timestamp": 1778476102.2624876
   },
   {
     "title_fa": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
@@ -205,7 +205,23 @@
     "url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.0591145
+    "timestamp": 1778476102.262512
+  },
+  {
+    "title_fa": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
+    "title_en": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
+    "summary": [
+      "در حالی که چشم‌انداز مذاکرات صلح میان آمریکا و ایران همچنان نامشخص است، چین به تدریج به میانجی قدرتمندی در پشت صحنه تبدیل می‌شود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778476102.2625248
   },
   {
     "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
@@ -221,7 +237,39 @@
     "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778462604.059141
+    "timestamp": 1778476102.26255
+  },
+  {
+    "title_fa": "Risks and rewards in France-Kenya partnership",
+    "title_en": "Risks and rewards in France-Kenya partnership",
+    "summary": [
+      "Nairobi&#039;s partnership with Paris has sparked criticism, with many worried Kenya&#039;s interests will be subordinated."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/features/2026/5/11/risks-and-rewards-in-france-kenya-partnership?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/features/2026/5/11/risks-and-rewards-in-france-kenya-partnership?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778476102.418245
+  },
+  {
+    "title_fa": "Gaza documentary dropped by the BBC wins BAFTA",
+    "title_en": "Gaza documentary dropped by the BBC wins BAFTA",
+    "summary": [
+      "A documentary exposing Israel&#039;s attacks on Gaza&#039;s health system and personnel won Best Current Affairs at the BAFTAs."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/gaza-documentary-dropped-by-the-bbc-wins-bafta?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/gaza-documentary-dropped-by-the-bbc-wins-bafta?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778476102.4182801
   },
   {
     "title_fa": "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon",
@@ -237,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778462604.210067
+    "timestamp": 1778476102.4183142
   },
   {
     "title_fa": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
@@ -253,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
     "image": null,
-    "timestamp": 1778462604.2100878
+    "timestamp": 1778476102.418332
   },
   {
     "title_fa": "Israeli weapon fires tiny metal cubes into people in Lebanon, like Gaza",
@@ -269,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1778462604.2100985
+    "timestamp": 1778476102.4183416
   },
   {
     "title_fa": "US Jewish leader, Israel advocate Abe Foxman dies at 86",
@@ -285,7 +333,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/us-jewish-leader-israel-advocate-abe-foxman-dies-at-86?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/us-jewish-leader-israel-advocate-abe-foxman-dies-at-86?traffic_source=rss",
     "image": null,
-    "timestamp": 1778462604.2101092
+    "timestamp": 1778476102.4183512
   },
   {
     "title_fa": "Gaza volunteers plant olive trees at devastated al-Shifa Hospital",
@@ -301,7 +349,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss",
     "image": null,
-    "timestamp": 1778462604.210153
+    "timestamp": 1778476102.4183958
   },
   {
     "title_fa": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
@@ -317,7 +365,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
     "image": null,
-    "timestamp": 1778462604.210164
+    "timestamp": 1778476102.4184062
   },
   {
     "title_fa": "Iran may ‘give assurances on the use of nuclear facilities’",
@@ -333,7 +381,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
     "image": null,
-    "timestamp": 1778462604.2101786
+    "timestamp": 1778476102.4184167
   },
   {
     "title_fa": "Trump says US will not allow Iran to reach enriched uranium",
@@ -349,7 +397,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss",
     "image": null,
-    "timestamp": 1778462604.2101893
+    "timestamp": 1778476102.4184265
   },
   {
     "title_fa": "Food inflation hammers households in war-hit Iran",
@@ -365,38 +413,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1778462604.2101982
-  },
-  {
-    "title_fa": "Putin hints at ending Russia’s war in Ukraine, but why now?",
-    "title_en": "Putin hints at ending Russia’s war in Ukraine, but why now?",
-    "summary": [
-      "Amid a US-backed ceasefire, Putin signals peace talks could progress, but broader negotiations remain stalled."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778462604.2102287
-  },
-  {
-    "title_fa": "Iran sends response to US ceasefire proposal via Pakistan",
-    "title_en": "Iran sends response to US ceasefire proposal via Pakistan",
-    "summary": [
-      "Tehran has been saying negotiations should focus on ending hostilities, securing guarantees against future attacks."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778462604.2102466
+    "timestamp": 1778476102.4184356
   }
 ]
