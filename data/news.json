@@ -1,19 +1,19 @@
 [
   {
-    "title_fa": "ترامپ: پاسخ ایران کاملا غیرقابل قبول است الجزیره: ایران می‌گوید پاسخ ما واقع‌بینانه و مثبت است",
-    "title_en": "ترامپ: پاسخ ایران کاملا غیرقابل قبول است الجزیره: ایران می‌گوید پاسخ ما واقع‌بینانه و مثبت است",
+    "title_fa": "ترامپ پاسخ ایران را «کاملا غیرقابل قبول» خواند",
+    "title_en": "ترامپ پاسخ ایران را «کاملا غیرقابل قبول» خواند",
     "summary": [
-      "دونالد ترامپ پس از آن که ساعتی پیش در انتقادی تند ایران را متهم به «بازی دادن آمریکا و جهان» کرد، در پست جدیدی گفته که پاسخ ایران را خوانده اما آن را «دوست ندارد» و از نظرش «کاملا غیرقابل قبول است». ساعتی پیش منابع ایرانی از پاسخ به پیشنهاد آمریکا خبر داده بودند و پاکستان گفت که این پیام را به آمریکا منتقل کرده است. یک مقام ایرانی به الجزیره گفته است پاسخ ایران «واقع بینانه و مثبت و بر پایان جنگ، تنگه هرمز و موضوع هسته‌ای» متمرکز است. بنیامین نتانیاهو هم در مصاحبه‌ای گفته است برای اینکه بتوان گف"
+      "دونالد ترامپ پاسخ ایران به پیشنهادات آمریکا را «کاملا غیرقابل قبول» خوانده و بدون شرح جزییاتی درباره این پاسخ، مقام‌های این کشور را به فریب آمریکا و جهان متهم کرده است. الجزیره به نقل از یک مقام ایرانی نوشته تهران پاسخ خود را «مثبت و واقع‌بینانه» خوانده است. پاسخ ایران روز یکشنبه از طریق پاکستان به دست آمریکا رسید و وال استریت ژورنال گزارش کرده که در آن تهران درباره بازکردن تدریجی تنگه هرمز در برابر رفع محاصره دریایی بنادر خود و همچنین «رقیق کردن بخشی از اورانیوم غنی‌شده» پیشنهاداتی طرح کرده است"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.514208
+    "timestamp": 1778462604.0587318
   },
   {
     "title_fa": "نرگس رشیدی بازیگر نقش نازنین زاغری-رتکلیف، بفتا نقش اول بهترین بازیگر زن را از آن خود کرد",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c9v3glp2rk8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9v3glp2rk8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.5142345
+    "timestamp": 1778462604.0587776
   },
   {
     "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.5142505
+    "timestamp": 1778462604.058794
   },
   {
     "title_fa": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.5142841
+    "timestamp": 1778462604.0588279
   },
   {
     "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.5142984
+    "timestamp": 1778462604.0588431
   },
   {
     "title_fa": "پوتین می‌گوید به اعتقاد او جنگ اوکراین «رو به پایان است»",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cddp2yer4z6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.5143166
+    "timestamp": 1778462604.0588684
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -109,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.5143385
-  },
-  {
-    "title_fa": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
-    "title_en": "اولین کنسرت رسمی تهران پس از جنگ؛ چرا اجرای کینگ‌رام بحث‌برانگیز شد؟",
-    "summary": [
-      "پس از ماه‌ها سکوت موسیقایی در تهران در سایه جنگ و پیامدهای آن، در اردیبهشت ماه ۱۴۰۵ چراغ اجراهای زنده بار دیگر روشن شد؛ بازگشتی که با کنسرت رامین سیدامامی، معروف به «کینگ رام» در مجموعه تئاتر لبخند، به‌عنوان اولین اجرای رسمی پس از جنگ رقم خورد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c5yerm8y135o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778455824.5143614
+    "timestamp": 1778462604.058886
   },
   {
     "title_fa": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
@@ -141,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.5143952
+    "timestamp": 1778462604.0589218
   },
   {
     "title_fa": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
@@ -157,7 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.5144248
+    "timestamp": 1778462604.0589538
+  },
+  {
+    "title_fa": "آنچه گذشت؛ ایران به پیشنهادهای آمریکا از طریق پاکستان پاسخ داد",
+    "title_en": "آنچه گذشت؛ ایران به پیشنهادهای آمریکا از طریق پاکستان پاسخ داد",
+    "summary": [
+      "دونالد ترامپ پس از آن که ساعتی پیش در انتقادی تند ایران را متهم به «بازی دادن آمریکا و جهان» کرد، در پست جدیدی گفته که پاسخ ایران را خوانده اما آن را «دوست ندارد» و از نظرش «کاملا غیرقابل قبول است». ساعتی پیش منابع ایرانی از پاسخ به پیشنهاد آمریکا خبر داده بودند و پاکستان گفت که این پیام را به آمریکا منتقل کرده است. یک مقام ایرانی به الجزیره گفته است پاسخ ایران «واقع بینانه و مثبت و بر پایان جنگ، تنگه هرمز و موضوع هسته‌ای» متمرکز است. بنیامین نتانیاهو هم در مصاحبه‌ای گفته است برای اینکه بتوان گف"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cj6prelk88zt?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778462604.0590005
   },
   {
     "title_fa": "ایران به پیشنهاد آمریکا برای پایان جنگ پاسخ داد",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8pz2njx5ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8pz2njx5ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.5144534
+    "timestamp": 1778462604.059032
   },
   {
     "title_fa": "واکنش کاخ سفید به انتشار تصویری که ترامپ را در قبر نشان می‌داد: مارک همیل «فردی بیمار» است",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq6p7d99ypeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.514508
+    "timestamp": 1778462604.05909
   },
   {
     "title_fa": "پوتین در رژه روز پیروزی ناتو را تقبیح کرد",
@@ -205,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpe40g9keo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.5145316
+    "timestamp": 1778462604.0591145
   },
   {
     "title_fa": "آینده جنگ‌‌ها در جهان؛ نبرد ربات‌ها علیه ربات‌ها",
@@ -221,7 +221,23 @@
     "url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0k2g8j8kjpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778455824.5145743
+    "timestamp": 1778462604.059141
+  },
+  {
+    "title_fa": "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon",
+    "title_en": "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon",
+    "summary": [
+      "US president says Tehran&#039;s response &#039;unacceptable&#039;, as Iranian military warns it is ready if US-Israel war resumes."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778462604.210067
   },
   {
     "title_fa": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
     "image": null,
-    "timestamp": 1778455824.7033257
+    "timestamp": 1778462604.2100878
   },
   {
     "title_fa": "Israeli weapon fires tiny metal cubes into people in Lebanon, like Gaza",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1778455824.7033384
+    "timestamp": 1778462604.2100985
   },
   {
     "title_fa": "US Jewish leader, Israel advocate Abe Foxman dies at 86",
@@ -269,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/us-jewish-leader-israel-advocate-abe-foxman-dies-at-86?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/us-jewish-leader-israel-advocate-abe-foxman-dies-at-86?traffic_source=rss",
     "image": null,
-    "timestamp": 1778455824.7033489
+    "timestamp": 1778462604.2101092
   },
   {
     "title_fa": "Gaza volunteers plant olive trees at devastated al-Shifa Hospital",
@@ -285,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss",
     "image": null,
-    "timestamp": 1778455824.703397
+    "timestamp": 1778462604.210153
   },
   {
     "title_fa": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
@@ -301,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
     "image": null,
-    "timestamp": 1778455824.7034078
+    "timestamp": 1778462604.210164
   },
   {
     "title_fa": "Iran may ‘give assurances on the use of nuclear facilities’",
@@ -317,7 +333,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
     "image": null,
-    "timestamp": 1778455824.703421
+    "timestamp": 1778462604.2101786
   },
   {
     "title_fa": "Trump says US will not allow Iran to reach enriched uranium",
@@ -333,7 +349,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss",
     "image": null,
-    "timestamp": 1778455824.7034316
+    "timestamp": 1778462604.2101893
   },
   {
     "title_fa": "Food inflation hammers households in war-hit Iran",
@@ -349,7 +365,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1778455824.7034404
+    "timestamp": 1778462604.2101982
   },
   {
     "title_fa": "Putin hints at ending Russia’s war in Ukraine, but why now?",
@@ -365,7 +381,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
     "image": null,
-    "timestamp": 1778455824.7034702
+    "timestamp": 1778462604.2102287
   },
   {
     "title_fa": "Iran sends response to US ceasefire proposal via Pakistan",
@@ -381,38 +397,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
     "image": null,
-    "timestamp": 1778455824.703488
-  },
-  {
-    "title_fa": "Football on ruins: Gaza’s orphans find refuge on the pitch",
-    "title_en": "Football on ruins: Gaza’s orphans find refuge on the pitch",
-    "summary": [
-      "A Gaza teenager orphaned by an Israeli attack finds refuge in football amid the decimation of Palestinian sports."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778455824.703499
-  },
-  {
-    "title_fa": "Stories of those killed in a single day of Israeli strikes on Lebanon",
-    "title_en": "Stories of those killed in a single day of Israeli strikes on Lebanon",
-    "summary": [
-      "Israeli strikes have killed at least 39 people in a single day of attacks across Lebanon during a so-called ‘ceasefire.’"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778455824.7035136
+    "timestamp": 1778462604.2102466
   }
 ]
