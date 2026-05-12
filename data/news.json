@@ -1,7 +1,7 @@
 [
   {
-    "title_fa": "سی‌بی‌اس: پاکستان همزمان با میانجی‌گری، به هواپیماهای نظامی ایران «پناه» داده است",
-    "title_en": "سی‌بی‌اس: پاکستان همزمان با میانجی‌گری، به هواپیماهای نظامی ایران «پناه» داده است",
+    "title_fa": "قالیباف: هیچ گزینه دیگری وجود ندارد، تعلل به ضرر مالیات‌دهندگان آمریکایی است",
+    "title_en": "قالیباف: هیچ گزینه دیگری وجود ندارد، تعلل به ضرر مالیات‌دهندگان آمریکایی است",
     "summary": [
       "شبکه سی‌بی‌اس - شریک کاری بی‌بی‌سی در آمریکا - گزارش کرده که پاکستان همزمان با میانجی‌گری میان تهران و واشنگتن به ایران اجازه داده چند هواپیمای نظامی خود را به این کشور منتقل کند. در همین حال، وال استریت ژورنال هم گزارش کرده که امارات در حملات نظامی علیه ایران نقش مستقیم داشته و در ساعات اولیه اعلام آتش‌بس به پالایشگاهی در جزیره لاوان حمله هوایی کرده است. همزمان دونالد ترامپ بار دیگر نارضایتی خود از پاسخ ایران را علنی ابراز کرده و گفته از نظر او آتش بس با ایران تنها با دستگاه تنفس مصنوعی برقرار "
     ],
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778542558.1020064
+    "timestamp": 1778548843.5783021
+  },
+  {
+    "title_fa": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
+    "title_en": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
+    "summary": [
+      "تورم، گرانی سوخت و تهدید امنیت غذایی در کشورهای آسیب‌پذیر، سه مورد از اصلی‌ترین پیامدهایی هستند که معمولا هنگام بحث درباره تاثیرات اقتصادی جنگ ایالات متحده و اسرائیل علیه ایران به آن‌ها اشاره می‌شود. اما این مناقشه که منجر به مسدود شدن تنگه هرمز شده است، برای گویان، یکی از کوچک‌ترین کشورهای آمریکای جنوبی به عنوان جدیدترین دولت نفتی جهان معنای دیگری دارد و به درآمدی بسیاربیشتر برای این کشور منجر شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778548843.578339
   },
   {
     "title_fa": "«هیچ جایگزینی برای زعفران ایران وجود ندارد»؛ چگونه جنگ قیمت «طلای سرخ» را افزایش داد؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778542558.102056
+    "timestamp": 1778548843.5783846
   },
   {
     "title_fa": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778542558.102142
+    "timestamp": 1778548843.5784514
   },
   {
     "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778542558.1021621
+    "timestamp": 1778548843.5784702
   },
   {
     "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778542558.102183
+    "timestamp": 1778548843.5784924
   },
   {
     "title_fa": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778542558.1022005
+    "timestamp": 1778548843.5785103
   },
   {
     "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778542558.1022158
+    "timestamp": 1778548843.578541
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -125,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778542558.1022491
-  },
-  {
-    "title_fa": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
-    "title_en": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
-    "summary": [
-      "از زمان رسیدن سانائه تاکائیچی به قدرت در اکتبر ۲۰۲۵، نخست‌وزیر ژاپن گام‌های بزرگی برای فاصله گرفتن از موضع صلح‌طلبانه پس از جنگ جهانی دوم برداشته است؛ از جمله لغو محدودیت‌های دیرینه بر صادرات تسلیحات و گسترش نقش نظامی ژاپن در خارج از کشور."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778542558.1022692
+    "timestamp": 1778548843.578574
   },
   {
     "title_fa": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778542558.1023111
+    "timestamp": 1778548843.5786157
   },
   {
     "title_fa": "قوه‌قضائیه ایران: عرفان شکورزاده به جرم «جاسوسی برای آمریکا و اسرائیل» اعدام شد",
@@ -173,7 +173,23 @@
     "url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778542558.102347
+    "timestamp": 1778548843.5786514
+  },
+  {
+    "title_fa": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
+    "title_en": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
+    "summary": [
+      "از زمان رسیدن سانائه تاکائیچی به قدرت در اکتبر ۲۰۲۵، نخست‌وزیر ژاپن گام‌های بزرگی برای فاصله گرفتن از موضع صلح‌طلبانه پس از جنگ جهانی دوم برداشته است؛ از جمله لغو محدودیت‌های دیرینه بر صادرات تسلیحات و گسترش نقش نظامی ژاپن در خارج از کشور."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778548843.5786886
   },
   {
     "title_fa": "آیا چین می‌تواند به جنگ آمریکا و ایران پایان دهد؟",
@@ -189,7 +205,23 @@
     "url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czx21qxwg31o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778542558.1023953
+    "timestamp": 1778548843.5787191
+  },
+  {
+    "title_fa": "Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread",
+    "title_en": "Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread",
+    "summary": [
+      "Iran&#039;s powerful parliamentary speaker says US has &#039;no alternative but to accept&#039; Tehran&#039;s 14-point proposal to end war."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778548843.6962564
   },
   {
     "title_fa": "EU, UK sanction Russians over deportations of Ukrainian children",
@@ -205,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss",
     "image": null,
-    "timestamp": 1778542558.215049
+    "timestamp": 1778548843.6962974
   },
   {
     "title_fa": "EU sanctions violent Israeli settlers after months of deadlock",
@@ -221,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
     "image": null,
-    "timestamp": 1778542558.2150717
+    "timestamp": 1778548843.6963177
   },
   {
     "title_fa": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
     "image": null,
-    "timestamp": 1778542558.2151353
+    "timestamp": 1778548843.6963778
   },
   {
     "title_fa": "UK sanctions network accused of planning attacks for Iran",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1778542558.2151456
+    "timestamp": 1778548843.6963875
   },
   {
     "title_fa": "Philippine senator flees ICC arrest over role in Duterte’s drug war",
@@ -269,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778542558.2151554
+    "timestamp": 1778548843.696398
   },
   {
     "title_fa": "How impunity in Shireen Abu Akleh’s case fuels Israeli attacks on the press",
@@ -285,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss",
     "image": null,
-    "timestamp": 1778542558.2151783
+    "timestamp": 1778548843.6964192
   },
   {
     "title_fa": "Trump says ceasefire is on ‘life support’ after rejecting Iran’s proposal",
@@ -301,22 +333,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss",
     "image": null,
-    "timestamp": 1778542558.215193
-  },
-  {
-    "title_fa": "Trump says ceasefire on ‘life support’, slams Iran response to US proposal",
-    "title_en": "Trump says ceasefire on ‘life support’, slams Iran response to US proposal",
-    "summary": [
-      "Efforts between Washington and Tehran to reach an agreement continue to fall short, fuelling concerns of return to war."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/11/trump-says-ceasefire-on-life-support-slams-iran-response-to-us-proposal?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/11/trump-says-ceasefire-on-life-support-slams-iran-response-to-us-proposal?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778542558.2152212
+    "timestamp": 1778548843.6964326
   }
 ]
