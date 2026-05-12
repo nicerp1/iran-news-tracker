@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "سفر فیدان به قطر در ادامه تلاش‌‌های دیپلماتیک برای حل اختلافات ایران و آمریکا",
-    "title_en": "سفر فیدان به قطر در ادامه تلاش‌‌های دیپلماتیک برای حل اختلافات ایران و آمریکا",
+    "title_fa": "فیدان در قطر: از تنگه هرمز نباید به‌عنوان سلاح استفاده شود",
+    "title_en": "فیدان در قطر: از تنگه هرمز نباید به‌عنوان سلاح استفاده شود",
     "summary": [
-      "با پافشاری ایران و آمریکا بر شرایطشان، تلاش‌های دیپلماتیک همسایگان ایران برای حصول نوعی توافق صلح ادامه دارد.‌ هاکان فیدان، وزیر خارجه ترکیه که از نزدیک با آمریکا، ایران و پاکستان رایزنی داشته است، امروز در قطر گفت‌و‌گوهایی خواهد داشت. این تحرکات دیپلماتیک در آستانه سفر رئیس‌جمهور آمریکا به چین است. دیروز دونالد ترامپ یک بار دیگر از پاسخ ایران به پیشنهاد آمریکا به‌شدت انتقاد کرد و هشدار داد که آتش‌بس در وضعیت بسیار شکننده‌ای قرار داد. ایران می‌گوید که خواسته‌هایش «معقول و سخاوتمندانه» است و هشدا"
+      "وزیر خارجه ترکیه که به قطر سفر کرده است، می‌گوید آنکارا از تلاش‌ برای باز کردن تنگه هرمز حمایت می‌کند. هاکان فیدان در عین حال تاکید کرد که از این آبراه نباید به‌عنوان «سلاح» استفاده شود. نخست‌وزیر قطر اما گفت که ایران نباید از تنگه هرمز به‌عنوان ابزاری برای اعمال فشار یا «باج‌گیری» از کشورهای منطقه خلیج فارس استفاده کند. با پافشاری ایران و آمریکا بر شرایطشان، تلاش‌های دیپلماتیک همسایگان ایران برای حصول نوعی توافق صلح ادامه دارد.‌ در همین حال کویت می‌گوید که «چهار نفوذی وابسته به سپاه پاسداران» ر"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778580516.5931897
+    "timestamp": 1778587749.1945775
+  },
+  {
+    "title_fa": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
+    "title_en": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
+    "summary": [
+      "قوه قضائیه ایران از اعدام عبدالجلیل شه‌بخش به جرم «عضویت در گروه انصار الفرقان» خبر داد. در بیانیه قوه قضائیه آمده است عبدالجلیل شه‌بخش که «در جریان اقدامات ضدتروریستی در شرق کشور» بازداشت شده بود، بامداد امروز (سه‌شنبه) اعدام شده است. انصارالفرقان یک گروه مسلح سنی است که در سال های گذشته در مواردی در جنوب شرقی ایران به نیروهای حکومت حمله کرده است. حکومت ایران این گروه را «باغی و تروریستی» می‌خواند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778587749.1946142
   },
   {
     "title_fa": "بحران تنگه هرمز و بازار باقلوا؛ آیا پسته ایرانی جای خود را به رقبای ترک و سوری می‌دهد؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778580516.5932271
+    "timestamp": 1778587749.1946628
   },
   {
     "title_fa": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
@@ -45,71 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778580516.593257
-  },
-  {
-    "title_fa": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
-    "title_en": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
-    "summary": [
-      "به گزارش نشریه آمریکایی وال استريت ژورنال، امارات متحده عربی به‌طور مخفيانه حملات نظامی عليه ايران انجام داده است. منابع آگاه به وال استریت ژورنال گفته‌اند حملاتی که امارات تاکنون به‌صورت علنی تاييد نکرده، شامل حمله به يک پالايشگاه در جزيره لاوان در خليج فارس بوده است. دونالد ترامپ یک بار دیگر از پاسخ ایران به پیشنهاد آمریکا به‌شدت انتقاد کرد و هشدار داد که آتش‌بس در وضعیت بسیار شکننده‌ای قرار داد. رئیس‌جمهور آمریکا گفت که در متن ایران اشاره‌ای به چشم‌پوشی از سلاح هسته‌ای نشده است. او پاسخ ایران"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778580516.5933235
-  },
-  {
-    "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
-    "title_en": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
-    "summary": [
-      "جنگ ایران پرسش‌هایی را درباره ماهیت شراکت امنیتی واشنگتن و کشورهای عضو شورای همکاری خلیج فارس مطرح کرده است. آیا جنگ کنونی می‌تواند معادلات این شراکت را تغییر دهد؟ و آیا جایگزینی برای چتر امنیتی آمریکا وجود دارد؟"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778580516.5933423
-  },
-  {
-    "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
-    "title_en": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
-    "summary": [
-      "جنگ ایران اقتصادهای خلیج فارس را به لرزه درآورده است: خسارت در بخش انرژی، رکود در گردشگری و فشارهای مالی که ممکن است سال‌ها تداوم یابد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778580516.593364
-  },
-  {
-    "title_fa": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
-    "title_en": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
-    "summary": [
-      "فعالیت سفارتخانه‌‌های ایران در شبکه اجتماعی ایکس در پی جنگ آمریکا و اسرائیل با ایران مورد توجه میلیون‌ها مخاطب غیر ایرانی و همچنین کارشناسان تبلیغات جنگ قرار گرفته است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778580516.5933812
+    "timestamp": 1778587749.1946921
   },
   {
     "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
@@ -125,7 +77,39 @@
     "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778580516.5934107
+    "timestamp": 1778587749.1947076
+  },
+  {
+    "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
+    "title_en": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
+    "summary": [
+      "جنگ ایران پرسش‌هایی را درباره ماهیت شراکت امنیتی واشنگتن و کشورهای عضو شورای همکاری خلیج فارس مطرح کرده است. آیا جنگ کنونی می‌تواند معادلات این شراکت را تغییر دهد؟ و آیا جایگزینی برای چتر امنیتی آمریکا وجود دارد؟"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778587749.1947322
+  },
+  {
+    "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
+    "title_en": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
+    "summary": [
+      "جنگ ایران اقتصادهای خلیج فارس را به لرزه درآورده است: خسارت در بخش انرژی، رکود در گردشگری و فشارهای مالی که ممکن است سال‌ها تداوم یابد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778587749.1947489
   },
   {
     "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
@@ -141,7 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778580516.5934432
+    "timestamp": 1778587749.1948173
+  },
+  {
+    "title_fa": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
+    "title_en": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
+    "summary": [
+      "به گزارش نشریه آمریکایی وال استريت ژورنال، امارات متحده عربی به‌طور مخفيانه حملات نظامی عليه ايران انجام داده است. منابع آگاه به وال استریت ژورنال گفته‌اند حملاتی که امارات تاکنون به‌صورت علنی تاييد نکرده، شامل حمله به يک پالايشگاه در جزيره لاوان در خليج فارس بوده است. دونالد ترامپ یک بار دیگر از پاسخ ایران به پیشنهاد آمریکا به‌شدت انتقاد کرد و هشدار داد که آتش‌بس در وضعیت بسیار شکننده‌ای قرار داد. رئیس‌جمهور آمریکا گفت که در متن ایران اشاره‌ای به چشم‌پوشی از سلاح هسته‌ای نشده است. او پاسخ ایران"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778587749.1948628
   },
   {
     "title_fa": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778580516.5935047
+    "timestamp": 1778587749.1949222
   },
   {
     "title_fa": "قوه‌قضائیه ایران: عرفان شکورزاده به جرم «جاسوسی برای آمریکا و اسرائیل» اعدام شد",
@@ -173,7 +173,23 @@
     "url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778580516.5935392
+    "timestamp": 1778587749.194936
+  },
+  {
+    "title_fa": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
+    "title_en": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
+    "summary": [
+      "فعالیت سفارتخانه‌‌های ایران در شبکه اجتماعی ایکس در پی جنگ آمریکا و اسرائیل با ایران مورد توجه میلیون‌ها مخاطب غیر ایرانی و همچنین کارشناسان تبلیغات جنگ قرار گرفته است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778587749.194954
   },
   {
     "title_fa": "«هیچ جایگزینی برای زعفران ایران وجود ندارد»؛ چگونه جنگ قیمت «طلای سرخ» را افزایش داد؟",
@@ -189,23 +205,23 @@
     "url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778580516.5935557
+    "timestamp": 1778587749.194971
   },
   {
-    "title_fa": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
-    "title_en": "ژاپن در آستانه چرخش تاریخی؛ صلح‌طلبی یا قدرت نظامی",
+    "title_fa": "Video: Philippine senator flees ICC arrest over role in drug war",
+    "title_en": "Video: Philippine senator flees ICC arrest over role in drug war",
     "summary": [
-      "از زمان رسیدن سانائه تاکائیچی به قدرت در اکتبر ۲۰۲۵، نخست‌وزیر ژاپن گام‌های بزرگی برای فاصله گرفتن از موضع صلح‌طلبانه پس از جنگ جهانی دوم برداشته است؛ از جمله لغو محدودیت‌های دیرینه بر صادرات تسلیحات و گسترش نقش نظامی ژاپن در خارج از کشور."
+      "Philippines Senator Ronald Dela Rosa has taken refuge in the country’s parliament, as police sought to detain him."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cjrp7nj4jzzo?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/video-philippine-senator-flees-icc-arrest-over-role-in-drug-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/video-philippine-senator-flees-icc-arrest-over-role-in-drug-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1778580516.593591
+    "timestamp": 1778587749.2827756
   },
   {
     "title_fa": "Mass wedding brings brief joy to couples in devastated Gaza",
@@ -221,13 +237,13 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/mass-wedding-brings-brief-joy-to-couples-in-devastated-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/mass-wedding-brings-brief-joy-to-couples-in-devastated-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1778580516.8751755
+    "timestamp": 1778587749.282844
   },
   {
     "title_fa": "Israeli military kills six in Lebanon, issues more displacement threats",
     "title_en": "Israeli military kills six in Lebanon, issues more displacement threats",
     "summary": [
-      "The deadly air attack comes just days before Israeli and Lebanese officials are due to meet in Washington."
+      "The deadly air attack comes just days before Israeli and Lebanese officials are due to meet in Washington, DC."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/12/israeli-military-kills-six-in-lebanon-issues-more-displacement-threats?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/12/israeli-military-kills-six-in-lebanon-issues-more-displacement-threats?traffic_source=rss",
     "image": null,
-    "timestamp": 1778580516.8752043
+    "timestamp": 1778587749.2828665
   },
   {
     "title_fa": "France’s Macron announces $27bn investment in Africa at Kenya summit",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/12/frances-macron-announces-27bn-investment-in-africa-at-kenya-summit?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/12/frances-macron-announces-27bn-investment-in-africa-at-kenya-summit?traffic_source=rss",
     "image": null,
-    "timestamp": 1778580516.8752346
+    "timestamp": 1778587749.2828956
   },
   {
     "title_fa": "Palestine weekly wrap: Israeli settlers rampage through West Bank villages",
@@ -269,54 +285,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/12/palestine-weekly-wrap-israeli-settlers-rampage-through-west-bank-villages?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/12/palestine-weekly-wrap-israeli-settlers-rampage-through-west-bank-villages?traffic_source=rss",
     "image": null,
-    "timestamp": 1778580516.8752863
-  },
-  {
-    "title_fa": "Why is Israel allowed to take part in the Eurovision song contest?",
-    "title_en": "Why is Israel allowed to take part in the Eurovision song contest?",
-    "summary": [
-      "Five countries are boycotting the 70th edition of Eurovision on May 16 in protest over Israel&#039;s genocidal war on Gaza."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/12/why-is-israel-allowed-to-take-part-in-the-eurovision-song-contest?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/12/why-is-israel-allowed-to-take-part-in-the-eurovision-song-contest?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778580516.8753145
-  },
-  {
-    "title_fa": "Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’",
-    "title_en": "Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’",
-    "summary": [
-      "US-Iran tensions remain high as Tehran warns against &#039;aggression&#039; and Trump says the ceasefire is on &#039;life support&#039;."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778580516.8753254
-  },
-  {
-    "title_fa": "Global energy crisis highlights meagre oil buffers in developing world",
-    "title_en": "Global energy crisis highlights meagre oil buffers in developing world",
-    "summary": [
-      "Governments in the Global South are among the least prepared to respond to the oil shock caused by the Iran war."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/economy/2026/5/12/global-energy-crisis-highlights-meagre-oil-buffers-in-developing-world?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/economy/2026/5/12/global-energy-crisis-highlights-meagre-oil-buffers-in-developing-world?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778580516.8753507
+    "timestamp": 1778587749.2829459
   }
 ]
