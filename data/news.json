@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "فیدان در قطر: از تنگه هرمز نباید به‌عنوان سلاح استفاده شود",
-    "title_en": "فیدان در قطر: از تنگه هرمز نباید به‌عنوان سلاح استفاده شود",
+    "title_fa": "بحران تنگه هرمز؛ ثبت بالاترین نرخ تورم آمریکا در سه سال اخیر",
+    "title_en": "بحران تنگه هرمز؛ ثبت بالاترین نرخ تورم آمریکا در سه سال اخیر",
     "summary": [
-      "وزیر خارجه ترکیه که به قطر سفر کرده است، می‌گوید آنکارا از تلاش‌ برای باز کردن تنگه هرمز حمایت می‌کند. هاکان فیدان در عین حال تاکید کرد که از این آبراه نباید به‌عنوان «سلاح» استفاده شود. نخست‌وزیر قطر اما گفت که ایران نباید از تنگه هرمز به‌عنوان ابزاری برای اعمال فشار یا «باج‌گیری» از کشورهای منطقه خلیج فارس استفاده کند. با پافشاری ایران و آمریکا بر شرایطشان، تلاش‌های دیپلماتیک همسایگان ایران برای حصول نوعی توافق صلح ادامه دارد.‌ در همین حال کویت می‌گوید که «چهار نفوذی وابسته به سپاه پاسداران» ر"
+      "نرخ تورم در آمریکا به بالاترین حد خود در سه سال اخیر رسیده و دلیل اصلی آن هم گرانی انرژی ناشی از جنگ با ایران عنوان شده است. افزایش ۱۸ درصدی قیمت سوخت در ماه آوریل در کنار گرانتر شدن هزینه‌های خوراک، مسکن، پوشاک و مسافرت‌های هوایی، هزینه جنگ را برای مصرف‌کنندگان آمریکایی ملموس‌تر کرده است. دونالد ترامپ می‌گوید که انتظار دارد که پس از پایان جنگ، قیمت نفت کاهش یابد. اما با ادامه پافشاری ایران و آمریکا بر شرایطشان، روند مذاکرات به بن‌بست رسیده و قیمت نفت در حال افزایش است. رئیس شرکت عظیم نفتی سعودی"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778597487.618339
+    "timestamp": 1778605179.6865294
+  },
+  {
+    "title_fa": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
+    "title_en": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
+    "summary": [
+      "دادگاه عالی کیفری بحرین امروز دو نفر را برای «همکاری و ارتباط با سپاه پاسداران تروریستی ایران» به حبس ابد محکوم کرد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778605179.6865692
   },
   {
     "title_fa": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778597487.6183739
+    "timestamp": 1778605179.6866372
   },
   {
     "title_fa": "بحران تنگه هرمز و بازار باقلوا؛ آیا پسته ایرانی جای خود را به رقبای ترک و سوری می‌دهد؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778597487.6184177
+    "timestamp": 1778605179.6866639
   },
   {
     "title_fa": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778597487.618446
+    "timestamp": 1778605179.686693
   },
   {
     "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778597487.6184614
+    "timestamp": 1778605179.6867144
   },
   {
     "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
@@ -93,39 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778597487.618511
-  },
-  {
-    "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
-    "title_en": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
-    "summary": [
-      "جنگ ایران اقتصادهای خلیج فارس را به لرزه درآورده است: خسارت در بخش انرژی، رکود در گردشگری و فشارهای مالی که ممکن است سال‌ها تداوم یابد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778597487.6185293
-  },
-  {
-    "title_fa": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
-    "title_en": "جنگ آمریکا و اسرائیل با ایران؛ یک جنگ با دو ادعای پیروزی",
-    "summary": [
-      "این دور از جنگ آمریکا و اسرائیل با ایران شاید فعلا پایان یافته باشد؛ دست‌کم این پیامی است که از واشنگتن مخابره می‌شود. اما پرسش اصلی این است: چه کسی پیروز شد؟"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cm2pjgg6lvlo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778597487.6186004
+    "timestamp": 1778605179.686734
   },
   {
     "title_fa": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
@@ -141,7 +125,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778597487.6186464
+    "timestamp": 1778605179.6868474
   },
   {
     "title_fa": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
@@ -157,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778597487.6187048
+    "timestamp": 1778605179.686907
   },
   {
     "title_fa": "قوه‌قضائیه ایران: عرفان شکورزاده به جرم «جاسوسی برای آمریکا و اسرائیل» اعدام شد",
@@ -173,7 +157,23 @@
     "url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778597487.6187186
+    "timestamp": 1778605179.6869214
+  },
+  {
+    "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
+    "title_en": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
+    "summary": [
+      "جنگ ایران اقتصادهای خلیج فارس را به لرزه درآورده است: خسارت در بخش انرژی، رکود در گردشگری و فشارهای مالی که ممکن است سال‌ها تداوم یابد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778605179.6869366
   },
   {
     "title_fa": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778597487.6187341
+    "timestamp": 1778605179.6869519
   },
   {
     "title_fa": "«هیچ جایگزینی برای زعفران ایران وجود ندارد»؛ چگونه جنگ قیمت «طلای سرخ» را افزایش داد؟",
@@ -205,7 +205,103 @@
     "url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778597487.6187506
+    "timestamp": 1778605179.6869683
+  },
+  {
+    "title_fa": "Israel’s war creating a ‘lost generation’ of Lebanese students",
+    "title_en": "Israel’s war creating a ‘lost generation’ of Lebanese students",
+    "summary": [
+      "Israel&#039;s war on Lebanon has displaced hundreds of thousands, and is the latest crisis facing country&#039;s education system."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778605179.782966
+  },
+  {
+    "title_fa": "Kuwait says it foils infiltration operation by Iran’s IRGC",
+    "title_en": "Kuwait says it foils infiltration operation by Iran’s IRGC",
+    "summary": [
+      "Kuwait arrests four men it accuses of being in Revolutionary Guard and conducting failed infiltration of Bubiyan Island."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778605179.7829819
+  },
+  {
+    "title_fa": "Pentagon gives new $29bn Iran war price tag, downplays munitions concerns",
+    "title_en": "Pentagon gives new $29bn Iran war price tag, downplays munitions concerns",
+    "summary": [
+      "Appearing before congressional panel, Defense Secretary Hegseth says US is prepared to either escalate or wind down war."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778605179.782993
+  },
+  {
+    "title_fa": "Israel kills, injures average of 4 children daily amid Lebanon ‘ceasefire’",
+    "title_en": "Israel kills, injures average of 4 children daily amid Lebanon ‘ceasefire’",
+    "summary": [
+      "The statistics shared by Save the Children refer to the first 25 days of the truce that came into effect on April 16."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/12/israel-kills-injures-average-of-4-children-daily-amid-lebanon-ceasefire?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/12/israel-kills-injures-average-of-4-children-daily-amid-lebanon-ceasefire?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778605179.783008
+  },
+  {
+    "title_fa": "Israel killing at least one child a week in occupied West Bank, UN says",
+    "title_en": "Israel killing at least one child a week in occupied West Bank, UN says",
+    "summary": [
+      "Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778605179.783031
+  },
+  {
+    "title_fa": "How one Palestinian teen’s life changed forever after Israeli gunfire",
+    "title_en": "How one Palestinian teen’s life changed forever after Israeli gunfire",
+    "summary": [
+      "Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778605179.783048
   },
   {
     "title_fa": "Lamine Yamal’s Palestine flag wave hailed by fans, activists and athletes",
@@ -221,7 +317,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/12/lamine-yamals-palestine-flag-wave-hailed-by-fans-activists-and-athletes?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/12/lamine-yamals-palestine-flag-wave-hailed-by-fans-activists-and-athletes?traffic_source=rss",
     "image": null,
-    "timestamp": 1778597487.775976
+    "timestamp": 1778605179.7830603
   },
   {
     "title_fa": "The Flotilla Diaries: Inside the 2025 mission to break the Gaza siege",
@@ -237,7 +333,7 @@
     "url": "https://www.aljazeera.com/video/witness/2026/5/12/the-flotilla-diaries-inside-the-2025-mission-to-break-the-gaza-siege?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/witness/2026/5/12/the-flotilla-diaries-inside-the-2025-mission-to-break-the-gaza-siege?traffic_source=rss",
     "image": null,
-    "timestamp": 1778597487.7759902
+    "timestamp": 1778605179.7830703
   },
   {
     "title_fa": "Israel approves law on death penalty for October 7 detainees",
@@ -253,7 +349,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-approves-law-on-death-penalty-for-october-7-detainees?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-approves-law-on-death-penalty-for-october-7-detainees?traffic_source=rss",
     "image": null,
-    "timestamp": 1778597487.7760572
+    "timestamp": 1778605179.7831366
   },
   {
     "title_fa": "A secret Israeli base in Iraq? What we know",
@@ -269,7 +365,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/12/a-secret-israeli-base-in-iraq-what-we-know?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/12/a-secret-israeli-base-in-iraq-what-we-know?traffic_source=rss",
     "image": null,
-    "timestamp": 1778597487.776076
+    "timestamp": 1778605179.7831547
   },
   {
     "title_fa": "Report alleges Israel operated covert outpost in Iraq during war on Iran",
@@ -285,54 +381,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/report-alleges-israel-operated-covert-outpost-in-iraq-during-war-on-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/report-alleges-israel-operated-covert-outpost-in-iraq-during-war-on-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1778597487.7760952
-  },
-  {
-    "title_fa": "Why the Iran war is threatening whales near South Africa",
-    "title_en": "Why the Iran war is threatening whales near South Africa",
-    "summary": [
-      "Whales are increasingly exposed to traffic - and ship strikes."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/12/why-the-iran-war-is-threatening-whales-near-south-africa?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/12/why-the-iran-war-is-threatening-whales-near-south-africa?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778597487.7761033
-  },
-  {
-    "title_fa": "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
-    "title_en": "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
-    "summary": [
-      "Pakistan rejects allegations of aiding Iran militarily while Trump says truce on &#039;life support&#039;."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/12/pakistan-scrambles-to-salvage-us-iran-diplomacy-as-ceasefire-faces-collapse?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/12/pakistan-scrambles-to-salvage-us-iran-diplomacy-as-ceasefire-faces-collapse?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778597487.7761195
-  },
-  {
-    "title_fa": "Video: Philippine senator flees ICC arrest over role in drug war",
-    "title_en": "Video: Philippine senator flees ICC arrest over role in drug war",
-    "summary": [
-      "Philippines Senator Ronald Dela Rosa has taken refuge in the country’s parliament, as police sought to detain him."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/video-philippine-senator-flees-icc-arrest-over-role-in-drug-war?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/video-philippine-senator-flees-icc-arrest-over-role-in-drug-war?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778597487.776132
+    "timestamp": 1778605179.7831733
   }
 ]
