@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.6865294
+    "timestamp": 1778612243.1107292
+  },
+  {
+    "title_fa": "اینترنت پرو؛ احساسات متناقض کاربران و جا خالی دادن مسئولان",
+    "title_en": "اینترنت پرو؛ احساسات متناقض کاربران و جا خالی دادن مسئولان",
+    "summary": [
+      "بیش از ۷۰ روز است که اینترنت جهانی در ایران قطع شده و هزینه‌های بسیاری بر اقتصاد اشخاص و کشور بر جا گذاشته است. در روزهای اخیر صداهای بیشتر از کاربران اینترنت در ایران شنیده می‌شود و به نظر می‌رسد تعداد بیشتری توانسته‌اند به اینترنت جهانی وصل شوند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778612243.1107578
   },
   {
     "title_fa": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.6865692
+    "timestamp": 1778612243.1107757
   },
   {
     "title_fa": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.6866372
+    "timestamp": 1778612243.110843
   },
   {
     "title_fa": "بحران تنگه هرمز و بازار باقلوا؛ آیا پسته ایرانی جای خود را به رقبای ترک و سوری می‌دهد؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.6866639
+    "timestamp": 1778612243.1108582
   },
   {
     "title_fa": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.686693
+    "timestamp": 1778612243.1108859
   },
   {
     "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.6867144
+    "timestamp": 1778612243.1109073
   },
   {
     "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.686734
+    "timestamp": 1778612243.1109293
   },
   {
     "title_fa": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.6868474
+    "timestamp": 1778612243.11104
   },
   {
     "title_fa": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.686907
+    "timestamp": 1778612243.1111
   },
   {
     "title_fa": "قوه‌قضائیه ایران: عرفان شکورزاده به جرم «جاسوسی برای آمریکا و اسرائیل» اعدام شد",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c042e6px42ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.6869214
+    "timestamp": 1778612243.1111147
   },
   {
     "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.6869366
+    "timestamp": 1778612243.1111693
   },
   {
     "title_fa": "تحلیلگر هوش مصنوعی درباره دیپلماسی دیجیتال ایران در دوران جنگ: سواری گرفتن از الگوریتم، وقتی گارد مخاطب پایین است",
@@ -189,23 +205,87 @@
     "url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c936lxwgngqo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778605179.6869519
+    "timestamp": 1778612243.1111896
   },
   {
-    "title_fa": "«هیچ جایگزینی برای زعفران ایران وجود ندارد»؛ چگونه جنگ قیمت «طلای سرخ» را افزایش داد؟",
-    "title_en": "«هیچ جایگزینی برای زعفران ایران وجود ندارد»؛ چگونه جنگ قیمت «طلای سرخ» را افزایش داد؟",
+    "title_fa": "Kevin Warsh confirmed to US Federal Reserve board in close Senate vote",
+    "title_en": "Kevin Warsh confirmed to US Federal Reserve board in close Senate vote",
     "summary": [
-      "در پی بسته شدن تنگه هرمز، عرضه زعفران کاهش یافته و این محدودیت شامل برخی اقلام اساسی دیگر مانند نخود و زرشک نیز شده است؛ موادی که در بسیاری از غذاهای ایرانی و خاورمیانه‌ای کاربرد گسترده‌ای دارند."
+      "Senator John Fetterman of Pennsylvania, a Democrat, joins Republicans to advance Warsh&#039;s confirmation."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/clyp3e8eyp8o?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote?traffic_source=rss",
     "image": null,
-    "timestamp": 1778605179.6869683
+    "timestamp": 1778612243.2908146
+  },
+  {
+    "title_fa": "Serbia hosts first joint military exercise with NATO",
+    "title_en": "Serbia hosts first joint military exercise with NATO",
+    "summary": [
+      "The two-week-long drills come less than 30 years after NATO bombed Belgrade in the Kosovo war."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778612243.2908273
+  },
+  {
+    "title_fa": "Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy",
+    "title_en": "Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy",
+    "summary": [
+      "Mike Huckabee calls on Gulf states to &#039;pick a side&#039; in the war between Israel and Iran as he heaps praise on Abu Dhabi."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778612243.2908487
+  },
+  {
+    "title_fa": "US faces rising costs with Iran war driving energy prices, inflation higher",
+    "title_en": "US faces rising costs with Iran war driving energy prices, inflation higher",
+    "summary": [
+      "Consumer prices spike in April, driven by soaring energy costs, with petrol prices up nearly 30 percent since last year."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778612243.290859
+  },
+  {
+    "title_fa": "Inside US Democrats’ Gaza fight – and what it means for 2028 elections",
+    "title_en": "Inside US Democrats’ Gaza fight – and what it means for 2028 elections",
+    "summary": [
+      "Support for Israel was once untouchable in US politics. Now Democrats are divided. Is this a turning point for the party"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/the-take-2/2026/5/12/aje-onl-tt_usa_palandthedemocrats_av_v3-110526?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/the-take-2/2026/5/12/aje-onl-tt_usa_palandthedemocrats_av_v3-110526?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778612243.2908733
   },
   {
     "title_fa": "Israel’s war creating a ‘lost generation’ of Lebanese students",
@@ -221,7 +301,7 @@
     "url": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss",
     "image": null,
-    "timestamp": 1778605179.782966
+    "timestamp": 1778612243.2909048
   },
   {
     "title_fa": "Kuwait says it foils infiltration operation by Iran’s IRGC",
@@ -237,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc?traffic_source=rss",
     "image": null,
-    "timestamp": 1778605179.7829819
+    "timestamp": 1778612243.2909172
   },
   {
     "title_fa": "Pentagon gives new $29bn Iran war price tag, downplays munitions concerns",
@@ -253,7 +333,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss",
     "image": null,
-    "timestamp": 1778605179.782993
+    "timestamp": 1778612243.2909272
   },
   {
     "title_fa": "Israel kills, injures average of 4 children daily amid Lebanon ‘ceasefire’",
@@ -269,7 +349,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/12/israel-kills-injures-average-of-4-children-daily-amid-lebanon-ceasefire?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/12/israel-kills-injures-average-of-4-children-daily-amid-lebanon-ceasefire?traffic_source=rss",
     "image": null,
-    "timestamp": 1778605179.783008
+    "timestamp": 1778612243.2909396
   },
   {
     "title_fa": "Israel killing at least one child a week in occupied West Bank, UN says",
@@ -285,7 +365,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss",
     "image": null,
-    "timestamp": 1778605179.783031
+    "timestamp": 1778612243.2909591
   },
   {
     "title_fa": "How one Palestinian teen’s life changed forever after Israeli gunfire",
@@ -301,7 +381,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss",
     "image": null,
-    "timestamp": 1778605179.783048
+    "timestamp": 1778612243.2909713
   },
   {
     "title_fa": "Lamine Yamal’s Palestine flag wave hailed by fans, activists and athletes",
@@ -317,7 +397,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/12/lamine-yamals-palestine-flag-wave-hailed-by-fans-activists-and-athletes?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/12/lamine-yamals-palestine-flag-wave-hailed-by-fans-activists-and-athletes?traffic_source=rss",
     "image": null,
-    "timestamp": 1778605179.7830603
+    "timestamp": 1778612243.2909825
   },
   {
     "title_fa": "The Flotilla Diaries: Inside the 2025 mission to break the Gaza siege",
@@ -333,54 +413,6 @@
     "url": "https://www.aljazeera.com/video/witness/2026/5/12/the-flotilla-diaries-inside-the-2025-mission-to-break-the-gaza-siege?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/witness/2026/5/12/the-flotilla-diaries-inside-the-2025-mission-to-break-the-gaza-siege?traffic_source=rss",
     "image": null,
-    "timestamp": 1778605179.7830703
-  },
-  {
-    "title_fa": "Israel approves law on death penalty for October 7 detainees",
-    "title_en": "Israel approves law on death penalty for October 7 detainees",
-    "summary": [
-      "Israel approves law on death penalty for October 7 detainees"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-approves-law-on-death-penalty-for-october-7-detainees?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-approves-law-on-death-penalty-for-october-7-detainees?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778605179.7831366
-  },
-  {
-    "title_fa": "A secret Israeli base in Iraq? What we know",
-    "title_en": "A secret Israeli base in Iraq? What we know",
-    "summary": [
-      "Israeli troops reportedly used this base to launch attacks against Iran during the war."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/12/a-secret-israeli-base-in-iraq-what-we-know?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/12/a-secret-israeli-base-in-iraq-what-we-know?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778605179.7831547
-  },
-  {
-    "title_fa": "Report alleges Israel operated covert outpost in Iraq during war on Iran",
-    "title_en": "Report alleges Israel operated covert outpost in Iraq during war on Iran",
-    "summary": [
-      "According to The Wall Street Journal, Israel operated a military base in the Iraq during the US-Israeli war on Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/report-alleges-israel-operated-covert-outpost-in-iraq-during-war-on-iran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/report-alleges-israel-operated-covert-outpost-in-iraq-during-war-on-iran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778605179.7831733
+    "timestamp": 1778612243.2909927
   }
 ]
