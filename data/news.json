@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "رویترز: عربستان در خلال جنگ حملات متعددی علیه ایران انجام داده است",
-    "title_en": "رویترز: عربستان در خلال جنگ حملات متعددی علیه ایران انجام داده است",
+    "title_fa": "نماینده مجلس ایران: آمریکا و اسرائیل می‌خواهند برخی از جزایر جنوب را تصرف کنند",
+    "title_en": "نماینده مجلس ایران: آمریکا و اسرائیل می‌خواهند برخی از جزایر جنوب را تصرف کنند",
     "summary": [
-      "گزارش خبرگزاری رویترز حاکی است که عربستان سعودی در واکنش به حملات ایران در جريان جنگ خاورمیانه، چندين حمله اعلام‌نشده عليه ايران انجام داده است. پیشتر گزارش شد که امارات متحده عربی هم به طور مخفیانه حملات هوایی علیه ایران انجام داده است، دونالد ترامپ در آستانه سفر به چین گفت «یا با ایران به توافق می رسیم یا نابود می‌شوند.» در مقابل، عباس عراقچی گفته تنها دلیل پیان نیافتن جنگ «عدم صداقت» آمریکاست. در همین حال قوه قضائیه ایران صبح امروز از اعدام احسان افرشته به جرم «جاسوسی برای اسرائیل» خبر داده ا"
+      "یک نماینده مجلس ایران می‌گوید که آمریکا و اسرائیل بنای یک عملیات گسترده علیه ایران را دارند. کامران غضنفری با اشاره به ادامه انتقال تجهیزات و نیرو از سوی آمریکا به خاورمیانه، احتمال تصرف برخی از جزایر ایران در جنوب را نیز مطرح کرده است. دونالد ترامپ در آستانه سفر به چین گفت که یا با ایران به توافق می‌رسیم یا «نابود می‌شوند.» عباس عراقچی هم در مقابل تنها دلیل پایان نیافتن جنگ را «عدم صداقت» آمریکا دانست. پس از گذشت بیش از ده هفته از آغاز جنگ و در حالی که آتش‌بسی شکننده برقرار است، تهران و واشنگتن"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778659837.6788898
+    "timestamp": 1778668864.2457926
+  },
+  {
+    "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» اعدام شد",
+    "title_en": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» اعدام شد",
+    "summary": [
+      "قوه قضائیه ایران اعلام کرده است که یک شهروند ایرانی به نام احسان افرشته را پس از محاکمه به اتهام «جاسوسی و همکاری اطلاعاتی به نفع اسرائیل» امروز صبح اعدام کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778668864.2458153
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778659837.678919
+    "timestamp": 1778668864.245844
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -45,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778659837.6789422
-  },
-  {
-    "title_fa": "اینترنت پرو؛ احساسات متناقض کاربران و جا خالی دادن مسئولان",
-    "title_en": "اینترنت پرو؛ احساسات متناقض کاربران و جا خالی دادن مسئولان",
-    "summary": [
-      "بیش از ۷۰ روز است که اینترنت جهانی در ایران قطع شده و هزینه‌های بسیاری بر اقتصاد اشخاص و کشور بر جا گذاشته است. در روزهای اخیر صداهای بیشتر از کاربران اینترنت در ایران شنیده می‌شود و به نظر می‌رسد تعداد بیشتری توانسته‌اند به اینترنت جهانی وصل شوند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778659837.67898
+    "timestamp": 1778668864.245866
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ پیش از عزیمت به چین: یا با ایران به توافق می رسیم یا نابود می‌شوند",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778659837.679011
+    "timestamp": 1778668864.2459128
   },
   {
     "title_fa": "بحران تنگه هرمز و بازار باقلوا؛ آیا پسته ایرانی جای خود را به رقبای ترک و سوری می‌دهد؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778659837.6790245
+    "timestamp": 1778668864.2459261
   },
   {
     "title_fa": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778659837.679058
+    "timestamp": 1778668864.2459598
   },
   {
     "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778659837.6790748
+    "timestamp": 1778668864.2459757
   },
   {
     "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
@@ -141,7 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778659837.679093
+    "timestamp": 1778668864.2459936
+  },
+  {
+    "title_fa": "اینترنت پرو؛ احساسات متناقض کاربران و جا خالی دادن مسئولان",
+    "title_en": "اینترنت پرو؛ احساسات متناقض کاربران و جا خالی دادن مسئولان",
+    "summary": [
+      "بیش از ۷۰ روز است که اینترنت جهانی در ایران قطع شده و هزینه‌های بسیاری بر اقتصاد اشخاص و کشور بر جا گذاشته است. در روزهای اخیر صداهای بیشتر از کاربران اینترنت در ایران شنیده می‌شود و به نظر می‌رسد تعداد بیشتری توانسته‌اند به اینترنت جهانی وصل شوند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778668864.2460601
   },
   {
     "title_fa": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778659837.6791534
+    "timestamp": 1778668864.246073
   },
   {
     "title_fa": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
@@ -173,23 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778659837.6791804
-  },
-  {
-    "title_fa": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
-    "title_en": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
-    "summary": [
-      "به گزارش نشریه آمریکایی وال استريت ژورنال، امارات متحده عربی به‌طور مخفيانه حملات نظامی عليه ايران انجام داده است. منابع آگاه به وال استریت ژورنال گفته‌اند حملاتی که امارات تاکنون به‌صورت علنی تاييد نکرده، شامل حمله به يک پالايشگاه در جزيره لاوان در خليج فارس بوده است. دونالد ترامپ یک بار دیگر از پاسخ ایران به پیشنهاد آمریکا به‌شدت انتقاد کرد و هشدار داد که آتش‌بس در وضعیت بسیار شکننده‌ای قرار داد. رئیس‌جمهور آمریکا گفت که در متن ایران اشاره‌ای به چشم‌پوشی از سلاح هسته‌ای نشده است. او پاسخ ایران"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778659837.6792536
+    "timestamp": 1778668864.2460995
   },
   {
     "title_fa": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
@@ -205,7 +205,55 @@
     "url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778659837.6792917
+    "timestamp": 1778668864.2461972
+  },
+  {
+    "title_fa": "At least eight killed in Israeli drone strikes on highway south of Beirut",
+    "title_en": "At least eight killed in Israeli drone strikes on highway south of Beirut",
+    "summary": [
+      "There were three strikes on cars on the highway in Jiyeh and the dead included two children."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778668864.4052699
+  },
+  {
+    "title_fa": "Series of tremors near Tehran renews concerns over major quake risk",
+    "title_en": "Series of tremors near Tehran renews concerns over major quake risk",
+    "summary": [
+      "The tremors have been felt in an area close to the Mosha fault, one of Iran’s most active seismic zones."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778668864.4052985
+  },
+  {
+    "title_fa": "How Silicon Valley giants are turning into war contractors",
+    "title_en": "How Silicon Valley giants are turning into war contractors",
+    "summary": [
+      "Palantir, Anduril, Google and other tech giants are selling AI-powered, computer-guided weapons systems."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778668864.4053245
   },
   {
     "title_fa": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss",
     "image": null,
-    "timestamp": 1778659837.8623805
+    "timestamp": 1778668864.4053533
   },
   {
     "title_fa": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
@@ -237,7 +285,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss",
     "image": null,
-    "timestamp": 1778659837.8624136
+    "timestamp": 1778668864.4053812
   },
   {
     "title_fa": "Bahrain-led UN resolution on Strait of Hormuz gains support of 112 nations",
@@ -253,22 +301,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/13/bahrain-led-un-resolution-on-strait-of-hormuz-gains-support-of-112-nations?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/13/bahrain-led-un-resolution-on-strait-of-hormuz-gains-support-of-112-nations?traffic_source=rss",
     "image": null,
-    "timestamp": 1778659837.8624651
-  },
-  {
-    "title_fa": "Iran war live: World watches as Trump and Xi to hold high-stakes talks",
-    "title_en": "Iran war live: World watches as Trump and Xi to hold high-stakes talks",
-    "summary": [
-      "US president says he &#039;doesn’t think about Americans’ financial situation&#039; when it comes to the crippling war on Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778659837.8625839
+    "timestamp": 1778668864.405426
   }
 ]
