@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "ترامپ در سایه روابط پرتنش تجاری با چین و جنگ ایران وارد پکن شد",
-    "title_en": "ترامپ در سایه روابط پرتنش تجاری با چین و جنگ ایران وارد پکن شد",
+    "title_fa": "سفر ترامپ به چین؛ قوه قضائیه ایران اموال ۲۴ شهروند دیگر ایرانی را توقیف کرد",
+    "title_en": "سفر ترامپ به چین؛ قوه قضائیه ایران اموال ۲۴ شهروند دیگر ایرانی را توقیف کرد",
     "summary": [
-      "دونالد ترامپ در اولین سفر رسمی یک رئیس جمهور آمریکا به چین در حدود یک دهه گذشته، وارد پکن شد. انتظار می‌رود که مذاکرات آقای ترامپ با شی جین پینگ، رئیس جمهور چین، شامل روابط تجاری پرتنش آنها، جنگ در ایران و فروش تسلیحات آمریکا به تایوان باشد. او پیش از سفرش گفته بود که «یا با ایران به توافق می‌رسیم یا نابود می‌شوند.» عباس عراقچی هم در مقابل تنها دلیل پایان نیافتن جنگ را «عدم صداقت» آمریکا دانست. در همین حال یک نماینده مجلس ایران با اشاره به ادامه انتقال تجهیزات و نیرو از سوی آمریکا به خاورمیانه، "
+      "دونالد ترامپ در اولین سفر رسمی یک رئیس جمهور آمریکا به چین در حدود یک دهه گذشته، وارد پکن شد. انتظار می‌رود که مذاکرات آقای ترامپ با رئیس جمهور چین، شامل روابط تجاری پرتنش آنها، جنگ در ایران و فروش تسلیحات آمریکا به تایوان باشد. قوه قضائیه می‌گوید که اموال ۲۴ شهروند ایرانی در استان هرمزگان را توقیف کرده است. این افراد که به «همکاری با دشمن» متهم شده‌اند، در خارج از ایران سکونت دارند. سازمان کشورهای صادرکننده نفت در گزارش ماهانه خود پیش‌بینی رشد تقاضای جهانی نفت در سال ۲۰۲۶ را کاهش داده است. یک و"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.467828
+    "timestamp": 1778686000.778925
+  },
+  {
+    "title_fa": "اسرائیل در میان ۱۰ کشور دیگر به فینال یوروویژن رسید",
+    "title_en": "اسرائیل در میان ۱۰ کشور دیگر به فینال یوروویژن رسید",
+    "summary": [
+      "اسرائیل با آهنگ پاپ عاشقانه میشل، که توسط نوام بتان ۲۸ ساله اجرا شده بود، به فینال مسابقه آواز یوروویژن راه یافت. فضای شاد این مسابقه در سال‌های اخیر به دلیل جنجال بر سر حملات اسرائیل به غزه، دگرگون شده است. پنج کشور، از جمله ایرلند که هفت بار برنده این رویداد شده است، مسابقه ۲۰۲۶ یوروویژن را تحریم کرده‌اند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cp9p4xx8020o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cp9p4xx8020o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778686000.7789755
   },
   {
     "title_fa": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.467879
+    "timestamp": 1778686000.779025
   },
   {
     "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
@@ -45,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.4678984
-  },
-  {
-    "title_fa": "یک کمیسیون تحقیق اسرائیلی: حماس در حملات هفت اکتبر از خشونت جنسی به عنوان «سلاح» استفاده کرد",
-    "title_en": "یک کمیسیون تحقیق اسرائیلی: حماس در حملات هفت اکتبر از خشونت جنسی به عنوان «سلاح» استفاده کرد",
-    "summary": [
-      "یک کمیسیون مستقل اسرائیلی جزئیات تکان‌دهنده‌ای از خشونت جنسی «سیستماتیک و گسترده» توسط حماس و سایر گروه‌های مسلح فلسطینی در جریان حملات ۷ اکتبر ۲۰۲۳ و علیه گروگان‌ها منتشر کرده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c5yep5yvpg2o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c5yep5yvpg2o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778675503.4679184
+    "timestamp": 1778686000.7790437
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.4679413
+    "timestamp": 1778686000.7790682
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.4679627
+    "timestamp": 1778686000.7790906
   },
   {
     "title_fa": "بحران تنگه هرمز و بازار باقلوا؛ آیا پسته ایرانی جای خود را به رقبای ترک و سوری می‌دهد؟",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.4679759
+    "timestamp": 1778686000.779133
   },
   {
     "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.468
+    "timestamp": 1778686000.779157
   },
   {
     "title_fa": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
@@ -141,7 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.468029
+    "timestamp": 1778686000.7792037
+  },
+  {
+    "title_fa": "یک کمیسیون تحقیق اسرائیلی: حماس در حملات هفت اکتبر از خشونت جنسی به عنوان «سلاح» استفاده کرد",
+    "title_en": "یک کمیسیون تحقیق اسرائیلی: حماس در حملات هفت اکتبر از خشونت جنسی به عنوان «سلاح» استفاده کرد",
+    "summary": [
+      "یک کمیسیون مستقل اسرائیلی جزئیات تکان‌دهنده‌ای از خشونت جنسی «سیستماتیک و گسترده» توسط حماس و سایر گروه‌های مسلح فلسطینی در جریان حملات ۷ اکتبر ۲۰۲۳ و علیه گروگان‌ها منتشر کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c5yep5yvpg2o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c5yep5yvpg2o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778686000.77925
   },
   {
     "title_fa": "اینترنت پرو؛ احساسات متناقض کاربران و جا خالی دادن مسئولان",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.4681134
+    "timestamp": 1778686000.7792714
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ پیش از عزیمت به چین: یا با ایران به توافق می رسیم یا نابود می‌شوند",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.4681435
+    "timestamp": 1778686000.779304
   },
   {
     "title_fa": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
@@ -189,23 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.4681563
-  },
-  {
-    "title_fa": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
-    "title_en": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
-    "summary": [
-      "قوه قضائیه ایران از اعدام عبدالجلیل شه‌بخش به جرم «عضویت در گروه انصار الفرقان» خبر داد. در بیانیه قوه قضائیه آمده است عبدالجلیل شه‌بخش که «در جریان اقدامات ضدتروریستی در شرق کشور» بازداشت شده بود، بامداد امروز (سه‌شنبه) اعدام شده است. انصارالفرقان یک گروه مسلح سنی است که در سال های گذشته در مواردی در جنوب شرقی ایران به نیروهای حکومت حمله کرده است. حکومت ایران این گروه را «باغی و تروریستی» می‌خواند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778675503.4681816
+    "timestamp": 1778686000.7793179
   },
   {
     "title_fa": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
@@ -221,7 +221,135 @@
     "url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778675503.4682171
+    "timestamp": 1778686000.779379
+  },
+  {
+    "title_fa": "12 killed by a series of Israeli strikes on cars in Lebanon",
+    "title_en": "12 killed by a series of Israeli strikes on cars in Lebanon",
+    "summary": [
+      "A series of Israeli strikes on vehicles in Lebanon killed at least 12 people, including a woman and her two children."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778686000.9486668
+  },
+  {
+    "title_fa": "What Trump and Xi want from China visit",
+    "title_en": "What Trump and Xi want from China visit",
+    "summary": [
+      "Tensions over trade, technology, Taiwan, and the war on Iran are set to dominate high-stakes talks between Trump and Xi."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778686000.9486802
+  },
+  {
+    "title_fa": "Amid US-Israel war on Iran, Arizona awaits Iranian team before World Cup",
+    "title_en": "Amid US-Israel war on Iran, Arizona awaits Iranian team before World Cup",
+    "summary": [
+      "Sports facility and football fans in the city of Tucson want Iran&#039;s players to feel &#039;safe and welcome&#039;."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/13/amid-us-israel-war-on-iran-arizona-awaits-iranian-team-before-world-cup?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/13/amid-us-israel-war-on-iran-arizona-awaits-iranian-team-before-world-cup?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778686000.9487114
+  },
+  {
+    "title_fa": "Trump needs Xi much more than Xi needs Trump",
+    "title_en": "Trump needs Xi much more than Xi needs Trump",
+    "summary": [
+      "As the Iran war reshapes global power dynamics, Beijing enters the Trump-Xi summit with more leverage over Washington."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778686000.9487417
+  },
+  {
+    "title_fa": "Why Trump decided to back Iraq’s prime minister-designate, Ali al-Zaidi",
+    "title_en": "Why Trump decided to back Iraq’s prime minister-designate, Ali al-Zaidi",
+    "summary": [
+      "Support from Washington is conditional on clear progress in curbing pro-Iran militia activity."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/13/why-trump-decided-to-back-iraqs-prime-minister-designate-ali-al-zaidi?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/13/why-trump-decided-to-back-iraqs-prime-minister-designate-ali-al-zaidi?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778686000.948757
+  },
+  {
+    "title_fa": "Gunshots ring out at Philippine Senate where lawmaker is holed up",
+    "title_en": "Gunshots ring out at Philippine Senate where lawmaker is holed up",
+    "summary": [
+      "Ronald dela Rosa, former police chief under ex-President Rodrigo Duterte, faces an ICC arrest warrant."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/13/gunshots-ring-out-at-philippine-senate-where-lawmaker-is-holed-up?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/13/gunshots-ring-out-at-philippine-senate-where-lawmaker-is-holed-up?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778686000.9487677
+  },
+  {
+    "title_fa": "Activist confronts Iran’s former crown prince over war on Iran",
+    "title_en": "Activist confronts Iran’s former crown prince over war on Iran",
+    "summary": [
+      "Activist confronts Iran’s former crown prince over war on Iran"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778686000.9487789
+  },
+  {
+    "title_fa": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
+    "title_en": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
+    "summary": [
+      "Conflict monitor ACLED notes the increase in Israeli attacks on Gaza in April in its latest report."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778686000.948789
   },
   {
     "title_fa": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
@@ -237,7 +365,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss",
     "image": null,
-    "timestamp": 1778675503.6875935
+    "timestamp": 1778686000.9488263
   },
   {
     "title_fa": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
@@ -253,86 +381,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss",
     "image": null,
-    "timestamp": 1778675503.6876292
-  },
-  {
-    "title_fa": "At least eight killed in Israeli drone strikes on Lebanon highway",
-    "title_en": "At least eight killed in Israeli drone strikes on Lebanon highway",
-    "summary": [
-      "Two children among those killed after three strikes hit cars on the highway in Jiyeh, south of Beirut."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778675503.687688
-  },
-  {
-    "title_fa": "Series of tremors near Tehran renews concerns over major quake risk",
-    "title_en": "Series of tremors near Tehran renews concerns over major quake risk",
-    "summary": [
-      "The tremors have been felt in an area close to the Mosha fault, one of Iran’s most active seismic zones."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778675503.6877263
-  },
-  {
-    "title_fa": "How Silicon Valley giants are turning into war contractors",
-    "title_en": "How Silicon Valley giants are turning into war contractors",
-    "summary": [
-      "Palantir, Anduril, Google and other tech giants are selling AI-powered, computer-guided weapons systems."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778675503.6877718
-  },
-  {
-    "title_fa": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
-    "title_en": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
-    "summary": [
-      "Trump heads to Beijing for high-stakes talks with Xi Jinping as tensions over the Iran war continue to escalate."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778675503.6878214
-  },
-  {
-    "title_fa": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
-    "title_en": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
-    "summary": [
-      "Trump and Xi meet as trade, Taiwan and the Iran war dominate a high-stakes US-China summit."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778675503.687874
+    "timestamp": 1778686000.9488444
   }
 ]
