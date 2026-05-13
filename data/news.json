@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "نماینده مجلس ایران: آمریکا و اسرائیل می‌خواهند برخی از جزایر جنوب را تصرف کنند",
-    "title_en": "نماینده مجلس ایران: آمریکا و اسرائیل می‌خواهند برخی از جزایر جنوب را تصرف کنند",
+    "title_fa": "ترامپ در سایه روابط پرتنش تجاری با چین و جنگ ایران وارد پکن شد",
+    "title_en": "ترامپ در سایه روابط پرتنش تجاری با چین و جنگ ایران وارد پکن شد",
     "summary": [
-      "یک نماینده مجلس ایران می‌گوید که آمریکا و اسرائیل بنای یک عملیات گسترده علیه ایران را دارند. کامران غضنفری با اشاره به ادامه انتقال تجهیزات و نیرو از سوی آمریکا به خاورمیانه، احتمال تصرف برخی از جزایر ایران در جنوب را نیز مطرح کرده است. دونالد ترامپ در آستانه سفر به چین گفت که یا با ایران به توافق می‌رسیم یا «نابود می‌شوند.» عباس عراقچی هم در مقابل تنها دلیل پایان نیافتن جنگ را «عدم صداقت» آمریکا دانست. پس از گذشت بیش از ده هفته از آغاز جنگ و در حالی که آتش‌بسی شکننده برقرار است، تهران و واشنگتن"
+      "دونالد ترامپ در اولین سفر رسمی یک رئیس جمهور آمریکا به چین در حدود یک دهه گذشته، وارد پکن شد. انتظار می‌رود که مذاکرات آقای ترامپ با شی جین پینگ، رئیس جمهور چین، شامل روابط تجاری پرتنش آنها، جنگ در ایران و فروش تسلیحات آمریکا به تایوان باشد. او پیش از سفرش گفته بود که «یا با ایران به توافق می‌رسیم یا نابود می‌شوند.» عباس عراقچی هم در مقابل تنها دلیل پایان نیافتن جنگ را «عدم صداقت» آمریکا دانست. در همین حال یک نماینده مجلس ایران با اشاره به ادامه انتقال تجهیزات و نیرو از سوی آمریکا به خاورمیانه، "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,11 +13,27 @@
     "url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778668864.2457926
+    "timestamp": 1778675503.467828
   },
   {
-    "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» اعدام شد",
-    "title_en": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» اعدام شد",
+    "title_fa": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
+    "title_en": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
+    "summary": [
+      "بریتانیا اعلام کرده است که پهپادها و جت‌های جنگنده و نیز یک کشتی جنگی را به ماموریت مشترکی با هدف حفاظت از کشتیرانی در تنگه هرمز اعزام خواهد داد. جان هیلی، وزیر دفاع بریتانیا، این بسته را در نشست مجازی وزرای دفاع چندین کشور در روز سه‌شنبه (۱۲ مه) اعلام کرد. این بسته شامل سیستم‌های خودکار برای شناسایی و پاکسازی مین‌های دریایی، قایق‌های بدون سرنشین، و جت‌های تایفون برای گشت‌های هوایی است. بیش از ۴۰ کشور دیگر هم در این ماموریت شرکت دارند که به گفته آقای هیلی، زمانی که شرایط مهیا باشد آغاز خواهد شد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778675503.467879
+  },
+  {
+    "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
+    "title_en": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
     "summary": [
       "قوه قضائیه ایران اعلام کرده است که یک شهروند ایرانی به نام احسان افرشته را پس از محاکمه به اتهام «جاسوسی و همکاری اطلاعاتی به نفع اسرائیل» امروز صبح اعدام کرده است."
     ],
@@ -29,7 +45,23 @@
     "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778668864.2458153
+    "timestamp": 1778675503.4678984
+  },
+  {
+    "title_fa": "یک کمیسیون تحقیق اسرائیلی: حماس در حملات هفت اکتبر از خشونت جنسی به عنوان «سلاح» استفاده کرد",
+    "title_en": "یک کمیسیون تحقیق اسرائیلی: حماس در حملات هفت اکتبر از خشونت جنسی به عنوان «سلاح» استفاده کرد",
+    "summary": [
+      "یک کمیسیون مستقل اسرائیلی جزئیات تکان‌دهنده‌ای از خشونت جنسی «سیستماتیک و گسترده» توسط حماس و سایر گروه‌های مسلح فلسطینی در جریان حملات ۷ اکتبر ۲۰۲۳ و علیه گروگان‌ها منتشر کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c5yep5yvpg2o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c5yep5yvpg2o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778675503.4679184
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -45,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778668864.245844
+    "timestamp": 1778675503.4679413
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -61,23 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778668864.245866
-  },
-  {
-    "title_fa": "آنچه گذشت؛ ترامپ پیش از عزیمت به چین: یا با ایران به توافق می رسیم یا نابود می‌شوند",
-    "title_en": "آنچه گذشت؛ ترامپ پیش از عزیمت به چین: یا با ایران به توافق می رسیم یا نابود می‌شوند",
-    "summary": [
-      "دونالد ترامپ پیش از عزیمت به چین گفت که برای پایان دادن به جنگ با ایران به کمک این کشور نیازی ندارد. رئیس‌جمهوری آمریکا گفت در چین «موضوعات زیادی برای گفت‌وگو داریم. راستش را بخواهید، نمی‌گویم ایران یکی از آنهاست، چون ما ایران را کاملا تحت کنترل داریم.» او افزود «یا به توافق می‌رسیم یا آنها نابود خواهند شد.» همزمان نرخ تورم در آمریکا به بالاترین حد خود در سه سال اخیر رسیده و دلیل اصلی آن هم گرانی انرژی ناشی از جنگ با ایران عنوان شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778668864.2459128
+    "timestamp": 1778675503.4679627
   },
   {
     "title_fa": "بحران تنگه هرمز و بازار باقلوا؛ آیا پسته ایرانی جای خود را به رقبای ترک و سوری می‌دهد؟",
@@ -93,39 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778668864.2459261
-  },
-  {
-    "title_fa": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
-    "title_en": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
-    "summary": [
-      "تورم، گرانی سوخت و تهدید امنیت غذایی در کشورهای آسیب‌پذیر، سه مورد از اصلی‌ترین پیامدهایی هستند که معمولا هنگام بحث درباره تاثیرات اقتصادی جنگ ایالات متحده و اسرائیل علیه ایران به آن‌ها اشاره می‌شود. اما این مناقشه که منجر به مسدود شدن تنگه هرمز شده است، برای گویان، یکی از کوچک‌ترین کشورهای آمریکای جنوبی به عنوان جدیدترین دولت نفتی جهان معنای دیگری دارد و به درآمدی بسیاربیشتر برای این کشور منجر شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778668864.2459598
-  },
-  {
-    "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
-    "title_en": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
-    "summary": [
-      "در حالی که خانواده‌ها در سراسر جهان هزینه‌های جنگ آمریکا و اسرائیل علیه ایران را می‌پردازند، برخی شرکت‌ها در همین مدت سودهای کلانی به دست آورده‌اند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778668864.2459757
+    "timestamp": 1778675503.4679759
   },
   {
     "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
@@ -141,7 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778668864.2459936
+    "timestamp": 1778675503.468
+  },
+  {
+    "title_fa": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
+    "title_en": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
+    "summary": [
+      "تورم، گرانی سوخت و تهدید امنیت غذایی در کشورهای آسیب‌پذیر، سه مورد از اصلی‌ترین پیامدهایی هستند که معمولا هنگام بحث درباره تاثیرات اقتصادی جنگ ایالات متحده و اسرائیل علیه ایران به آن‌ها اشاره می‌شود. اما این مناقشه که منجر به مسدود شدن تنگه هرمز شده است، برای گویان، یکی از کوچک‌ترین کشورهای آمریکای جنوبی به عنوان جدیدترین دولت نفتی جهان معنای دیگری دارد و به درآمدی بسیاربیشتر برای این کشور منجر شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778675503.468029
   },
   {
     "title_fa": "اینترنت پرو؛ احساسات متناقض کاربران و جا خالی دادن مسئولان",
@@ -157,7 +157,23 @@
     "url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778668864.2460601
+    "timestamp": 1778675503.4681134
+  },
+  {
+    "title_fa": "آنچه گذشت؛ ترامپ پیش از عزیمت به چین: یا با ایران به توافق می رسیم یا نابود می‌شوند",
+    "title_en": "آنچه گذشت؛ ترامپ پیش از عزیمت به چین: یا با ایران به توافق می رسیم یا نابود می‌شوند",
+    "summary": [
+      "دونالد ترامپ پیش از عزیمت به چین گفت که برای پایان دادن به جنگ با ایران به کمک این کشور نیازی ندارد. رئیس‌جمهوری آمریکا گفت در چین «موضوعات زیادی برای گفت‌وگو داریم. راستش را بخواهید، نمی‌گویم ایران یکی از آنهاست، چون ما ایران را کاملا تحت کنترل داریم.» او افزود «یا به توافق می‌رسیم یا آنها نابود خواهند شد.» همزمان نرخ تورم در آمریکا به بالاترین حد خود در سه سال اخیر رسیده و دلیل اصلی آن هم گرانی انرژی ناشی از جنگ با ایران عنوان شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778675503.4681435
   },
   {
     "title_fa": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778668864.246073
+    "timestamp": 1778675503.4681563
   },
   {
     "title_fa": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
@@ -189,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778668864.2460995
+    "timestamp": 1778675503.4681816
   },
   {
     "title_fa": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
@@ -205,13 +221,45 @@
     "url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778668864.2461972
+    "timestamp": 1778675503.4682171
   },
   {
-    "title_fa": "At least eight killed in Israeli drone strikes on highway south of Beirut",
-    "title_en": "At least eight killed in Israeli drone strikes on highway south of Beirut",
+    "title_fa": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
+    "title_en": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
     "summary": [
-      "There were three strikes on cars on the highway in Jiyeh and the dead included two children."
+      "Trump faces mounting pressure amid stalled Iran peace talks as domestic discontent grows and geopolitical stakes rise."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778675503.6875935
+  },
+  {
+    "title_fa": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
+    "title_en": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
+    "summary": [
+      "Israel bulldozes Palestinian shops to make way for settlement-linked road"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778675503.6876292
+  },
+  {
+    "title_fa": "At least eight killed in Israeli drone strikes on Lebanon highway",
+    "title_en": "At least eight killed in Israeli drone strikes on Lebanon highway",
+    "summary": [
+      "Two children among those killed after three strikes hit cars on the highway in Jiyeh, south of Beirut."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
     "image": null,
-    "timestamp": 1778668864.4052699
+    "timestamp": 1778675503.687688
   },
   {
     "title_fa": "Series of tremors near Tehran renews concerns over major quake risk",
@@ -237,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk?traffic_source=rss",
     "image": null,
-    "timestamp": 1778668864.4052985
+    "timestamp": 1778675503.6877263
   },
   {
     "title_fa": "How Silicon Valley giants are turning into war contractors",
@@ -253,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
     "image": null,
-    "timestamp": 1778668864.4053245
+    "timestamp": 1778675503.6877718
   },
   {
     "title_fa": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
@@ -269,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss",
     "image": null,
-    "timestamp": 1778668864.4053533
+    "timestamp": 1778675503.6878214
   },
   {
     "title_fa": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
@@ -285,22 +333,6 @@
     "url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss",
     "image": null,
-    "timestamp": 1778668864.4053812
-  },
-  {
-    "title_fa": "Bahrain-led UN resolution on Strait of Hormuz gains support of 112 nations",
-    "title_en": "Bahrain-led UN resolution on Strait of Hormuz gains support of 112 nations",
-    "summary": [
-      "The resolution calls for free navigation through the strait and an end to Iranian attacks on its Gulf neighbours."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/13/bahrain-led-un-resolution-on-strait-of-hormuz-gains-support-of-112-nations?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/13/bahrain-led-un-resolution-on-strait-of-hormuz-gains-support-of-112-nations?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778668864.405426
+    "timestamp": 1778675503.687874
   }
 ]
