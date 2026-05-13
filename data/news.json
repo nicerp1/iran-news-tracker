@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.778925
+    "timestamp": 1778693551.7458308
+  },
+  {
+    "title_fa": "ماجرای ترکیدن رادیات پژو۲۰۶ و ۲۰۷؛ روایت راننده‌ای که پایش پشت فرمان به شدت سوخت",
+    "title_en": "ماجرای ترکیدن رادیات پژو۲۰۶ و ۲۰۷؛ روایت راننده‌ای که پایش پشت فرمان به شدت سوخت",
+    "summary": [
+      "بیش از یک دهه است که پای بسیاری از رانندگان پژو ۲۰۶، ۲۰۷ و رانا در ایران به دلیل خروج با فشار آب جوش از رادیاتور بخاری به شدت سوخته است؛ اتفاقی که در حین رانندگی برای آنها افتاده است. آنها معتقدند که تکرار این موارد نشان می‌دهد که نقص فنی فراگیر در این خودروها وجود دارد و ایران‌خودرو مقصر است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778693551.7458615
   },
   {
     "title_fa": "اسرائیل در میان ۱۰ کشور دیگر به فینال یوروویژن رسید",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cp9p4xx8020o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cp9p4xx8020o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.7789755
+    "timestamp": 1778693551.7459323
   },
   {
     "title_fa": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.779025
+    "timestamp": 1778693551.7459767
   },
   {
     "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.7790437
+    "timestamp": 1778693551.745993
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.7790682
+    "timestamp": 1778693551.7460225
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.7790906
+    "timestamp": 1778693551.7460446
   },
   {
     "title_fa": "بحران تنگه هرمز و بازار باقلوا؛ آیا پسته ایرانی جای خود را به رقبای ترک و سوری می‌دهد؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.779133
+    "timestamp": 1778693551.746058
   },
   {
     "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.779157
+    "timestamp": 1778693551.7460754
   },
   {
     "title_fa": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.7792037
+    "timestamp": 1778693551.746118
   },
   {
     "title_fa": "یک کمیسیون تحقیق اسرائیلی: حماس در حملات هفت اکتبر از خشونت جنسی به عنوان «سلاح» استفاده کرد",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yep5yvpg2o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yep5yvpg2o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.77925
+    "timestamp": 1778693551.7461357
   },
   {
     "title_fa": "اینترنت پرو؛ احساسات متناقض کاربران و جا خالی دادن مسئولان",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.7792714
+    "timestamp": 1778693551.7461555
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ پیش از عزیمت به چین: یا با ایران به توافق می رسیم یا نابود می‌شوند",
@@ -189,7 +205,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.779304
+    "timestamp": 1778693551.7461853
   },
   {
     "title_fa": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
@@ -205,23 +221,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778686000.7793179
-  },
-  {
-    "title_fa": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
-    "title_en": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
-    "summary": [
-      "دونالد ترامپ دو روز دیگر عازم چین می‌شود. این نخستین سفر یک رئیس‌جمهور آمریکا به چین از زمان سفر قبلی آقای ترامپ در سال ۲۰۱۷ است؛ این سفر از روز چهارشنبه تا جمعه (۱۳ تا ۱۵ مه) انجام خواهد شد. مذاکره‌کنندگان ارشد تجاری دو کشور، یک روز پیش از دیدار آقای ترامپ با رهبر چین، در سئول دیدار خواهند کرد تا جزئیات مسائل تجاری و اقتصادی را نهایی کنند؛ موضوعی که نشان‌دهنده اهمیت این سفر است. این مذاکرات را اسکات بسنت، وزیر دارایی آمریکا، هدایت می‎‌کند. قرار بود رئیس‌جمهور آمریکا در اواخر مارس یا اوایل آوریل"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778686000.779379
+    "timestamp": 1778693551.746198
   },
   {
     "title_fa": "12 killed by a series of Israeli strikes on cars in Lebanon",
@@ -237,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778686000.9486668
+    "timestamp": 1778693551.8590512
   },
   {
     "title_fa": "What Trump and Xi want from China visit",
@@ -253,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss",
     "image": null,
-    "timestamp": 1778686000.9486802
+    "timestamp": 1778693551.8590639
   },
   {
     "title_fa": "Amid US-Israel war on Iran, Arizona awaits Iranian team before World Cup",
@@ -269,7 +269,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/13/amid-us-israel-war-on-iran-arizona-awaits-iranian-team-before-world-cup?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/13/amid-us-israel-war-on-iran-arizona-awaits-iranian-team-before-world-cup?traffic_source=rss",
     "image": null,
-    "timestamp": 1778686000.9487114
+    "timestamp": 1778693551.8590934
   },
   {
     "title_fa": "Trump needs Xi much more than Xi needs Trump",
@@ -285,7 +285,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump?traffic_source=rss",
     "image": null,
-    "timestamp": 1778686000.9487417
+    "timestamp": 1778693551.859122
   },
   {
     "title_fa": "Why Trump decided to back Iraq’s prime minister-designate, Ali al-Zaidi",
@@ -301,7 +301,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/13/why-trump-decided-to-back-iraqs-prime-minister-designate-ali-al-zaidi?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/13/why-trump-decided-to-back-iraqs-prime-minister-designate-ali-al-zaidi?traffic_source=rss",
     "image": null,
-    "timestamp": 1778686000.948757
+    "timestamp": 1778693551.8591368
   },
   {
     "title_fa": "Gunshots ring out at Philippine Senate where lawmaker is holed up",
@@ -317,70 +317,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/13/gunshots-ring-out-at-philippine-senate-where-lawmaker-is-holed-up?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/13/gunshots-ring-out-at-philippine-senate-where-lawmaker-is-holed-up?traffic_source=rss",
     "image": null,
-    "timestamp": 1778686000.9487677
-  },
-  {
-    "title_fa": "Activist confronts Iran’s former crown prince over war on Iran",
-    "title_en": "Activist confronts Iran’s former crown prince over war on Iran",
-    "summary": [
-      "Activist confronts Iran’s former crown prince over war on Iran"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778686000.9487789
-  },
-  {
-    "title_fa": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
-    "title_en": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
-    "summary": [
-      "Conflict monitor ACLED notes the increase in Israeli attacks on Gaza in April in its latest report."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778686000.948789
-  },
-  {
-    "title_fa": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
-    "title_en": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
-    "summary": [
-      "Trump faces mounting pressure amid stalled Iran peace talks as domestic discontent grows and geopolitical stakes rise."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778686000.9488263
-  },
-  {
-    "title_fa": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
-    "title_en": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
-    "summary": [
-      "Israel bulldozes Palestinian shops to make way for settlement-linked road"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778686000.9488444
+    "timestamp": 1778693551.8591468
   }
 ]
