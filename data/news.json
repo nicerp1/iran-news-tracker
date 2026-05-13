@@ -3,7 +3,7 @@
     "title_fa": "رویترز: عربستان در خلال جنگ حملات متعددی علیه ایران انجام داده است",
     "title_en": "رویترز: عربستان در خلال جنگ حملات متعددی علیه ایران انجام داده است",
     "summary": [
-      "پس از آن که روز گذشته گزارش شد امارات متحده عربی به طور مخفیانه حملات هوایی علیه ایران انجام داده است، روز سه‌شنبه خبرگزاری رویترز گزارش کرد به گفته دو مقام غربی مطلع از موضوع و دو مقام ايرانی، عربستان سعودی در واکنش به حملاتی که در جريان جنگ خاورميانه عليه اين کشور انجام شد، چندين حمله اعلام‌نشده عليه ايران انجام داده است. دونالد ترامپ در آستانه سفر به چین گفت «یا با ایران به توافق می رسیم یا نابود می‌شوند». در برابر، عباس عراقچی گفته تنها دلیل پیان نیافتن جنگ «عدم صداقت» آمریکاست. زلزله‌ای به "
+      "پس از آن که روز گذشته گزارش شد امارات متحده عربی به طور مخفیانه حملات هوایی علیه ایران انجام داده است، خبرگزاری رویترز گزارش کرد به گفته دو مقام غربی مطلع از موضوع و دو مقام ايرانی، عربستان سعودی در واکنش به حملاتی که در جريان جنگ خاورميانه عليه اين کشور انجام شد، چندين حمله اعلام‌نشده عليه ايران انجام داده است. دونالد ترامپ در آستانه سفر به چین گفت «یا با ایران به توافق می رسیم یا نابود می‌شوند». در برابر، عباس عراقچی گفته تنها دلیل پیان نیافتن جنگ «عدم صداقت» آمریکاست. در همین حال رسانه‌های آم"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778635764.248232
+    "timestamp": 1778649023.65766
+  },
+  {
+    "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
+    "title_en": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
+    "summary": [
+      "تبادل پیشنهادها و پاسخ‌ها میان آمریکا و ایران در حالی انجام می‌شود که پنج موضوع محوری، همواره به عنوان موارد اصلی اختلافات حل‌نشده طرح بوده است: برنامه غنی‌سازی اورانیوم، سرنوشت ذخایر اورانیوم غنی‌شده در ایران، کنترل و آزادی تردد در تنگه هرمز، فعالیت‌های گروه‌های نیابتی ایران در منطقه و برنامه موشکی بالستیک."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778649023.6576893
+  },
+  {
+    "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
+    "title_en": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
+    "summary": [
+      "بریتانیا بیش از دیگر کشورهای پیشرفته از جنگ ایران آسیب می‌بیند، زیرا به واردات نفت و گاز وابسته است، ذخایر و ظرفیت‌های پشتیبان در حوزه انرژی زغال‌سنگی و هسته‌ای ندارد و علاوه بر این، پس از چند بحران پیاپی، در حالی ضعیف و فرسوده وارد بحران جدید شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778649023.6577125
   },
   {
     "title_fa": "اینترنت پرو؛ احساسات متناقض کاربران و جا خالی دادن مسئولان",
@@ -29,39 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c5yeldrkjyeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778635764.2482774
-  },
-  {
-    "title_fa": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
-    "title_en": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
-    "summary": [
-      "دادگاه عالی کیفری بحرین امروز دو نفر را برای «همکاری و ارتباط با سپاه پاسداران تروریستی ایران» به حبس ابد محکوم کرد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778635764.2482932
-  },
-  {
-    "title_fa": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
-    "title_en": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
-    "summary": [
-      "قوه قضائیه ایران از اعدام عبدالجلیل شه‌بخش به جرم «عضویت در گروه انصار الفرقان» خبر داد. در بیانیه قوه قضائیه آمده است عبدالجلیل شه‌بخش که «در جریان اقدامات ضدتروریستی در شرق کشور» بازداشت شده بود، بامداد امروز (سه‌شنبه) اعدام شده است. انصارالفرقان یک گروه مسلح سنی است که در سال های گذشته در مواردی در جنوب شرقی ایران به نیروهای حکومت حمله کرده است. حکومت ایران این گروه را «باغی و تروریستی» می‌خواند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778635764.2483227
+    "timestamp": 1778649023.6577504
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ پیش از عزیمت به چین: یا با ایران به توافق می رسیم یا نابود می‌شوند",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cq6pmyv2rlqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778635764.2483542
+    "timestamp": 1778649023.6577802
   },
   {
     "title_fa": "بحران تنگه هرمز و بازار باقلوا؛ آیا پسته ایرانی جای خود را به رقبای ترک و سوری می‌دهد؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778635764.2483678
+    "timestamp": 1778649023.6577928
   },
   {
     "title_fa": "برنده دوردست جنگ ایران؛ گویان و اوج‌گیری درآمدهای نفتی‌",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy92d17q4xzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778635764.2484028
+    "timestamp": 1778649023.657826
   },
   {
     "title_fa": "شرکت‌هایی که میلیاردها دلار از جنگ ایران سود می‌برند",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzpe26l5no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778635764.2484198
+    "timestamp": 1778649023.657842
   },
   {
     "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
@@ -141,7 +141,39 @@
     "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778635764.2484388
+    "timestamp": 1778649023.6578596
+  },
+  {
+    "title_fa": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
+    "title_en": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
+    "summary": [
+      "دادگاه عالی کیفری بحرین امروز دو نفر را برای «همکاری و ارتباط با سپاه پاسداران تروریستی ایران» به حبس ابد محکوم کرد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778649023.6579196
+  },
+  {
+    "title_fa": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
+    "title_en": "عبدالجلیل شه‌بخش برای عضویت در گروه «انصار الفرقان» در ایران اعدام شد",
+    "summary": [
+      "قوه قضائیه ایران از اعدام عبدالجلیل شه‌بخش به جرم «عضویت در گروه انصار الفرقان» خبر داد. در بیانیه قوه قضائیه آمده است عبدالجلیل شه‌بخش که «در جریان اقدامات ضدتروریستی در شرق کشور» بازداشت شده بود، بامداد امروز (سه‌شنبه) اعدام شده است. انصارالفرقان یک گروه مسلح سنی است که در سال های گذشته در مواردی در جنوب شرقی ایران به نیروهای حکومت حمله کرده است. حکومت ایران این گروه را «باغی و تروریستی» می‌خواند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/ckgpjy82wwzo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778649023.657946
   },
   {
     "title_fa": "آنچه گذشت؛ قالیباف: برای همه سناریوها آماده‌ایم",
@@ -157,7 +189,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778635764.248589
+    "timestamp": 1778649023.6580198
   },
   {
     "title_fa": "سفر ترامپ به چین؛ جنگ ایران شاید حتی مهمتر از جنگ تجاری",
@@ -173,23 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778635764.248649
-  },
-  {
-    "title_fa": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
-    "title_en": "از گاز قطر تا گردشگری دوبی؛ سایه بلند جنگ ایران بر اقتصاد کشورهای خلیج فارس",
-    "summary": [
-      "جنگ ایران اقتصادهای خلیج فارس را به لرزه درآورده است: خسارت در بخش انرژی، رکود در گردشگری و فشارهای مالی که ممکن است سال‌ها تداوم یابد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cyv2qqq2mp0o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778635764.2486951
+    "timestamp": 1778649023.6580577
   },
   {
     "title_fa": "Iran war live: Trump travels to China as conflict with Tehran looms large",
@@ -205,7 +221,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
     "image": null,
-    "timestamp": 1778635764.3255768
+    "timestamp": 1778649023.8477948
   },
   {
     "title_fa": "Basketball star Brandon Clarke, Memphis Grizzlies forward, dies at age 29",
@@ -221,13 +237,13 @@
     "url": "https://www.aljazeera.com/sports/2026/5/12/basketball-star-brandon-clarke-memphis-grizzlies-forward-dies-at-age-29?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/12/basketball-star-brandon-clarke-memphis-grizzlies-forward-dies-at-age-29?traffic_source=rss",
     "image": null,
-    "timestamp": 1778635764.3256226
+    "timestamp": 1778649023.847839
   },
   {
-    "title_fa": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
-    "title_en": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
+    "title_fa": "Trump says he doesn’t need Xi’s help on Iran war as he heads to China",
+    "title_en": "Trump says he doesn’t need Xi’s help on Iran war as he heads to China",
     "summary": [
-      "Trump gives conflicting messages on prominence of Iran war in upcoming talks, with his administration emphasising trade."
+      "Trump gives conflicting messages on prominence of Iran war in upcoming talks with China&#039;s Xi, emphasising trade."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss",
     "image": null,
-    "timestamp": 1778635764.325633
+    "timestamp": 1778649023.8478508
   },
   {
     "title_fa": "Cannes juror denounces Hollywood boycott of actors for Gaza war views",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss",
     "image": null,
-    "timestamp": 1778635764.3256555
+    "timestamp": 1778649023.8478734
   },
   {
     "title_fa": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham",
@@ -269,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss",
     "image": null,
-    "timestamp": 1778635764.3256648
+    "timestamp": 1778649023.8478847
   },
   {
     "title_fa": "Why is Iran increasingly targeting the UAE in its war messaging?",
@@ -285,70 +301,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
     "image": null,
-    "timestamp": 1778635764.3256896
-  },
-  {
-    "title_fa": "Macron unveils $27 billion Africa investment, urges reset with Europe",
-    "title_en": "Macron unveils $27 billion Africa investment, urges reset with Europe",
-    "summary": [
-      "French President Emmanuel Macron, in Kenya for the Africa Forward summit, called for a ‘fundamental reset’ in Africa."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/2026/5/12/macron-unveils-27-billion-africa-investment-urges-reset-with-europe?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/2026/5/12/macron-unveils-27-billion-africa-investment-urges-reset-with-europe?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778635764.3257205
-  },
-  {
-    "title_fa": "Trump skirts question on US ‘red lines’ for Iran ceasefire",
-    "title_en": "Trump skirts question on US ‘red lines’ for Iran ceasefire",
-    "summary": [
-      "Trump skirted a question from a reporter about whether he has a ‘red line’ that would end the ceasefire with Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/trump-skirts-question-on-us-red-lines-for-iran-ceasefire?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/trump-skirts-question-on-us-red-lines-for-iran-ceasefire?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778635764.325733
-  },
-  {
-    "title_fa": "Kevin Warsh confirmed to US Federal Reserve board in close Senate vote",
-    "title_en": "Kevin Warsh confirmed to US Federal Reserve board in close Senate vote",
-    "summary": [
-      "Senator John Fetterman of Pennsylvania, a Democrat, joins Republicans to advance Warsh&#039;s confirmation."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778635764.3257515
-  },
-  {
-    "title_fa": "Serbia hosts first joint military exercise with NATO",
-    "title_en": "Serbia hosts first joint military exercise with NATO",
-    "summary": [
-      "The two-week-long drills come less than 30 years after NATO bombed Belgrade in the Kosovo war."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778635764.3257606
+    "timestamp": 1778649023.84791
   }
 ]
