@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "دیدار مهم ترامپ و شی پس از دو ساعت گفت‌وگو به پایان رسید",
-    "title_en": "دیدار مهم ترامپ و شی پس از دو ساعت گفت‌وگو به پایان رسید",
+    "title_fa": "کاخ سفید: آمریکا و چین توافق کردند که ایران نباید هرگز به سلاح هسته‌ای دست یابد و تنگه هرمز نیز باید باز بماند",
+    "title_en": "کاخ سفید: آمریکا و چین توافق کردند که ایران نباید هرگز به سلاح هسته‌ای دست یابد و تنگه هرمز نیز باید باز بماند",
     "summary": [
-      "مذاکرات میان دونالد ترامپ و شی جین‌پینگ حدود دو ساعت به طول انجامید که دو برابر مدت زمانی بود که در ابتدا برای آن برنامه‌ریزی شده بود. آقای ترامپ در پاسخ به خبرنگاران این گفتگوها را «عالی» توصیف کرد. آقای شی هم در آغاز دیدار گفت آمریکا و چین باید «شریک باشند نه رقیب» و افزود که «تمام جهان نظاره‌گر» این دیدار است. در همین حال، موضوع سفر بنیامین نتانیاهو به امارات متحده عربی، تنش میان تهران و ابوظبی را بالا برده است و با وجود تکذیب چنین سفری از سوی وزارت خارج امارات، واکنش‌ها در تهران تند بوده است"
+      "کاخ سفید اعلام کرد که دونالد ترامپ و شی جین‌پینگ، در پکن توافق کردند که ایران هرگز نباید به سلاح هسته‌ای دست پیدا کند و تنگه هرمز باید باز بماند. در بیانیه آمریکا این گفت‌وگوی دو ساعته «خوب» توصیف شده است و گفته می‌شود که دو رهبر در حال تلاش برای تقویت همکاری‌های اقتصادی هستند. همزمان عباس عراقچی در نشست بریکس گفت که «تنگه هرمز برای تمامی کشتی‌های تجاری باز است، اما آن‌ها باید با نیروهای دریایی ما همکاری کنند.» این در حالیست که بنابه‌گزارش‌ها، یک کشتی در نزدیکی سواحل امارات و حوالی تنگه هرمز «به"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778752665.1953177
+    "timestamp": 1778759388.4774837
+  },
+  {
+    "title_fa": "کشیده شدن تنش ایران و امارات به اجلاس بریکس؛ هشدار در مورد تاثیر وضعیت تنگه هرمز بر اقتصاد جهانی",
+    "title_en": "کشیده شدن تنش ایران و امارات به اجلاس بریکس؛ هشدار در مورد تاثیر وضعیت تنگه هرمز بر اقتصاد جهانی",
+    "summary": [
+      "درگیری بین ایران و امارات به نشست عمومی نخستین روز اجلاس وزرای خارجه بریکس هم کشیده شد، جایی که به گزارش رسانه‌های ایران، آقای عراقچی خطاب به نماینده امارت گفت: «ائتلاف شما با اسرائیلی‌ها نیز از شما محافظت نکرد. در سیاست خود در قبال ایران بازنگری کنید.»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778759388.4775114
+  },
+  {
+    "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
+    "title_en": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
+    "summary": [
+      "مسئولان جمهوری اسلامی می‌گویند پویش «جان‌فدا» تصویر «واقعی از ملت ایران» و «نمایش جمهوریت و تاب‌آوری ملی» است، در مقابل مخالفان حکومت به آمار و ارقام‌های منتشرشده از سوی حکومت شک و تردید دارند و آن را یک «تصویر جعلی» و وسیله‌ای برای کسب مشروعیت از دست‌رفته، به‌ویژه پس از کشتار خونین معترضان در دی‌ماه سال ۱۴۰۴، می‌دانند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778759388.4775383
   },
   {
     "title_fa": "آیا کابل‌های زیردریایی اینترنت به سلاح تازه ایران در خلیج فارس تبدیل می‌شود؟",
@@ -29,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778752665.195362
-  },
-  {
-    "title_fa": "چرا جنجال یوروویژن بر سر اسرائیل ممکن است این مسابقه موسیقی را برای همیشه دگرگون کند؟",
-    "title_en": "چرا جنجال یوروویژن بر سر اسرائیل ممکن است این مسابقه موسیقی را برای همیشه دگرگون کند؟",
-    "summary": [
-      "در حالی که یوروویژن با بزرگ‌ترین تحریم در ۷۰ سال گذشته روبه‌رو است، پرسش‌ها درباره آینده این رقابت رو به افزایش است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778752665.1953793
+    "timestamp": 1778759388.4775968
   },
   {
     "title_fa": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778752665.1954553
+    "timestamp": 1778759388.4776416
   },
   {
     "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778752665.1954718
+    "timestamp": 1778759388.477664
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -93,7 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778752665.1955016
+    "timestamp": 1778759388.4776886
+  },
+  {
+    "title_fa": "چرا جنجال یوروویژن بر سر اسرائیل ممکن است این مسابقه موسیقی را برای همیشه دگرگون کند؟",
+    "title_en": "چرا جنجال یوروویژن بر سر اسرائیل ممکن است این مسابقه موسیقی را برای همیشه دگرگون کند؟",
+    "summary": [
+      "در حالی که یوروویژن با بزرگ‌ترین تحریم در ۷۰ سال گذشته روبه‌رو است، پرسش‌ها درباره آینده این رقابت رو به افزایش است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778759388.4777043
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -109,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778752665.1955247
+    "timestamp": 1778759388.4777763
   },
   {
     "title_fa": "ماجرای ترکیدن رادیاتور پژو ۲۰۶ و ۲۰۷؛ روایت راننده‌ای که پایش پشت فرمان به شدت سوخت",
@@ -125,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778752665.1955495
+    "timestamp": 1778759388.4778006
   },
   {
     "title_fa": "آنچه گذشت؛ امارات سفر نتانیاهو به این کشور را تکذیب کرد",
@@ -141,55 +173,39 @@
     "url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778752665.1957123
+    "timestamp": 1778759388.477918
   },
   {
-    "title_fa": "اسرائیل در میان ۱۰ کشور دیگر به فینال یوروویژن رسید",
-    "title_en": "اسرائیل در میان ۱۰ کشور دیگر به فینال یوروویژن رسید",
+    "title_fa": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
+    "title_en": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
     "summary": [
-      "اسرائیل با آهنگ پاپ عاشقانه میشل، که توسط نوام بتان ۲۸ ساله اجرا شده بود، به فینال مسابقه آواز یوروویژن راه یافت. فضای شاد این مسابقه در سال‌های اخیر به دلیل جنجال بر سر حملات اسرائیل به غزه، دگرگون شده است. پنج کشور، از جمله ایرلند که هفت بار برنده این رویداد شده است، مسابقه ۲۰۲۶ یوروویژن را تحریم کرده‌اند."
+      "Lebanon and Israel are expected to hold talks on extending the ceasefire in Washington."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cp9p4xx8020o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cp9p4xx8020o?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss",
     "image": null,
-    "timestamp": 1778752665.1957376
+    "timestamp": 1778759388.730455
   },
   {
-    "title_fa": "بحران تنگه هرمز و بازار باقلوا؛ آیا پسته ایرانی جای خود را به رقبای ترک و سوری می‌دهد؟",
-    "title_en": "بحران تنگه هرمز و بازار باقلوا؛ آیا پسته ایرانی جای خود را به رقبای ترک و سوری می‌دهد؟",
+    "title_fa": "Zimbabweans lured into Russia’s war as families plead for their return",
+    "title_en": "Zimbabweans lured into Russia’s war as families plead for their return",
     "summary": [
-      "برآوردهای اقتصادی نشان می‌دهد که قیمت باقلوا به دلیل افزایش قیمت پسته ایرانی، حدود ۱۰ درصد افزایش یافته است."
+      "Families call on governments in Moscow and Harare to secure the return of loved ones from Ukrainian front lines."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/features/2026/5/14/zimbabweans-lured-into-russias-war-as-families-plead-for-their-return?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/features/2026/5/14/zimbabweans-lured-into-russias-war-as-families-plead-for-their-return?traffic_source=rss",
     "image": null,
-    "timestamp": 1778752665.1957653
-  },
-  {
-    "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
-    "title_en": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
-    "summary": [
-      "جنگ ایران پرسش‌هایی را درباره ماهیت شراکت امنیتی واشنگتن و کشورهای عضو شورای همکاری خلیج فارس مطرح کرده است. آیا جنگ کنونی می‌تواند معادلات این شراکت را تغییر دهد؟ و آیا جایگزینی برای چتر امنیتی آمریکا وجود دارد؟"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778752665.1957836
+    "timestamp": 1778759388.7304714
   },
   {
     "title_fa": "Could Iran war trigger a hunger crisis?",
@@ -205,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
     "image": null,
-    "timestamp": 1778752665.2784336
+    "timestamp": 1778759388.7305129
   },
   {
     "title_fa": "Lionel Messi scores two goals as Inter Miami rally to beat Cincinnati",
@@ -221,7 +237,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/14/lionel-messi-scores-two-goals-as-inter-miami-rally-to-beat-cincinnati?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/14/lionel-messi-scores-two-goals-as-inter-miami-rally-to-beat-cincinnati?traffic_source=rss",
     "image": null,
-    "timestamp": 1778752665.278474
+    "timestamp": 1778759388.7305467
   },
   {
     "title_fa": "Japanese snacks go black-and-white: Why Iran war is driving up ink prices",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/japanese-snacks-go-black-and-white-why-iran-war-is-driving-up-ink-prices?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/japanese-snacks-go-black-and-white-why-iran-war-is-driving-up-ink-prices?traffic_source=rss",
     "image": null,
-    "timestamp": 1778752665.2784853
+    "timestamp": 1778759388.7305572
   },
   {
     "title_fa": "UK artist defends ‘Drawings Against Genocide’ show after cancellation",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/uk-artist-defends-drawings-against-genocide-show-after-cancellation?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/uk-artist-defends-drawings-against-genocide-show-after-cancellation?traffic_source=rss",
     "image": null,
-    "timestamp": 1778752665.2785149
+    "timestamp": 1778759388.7305768
   },
   {
     "title_fa": "Nepal in a bind as US-China drone war reaches Everest",
@@ -269,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/nepal-in-a-bind-as-us-china-drone-war-reaches-everest?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/nepal-in-a-bind-as-us-china-drone-war-reaches-everest?traffic_source=rss",
     "image": null,
-    "timestamp": 1778752665.2785413
+    "timestamp": 1778759388.7305906
   },
   {
     "title_fa": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
@@ -285,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1778752665.2786329
+    "timestamp": 1778759388.7306488
   },
   {
     "title_fa": "Trump in China for talks with Xi Jinping",
@@ -301,38 +317,6 @@
     "url": "https://www.aljazeera.com/gallery/2026/5/14/trump-in-china-for-talks-with-xi-jinping?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/gallery/2026/5/14/trump-in-china-for-talks-with-xi-jinping?traffic_source=rss",
     "image": null,
-    "timestamp": 1778752665.2786436
-  },
-  {
-    "title_fa": "Iran’s US-bound World Cup squad given public sendoff in Tehran",
-    "title_en": "Iran’s US-bound World Cup squad given public sendoff in Tehran",
-    "summary": [
-      "Thousands of people cheered Team Melli as Iran&#039;s World Cup kit was unveiled before the team&#039;s training camp in Turkiye."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/14/irans-us-bound-world-cup-squad-given-public-sendoff-in-tehran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/14/irans-us-bound-world-cup-squad-given-public-sendoff-in-tehran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778752665.2786553
-  },
-  {
-    "title_fa": "Trump, Xi speak ahead of talks to make relations ‘better than ever’",
-    "title_en": "Trump, Xi speak ahead of talks to make relations ‘better than ever’",
-    "summary": [
-      "Presidents Xi Jinping and Donald Trump say they’re looking forward to US-China talks."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-xi-speak-ahead-of-talks-to-make-relations-better-than?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-xi-speak-ahead-of-talks-to-make-relations-better-than?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778752665.2786918
+    "timestamp": 1778759388.730658
   }
 ]
