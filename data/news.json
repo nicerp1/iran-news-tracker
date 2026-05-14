@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778791574.542179
+    "timestamp": 1778795568.9459465
+  },
+  {
+    "title_fa": "درخواست آزادی راتکو ملادیچ معروف به «قصاب بوسنی»، رد شد",
+    "title_en": "درخواست آزادی راتکو ملادیچ معروف به «قصاب بوسنی»، رد شد",
+    "summary": [
+      "دادگاه وابسته به سازمان ملل متحد درخواست آزادی راتکو ملادیچ، جنایتکار جنگی صرب بوسنیایی، را به دلیل نزدیک بودن به پایان عمرش رد کرد. قاضی گراسیلا گاتی سانتانا ضمن پذیرش اینکه او «در مراحل پایانی زندگی خود» است، گفت که شرایط زندان سازمان ملل و بیمارستان آن در لاهه «از چنان کیفیت بالایی برخوردار است که می‌توان آسایش ملادیچ را به حداکثر برساند.»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778795568.9459794
   },
   {
     "title_fa": "فرمانده سنتکام: توان ایران برای تهدید همسایگانش به‌شدت تضعیف شده است",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778791574.5422235
+    "timestamp": 1778795568.9460175
   },
   {
     "title_fa": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778791574.5422397
+    "timestamp": 1778795568.9460332
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778791574.5422645
+    "timestamp": 1778795568.9460568
   },
   {
     "title_fa": "عراقچی: امارات در حملات به ایران «شریک فعال» بوده است",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778791574.5422845
+    "timestamp": 1778795568.9460766
   },
   {
     "title_fa": "آیا کابل‌های زیردریایی اینترنت به سلاح تازه ایران در خلیج فارس تبدیل می‌شود؟",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778791574.5423007
+    "timestamp": 1778795568.9460988
   },
   {
     "title_fa": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
@@ -109,23 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778791574.5423505
-  },
-  {
-    "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
-    "title_en": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
-    "summary": [
-      "قوه قضائیه ایران اعلام کرده است که یک شهروند ایرانی به نام احسان افرشته را پس از محاکمه به اتهام «جاسوسی و همکاری اطلاعاتی به نفع اسرائیل» امروز صبح اعدام کرده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778791574.5423687
+    "timestamp": 1778795568.9461432
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778791574.5423915
+    "timestamp": 1778795568.946167
   },
   {
     "title_fa": "چرا جنجال یوروویژن بر سر اسرائیل ممکن است این مسابقه موسیقی را برای همیشه دگرگون کند؟",
@@ -157,7 +157,23 @@
     "url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778791574.5424259
+    "timestamp": 1778795568.946201
+  },
+  {
+    "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
+    "title_en": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
+    "summary": [
+      "قوه قضائیه ایران اعلام کرده است که یک شهروند ایرانی به نام احسان افرشته را پس از محاکمه به اتهام «جاسوسی و همکاری اطلاعاتی به نفع اسرائیل» امروز صبح اعدام کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778795568.9462464
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778791574.542581
+    "timestamp": 1778795568.9463997
   },
   {
     "title_fa": "ماجرای ترکیدن رادیاتور پژو ۲۰۶ و ۲۰۷؛ روایت راننده‌ای که پایش پشت فرمان به شدت سوخت",
@@ -189,7 +205,39 @@
     "url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778791574.5426037
+    "timestamp": 1778795568.9464252
+  },
+  {
+    "title_fa": "Could Iran war trigger a hunger crisis?",
+    "title_en": "Could Iran war trigger a hunger crisis?",
+    "summary": [
+      "The UN warns disruptions in the Strait of Hormuz could drive up food and fertiliser costs, and worsen global hunger."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778795569.0673301
+  },
+  {
+    "title_fa": "‘China is gaining from what the US is doing in Iran’",
+    "title_en": "‘China is gaining from what the US is doing in Iran’",
+    "summary": [
+      "Geopolitical analyst Steve Okun says says China is benefiting from the war on Iran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778795569.067345
   },
   {
     "title_fa": "Cautious optimism in Lebanon as direct talks with Israel progress",
@@ -205,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
     "image": null,
-    "timestamp": 1778791574.6105201
+    "timestamp": 1778795569.0673666
   },
   {
     "title_fa": "Iran’s FM urges BRICS states to condemn US-Israeli aggression",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
     "image": null,
-    "timestamp": 1778791574.6105375
+    "timestamp": 1778795569.067381
   },
   {
     "title_fa": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
@@ -237,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
     "image": null,
-    "timestamp": 1778791574.610571
+    "timestamp": 1778795569.06741
   },
   {
     "title_fa": "What does the US hope to achieve from Lebanon-Israel talks?",
@@ -253,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
     "image": null,
-    "timestamp": 1778791574.6105905
+    "timestamp": 1778795569.067428
   },
   {
     "title_fa": "Iran expands tiered internet access amid continued online blackout",
@@ -269,7 +317,7 @@
     "url": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss",
     "image": null,
-    "timestamp": 1778791574.6106005
+    "timestamp": 1778795569.0674367
   },
   {
     "title_fa": "Israeli ultranationalists chant racist slogans during Jerusalem Day march",
@@ -285,7 +333,7 @@
     "url": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss",
     "image": null,
-    "timestamp": 1778791574.6106117
+    "timestamp": 1778795569.0674465
   },
   {
     "title_fa": "FIFA warned ‘gruelling heat’ could impact a quarter of World Cup games",
@@ -301,7 +349,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss",
     "image": null,
-    "timestamp": 1778791574.610624
+    "timestamp": 1778795569.0674574
   },
   {
     "title_fa": "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
@@ -317,7 +365,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss",
     "image": null,
-    "timestamp": 1778791574.6106362
+    "timestamp": 1778795569.067469
   },
   {
     "title_fa": "Acute hunger grips nearly 20 million people in war-battered Sudan, says IPC",
@@ -333,7 +381,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc?traffic_source=rss",
     "image": null,
-    "timestamp": 1778791574.6106827
+    "timestamp": 1778795569.0674987
   },
   {
     "title_fa": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
@@ -349,22 +397,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss",
     "image": null,
-    "timestamp": 1778791574.6107042
-  },
-  {
-    "title_fa": "Iran urges BRICS nations to condemn US-Israeli war aggression",
-    "title_en": "Iran urges BRICS nations to condemn US-Israeli war aggression",
-    "summary": [
-      "Foreign Minister Abbas Araghchi also accused the UAE of direct involvement in military operations against Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778791574.6107223
+    "timestamp": 1778795569.0675187
   }
 ]
