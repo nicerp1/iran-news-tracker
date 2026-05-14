@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.9459465
+    "timestamp": 1778798718.6015787
+  },
+  {
+    "title_fa": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
+    "title_en": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
+    "summary": [
+      "کارشناسان می‌گویند قایق‌های تندرو سپاه بخشی از دکترین جنگی ایران برای مقابله با قدرت‌های برتر دریایی مانند آمریکا هستند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778798718.6015978
   },
   {
     "title_fa": "درخواست آزادی راتکو ملادیچ معروف به «قصاب بوسنی»، رد شد",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.9459794
+    "timestamp": 1778798718.6016254
   },
   {
     "title_fa": "فرمانده سنتکام: توان ایران برای تهدید همسایگانش به‌شدت تضعیف شده است",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.9460175
+    "timestamp": 1778798718.6016622
   },
   {
     "title_fa": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.9460332
+    "timestamp": 1778798718.6016774
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.9460568
+    "timestamp": 1778798718.6016998
   },
   {
     "title_fa": "عراقچی: امارات در حملات به ایران «شریک فعال» بوده است",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.9460766
+    "timestamp": 1778798718.6017256
   },
   {
     "title_fa": "آیا کابل‌های زیردریایی اینترنت به سلاح تازه ایران در خلیج فارس تبدیل می‌شود؟",
@@ -109,23 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.9460988
-  },
-  {
-    "title_fa": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
-    "title_en": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
-    "summary": [
-      "بریتانیا اعلام کرده است که پهپادها و جت‌های جنگنده و نیز یک کشتی جنگی را به ماموریت مشترکی با هدف حفاظت از کشتیرانی در تنگه هرمز اعزام خواهد داد. جان هیلی، وزیر دفاع بریتانیا، این بسته را در نشست مجازی وزرای دفاع چندین کشور در روز سه‌شنبه (۱۲ مه) اعلام کرد. این بسته شامل سیستم‌های خودکار برای شناسایی و پاکسازی مین‌های دریایی، قایق‌های بدون سرنشین، و جت‌های تایفون برای گشت‌های هوایی است. بیش از ۴۰ کشور دیگر هم در این ماموریت شرکت دارند که به گفته آقای هیلی، زمانی که شرایط مهیا باشد آغاز خواهد شد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778795568.9461432
+    "timestamp": 1778798718.6017437
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.946167
+    "timestamp": 1778798718.6017652
   },
   {
     "title_fa": "چرا جنجال یوروویژن بر سر اسرائیل ممکن است این مسابقه موسیقی را برای همیشه دگرگون کند؟",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.946201
+    "timestamp": 1778798718.6017973
   },
   {
     "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.9462464
+    "timestamp": 1778798718.6018407
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -189,7 +189,23 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.9463997
+    "timestamp": 1778798718.6019423
+  },
+  {
+    "title_fa": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
+    "title_en": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
+    "summary": [
+      "بریتانیا اعلام کرده است که پهپادها و جت‌های جنگنده و نیز یک کشتی جنگی را به ماموریت مشترکی با هدف حفاظت از کشتیرانی در تنگه هرمز اعزام خواهد داد. جان هیلی، وزیر دفاع بریتانیا، این بسته را در نشست مجازی وزرای دفاع چندین کشور در روز سه‌شنبه (۱۲ مه) اعلام کرد. این بسته شامل سیستم‌های خودکار برای شناسایی و پاکسازی مین‌های دریایی، قایق‌های بدون سرنشین، و جت‌های تایفون برای گشت‌های هوایی است. بیش از ۴۰ کشور دیگر هم در این ماموریت شرکت دارند که به گفته آقای هیلی، زمانی که شرایط مهیا باشد آغاز خواهد شد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778798718.6019983
   },
   {
     "title_fa": "ماجرای ترکیدن رادیاتور پژو ۲۰۶ و ۲۰۷؛ روایت راننده‌ای که پایش پشت فرمان به شدت سوخت",
@@ -205,7 +221,7 @@
     "url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778795568.9464252
+    "timestamp": 1778798718.6020217
   },
   {
     "title_fa": "Could Iran war trigger a hunger crisis?",
@@ -221,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
     "image": null,
-    "timestamp": 1778795569.0673301
+    "timestamp": 1778798718.7641995
   },
   {
     "title_fa": "‘China is gaining from what the US is doing in Iran’",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
     "image": null,
-    "timestamp": 1778795569.067345
+    "timestamp": 1778798718.7642128
   },
   {
     "title_fa": "Cautious optimism in Lebanon as direct talks with Israel progress",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
     "image": null,
-    "timestamp": 1778795569.0673666
+    "timestamp": 1778798718.7642343
   },
   {
     "title_fa": "Iran’s FM urges BRICS states to condemn US-Israeli aggression",
@@ -269,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
     "image": null,
-    "timestamp": 1778795569.067381
+    "timestamp": 1778798718.764253
   },
   {
     "title_fa": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
@@ -285,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
     "image": null,
-    "timestamp": 1778795569.06741
+    "timestamp": 1778798718.7642822
   },
   {
     "title_fa": "What does the US hope to achieve from Lebanon-Israel talks?",
@@ -301,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
     "image": null,
-    "timestamp": 1778795569.067428
+    "timestamp": 1778798718.7643003
   },
   {
     "title_fa": "Iran expands tiered internet access amid continued online blackout",
@@ -317,7 +333,7 @@
     "url": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss",
     "image": null,
-    "timestamp": 1778795569.0674367
+    "timestamp": 1778798718.7643096
   },
   {
     "title_fa": "Israeli ultranationalists chant racist slogans during Jerusalem Day march",
@@ -333,7 +349,7 @@
     "url": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss",
     "image": null,
-    "timestamp": 1778795569.0674465
+    "timestamp": 1778798718.7643194
   },
   {
     "title_fa": "FIFA warned ‘gruelling heat’ could impact a quarter of World Cup games",
@@ -349,7 +365,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss",
     "image": null,
-    "timestamp": 1778795569.0674574
+    "timestamp": 1778798718.7643313
   },
   {
     "title_fa": "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
@@ -365,7 +381,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss",
     "image": null,
-    "timestamp": 1778795569.067469
+    "timestamp": 1778798718.7643433
   },
   {
     "title_fa": "Acute hunger grips nearly 20 million people in war-battered Sudan, says IPC",
@@ -381,22 +397,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc?traffic_source=rss",
     "image": null,
-    "timestamp": 1778795569.0674987
-  },
-  {
-    "title_fa": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
-    "title_en": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
-    "summary": [
-      "Far-right Israelis attack Palestinians during the Flag March, intensifying violence and racism in Jerusalem&#039;s Old City."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778795569.0675187
+    "timestamp": 1778798718.7643738
   }
 ]
