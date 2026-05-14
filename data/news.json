@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778779463.3805003
+    "timestamp": 1778786071.1057415
+  },
+  {
+    "title_fa": "فرمانده سنتکام: توان ایران برای تهدید همسایگانش به‌شدت تضعیف شده است",
+    "title_en": "فرمانده سنتکام: توان ایران برای تهدید همسایگانش به‌شدت تضعیف شده است",
+    "summary": [
+      "یک دریاسالار برد کوپر، فرمانده سنتکام، ستاد فرماندهی مرکزی آمریکا روز پنجشنبه ۲۴ اردیبهشت / ۱۴ مه گفت که در پی بمباران‌های آمریکا، توان ایران برای تهدید همسایگانش و منافع ایالات متحده به‌شدت کاهش یافته و صنایع دفاعی تهران ۹۰ درصد تضعیف شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778786071.1057866
   },
   {
     "title_fa": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
@@ -29,23 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778779463.380521
-  },
-  {
-    "title_fa": "عراقچی: امارات در حملات به ایران «شریک فعال» بوده است",
-    "title_en": "عراقچی: امارات در حملات به ایران «شریک فعال» بوده است",
-    "summary": [
-      "درگیری بین ایران و امارات به نشست عمومی نخستین روز اجلاس وزرای خارجه بریکس هم کشیده شد، جایی که به گزارش رسانه‌های ایران، آقای عراقچی خطاب به نماینده امارت گفت: «ائتلاف شما با اسرائیلی‌ها نیز از شما محافظت نکرد. در سیاست خود در قبال ایران بازنگری کنید.»"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778779463.380544
+    "timestamp": 1778786071.105803
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -61,7 +61,23 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778779463.3805697
+    "timestamp": 1778786071.105828
+  },
+  {
+    "title_fa": "عراقچی: امارات در حملات به ایران «شریک فعال» بوده است",
+    "title_en": "عراقچی: امارات در حملات به ایران «شریک فعال» بوده است",
+    "summary": [
+      "درگیری بین ایران و امارات به نشست عمومی نخستین روز اجلاس وزرای خارجه بریکس هم کشیده شد، جایی که به گزارش رسانه‌های ایران، آقای عراقچی خطاب به نماینده امارت گفت: «ائتلاف شما با اسرائیلی‌ها نیز از شما محافظت نکرد. در سیاست خود در قبال ایران بازنگری کنید.»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778786071.1058488
   },
   {
     "title_fa": "آیا کابل‌های زیردریایی اینترنت به سلاح تازه ایران در خلیج فارس تبدیل می‌شود؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778779463.3806057
+    "timestamp": 1778786071.105865
   },
   {
     "title_fa": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778779463.380651
+    "timestamp": 1778786071.1059163
   },
   {
     "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778779463.380674
+    "timestamp": 1778786071.1059341
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778779463.380699
+    "timestamp": 1778786071.1059568
   },
   {
     "title_fa": "چرا جنجال یوروویژن بر سر اسرائیل ممکن است این مسابقه موسیقی را برای همیشه دگرگون کند؟",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778779463.3807142
+    "timestamp": 1778786071.1059904
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778779463.3807642
+    "timestamp": 1778786071.1061454
   },
   {
     "title_fa": "ماجرای ترکیدن رادیاتور پژو ۲۰۶ و ۲۰۷؛ روایت راننده‌ای که پایش پشت فرمان به شدت سوخت",
@@ -173,7 +189,135 @@
     "url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778779463.380787
+    "timestamp": 1778786071.1061685
+  },
+  {
+    "title_fa": "What does the US hope to achieve from Lebanon-Israel talks?",
+    "title_en": "What does the US hope to achieve from Lebanon-Israel talks?",
+    "summary": [
+      "As Israeli attacks on Lebanon continue, Hezbollah opposes ceasefire talks in Washington."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778786071.3579755
+  },
+  {
+    "title_fa": "Iran expands tiered internet access amid continued online blackout",
+    "title_en": "Iran expands tiered internet access amid continued online blackout",
+    "summary": [
+      "Iranians have had limited internet access during the war, with the government now looking at tiered services."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778786071.357989
+  },
+  {
+    "title_fa": "Israeli ultranationalists chant racist slogans during Jerusalem Day march",
+    "title_en": "Israeli ultranationalists chant racist slogans during Jerusalem Day march",
+    "summary": [
+      "Annual Jerusalem Day march fuels tensions with shouted slogans and violence against Palestinian residents."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778786071.3580008
+  },
+  {
+    "title_fa": "FIFA warned ‘gruelling heat’ could impact a quarter of World Cup games",
+    "title_en": "FIFA warned ‘gruelling heat’ could impact a quarter of World Cup games",
+    "summary": [
+      "Scientists warn football&#039;s governing body that global warming has increased extreme heat risk since 1994 US World Cup."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778786071.3580139
+  },
+  {
+    "title_fa": "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
+    "title_en": "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
+    "summary": [
+      "Itamar Ben Gvir stormed the Al-Aqsa compound under heavy military protection during Jerusalem Day."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778786071.358027
+  },
+  {
+    "title_fa": "Acute hunger grips nearly 20 million people in war-battered Sudan, says IPC",
+    "title_en": "Acute hunger grips nearly 20 million people in war-battered Sudan, says IPC",
+    "summary": [
+      "A lack of access to food and health facilities will lead to death for many, warns the Norwegian Refugee Council."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778786071.3580616
+  },
+  {
+    "title_fa": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
+    "title_en": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
+    "summary": [
+      "Far-right Israelis attack Palestinians during the Flag March, intensifying violence and racism in Jerusalem&#039;s Old City."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778786071.3580832
+  },
+  {
+    "title_fa": "Iran urges BRICS nations to condemn US-Israeli war aggression",
+    "title_en": "Iran urges BRICS nations to condemn US-Israeli war aggression",
+    "summary": [
+      "Foreign Minister Abbas Araghchi also accused the UAE of direct involvement in military operations against Iran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778786071.3581011
   },
   {
     "title_fa": "Lamine Yamal divides opinion with Palestinian flag gesture",
@@ -189,7 +333,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/lamine-yamal-divides-opinion-with-palestinian-flag-gesture?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/lamine-yamal-divides-opinion-with-palestinian-flag-gesture?traffic_source=rss",
     "image": null,
-    "timestamp": 1778779463.581849
+    "timestamp": 1778786071.3581455
   },
   {
     "title_fa": "Israel’s Netanyahu says suing New York Times over Palestinian rape article",
@@ -205,70 +349,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/israels-netanyahu-says-suing-new-york-times-over-palestinian-rape-article?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/israels-netanyahu-says-suing-new-york-times-over-palestinian-rape-article?traffic_source=rss",
     "image": null,
-    "timestamp": 1778779463.5818653
-  },
-  {
-    "title_fa": "Israeli minister blasts Barcelona’s Lamine Yamal for Palestinian flag wave",
-    "title_en": "Israeli minister blasts Barcelona’s Lamine Yamal for Palestinian flag wave",
-    "summary": [
-      "Spanish international Lamine Yamal criticised for waving Palestinian flag during bus parade celebrating La Liga title."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/14/israeli-minister-blasts-barcelonas-lamine-yamal-for-palestinian-flag-wave?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/14/israeli-minister-blasts-barcelonas-lamine-yamal-for-palestinian-flag-wave?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778779463.5819242
-  },
-  {
-    "title_fa": "BRICS meeting overshadowed by war on Iran",
-    "title_en": "BRICS meeting overshadowed by war on Iran",
-    "summary": [
-      "BRICS meeting overshadowed by war on Iran"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/2026/5/14/brics-meeting-overshadowed-by-war-on-iran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/2026/5/14/brics-meeting-overshadowed-by-war-on-iran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778779463.5819712
-  },
-  {
-    "title_fa": "Iran still waiting for US visas less than a month before World Cup",
-    "title_en": "Iran still waiting for US visas less than a month before World Cup",
-    "summary": [
-      "Farewell ceremony for Iran&#039;s football team in Tehran on Wednesday, but US visas yet to be issued reports media."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/14/iran-still-waiting-on-us-visas-for-world-cup-2026?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/14/iran-still-waiting-on-us-visas-for-world-cup-2026?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778779463.581981
-  },
-  {
-    "title_fa": "What is on the table during Lebanon-Israel direct negotiations?",
-    "title_en": "What is on the table during Lebanon-Israel direct negotiations?",
-    "summary": [
-      "Israel and Lebanon will meet for the third time this year to discuss a ceasefire and disarming Hezbollah."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/14/what-is-on-the-table-during-lebanon-israel-direct-negotiations?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/14/what-is-on-the-table-during-lebanon-israel-direct-negotiations?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778779463.5820158
+    "timestamp": 1778786071.3581583
   }
 ]
