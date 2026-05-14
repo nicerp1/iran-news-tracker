@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "دیدار رسمی ترامپ و شی در پکن آغاز شد",
-    "title_en": "دیدار رسمی ترامپ و شی در پکن آغاز شد",
+    "title_fa": "دیدار مهم ترامپ و شی پس از دو ساعت گفت‌وگو به پایان رسید",
+    "title_en": "دیدار مهم ترامپ و شی پس از دو ساعت گفت‌وگو به پایان رسید",
     "summary": [
-      "دونالد ترامپ و شی جین پینگ، رهبران دو اقتصاد بزرگ جهان رسما دیدار و گفتگوها را در پکن آغاز کردند. پیش از نشستن دو هیئت بلندپایه در پشت میز مذاکره، مراسم و تشریفات مفصلی برای لحظه دیدار و دست دادن روسای جمهور آمریکا و چین برگزار شد. در همین حال، موضوع سفر بنیامین نتانیاهو به امارات متحده عربی، تنش میان تهران و ابوظبی را بالا برده است و با وجود تکذیب چنین سفری از سوی وزارت خارج امارات، واکنش‌ها در تهران تند بوده است به طوری که عباس عراقچی گفته است: «دشمنی با ایران قمار احمقانه‌ای است.»"
+      "مذاکرات میان دونالد ترامپ و شی جین‌پینگ حدود دو ساعت به طول انجامید که دو برابر مدت زمانی بود که در ابتدا برای آن برنامه‌ریزی شده بود. آقای ترامپ در پاسخ به خبرنگاران این گفتگوها را «عالی» توصیف کرد. آقای شی هم در آغاز دیدار گفت آمریکا و چین باید «شریک باشند نه رقیب» و افزود که «تمام جهان نظاره‌گر» این دیدار است. در همین حال، موضوع سفر بنیامین نتانیاهو به امارات متحده عربی، تنش میان تهران و ابوظبی را بالا برده است و با وجود تکذیب چنین سفری از سوی وزارت خارج امارات، واکنش‌ها در تهران تند بوده است"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778734709.124783
+    "timestamp": 1778744446.8849385
+  },
+  {
+    "title_fa": "آیا کابل‌های زیردریایی اینترنت به سلاح تازه ایران در خلیج فارس تبدیل می‌شود؟",
+    "title_en": "آیا کابل‌های زیردریایی اینترنت به سلاح تازه ایران در خلیج فارس تبدیل می‌شود؟",
+    "summary": [
+      "رسانه‌ها و محافل سیاسی تندرو در ایران، به شکل روزافزونی تنگه هرمز را نه‌تنها به عنوان یک گلوگاه انرژی، بلکه به عنوان مسیری استراتژیک برای ترافیک جهانی اینترنت معرفی می‌کنند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778744446.8849916
   },
   {
     "title_fa": "چرا جنجال یوروویژن بر سر اسرائیل ممکن است این مسابقه موسیقی را برای همیشه دگرگون کند؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778734709.1248057
+    "timestamp": 1778744446.885009
   },
   {
     "title_fa": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778734709.1249177
+    "timestamp": 1778744446.885086
   },
   {
     "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778734709.124935
+    "timestamp": 1778744446.8851023
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778734709.1249642
+    "timestamp": 1778744446.8851326
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778734709.1249862
+    "timestamp": 1778744446.8851566
   },
   {
     "title_fa": "ماجرای ترکیدن رادیاتور پژو ۲۰۶ و ۲۰۷؛ روایت راننده‌ای که پایش پشت فرمان به شدت سوخت",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778734709.125009
+    "timestamp": 1778744446.8851802
   },
   {
     "title_fa": "آنچه گذشت؛ امارات سفر نتانیاهو به این کشور را تکذیب کرد",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778734709.125135
+    "timestamp": 1778744446.8853314
   },
   {
     "title_fa": "اسرائیل در میان ۱۰ کشور دیگر به فینال یوروویژن رسید",
@@ -141,39 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cp9p4xx8020o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cp9p4xx8020o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778734709.12516
-  },
-  {
-    "title_fa": "یک کمیسیون تحقیق اسرائیلی: حماس در حملات هفت اکتبر از خشونت جنسی به عنوان «سلاح» استفاده کرد",
-    "title_en": "یک کمیسیون تحقیق اسرائیلی: حماس در حملات هفت اکتبر از خشونت جنسی به عنوان «سلاح» استفاده کرد",
-    "summary": [
-      "یک کمیسیون مستقل اسرائیلی جزئیات تکان‌دهنده‌ای از خشونت جنسی «سیستماتیک و گسترده» توسط حماس و سایر گروه‌های مسلح فلسطینی در جریان حملات ۷ اکتبر ۲۰۲۳ و علیه گروگان‌ها منتشر کرده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c5yep5yvpg2o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c5yep5yvpg2o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778734709.125178
-  },
-  {
-    "title_fa": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
-    "title_en": "دو نفر برای همکاری با سپاه در بحرین به حبس ابد محکوم شدند",
-    "summary": [
-      "دادگاه عالی کیفری بحرین امروز دو نفر را برای «همکاری و ارتباط با سپاه پاسداران تروریستی ایران» به حبس ابد محکوم کرد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c4g82eelw74o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778734709.1251907
+    "timestamp": 1778744446.885356
   },
   {
     "title_fa": "بحران تنگه هرمز و بازار باقلوا؛ آیا پسته ایرانی جای خود را به رقبای ترک و سوری می‌دهد؟",
@@ -189,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crep9915dn5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778734709.1252182
+    "timestamp": 1778744446.8853817
   },
   {
     "title_fa": "آیا جنگ ایران به اتحاد کشورهای عرب خلیج فارس با آمریکا پایان می‌دهد؟",
@@ -205,7 +189,71 @@
     "url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgrp2kwx885o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778734709.1252356
+    "timestamp": 1778744446.8853986
+  },
+  {
+    "title_fa": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
+    "title_en": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
+    "summary": [
+      "US Vice President Vance says progress is being made in talks with Iran as President Trump begins his trip to China."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778744446.9881444
+  },
+  {
+    "title_fa": "Trump in China for talks with Xi Jinping",
+    "title_en": "Trump in China for talks with Xi Jinping",
+    "summary": [
+      "Trump visits Beijing for high-stakes summit with Xi as Iran, trade and Taiwan strain US-China ties."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/gallery/2026/5/14/trump-in-china-for-talks-with-xi-jinping?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/gallery/2026/5/14/trump-in-china-for-talks-with-xi-jinping?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778744446.988163
+  },
+  {
+    "title_fa": "Iran’s US-bound World Cup squad given public sendoff in Tehran",
+    "title_en": "Iran’s US-bound World Cup squad given public sendoff in Tehran",
+    "summary": [
+      "Thousands of people cheered Team Melli as Iran&#039;s World Cup kit was unveiled before the team&#039;s training camp in Turkiye."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/14/irans-us-bound-world-cup-squad-given-public-sendoff-in-tehran?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/14/irans-us-bound-world-cup-squad-given-public-sendoff-in-tehran?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778744446.9881852
+  },
+  {
+    "title_fa": "Trump, Xi speak ahead of talks to make relations ‘better than ever’",
+    "title_en": "Trump, Xi speak ahead of talks to make relations ‘better than ever’",
+    "summary": [
+      "Presidents Xi Jinping and Donald Trump say they’re looking forward to US-China talks."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-xi-speak-ahead-of-talks-to-make-relations-better-than?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-xi-speak-ahead-of-talks-to-make-relations-better-than?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778744446.9882529
   },
   {
     "title_fa": "Iran war: Why the BRICS foreign ministers meeting in India matters",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-why-the-brics-foreign-ministers-meeting-in-india-matters?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/iran-war-why-the-brics-foreign-ministers-meeting-in-india-matters?traffic_source=rss",
     "image": null,
-    "timestamp": 1778734709.301609
+    "timestamp": 1778744446.9883034
   },
   {
     "title_fa": "Iran war live: Tehran slams ‘collusion’ as Netanyahu ‘secretly’ visits UAE",
@@ -237,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss",
     "image": null,
-    "timestamp": 1778734709.301633
+    "timestamp": 1778744446.9883392
   },
   {
     "title_fa": "Trump-Xi summit live: US, China leaders holding talks on trade, tech, Iran",
@@ -253,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1778734709.3016446
+    "timestamp": 1778744446.9883566
   },
   {
     "title_fa": "Funeral held for two Lebanese paramedics killed in Israeli attack",
@@ -269,54 +317,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
     "image": null,
-    "timestamp": 1778734709.3016887
-  },
-  {
-    "title_fa": "Crowds gather in Tehran to send off Iran’s World Cup team",
-    "title_en": "Crowds gather in Tehran to send off Iran’s World Cup team",
-    "summary": [
-      "Huge crowds gathered in Tehran’s Revolution Square to celebrate and send off Iran’s national football team."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/crowds-gather-in-tehran-to-send-off-irans-world-cup-team?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/crowds-gather-in-tehran-to-send-off-irans-world-cup-team?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778734709.301726
-  },
-  {
-    "title_fa": "Five things you may not know about US-China ties",
-    "title_en": "Five things you may not know about US-China ties",
-    "summary": [
-      "Al Jazeera’s @avawarrinerr explains five things you may not know about the ties connecting China and the US."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/five-things-you-may-not-know-about-us-china-ties?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/five-things-you-may-not-know-about-us-china-ties?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778734709.3017478
-  },
-  {
-    "title_fa": "Republicans break ranks, but Senate fails to curb Trump’s Iran war powers",
-    "title_en": "Republicans break ranks, but Senate fails to curb Trump’s Iran war powers",
-    "summary": [
-      "The bill falls short, but vote shows cracks are growing in the Republican support for the US-Israel war on Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778734709.301759
+    "timestamp": 1778744446.9884298
   }
 ]
