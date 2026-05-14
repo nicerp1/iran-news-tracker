@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "کاخ سفید: آمریکا و چین توافق کردند که ایران نباید هرگز به سلاح هسته‌ای دست یابد و تنگه هرمز نیز باید باز بماند",
-    "title_en": "کاخ سفید: آمریکا و چین توافق کردند که ایران نباید هرگز به سلاح هسته‌ای دست یابد و تنگه هرمز نیز باید باز بماند",
+    "title_fa": "توافق واشنگتن با پکن بر سر ایران همزمان با گزارش‌ها از تسهیل عبور کشتی‌های چینی از تنگه هرمز",
+    "title_en": "توافق واشنگتن با پکن بر سر ایران همزمان با گزارش‌ها از تسهیل عبور کشتی‌های چینی از تنگه هرمز",
     "summary": [
-      "کاخ سفید اعلام کرد که دونالد ترامپ و شی جین‌پینگ، در پکن توافق کردند که ایران هرگز نباید به سلاح هسته‌ای دست پیدا کند و تنگه هرمز باید باز بماند. در بیانیه آمریکا این گفت‌وگوی دو ساعته «خوب» توصیف شده است و گفته می‌شود که دو رهبر در حال تلاش برای تقویت همکاری‌های اقتصادی هستند. همزمان عباس عراقچی در نشست بریکس گفت که «تنگه هرمز برای تمامی کشتی‌های تجاری باز است، اما آن‌ها باید با نیروهای دریایی ما همکاری کنند.» این در حالیست که بنابه‌گزارش‌ها، یک کشتی در نزدیکی سواحل امارات و حوالی تنگه هرمز «به"
+      "همزمان با اعلام کاخ سفید از توافق دونالد ترامپ و شی جین‌پینگ، در پکن بر سر تهران، گزارش رسانه‌های حکومتی ایران حاکیست که از شب گذشته به کشتی‌های چینی بیشتری اجازه عبور از تنگه هرمز داده شده است. در بیانیه کاخ سفید آمده است که رهبران آمریکا و چین توافق کردند که ایران هرگز نباید به سلاح هسته‌ای دست پیدا کند و تنگه هرمز باید باز بماند. در همین حال وزیر دارایی آمریکا می‌گوید که به نفع چین است که از نفوذش بر ایران برای بازگشایی تنگه هرمز استفاده کند. پیشتر عباس عراقچی در اجلاس بریکس گفت که «تنگه هرمز"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778764820.3364189
+    "timestamp": 1778773005.195574
+  },
+  {
+    "title_fa": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
+    "title_en": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
+    "summary": [
+      "وزارت خارجه امارات متحده عربی، ادعای سفر بنیامین نتانیاهو، نخست‌وزیر اسرائیل به آن کشور را در جریان جنگ با ایران «کاملا بی‌اساس» خواند و رد کرد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778773005.1956112
   },
   {
     "title_fa": "عراقچی: امارات در حملات به ایران «شریک فعال» بوده است",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778764820.3364458
+    "timestamp": 1778773005.1956353
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778764820.3364737
+    "timestamp": 1778773005.195662
   },
   {
     "title_fa": "آیا کابل‌های زیردریایی اینترنت به سلاح تازه ایران در خلیج فارس تبدیل می‌شود؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778764820.3365335
+    "timestamp": 1778773005.1956995
   },
   {
     "title_fa": "بریتانیا چندین جت و پهپاد و یک ناو جنگی را برای ماموریت دفاعی در تنگه هرمز اعزام می‌کند",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypj2p4lj4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778764820.3365796
+    "timestamp": 1778773005.1957445
   },
   {
     "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778764820.336603
+    "timestamp": 1778773005.1957676
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778764820.336627
+    "timestamp": 1778773005.195793
   },
   {
     "title_fa": "چرا جنجال یوروویژن بر سر اسرائیل ممکن است این مسابقه موسیقی را برای همیشه دگرگون کند؟",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c0q28pwdq2zo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778764820.3366432
+    "timestamp": 1778773005.1958086
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778764820.336718
+    "timestamp": 1778773005.1958606
   },
   {
     "title_fa": "ماجرای ترکیدن رادیاتور پژو ۲۰۶ و ۲۰۷؛ روایت راننده‌ای که پایش پشت فرمان به شدت سوخت",
@@ -157,23 +173,71 @@
     "url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz620l2zgppo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778764820.3367417
+    "timestamp": 1778773005.195884
   },
   {
-    "title_fa": "آنچه گذشت؛ امارات سفر نتانیاهو به این کشور را تکذیب کرد",
-    "title_en": "آنچه گذشت؛ امارات سفر نتانیاهو به این کشور را تکذیب کرد",
+    "title_fa": "Israeli minister blasts Barcelona’s Lamine Yamal for Palestinian flag wave",
+    "title_en": "Israeli minister blasts Barcelona’s Lamine Yamal for Palestinian flag wave",
     "summary": [
-      "در حالی که دفتر بنیامین نتنانیاهو اعلام کرده است که او پیش از آتش‌بس و زمانی که جنگ با ایران در جریان بود به طور مخفیانه به امارات متحده عربی سفر کرده و با شیخ محد بن زاید هم دیدار کرده است، وزارت خارجه امارات با انتشار بیانیه‌ای چنین سفر و دیداری را تکذیب کرده است. روز چهارشنبه دفتر نخست وزیر داسرائیل در اطلاعیه‌ای اعلام کرده است: «این سفر منجر به یک پیشرفت تاریخی در روابط بین اسرائیل و امارات متحده عربی شده است.» دونالد ترامپ در اولین سفر رسمی یک رئیس جمهور آمریکا به چین در حدود یک دهه گذشته، "
+      "Spanish international Lamine Yamal criticised for waving Palestinian flag during bus parade celebrating La Liga title."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cx21kzy0rv7t?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/14/israeli-minister-blasts-barcelonas-lamine-yamal-for-palestinian-flag-wave?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/14/israeli-minister-blasts-barcelonas-lamine-yamal-for-palestinian-flag-wave?traffic_source=rss",
     "image": null,
-    "timestamp": 1778764820.336858
+    "timestamp": 1778773005.3788657
+  },
+  {
+    "title_fa": "BRICS meeting overshadowed by war on Iran",
+    "title_en": "BRICS meeting overshadowed by war on Iran",
+    "summary": [
+      "BRICS meeting overshadowed by war on Iran"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/2026/5/14/brics-meeting-overshadowed-by-war-on-iran?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/2026/5/14/brics-meeting-overshadowed-by-war-on-iran?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778773005.378916
+  },
+  {
+    "title_fa": "Iran still waiting for US visas less than a month before World Cup",
+    "title_en": "Iran still waiting for US visas less than a month before World Cup",
+    "summary": [
+      "Farewell ceremony for Iran&#039;s football team in Tehran on Wednesday, but US visas yet to be issued reports media."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/14/iran-still-waiting-on-us-visas-for-world-cup-2026?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/14/iran-still-waiting-on-us-visas-for-world-cup-2026?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778773005.378927
+  },
+  {
+    "title_fa": "What is on the table during Lebanon-Israel direct negotiations?",
+    "title_en": "What is on the table during Lebanon-Israel direct negotiations?",
+    "summary": [
+      "Israel and Lebanon will meet for the third time this year to discuss a ceasefire and disarming Hezbollah."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/14/what-is-on-the-table-during-lebanon-israel-direct-negotiations?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/14/what-is-on-the-table-during-lebanon-israel-direct-negotiations?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778773005.3789456
   },
   {
     "title_fa": "China’s Xi warns Trump about Taiwan at Beijing summit",
@@ -189,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit?traffic_source=rss",
     "image": null,
-    "timestamp": 1778764820.460461
+    "timestamp": 1778773005.378989
   },
   {
     "title_fa": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
@@ -205,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss",
     "image": null,
-    "timestamp": 1778764820.4605227
+    "timestamp": 1778773005.3790402
   },
   {
     "title_fa": "Zimbabweans lured into Russia’s war as families plead for their return",
@@ -221,86 +285,6 @@
     "url": "https://www.aljazeera.com/features/2026/5/14/zimbabweans-lured-into-russias-war-as-families-plead-for-their-return?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/14/zimbabweans-lured-into-russias-war-as-families-plead-for-their-return?traffic_source=rss",
     "image": null,
-    "timestamp": 1778764820.460536
-  },
-  {
-    "title_fa": "Could Iran war trigger a hunger crisis?",
-    "title_en": "Could Iran war trigger a hunger crisis?",
-    "summary": [
-      "The UN warns disruptions in the Strait of Hormuz could drive up food and fertiliser costs, and worsen global hunger."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778764820.4605742
-  },
-  {
-    "title_fa": "Lionel Messi scores two goals as Inter Miami rally to beat Cincinnati",
-    "title_en": "Lionel Messi scores two goals as Inter Miami rally to beat Cincinnati",
-    "summary": [
-      "Argentinian star forward&#039;s brace and an assist steer Miami to their fifth consecutive away victory in the MLS in the US."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/14/lionel-messi-scores-two-goals-as-inter-miami-rally-to-beat-cincinnati?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/14/lionel-messi-scores-two-goals-as-inter-miami-rally-to-beat-cincinnati?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778764820.460606
-  },
-  {
-    "title_fa": "Japanese snacks go black-and-white: Why Iran war is driving up ink prices",
-    "title_en": "Japanese snacks go black-and-white: Why Iran war is driving up ink prices",
-    "summary": [
-      "Calbee says it would temporarily use only black and white colours on 14 of its products due to a lack of printing ink."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/14/japanese-snacks-go-black-and-white-why-iran-war-is-driving-up-ink-prices?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/14/japanese-snacks-go-black-and-white-why-iran-war-is-driving-up-ink-prices?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778764820.4606173
-  },
-  {
-    "title_fa": "UK artist defends ‘Drawings Against Genocide’ show after cancellation",
-    "title_en": "UK artist defends ‘Drawings Against Genocide’ show after cancellation",
-    "summary": [
-      "Matthew Collings says his work on Israeli violence against Palestinians has been intentionally misinterpreted."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/14/uk-artist-defends-drawings-against-genocide-show-after-cancellation?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/14/uk-artist-defends-drawings-against-genocide-show-after-cancellation?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778764820.4606369
-  },
-  {
-    "title_fa": "Nepal in a bind as US-China drone war reaches Everest",
-    "title_en": "Nepal in a bind as US-China drone war reaches Everest",
-    "summary": [
-      "Superpowers compete for technological foothold on world’s highest peak, pushing Nepal towards a geopolitical chessboard."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/14/nepal-in-a-bind-as-us-china-drone-war-reaches-everest?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/14/nepal-in-a-bind-as-us-china-drone-war-reaches-everest?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778764820.4606497
+    "timestamp": 1778773005.3790534
   }
 ]
