@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "عراقچی: پیام‌های جدیدی از آمریکا دریافت کردیم که نشانگر تمایل آنها به مذاکره است",
-    "title_en": "عراقچی: پیام‌های جدیدی از آمریکا دریافت کردیم که نشانگر تمایل آنها به مذاکره است",
+    "title_fa": "آمریکا می‌گوید آتش‌بس میان لبنان و اسرائیل به مدت ۴۵ روز تمدید شده است",
+    "title_en": "آمریکا می‌گوید آتش‌بس میان لبنان و اسرائیل به مدت ۴۵ روز تمدید شده است",
     "summary": [
-      "وزیر خارجه جمهوری اسلامی می‌گوید که ایران پیام‌هایی از واشنگتن دریافت کرده است که نشان‌ می‌دهد آمریکا مایل به ادامه مذاکره است. عباس عراقچی گفت که این پیام‌ها بعد از واکنش منفی اولیه دونالد ترامپ ارسال شده است که پاسخ ایران را «غیرقابل قبول» خوانده بود. اظهارات آقای عراقچی در حاشیه اجلاس بریکس مطرح شد که در سایه اختلافات ایران و امارات، امروز بدون بیانیه مشترک به پایان رسید. در همین حال دونالد ترامپ بعد از پایان سفرش به چین، گفت که در مورد باز کردن تنگه هرمز، نه از چین تقاضای کمک کرده و نه نیازی"
+      "تامی پیگوت، سخنگوی وزارت خارجه آمریکا، می‌گوید تمدید آتش‌بس میان اسرائیل و لبنان پس از دو روز مذاکرات «بسیار سازنده» با میانجیگری ایالات متحده مورد توافق قرار گرفته است. وزیر خارجه جمهوری اسلامی می‌گوید که ایران پیام‌هایی از واشنگتن دریافت کرده است که نشان‌ می‌دهد آمریکا مایل به ادامه مذاکره است و این پیام‌ها بعد از واکنش منفی اولیه دونالد ترامپ ارسال شده که پاسخ ایران را «غیرقابل قبول» خوانده بود. در همین حال دونالد ترامپ بعد از پایان سفرش به چین، گفت که در مورد باز کردن تنگه هرمز، نه از چین تق"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/crrpjl092kvt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/crrpjl092kvt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.9086037
+    "timestamp": 1778873059.4475396
+  },
+  {
+    "title_fa": "ترامپ: من از شی نخواستم که به ایران فشار بیاورد، اما فکر می‌کنم خودش این کار را بکند",
+    "title_en": "ترامپ: من از شی نخواستم که به ایران فشار بیاورد، اما فکر می‌کنم خودش این کار را بکند",
+    "summary": [
+      "دونالد ترامپ، رئیس‌جمهوری آمریکا، روز جمعه سفر سه روزه خود به چین را در حالی به پایان رساند که هر دو ابر قدرت پیشرفت در رابطه‌شان را ستودند اما تحول بزرگی در زمینه مسائل عمده و مورد اختلاف، از جمله ایران و تایوان، اعلام نشد. همزمان پکن اعلام کرده است که شی جین‌پینگ، رئیس‌جمهور چین، دعوت دونالد ترامپ برای سفر به آمریکا در سال جاری را پذیرفته است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778873059.4475744
   },
   {
     "title_fa": "اصغر فرهادی کشتار معترضان در دی‌ماه و جنگ آمریکا و اسرائیل با ایران را محکوم کرد",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c9360dz2lkeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9360dz2lkeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.9086478
+    "timestamp": 1778873059.4476004
   },
   {
     "title_fa": "ثبت ۲۵۰ هزار شکایت در ایران علیه «جنایات جنگی آمریکا و اسرائیل»",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c62xnz1v94yo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c62xnz1v94yo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.9086668
+    "timestamp": 1778873059.447619
   },
   {
     "title_fa": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.908709
+    "timestamp": 1778873059.447662
   },
   {
     "title_fa": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.9087245
+    "timestamp": 1778873059.4476788
   },
   {
     "title_fa": "جایزه ۲۰۰ هزار دلاری اف‌بی‌آی برای اطلاعات درباره مامور ضدتروریسم سابق که متهم به جاسوسی برای ایران است",
@@ -93,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cjwp7dg5ex3o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjwp7dg5ex3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.9087424
-  },
-  {
-    "title_fa": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
-    "title_en": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
-    "summary": [
-      "کارشناسان می‌گویند قایق‌های تندرو سپاه بخشی از دکترین جنگی ایران برای مقابله با قدرت‌های برتر دریایی مانند آمریکا هستند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778867820.9087613
+    "timestamp": 1778873059.4477038
   },
   {
     "title_fa": "فرمانده سنتکام: توان ایران برای تهدید همسایگانش به‌شدت تضعیف شده است",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.9087815
+    "timestamp": 1778873059.447725
   },
   {
     "title_fa": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.9087956
+    "timestamp": 1778873059.4477403
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.9088178
+    "timestamp": 1778873059.4477642
   },
   {
     "title_fa": "درخواست آزادی راتکو ملادیچ معروف به «قصاب بوسنی»، رد شد",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.9088836
+    "timestamp": 1778873059.447834
   },
   {
     "title_fa": "آنچه گذشت؛ سومین دور مذاکرات لبنان و اسرائیل در واشنگتن برگزار شد",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.9089184
+    "timestamp": 1778873059.4478707
   },
   {
     "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
@@ -205,7 +205,23 @@
     "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.908933
+    "timestamp": 1778873059.447886
+  },
+  {
+    "title_fa": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
+    "title_en": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
+    "summary": [
+      "کارشناسان می‌گویند قایق‌های تندرو سپاه بخشی از دکترین جنگی ایران برای مقابله با قدرت‌های برتر دریایی مانند آمریکا هستند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778873059.4478984
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -221,7 +237,39 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778867820.9089532
+    "timestamp": 1778873059.44792
+  },
+  {
+    "title_fa": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
+    "title_en": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
+    "summary": [
+      "Ukraine’s air force says the attack on Thursday was part of the largest aerial assault since the war began."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778873059.606376
+  },
+  {
+    "title_fa": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
+    "title_en": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
+    "summary": [
+      "Trump tells reporters he is still deciding fate of new Taiwan weapons package, says not &quot;asking for any favors&quot; on Iran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778873059.606408
   },
   {
     "title_fa": "BRICS talks end without joint statement as divisions over Iran war deepen",
@@ -237,11 +285,11 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss",
     "image": null,
-    "timestamp": 1778867821.0493395
+    "timestamp": 1778873059.606444
   },
   {
-    "title_fa": "Israel kills seven in Lebanon as direct talks continue in US for second day",
-    "title_en": "Israel kills seven in Lebanon as direct talks continue in US for second day",
+    "title_fa": "Israel kills seven in Lebanon, agrees ‘ceasefire’ extension at talks in US",
+    "title_en": "Israel kills seven in Lebanon, agrees ‘ceasefire’ extension at talks in US",
     "summary": [
       "Delegations meet in Washington as Lebanon demands an end to Israeli attacks and occupation of its territory."
     ],
@@ -253,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/lebanon-talks-israel-attack?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/15/lebanon-talks-israel-attack?traffic_source=rss",
     "image": null,
-    "timestamp": 1778867821.0493636
+    "timestamp": 1778873059.606466
   },
   {
     "title_fa": "Iran says lack of trust is the main obstacle in US negotiations",
@@ -269,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/iran-says-lack-of-trust-is-the-main-obstacle-in-us-negotiations?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/iran-says-lack-of-trust-is-the-main-obstacle-in-us-negotiations?traffic_source=rss",
     "image": null,
-    "timestamp": 1778867821.0493777
+    "timestamp": 1778873059.6064792
   },
   {
     "title_fa": "India and UAE sign defence pacts, as Iran war tensions simmer",
@@ -285,38 +333,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer?traffic_source=rss",
     "image": null,
-    "timestamp": 1778867821.0493956
-  },
-  {
-    "title_fa": "Araghchi: Iran doubts US ‘seriousness’ about talks amid nuclear deadlock",
-    "title_en": "Araghchi: Iran doubts US ‘seriousness’ about talks amid nuclear deadlock",
-    "summary": [
-      "Iran&#039;s FM Abbas Araghchi spoke at a BRICS meeting in India about his &quot;distrust&quot; of the US regarding war negotiations."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/15/araghchi_iran_doubts_us_seriousness_about_talks_amid_nuclear_deadlock?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/15/araghchi_iran_doubts_us_seriousness_about_talks_amid_nuclear_deadlock?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778867821.0494626
-  },
-  {
-    "title_fa": "Nakba: Jewish voices are challenging the stories Israel tells about itself",
-    "title_en": "Nakba: Jewish voices are challenging the stories Israel tells about itself",
-    "summary": [
-      "A film director, historian and Holocaust survivor speak to Al Jazeera as opinions shift."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/features/2026/5/15/nakba-jewish-voices-are-challenging-the-stories-israel-tells-about-itself?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/features/2026/5/15/nakba-jewish-voices-are-challenging-the-stories-israel-tells-about-itself?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778867821.0494723
+    "timestamp": 1778873059.6064968
   }
 ]
