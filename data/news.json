@@ -1,5 +1,21 @@
 [
   {
+    "title_fa": "عراقچی: پیام‌های جدیدی از آمریکا دریافت کردیم که نشانگر تمایل آنها به مذاکره است",
+    "title_en": "عراقچی: پیام‌های جدیدی از آمریکا دریافت کردیم که نشانگر تمایل آنها به مذاکره است",
+    "summary": [
+      "وزیر خارجه جمهوری اسلامی می‌گوید که ایران پیام‌هایی از واشنگتن دریافت کرده است که نشان‌ می‌دهد آمریکا مایل به ادامه مذاکره است. عباس عراقچی گفت که این پیام‌ها بعد از واکنش منفی اولیه دونالد ترامپ ارسال شده است که پاسخ ایران را «غیرقابل قبول» خوانده بود. اظهارات آقای عراقچی در حاشیه اجلاس بریکس مطرح شد که در سایه اختلافات ایران و امارات، امروز بدون بیانیه مشترک به پایان رسید. در همین حال دونالد ترامپ بعد از پایان سفرش به چین، گفت که در مورد باز کردن تنگه هرمز، نه از چین تقاضای کمک کرده و نه نیازی"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/crrpjl092kvt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/crrpjl092kvt?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778856081.08848
+  },
+  {
     "title_fa": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
     "title_en": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
     "summary": [
@@ -13,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7361593
+    "timestamp": 1778856081.0885472
   },
   {
     "title_fa": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7361782
+    "timestamp": 1778856081.0885653
   },
   {
     "title_fa": "جایزه ۲۰۰ هزار دلاری اف‌بی‌آی برای اطلاعات درباره مامور ضدتروریسم سابق که متهم به جاسوسی برای ایران است",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cjwp7dg5ex3o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjwp7dg5ex3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.736198
+    "timestamp": 1778856081.0885842
   },
   {
     "title_fa": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7362113
+    "timestamp": 1778856081.088597
   },
   {
     "title_fa": "فرمانده سنتکام: توان ایران برای تهدید همسایگانش به‌شدت تضعیف شده است",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7362301
+    "timestamp": 1778856081.088616
   },
   {
     "title_fa": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7362506
+    "timestamp": 1778856081.0886376
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7362757
+    "timestamp": 1778856081.088663
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7363265
+    "timestamp": 1778856081.088714
   },
   {
     "title_fa": "درخواست آزادی راتکو ملادیچ معروف به «قصاب بوسنی»، رد شد",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7363813
+    "timestamp": 1778856081.0887692
   },
   {
     "title_fa": "آنچه گذشت؛ سومین دور مذاکرات لبنان و اسرائیل در واشنگتن برگزار شد",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7364218
+    "timestamp": 1778856081.0888054
   },
   {
     "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7364383
+    "timestamp": 1778856081.0888212
   },
   {
     "title_fa": "آیا کابل‌های زیردریایی اینترنت به سلاح تازه ایران در خلیج فارس تبدیل می‌شود؟",
@@ -189,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7364833
+    "timestamp": 1778856081.0888662
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -205,7 +221,71 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778847695.7365036
+    "timestamp": 1778856081.088886
+  },
+  {
+    "title_fa": "Trump-Xi summit: China, US disagree on what they agreed on",
+    "title_en": "Trump-Xi summit: China, US disagree on what they agreed on",
+    "summary": [
+      "US touted trade deals; China said it warned Washington over Taiwan. Neither side confirmed the other&#039;s claims."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/15/trump-xi-summit-china-us-disagree-on-what-they-agreed-on?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/15/trump-xi-summit-china-us-disagree-on-what-they-agreed-on?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778856081.2032423
+  },
+  {
+    "title_fa": "Philippines vows to hand fugitive senator to ICC following shootout",
+    "title_en": "Philippines vows to hand fugitive senator to ICC following shootout",
+    "summary": [
+      "Senator Ronald &#039;Bato&#039; dela Rosa wanted for alleged role as top enforcer of ex-president Duterte&#039;s deadly drug war."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/15/philippines-vows-to-hand-fugitive-senator-to-icc-following-shootout?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/15/philippines-vows-to-hand-fugitive-senator-to-icc-following-shootout?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778856081.203262
+  },
+  {
+    "title_fa": "Israeli settler attacks activist during tour on settler violence",
+    "title_en": "Israeli settler attacks activist during tour on settler violence",
+    "summary": [
+      "A group of Israeli settlers attacked Israeli rights activists in the occupied West Bank."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israeli-settler-attacks-activist-during-tour-on-settler-violence?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israeli-settler-attacks-activist-during-tour-on-settler-violence?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778856081.2033057
+  },
+  {
+    "title_fa": "Why the Iran conflict is becoming a problem for BRICS",
+    "title_en": "Why the Iran conflict is becoming a problem for BRICS",
+    "summary": [
+      "Second BRICS meeting in a row collapses without joint position because of disagreements over the war on Iran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/15/why-the-iran-conflict-is-becoming-a-problem-for-brics?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/15/why-the-iran-conflict-is-becoming-a-problem-for-brics?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778856081.203341
   },
   {
     "title_fa": "Finland ends drone alert amid regional fears of Ukraine war spillover",
@@ -221,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss",
     "image": null,
-    "timestamp": 1778847695.8309636
+    "timestamp": 1778856081.203382
   },
   {
     "title_fa": "This is the Palestinian Nakba, measured in land taken",
@@ -237,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/15/this-is-the-palestinian-nakba-measured-in-land-taken?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/15/this-is-the-palestinian-nakba-measured-in-land-taken?traffic_source=rss",
     "image": null,
-    "timestamp": 1778847695.8309784
+    "timestamp": 1778856081.2033992
   },
   {
     "title_fa": "India hikes fuel prices as Iran crisis bites",
@@ -253,7 +333,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss",
     "image": null,
-    "timestamp": 1778847695.830988
+    "timestamp": 1778856081.2034147
   },
   {
     "title_fa": "Trump and Xi move towards business-first relationship after Beijing summit",
@@ -269,7 +349,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss",
     "image": null,
-    "timestamp": 1778847695.8310096
+    "timestamp": 1778856081.2034473
   },
   {
     "title_fa": "How Xi-Trump summit failed to yield Iran war breakthrough",
@@ -285,86 +365,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss",
     "image": null,
-    "timestamp": 1778847695.8310192
-  },
-  {
-    "title_fa": "Benched Mbappe says he’s fourth-choice forward at Real Madrid under Arbeloa",
-    "title_en": "Benched Mbappe says he’s fourth-choice forward at Real Madrid under Arbeloa",
-    "summary": [
-      "Striker jeered by own fans as he came off bench in return from injury in 2-0 La Liga win ​over Real Oviedo."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/15/benched-mbappe-says-hes-fourth-choice-forward-at-real-madrid-under-arbeloa?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/15/benched-mbappe-says-hes-fourth-choice-forward-at-real-madrid-under-arbeloa?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778847695.831067
-  },
-  {
-    "title_fa": "Mitoma fails to make Japan’s 2026 World Cup squad due to hamstring injury",
-    "title_en": "Mitoma fails to make Japan’s 2026 World Cup squad due to hamstring injury",
-    "summary": [
-      "Monaco forward Takumi Minamino also misses out due to injury, but ex-Arsenal defender Takehiro Tomiyasu makes the cut."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/15/mitoma-fails-to-make-japans-2026-world-cup-squad-due-to-hamstring-injury?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/15/mitoma-fails-to-make-japans-2026-world-cup-squad-due-to-hamstring-injury?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778847695.8310995
-  },
-  {
-    "title_fa": "How David Ben-Gurion got the Palestinians wrong in 1948",
-    "title_en": "How David Ben-Gurion got the Palestinians wrong in 1948",
-    "summary": [
-      "The Palestinian question never disappeared despite Israel’s best efforts and worst brutality."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/opinions/2026/5/15/how-david-ben-gurion-got-the-palestinians-wrong-in-1948?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/opinions/2026/5/15/how-david-ben-gurion-got-the-palestinians-wrong-in-1948?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778847695.831112
-  },
-  {
-    "title_fa": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
-    "title_en": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
-    "summary": [
-      "The US and Chinese leaders agreed during talks that the Strait of Hormuz should remain open to ensure global supplies."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778847695.8311212
-  },
-  {
-    "title_fa": "Top US admiral: Strikes severely degraded Iran’s military, defence",
-    "title_en": "Top US admiral: Strikes severely degraded Iran’s military, defence",
-    "summary": [
-      "Admiral Brad Cooper defended the results of the US-Israeli war on Iran, as lawmakers questioned him on Capitol Hill."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778847695.8311498
+    "timestamp": 1778856081.2034638
   }
 ]
