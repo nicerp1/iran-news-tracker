@@ -1,21 +1,5 @@
 [
   {
-    "title_fa": "ترامپ و شی دور نهایی گفت و گوها را در پکن پی می‌گیرند",
-    "title_en": "ترامپ و شی دور نهایی گفت و گوها را در پکن پی می‌گیرند",
-    "summary": [
-      "دونالد ترامپ در دومین روز سفر رسمی خود بار دیگر با شی جین‌پینگ دیدار کرد تا دو طرف دور نهایی مذاکرات رودررو را دنبال کنند. آقای ترامپ پیش‌تر گفته بود که رهبر چین پیشنهاد داده است که پکن برای کمک به بازگشایی تنگه هرمز کمک کند. او همچنین گفت که آقای شی به او اطمینان داده که چین تجهیزات نظامی به ایران در جنگ با اسرائیل و آمریکا ارسال نخواهد کرد. در همین حال، محمدباقر قالیباف در اظهارنظری جدید با اشاره به رسیدن نرخ بهره اوراق قرضه دولت آمریکا به سطح دوره رکود اقتصادی سال ۲۰۰۷، جنگ آمریکا علیه ایران "
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/crrpjl092kvt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/crrpjl092kvt?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778821881.8137648
-  },
-  {
     "title_fa": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
     "title_en": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
     "summary": [
@@ -29,7 +13,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.8137958
+    "timestamp": 1778832958.6082146
   },
   {
     "title_fa": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
@@ -45,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.813815
+    "timestamp": 1778832958.6082351
   },
   {
     "title_fa": "جایزه ۲۰۰ هزار دلاری اف‌بی‌آی برای اطلاعات درباره مامور ضدتروریسم سابق که متهم به جاسوسی برای ایران است",
@@ -61,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cjwp7dg5ex3o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjwp7dg5ex3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.8138366
+    "timestamp": 1778832958.6082559
   },
   {
     "title_fa": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
@@ -77,13 +61,13 @@
     "url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.8138506
+    "timestamp": 1778832958.60827
   },
   {
     "title_fa": "فرمانده سنتکام: توان ایران برای تهدید همسایگانش به‌شدت تضعیف شده است",
     "title_en": "فرمانده سنتکام: توان ایران برای تهدید همسایگانش به‌شدت تضعیف شده است",
     "summary": [
-      "یک دریاسالار برد کوپر، فرمانده سنتکام، ستاد فرماندهی مرکزی آمریکا روز پنجشنبه ۲۴ اردیبهشت / ۱۴ مه گفت که در پی بمباران‌های آمریکا، توان ایران برای تهدید همسایگانش و منافع ایالات متحده به‌شدت کاهش یافته و صنایع دفاعی تهران ۹۰ درصد تضعیف شده است."
+      "دریاسالار برد کوپر، فرمانده سنتکام، ستاد فرماندهی مرکزی آمریکا روز پنجشنبه ۲۴ اردیبهشت / ۱۴ مه گفت که در پی بمباران‌های آمریکا، توان ایران برای تهدید همسایگانش و منافع ایالات متحده به‌شدت کاهش یافته و صنایع دفاعی تهران ۹۰ درصد تضعیف شده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.813871
+    "timestamp": 1778832958.6082895
   },
   {
     "title_fa": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
@@ -109,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.8138862
+    "timestamp": 1778832958.6083102
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -125,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.8139176
-  },
-  {
-    "title_fa": "عراقچی: امارات در حملات به ایران «شریک فعال» بوده است",
-    "title_en": "عراقچی: امارات در حملات به ایران «شریک فعال» بوده است",
-    "summary": [
-      "درگیری بین ایران و امارات به نشست عمومی نخستین روز اجلاس وزرای خارجه بریکس هم کشیده شد، جایی که به گزارش رسانه‌های ایران، آقای عراقچی خطاب به نماینده امارت گفت: «ائتلاف شما با اسرائیلی‌ها نیز از شما محافظت نکرد. در سیاست خود در قبال ایران بازنگری کنید.»"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c2l27rq279vo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778821881.81394
+    "timestamp": 1778832958.6083357
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -157,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.8140035
+    "timestamp": 1778832958.6083875
   },
   {
     "title_fa": "درخواست آزادی راتکو ملادیچ معروف به «قصاب بوسنی»، رد شد",
@@ -173,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.8140607
+    "timestamp": 1778832958.608444
   },
   {
     "title_fa": "آنچه گذشت؛ سومین دور مذاکرات لبنان و اسرائیل در واشنگتن برگزار شد",
@@ -189,7 +157,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.8140965
+    "timestamp": 1778832958.6084867
   },
   {
     "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
@@ -205,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.8141127
+    "timestamp": 1778832958.6085029
   },
   {
     "title_fa": "آیا کابل‌های زیردریایی اینترنت به سلاح تازه ایران در خلیج فارس تبدیل می‌شود؟",
@@ -221,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21gyxjg7po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.8141572
+    "timestamp": 1778832958.6085525
   },
   {
     "title_fa": "چرا بریتانیا بیش از دیگر کشورهای ثروتمند از جنگ ایران آسیب خواهد دید؟",
@@ -237,7 +205,71 @@
     "url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy02k0yr3d9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778821881.8141766
+    "timestamp": 1778832958.6085725
+  },
+  {
+    "title_fa": "Benched Mbappe says he’s fourth-choice forward at Real Madrid under Arbeloa",
+    "title_en": "Benched Mbappe says he’s fourth-choice forward at Real Madrid under Arbeloa",
+    "summary": [
+      "Striker jeered by own fans as he came off bench in return from injury in 2-0 La Liga win ​over Real Oviedo."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/15/benched-mbappe-says-hes-fourth-choice-forward-at-real-madrid-under-arbeloa?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/15/benched-mbappe-says-hes-fourth-choice-forward-at-real-madrid-under-arbeloa?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778832958.7823603
+  },
+  {
+    "title_fa": "Mitoma fails to make Japan’s 2026 World Cup squad due to hamstring injury",
+    "title_en": "Mitoma fails to make Japan’s 2026 World Cup squad due to hamstring injury",
+    "summary": [
+      "Monaco forward Takumi Minamino also misses out due to injury, but ex-Arsenal defender Takehiro Tomiyasu makes the cut."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/15/mitoma-fails-to-make-japans-2026-world-cup-squad-due-to-hamstring-injury?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/15/mitoma-fails-to-make-japans-2026-world-cup-squad-due-to-hamstring-injury?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778832958.782399
+  },
+  {
+    "title_fa": "How David Ben-Gurion got the Palestinians wrong in 1948",
+    "title_en": "How David Ben-Gurion got the Palestinians wrong in 1948",
+    "summary": [
+      "The Palestinian question never disappeared despite Israel’s best efforts and worst brutality."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/15/how-david-ben-gurion-got-the-palestinians-wrong-in-1948?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/15/how-david-ben-gurion-got-the-palestinians-wrong-in-1948?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778832958.782412
+  },
+  {
+    "title_fa": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
+    "title_en": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
+    "summary": [
+      "The US and Chinese leaders agreed during talks that the Strait of Hormuz should remain open to ensure global supplies."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778832958.7824225
   },
   {
     "title_fa": "Top US admiral: Strikes severely degraded Iran’s military, defence",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss",
     "image": null,
-    "timestamp": 1778821882.0156183
+    "timestamp": 1778832958.782452
   },
   {
     "title_fa": "What happens to those who say no to fighting wars?",
@@ -269,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-happens-to-those-who-say-no-to-fighting-wars?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-happens-to-those-who-say-no-to-fighting-wars?traffic_source=rss",
     "image": null,
-    "timestamp": 1778821882.0156503
+    "timestamp": 1778832958.7824726
   },
   {
     "title_fa": "Israel-Lebanon talks held in Washington as expiration of ceasefire nears",
@@ -285,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israel-lebanon-talks-held-in-washington-as-expiration-of-ceasefire-nears?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israel-lebanon-talks-held-in-washington-as-expiration-of-ceasefire-nears?traffic_source=rss",
     "image": null,
-    "timestamp": 1778821882.0156624
+    "timestamp": 1778832958.7824833
   },
   {
     "title_fa": "Eurovision braces for new protests over Israel’s participation",
@@ -301,7 +333,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss",
     "image": null,
-    "timestamp": 1778821882.0156736
+    "timestamp": 1778832958.7824945
   },
   {
     "title_fa": "Iran war live: Trump’s visit to China shadowed by conflict with Tehran",
@@ -317,7 +349,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss",
     "image": null,
-    "timestamp": 1778821882.0156875
+    "timestamp": 1778832958.7825096
   },
   {
     "title_fa": "Could Iran war trigger a hunger crisis?",
@@ -333,7 +365,7 @@
     "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
     "image": null,
-    "timestamp": 1778821882.0157359
+    "timestamp": 1778832958.7825558
   },
   {
     "title_fa": "‘China is gaining from what the US is doing in Iran’",
@@ -349,70 +381,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
     "image": null,
-    "timestamp": 1778821882.0157456
-  },
-  {
-    "title_fa": "Cautious optimism in Lebanon as direct talks with Israel progress",
-    "title_en": "Cautious optimism in Lebanon as direct talks with Israel progress",
-    "summary": [
-      "Lebanese officials are hoping that two-day ambassador-level negotiations in the US will yield a new ceasefire deal."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778821882.015764
-  },
-  {
-    "title_fa": "Iran’s FM urges BRICS states to condemn US-Israeli aggression",
-    "title_en": "Iran’s FM urges BRICS states to condemn US-Israeli aggression",
-    "summary": [
-      "Iran’s Foreign Minister, Abbas Araghchi, spoke at a gathering of foreign ministers in New Delhi on Thursday."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778821882.0157754
-  },
-  {
-    "title_fa": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
-    "title_en": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
-    "summary": [
-      "As Trump meets Xi in Beijing for the first time in nine years, can trade war, Taiwan and Iran tensions be contained?"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778821882.0158014
-  },
-  {
-    "title_fa": "What does the US hope to achieve from Lebanon-Israel talks?",
-    "title_en": "What does the US hope to achieve from Lebanon-Israel talks?",
-    "summary": [
-      "As Israeli attacks on Lebanon continue, Hezbollah opposes ceasefire talks in Washington."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778821882.0158184
+    "timestamp": 1778832958.7825654
   }
 ]
