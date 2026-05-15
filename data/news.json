@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "آمریکا می‌گوید آتش‌بس میان لبنان و اسرائیل به مدت ۴۵ روز تمدید شده است",
-    "title_en": "آمریکا می‌گوید آتش‌بس میان لبنان و اسرائیل به مدت ۴۵ روز تمدید شده است",
+    "title_fa": "تمدید ۴۵ روزه آتش‌بس لبنان؛ اسرائیل:‌ عزالدین حداد، فرمانده شاخه نظامی حماس در غزه کشته شد",
+    "title_en": "تمدید ۴۵ روزه آتش‌بس لبنان؛ اسرائیل:‌ عزالدین حداد، فرمانده شاخه نظامی حماس در غزه کشته شد",
     "summary": [
-      "تامی پیگوت، سخنگوی وزارت خارجه آمریکا، می‌گوید تمدید آتش‌بس میان اسرائیل و لبنان پس از دو روز مذاکرات «بسیار سازنده» با میانجیگری ایالات متحده مورد توافق قرار گرفته است. وزیر خارجه جمهوری اسلامی می‌گوید که ایران پیام‌هایی از واشنگتن دریافت کرده است که نشان‌ می‌دهد آمریکا مایل به ادامه مذاکره است و این پیام‌ها بعد از واکنش منفی اولیه دونالد ترامپ ارسال شده که پاسخ ایران را «غیرقابل قبول» خوانده بود. در همین حال دونالد ترامپ بعد از پایان سفرش به چین، گفت که در مورد باز کردن تنگه هرمز، نه از چین تق"
+      "نخست‌وزیر و وزیر دفاع اسرائیل، اعلام کردند که عزالدین حداد، فرمانده گردان‌‌های عزالدین قسام، شاخه نظامی حماس را کشته‌اند. شاهدان عینی در غزه به بی‌بی‌سی گفتند که یک آپارتمان هدف حمله موشکی قرار گرفت و سپس خودرویی که گفته می‌شود محل را ترک کرده بود، در حمله‌ای دیگر هدف قرار گرفت. حماس هنوز واکنشی به این خبر نشان نداده است. این در حالیست که وزارت خارجه آمریکا اعلام کرد که آتش‌بس میان اسرائیل و لبنان پس از دو روز مذاکرات «بسیار سازنده» به‌مدت ۴۵ روز تمدید شده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/crrpjl092kvt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/crrpjl092kvt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.4475396
+    "timestamp": 1778877411.9049184
+  },
+  {
+    "title_fa": "دولت آمریکا خواهان مجازات اعدام برای مظنون قتل کارکنان سفارت اسرائیل در واشنگتن شد",
+    "title_en": "دولت آمریکا خواهان مجازات اعدام برای مظنون قتل کارکنان سفارت اسرائیل در واشنگتن شد",
+    "summary": [
+      "دولت ایالات متحده به دنبال مجازات اعدام برای مظنونی است که سال گذشته به قتل دو نفر از کارکنان سفارت اسرائیل در واشنگتن متهم شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/crkpjl1p4jko?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/crkpjl1p4jko?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778877411.9049425
   },
   {
     "title_fa": "ترامپ: من از شی نخواستم که به ایران فشار بیاورد، اما فکر می‌کنم خودش این کار را بکند",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.4475744
+    "timestamp": 1778877411.9049716
   },
   {
     "title_fa": "اصغر فرهادی کشتار معترضان در دی‌ماه و جنگ آمریکا و اسرائیل با ایران را محکوم کرد",
@@ -45,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c9360dz2lkeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9360dz2lkeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.4476004
-  },
-  {
-    "title_fa": "ثبت ۲۵۰ هزار شکایت در ایران علیه «جنایات جنگی آمریکا و اسرائیل»",
-    "title_en": "ثبت ۲۵۰ هزار شکایت در ایران علیه «جنایات جنگی آمریکا و اسرائیل»",
-    "summary": [
-      "مقام‌های قضائی جمهوری اسلامی ایران می‌گویند حدود ۲۵۰ هزار شکایت حقوقی و کیفری در ارتباط با آنچه «جنایات جنگی آمریکا و اسرائیل» توصیف کرده‌اند، در دستگاه قضایی این کشور ثبت شده و در مرحله رسیدگی قرار دارد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c62xnz1v94yo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c62xnz1v94yo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778873059.447619
+    "timestamp": 1778877411.9049957
   },
   {
     "title_fa": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.447662
+    "timestamp": 1778877411.9050388
   },
   {
     "title_fa": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.4476788
+    "timestamp": 1778877411.9050558
   },
   {
     "title_fa": "جایزه ۲۰۰ هزار دلاری اف‌بی‌آی برای اطلاعات درباره مامور ضدتروریسم سابق که متهم به جاسوسی برای ایران است",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cjwp7dg5ex3o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjwp7dg5ex3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.4477038
+    "timestamp": 1778877411.9050817
   },
   {
     "title_fa": "فرمانده سنتکام: توان ایران برای تهدید همسایگانش به‌شدت تضعیف شده است",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2e2n97kn3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.447725
+    "timestamp": 1778877411.9051034
   },
   {
     "title_fa": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.4477403
+    "timestamp": 1778877411.9051194
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -157,7 +157,23 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.4477642
+    "timestamp": 1778877411.9051433
+  },
+  {
+    "title_fa": "ثبت ۲۵۰ هزار شکایت در ایران علیه «جنایات جنگی آمریکا و اسرائیل»",
+    "title_en": "ثبت ۲۵۰ هزار شکایت در ایران علیه «جنایات جنگی آمریکا و اسرائیل»",
+    "summary": [
+      "مقام‌های قضائی جمهوری اسلامی ایران می‌گویند حدود ۲۵۰ هزار شکایت حقوقی و کیفری در ارتباط با آنچه «جنایات جنگی آمریکا و اسرائیل» توصیف کرده‌اند، در دستگاه قضایی این کشور ثبت شده و در مرحله رسیدگی قرار دارد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c62xnz1v94yo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c62xnz1v94yo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778877411.905189
   },
   {
     "title_fa": "درخواست آزادی راتکو ملادیچ معروف به «قصاب بوسنی»، رد شد",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4m98pxko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.447834
+    "timestamp": 1778877411.9052324
   },
   {
     "title_fa": "آنچه گذشت؛ سومین دور مذاکرات لبنان و اسرائیل در واشنگتن برگزار شد",
@@ -189,23 +205,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y833ewnelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.4478707
-  },
-  {
-    "title_fa": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
-    "title_en": "قوه قضائیه ایران: احسان افرشته به اتهام «جاسوسی برای اسرائیل» محاکمه و اعدام شد",
-    "summary": [
-      "قوه قضائیه ایران اعلام کرده است که یک شهروند ایرانی به نام احسان افرشته را پس از محاکمه به اتهام «جاسوسی و همکاری اطلاعاتی به نفع اسرائیل» امروز صبح اعدام کرده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/clypr3333nlo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778873059.447886
+    "timestamp": 1778877411.9052684
   },
   {
     "title_fa": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
@@ -221,7 +221,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.4478984
+    "timestamp": 1778877411.9052825
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -237,7 +237,23 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778873059.44792
+    "timestamp": 1778877411.9053059
+  },
+  {
+    "title_fa": "Trump calls journalist’s Iran reporting ‘treasonous’",
+    "title_en": "Trump calls journalist’s Iran reporting ‘treasonous’",
+    "summary": [
+      "Trump called New York Times journalist reporting on the Iran war as “treasonous” while claiming a &#039;victory&#039;."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778877412.1114907
   },
   {
     "title_fa": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
     "image": null,
-    "timestamp": 1778873059.606376
+    "timestamp": 1778877412.111555
   },
   {
     "title_fa": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
@@ -269,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss",
     "image": null,
-    "timestamp": 1778873059.606408
+    "timestamp": 1778877412.1115673
   },
   {
     "title_fa": "BRICS talks end without joint statement as divisions over Iran war deepen",
@@ -285,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss",
     "image": null,
-    "timestamp": 1778873059.606444
+    "timestamp": 1778877412.1116018
   },
   {
     "title_fa": "Israel kills seven in Lebanon, agrees ‘ceasefire’ extension at talks in US",
@@ -301,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/lebanon-talks-israel-attack?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/15/lebanon-talks-israel-attack?traffic_source=rss",
     "image": null,
-    "timestamp": 1778873059.606466
+    "timestamp": 1778877412.1116245
   },
   {
     "title_fa": "Iran says lack of trust is the main obstacle in US negotiations",
@@ -317,7 +333,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/iran-says-lack-of-trust-is-the-main-obstacle-in-us-negotiations?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/iran-says-lack-of-trust-is-the-main-obstacle-in-us-negotiations?traffic_source=rss",
     "image": null,
-    "timestamp": 1778873059.6064792
+    "timestamp": 1778877412.1116366
   },
   {
     "title_fa": "India and UAE sign defence pacts, as Iran war tensions simmer",
@@ -333,6 +349,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer?traffic_source=rss",
     "image": null,
-    "timestamp": 1778873059.6064968
+    "timestamp": 1778877412.1116548
   }
 ]
