@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cgkpn8j8501t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cgkpn8j8501t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778965801.1414082
+    "timestamp": 1778968954.4276118
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -29,23 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778965801.1414323
-  },
-  {
-    "title_fa": "آمریکا یک فرمانده شبه‌نظامیان عراقی را به توطئه برای هدف قرار دادن یهودیان در شهرهایی از لندن تا لس‌آنجلس متهم کرد",
-    "title_en": "آمریکا یک فرمانده شبه‌نظامیان عراقی را به توطئه برای هدف قرار دادن یهودیان در شهرهایی از لندن تا لس‌آنجلس متهم کرد",
-    "summary": [
-      "آمریکا می‌گوید که محمد باقر سعد داوود ساعدی یک فرمانده شبه‌نظامیان عراقی را به اتهام نقش داشتن در طراحی بیش از ۱۲ حمله «تروریستی» در آمریکای شمالی و اروپا بازداشت و به آمریکا منتقل کرده است مقامات قضایی آمریکا گفته‌اند که این حملات در واکنش به جنگ با ایران برنامه‌ریزی شده بود."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778965801.1414561
+    "timestamp": 1778968954.4276555
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -61,7 +45,23 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778965801.1414785
+    "timestamp": 1778968954.427713
+  },
+  {
+    "title_fa": "آمریکا یک فرمانده شبه‌نظامیان عراقی را به توطئه برای هدف قرار دادن یهودیان در شهرهایی از لندن تا لس‌آنجلس متهم کرد",
+    "title_en": "آمریکا یک فرمانده شبه‌نظامیان عراقی را به توطئه برای هدف قرار دادن یهودیان در شهرهایی از لندن تا لس‌آنجلس متهم کرد",
+    "summary": [
+      "آمریکا می‌گوید که محمد باقر سعد داوود ساعدی یک فرمانده شبه‌نظامیان عراقی را به اتهام نقش داشتن در طراحی بیش از ۱۲ حمله «تروریستی» در آمریکای شمالی و اروپا بازداشت و به آمریکا منتقل کرده است مقامات قضایی آمریکا گفته‌اند که این حملات در واکنش به جنگ با ایران برنامه‌ریزی شده بود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778968954.4277358
   },
   {
     "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778965801.1415277
+    "timestamp": 1778968954.4277518
   },
   {
     "title_fa": "ترامپ: من از شی نخواستم که به ایران فشار بیاورد، اما فکر می‌کنم خودش این کار را بکند",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778965801.141552
+    "timestamp": 1778968954.4277835
   },
   {
     "title_fa": "اصغر فرهادی کشتار معترضان در دی‌ماه و جنگ آمریکا و اسرائیل با ایران را محکوم کرد",
@@ -109,39 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c9360dz2lkeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9360dz2lkeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778965801.1415799
-  },
-  {
-    "title_fa": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
-    "title_en": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
-    "summary": [
-      "تیزر: در سایه جنگ آمریکا و اسرائیل با ایران، امارات به یکی از اصلی‌ترین اهداف حملات در میان کشورهای حوزه خلیج فارس بدل شده است. حملات موشکی و پهپادی اخیر به خاک این کشور، این پرسش را ایجاد کرده است که چرا ابوظبی، بیش از سایر کشورهای منطقه، در کانون بانک اهداف ایران قرار گرفته است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778965801.1416023
-  },
-  {
-    "title_fa": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
-    "title_en": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
-    "summary": [
-      "وال‌استریت ژورنال از ایجاد پایگاه مخفی اسرائیل در مناطق بیابانی عراق برای پشتیبانی از عملیات علیه ایران گزارش داده، اما مقام‌های امنیتی عراق حضور هرگونه نیروی خارجی را تکذیب کرده‌اند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778965801.1416335
+    "timestamp": 1778968954.427808
   },
   {
     "title_fa": "آیا حزب‌الله هنوز در جنوب لبنان طرفدار دارد؟",
@@ -157,7 +125,39 @@
     "url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778965801.1416504
+    "timestamp": 1778968954.427841
+  },
+  {
+    "title_fa": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
+    "title_en": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
+    "summary": [
+      "وال‌استریت ژورنال از ایجاد پایگاه مخفی اسرائیل در مناطق بیابانی عراق برای پشتیبانی از عملیات علیه ایران گزارش داده، اما مقام‌های امنیتی عراق حضور هرگونه نیروی خارجی را تکذیب کرده‌اند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778968954.4278574
+  },
+  {
+    "title_fa": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
+    "title_en": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
+    "summary": [
+      "تیزر: در سایه جنگ آمریکا و اسرائیل با ایران، امارات به یکی از اصلی‌ترین اهداف حملات در میان کشورهای حوزه خلیج فارس بدل شده است. حملات موشکی و پهپادی اخیر به خاک این کشور، این پرسش را ایجاد کرده است که چرا ابوظبی، بیش از سایر کشورهای منطقه، در کانون بانک اهداف ایران قرار گرفته است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778968954.427879
   },
   {
     "title_fa": "پس از تهدید اسرائیل به شکایت، نیویورک تایمز از روزنامه‌نگار خود دفاع کرد",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778965801.1416912
+    "timestamp": 1778968954.4279025
   },
   {
     "title_fa": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778965801.1417048
+    "timestamp": 1778968954.4279168
   },
   {
     "title_fa": "دولت آمریکا خواهان مجازات اعدام برای مظنون قتل کارکنان سفارت اسرائیل در واشنگتن شد",
@@ -205,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/crkpjl1p4jko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crkpjl1p4jko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778965801.1417394
+    "timestamp": 1778968954.4279833
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -221,23 +221,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778965801.1417603
-  },
-  {
-    "title_fa": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
-    "title_en": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
-    "summary": [
-      "کارشناسان می‌گویند قایق‌های تندرو سپاه بخشی از دکترین جنگی ایران برای مقابله با قدرت‌های برتر دریایی مانند آمریکا هستند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778965801.1417859
+    "timestamp": 1778968954.428027
   },
   {
     "title_fa": "Thousands protest at Eurovision final as five countries boycott over Israel",
@@ -253,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
     "image": null,
-    "timestamp": 1778965801.2966075
+    "timestamp": 1778968954.6707811
   },
   {
     "title_fa": "Francesca Albanese on Israeli sexual violence suffered by Palestinians",
@@ -269,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/upfront/2026/5/16/francesca-albanese-on-israeli-sexual-violence-suffered-by-palestinians?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/upfront/2026/5/16/francesca-albanese-on-israeli-sexual-violence-suffered-by-palestinians?traffic_source=rss",
     "image": null,
-    "timestamp": 1778965801.2966692
+    "timestamp": 1778968954.6708379
   },
   {
     "title_fa": "DRC health minister warns ‘very high’ Ebola lethality rate as toll hits 80",
@@ -285,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/16/drc-health-minister-warns-very-high-ebola-lethality-rate-as-toll-hits-80?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/16/drc-health-minister-warns-very-high-ebola-lethality-rate-as-toll-hits-80?traffic_source=rss",
     "image": null,
-    "timestamp": 1778965801.2966957
+    "timestamp": 1778968954.6708617
   },
   {
     "title_fa": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
@@ -301,22 +285,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
     "image": null,
-    "timestamp": 1778965801.296764
-  },
-  {
-    "title_fa": "Iran warns of readiness for war and economic costs as US talks falter",
-    "title_en": "Iran warns of readiness for war and economic costs as US talks falter",
-    "summary": [
-      "Iranian leaders and TV have ramped up pressure on the US with a stream of messaging to domestic and foreign audiences."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778965801.2967875
+    "timestamp": 1778968954.6709511
   }
 ]
