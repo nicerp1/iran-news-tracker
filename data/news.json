@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "یکی از فرماندهان ارشد کتائب حزب‌الله دستگیر و به آمریکا منتقل شد",
-    "title_en": "یکی از فرماندهان ارشد کتائب حزب‌الله دستگیر و به آمریکا منتقل شد",
+    "title_fa": "حماس کشته شدن فرمانده شاخه نظامی این گروه را در حملات اسرائیل تایید کرد",
+    "title_en": "حماس کشته شدن فرمانده شاخه نظامی این گروه را در حملات اسرائیل تایید کرد",
     "summary": [
-      "یکی از فرماندهان ارشد گروه عراقی کتائب حزب‌الله به اتهام نقش داشتن در طراحی بیش از ۱۲ حمله «تروریستی» در آمریکای شمالی و اروپا بازداشت شده است؛ حملاتی که به گفته مقام‌های قضایی آمریکا در واکنش به جنگ با ایران برنامه‌ریزی شده بود. پیشتر امارات متحده عربی اعلام کرد که تمامی اقداماتش، در چارچوب تدابیر دفاعی با هدف حفاظت از حاکمیت، غیرنظامیان و زیرساخت‌های حیاتی‌ آن کشور بوده است. به گزارش رویترز، بیانیه وزارت خارجه امارات پس از آن است که روزنامه وال استریت ژورنال گزارش داد که امارات در اوایل آوریل "
+      "حماس کشته شدن عزالدین حداد، فرمانده گردان‌های قسام،‌ شاخه نظامی این گروه را در حملات شب گذشته اسرائیل در غزه تایید کرده است. مراسم تشییع او امروز در این شهر برگزار شد. در تحولی دیگر یکی از اعضای ارشد گروه عراقی کتائب حزب‌الله به اتهام نقش داشتن در طراحی بیش از ۱۲ حمله «تروریستی» در آمریکای شمالی و اروپا بازداشت شده است؛ حملاتی که به گفته مقام‌های قضایی آمریکا در واکنش به جنگ با ایران برنامه‌ریزی شده بود. به رغم تمدید آتش‌بس در لبنان، اسرائیل از موج تازه حملات علیه مواضع حزب‌الله خبر داده است. وز"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cgkpn8j8501t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cgkpn8j8501t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.5906844
+    "timestamp": 1778933128.2173874
   },
   {
     "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
@@ -29,23 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.5907233
-  },
-  {
-    "title_fa": "دولت آمریکا خواهان مجازات اعدام برای مظنون قتل کارکنان سفارت اسرائیل در واشنگتن شد",
-    "title_en": "دولت آمریکا خواهان مجازات اعدام برای مظنون قتل کارکنان سفارت اسرائیل در واشنگتن شد",
-    "summary": [
-      "دولت ایالات متحده به دنبال مجازات اعدام برای مظنونی است که سال گذشته به قتل دو نفر از کارکنان سفارت اسرائیل در واشنگتن متهم شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/crkpjl1p4jko?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/crkpjl1p4jko?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778929998.5907633
+    "timestamp": 1778933128.217441
   },
   {
     "title_fa": "ترامپ: من از شی نخواستم که به ایران فشار بیاورد، اما فکر می‌کنم خودش این کار را بکند",
@@ -61,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.5907888
+    "timestamp": 1778933128.2174873
   },
   {
     "title_fa": "اصغر فرهادی کشتار معترضان در دی‌ماه و جنگ آمریکا و اسرائیل با ایران را محکوم کرد",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c9360dz2lkeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9360dz2lkeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.5908108
+    "timestamp": 1778933128.217509
   },
   {
     "title_fa": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.5908387
+    "timestamp": 1778933128.2175357
   },
   {
     "title_fa": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
@@ -109,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.5908566
+    "timestamp": 1778933128.2175527
   },
   {
     "title_fa": "آیا حزب‌الله هنوز در جنوب لبنان طرفدار دارد؟",
@@ -125,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.5908742
+    "timestamp": 1778933128.2175694
   },
   {
     "title_fa": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
@@ -141,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.590907
+    "timestamp": 1778933128.2175996
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -157,7 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.59093
+    "timestamp": 1778933128.217621
+  },
+  {
+    "title_fa": "دولت آمریکا خواهان مجازات اعدام برای مظنون قتل کارکنان سفارت اسرائیل در واشنگتن شد",
+    "title_en": "دولت آمریکا خواهان مجازات اعدام برای مظنون قتل کارکنان سفارت اسرائیل در واشنگتن شد",
+    "summary": [
+      "دولت ایالات متحده به دنبال مجازات اعدام برای مظنونی است که سال گذشته به قتل دو نفر از کارکنان سفارت اسرائیل در واشنگتن متهم شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/crkpjl1p4jko?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/crkpjl1p4jko?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778933128.2176352
   },
   {
     "title_fa": "جایزه ۲۰۰ هزار دلاری اف‌بی‌آی برای اطلاعات درباره مامور ضدتروریسم سابق که متهم به جاسوسی برای ایران است",
@@ -173,23 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cjwp7dg5ex3o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cjwp7dg5ex3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.5909574
-  },
-  {
-    "title_fa": "آنچه گذشت؛ تمدید ۴۵ روزه آتش‌بس لبنان و اسرائیل",
-    "title_en": "آنچه گذشت؛ تمدید ۴۵ روزه آتش‌بس لبنان و اسرائیل",
-    "summary": [
-      "نخست‌وزیر و وزیر دفاع اسرائیل، اعلام کردند که عزالدین حداد، فرمانده گردان‌‌های عزالدین قسام، شاخه نظامی حماس را کشته‌اند. شاهدان عینی در غزه به بی‌بی‌سی گفتند که یک آپارتمان هدف حمله موشکی قرار گرفت و سپس خودرویی که گفته می‌شود محل را ترک کرده بود، در حمله‌ای دیگر هدف قرار گرفت. حماس هنوز واکنشی به این خبر نشان نداده است. این در حالیست که وزارت خارجه آمریکا اعلام کرد که آتش‌بس میان اسرائیل و لبنان پس از دو روز مذاکرات «بسیار سازنده» به‌مدت ۴۵ روز تمدید شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/crrpjl092kvt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/crrpjl092kvt?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778929998.590989
+    "timestamp": 1778933128.2176614
   },
   {
     "title_fa": "ثبت ۲۵۰ هزار شکایت در ایران علیه «جنایات جنگی آمریکا و اسرائیل»",
@@ -205,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/c62xnz1v94yo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c62xnz1v94yo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.5910053
+    "timestamp": 1778933128.217677
   },
   {
     "title_fa": "«ناوگان پشه‌ای» ایران؛ قایق‌های تندرو سپاه چگونه نیروی دریایی آمریکا را در تنگه هرمز به چالش می‌کشند؟",
@@ -221,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pv4dze9ro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.591032
+    "timestamp": 1778933128.2177017
   },
   {
     "title_fa": "از نطنز تا تنگه هرمز؛ پنج محور اختلاف ایران و آمریکا چیست؟",
@@ -237,7 +221,23 @@
     "url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c93xkd47nddo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778929998.5910733
+    "timestamp": 1778933128.217722
+  },
+  {
+    "title_fa": "Israel’s Image Crisis: Becoming Too Big to Spin?",
+    "title_en": "Israel’s Image Crisis: Becoming Too Big to Spin?",
+    "summary": [
+      "Israel has never spent more on its national propaganda campaigns."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss",
+    "image": null,
+    "timestamp": 1778933128.4245434
   },
   {
     "title_fa": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
@@ -253,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss",
     "image": null,
-    "timestamp": 1778929998.951646
+    "timestamp": 1778933128.4245863
   },
   {
     "title_fa": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
@@ -269,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss",
     "image": null,
-    "timestamp": 1778929998.95166
+    "timestamp": 1778933128.4245975
   },
   {
     "title_fa": "From the Nakba to Gaza’s ruins: One man’s lifetime of displacement",
@@ -285,7 +285,7 @@
     "url": "https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss",
     "image": null,
-    "timestamp": 1778929998.951687
+    "timestamp": 1778933128.4246218
   },
   {
     "title_fa": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
@@ -301,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
     "image": null,
-    "timestamp": 1778929998.9517136
+    "timestamp": 1778933128.4246452
   },
   {
     "title_fa": "Spain PM defends Eurovision boycott over Israel",
@@ -317,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/spain-pm-defends-eurovision-boycott-over-israel?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/spain-pm-defends-eurovision-boycott-over-israel?traffic_source=rss",
     "image": null,
-    "timestamp": 1778929998.9517388
+    "timestamp": 1778933128.424668
   },
   {
     "title_fa": "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know",
@@ -333,7 +333,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss",
     "image": null,
-    "timestamp": 1778929998.9517748
+    "timestamp": 1778933128.4247026
   },
   {
     "title_fa": "Israel launches deadly air strikes on Gaza City apartment building",
@@ -349,38 +349,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
     "image": null,
-    "timestamp": 1778929998.9518118
-  },
-  {
-    "title_fa": "Gaza aid convoy in Libya prepares to head to Gaza",
-    "title_en": "Gaza aid convoy in Libya prepares to head to Gaza",
-    "summary": [
-      "The &quot;Soumoud 2&quot; land convoy is preparing to leave Libya to bring aid to Gaza."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778929998.9518323
-  },
-  {
-    "title_fa": "Iran war live: Tehran warns more economic woes for US over ‘war of choice’",
-    "title_en": "Iran war live: Tehran warns more economic woes for US over ‘war of choice’",
-    "summary": [
-      "Iranian FM&#039;s warning comes as Israel continues to attack Lebanon, hours after agreeing to a 45-day ceasefire extension."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778929998.9518433
+    "timestamp": 1778933128.4247377
   }
 ]
