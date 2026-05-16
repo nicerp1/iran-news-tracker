@@ -3,17 +3,33 @@
     "title_fa": "پگاه آهنگرانی در کن فیلمش را به مادرانی تقدیم کرد که فرزندانشان را در راه آزادی از دست داده‌اند",
     "title_en": "پگاه آهنگرانی در کن فیلمش را به مادرانی تقدیم کرد که فرزندانشان را در راه آزادی از دست داده‌اند",
     "summary": [
-      "فیلم «تمرین‌هایی برای یک انقلاب»، ساخته پگاه آهنگرانی در بخش ویژه هفتادونهمین دوره جشنواره کن به نمایش درآمد و با استقبال تماشاگران روبرو شد. پس از نمایش این فیلم خانم آهنگرانی، اثر خود را به مادرانی تقدیم کرد که فرزندانشان را در راه مبارزه برای آزادی از دست داده‌اند. در تحولات سیاسی اما پس از بن‌بست مذاکرات ایران و آمریکا، تلاش‌های‌ دیپلماتیک همسایگان تهران ادامه دارد،‌ پوتین با حاکم امارات متحده عربی گفت‌‌و‌گو کرد و وزیر کشور پاکستان به تهران رفت. در عین حال گزارش روزنامه نیویورک‌‌ تایمز حاکی"
+      "فیلم «تمرین‌هایی برای یک انقلاب»، ساخته پگاه آهنگرانی در بخش ویژه هفتادونهمین دوره جشنواره کن به نمایش درآمد و با استقبال تماشاگران روبرو شد. پس از نمایش این فیلم خانم آهنگرانی، اثر خود را به مادرانی تقدیم کرد که فرزندانشان را در راه مبارزه برای آزادی از دست داده‌اند. در تحولات سیاسی اما پس از بن‌بست مذاکرات ایران و آمریکا، تلاش‌های‌ دیپلماتیک همسایگان تهران ادامه دارد،‌ ولادیمیر پوتین با حاکم امارات متحده عربی گفت‌‌و‌گو کرد و وزیر کشور پاکستان به تهران رفت."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cgkpn8j8501t?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cgkpn8j8501t?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.6158257
+    "timestamp": 1778975143.373094
+  },
+  {
+    "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
+    "title_en": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
+    "summary": [
+      "«تله توسیدید»، ایده‌ای از زمان یونان باستان که شی جین‌پینگ، رئیس‌جمهور چین در حضور دونالد ترامپ به آن اشاره کرد، در واقع بازتاب‌دهنده هراس از وقوع جنگ احتمالی میان چین، به عنوان یک قدرت نوظهور، و ایالات متحده، به عنوان قدرت مسلط و حاکم است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778975143.3731215
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.6158702
+    "timestamp": 1778975143.3732843
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.615927
+    "timestamp": 1778975143.37334
   },
   {
     "title_fa": "آمریکا یک فرمانده شبه‌نظامیان عراقی را به توطئه برای هدف قرار دادن یهودیان در شهرهایی از لندن تا لس‌آنجلس متهم کرد",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.6159515
+    "timestamp": 1778975143.3733616
   },
   {
     "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.6159685
+    "timestamp": 1778975143.373384
   },
   {
     "title_fa": "ترامپ: من از شی نخواستم که به ایران فشار بیاورد، اما فکر می‌کنم خودش این کار را بکند",
@@ -93,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.6160007
-  },
-  {
-    "title_fa": "اصغر فرهادی کشتار معترضان در دی‌ماه و جنگ آمریکا و اسرائیل با ایران را محکوم کرد",
-    "title_en": "اصغر فرهادی کشتار معترضان در دی‌ماه و جنگ آمریکا و اسرائیل با ایران را محکوم کرد",
-    "summary": [
-      "اصغر فرهادی، کارگردان ایرانی برنده اسکار، در یک کنفرانس مطبوعاتی در جشنواره کن در پاسخ به سوال خبرنگار شبکه اینترنشنال، هم حملات آمریکا و اسرائیل به ایران و هم سرکوب معترضان دی ۱۴۰۴ از سوی جمهوری اسلامی را محکوم کرد و گفت «کشته شدن هر انسانی، یک جنایت است چه در جنگ چه با اعدام و چه در اعتراضات.»"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c9360dz2lkeo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c9360dz2lkeo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778972204.6160262
+    "timestamp": 1778975143.37341
   },
   {
     "title_fa": "آیا حزب‌الله هنوز در جنوب لبنان طرفدار دارد؟",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.6160605
+    "timestamp": 1778975143.3734424
   },
   {
     "title_fa": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.6160762
+    "timestamp": 1778975143.373459
   },
   {
     "title_fa": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
@@ -157,7 +157,23 @@
     "url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.6160965
+    "timestamp": 1778975143.3734796
+  },
+  {
+    "title_fa": "آنچه گذشت؛ گفت‌وگوی پوتین و رئیس امارات در باره جنگ ایران",
+    "title_en": "آنچه گذشت؛ گفت‌وگوی پوتین و رئیس امارات در باره جنگ ایران",
+    "summary": [
+      "فیلم «تمرین‌هایی برای یک انقلاب»، ساخته پگاه آهنگرانی در بخش ویژه هفتادونهمین دوره جشنواره کن به نمایش درآمد و با استقبال تماشاگران روبرو شد. پس از نمایش این فیلم خانم آهنگرانی، اثر خود را به مادرانی تقدیم کرد که فرزندانشان را در راه مبارزه برای آزادی از دست داده‌اند. در تحولات سیاسی اما پس از بن‌بست مذاکرات ایران و آمریکا، تلاش‌های‌ دیپلماتیک همسایگان تهران ادامه دارد،‌ پوتین با حاکم امارات متحده عربی گفت‌‌و‌گو کرد و وزیر کشور پاکستان به تهران رفت. در عین حال گزارش روزنامه نیویورک‌‌ تایمز حاکی"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/cgkpn8j8501t?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cgkpn8j8501t?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778975143.373515
   },
   {
     "title_fa": "پس از تهدید اسرائیل به شکایت، نیویورک تایمز از روزنامه‌نگار خود دفاع کرد",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.6161203
+    "timestamp": 1778975143.373538
   },
   {
     "title_fa": "ابوظبی: ادعای سفر مخفیانه نتانیاهو به امارات کاملا بی‌اساس است",
@@ -189,23 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgkprpljz3do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.6161335
-  },
-  {
-    "title_fa": "دولت آمریکا خواهان مجازات اعدام برای مظنون قتل کارکنان سفارت اسرائیل در واشنگتن شد",
-    "title_en": "دولت آمریکا خواهان مجازات اعدام برای مظنون قتل کارکنان سفارت اسرائیل در واشنگتن شد",
-    "summary": [
-      "دولت ایالات متحده به دنبال مجازات اعدام برای مظنونی است که سال گذشته به قتل دو نفر از کارکنان سفارت اسرائیل در واشنگتن متهم شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/crkpjl1p4jko?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/crkpjl1p4jko?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778972204.616169
+    "timestamp": 1778975143.373552
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -221,7 +221,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778972204.6162074
+    "timestamp": 1778975143.3736124
   },
   {
     "title_fa": "Thousands protest at Eurovision final as five countries boycott over Israel",
@@ -237,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
     "image": null,
-    "timestamp": 1778972204.7743819
+    "timestamp": 1778975143.6678529
   },
   {
     "title_fa": "Francesca Albanese on Israeli sexual violence suffered by Palestinians",
@@ -253,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/upfront/2026/5/16/francesca-albanese-on-israeli-sexual-violence-suffered-by-palestinians?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/upfront/2026/5/16/francesca-albanese-on-israeli-sexual-violence-suffered-by-palestinians?traffic_source=rss",
     "image": null,
-    "timestamp": 1778972204.7744496
+    "timestamp": 1778975143.6679432
   },
   {
     "title_fa": "DRC health minister warns ‘very high’ Ebola lethality rate as toll hits 80",
@@ -269,22 +269,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/16/drc-health-minister-warns-very-high-ebola-lethality-rate-as-toll-hits-80?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/16/drc-health-minister-warns-very-high-ebola-lethality-rate-as-toll-hits-80?traffic_source=rss",
     "image": null,
-    "timestamp": 1778972204.7744732
-  },
-  {
-    "title_fa": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
-    "title_en": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
-    "summary": [
-      "Israel targeted Izz al-Din al-Haddad, the head of Hamas&#039;s armed wing in Gaza, in an attack that killed seven others."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
-    "image": null,
-    "timestamp": 1778972204.7745423
+    "timestamp": 1778975143.667981
   }
 ]
