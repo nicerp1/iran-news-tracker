@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779052363.0345652
+    "timestamp": 1779055671.9344578
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779052363.03462
+    "timestamp": 1779055671.9345303
   },
   {
     "title_fa": "قالیباف «نماینده ویژه» ایران در امور چین شد",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779052363.034647
+    "timestamp": 1779055671.9345577
   },
   {
     "title_fa": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779052363.034691
+    "timestamp": 1779055671.9345996
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779052363.0347111
+    "timestamp": 1779055671.9346201
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779052363.0347335
+    "timestamp": 1779055671.9346483
   },
   {
     "title_fa": "آمریکا یک فرمانده شبه‌نظامیان عراقی را به توطئه برای هدف قرار دادن یهودیان در شهرهایی از لندن تا لس‌آنجلس متهم کرد",
@@ -109,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779052363.0347629
-  },
-  {
-    "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
-    "title_en": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
-    "summary": [
-      "درحالی‌که برخی محافل در داخل آمریکا نسبت به نقش میانجی‌گری پاکستان میان ایالات متحده و ایران ابراز تردید کرده‌اند، دولت‌های آمریکا و ایران نسبت به نقش پاکستان حمایت کرده‌اند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779052363.0347815
+    "timestamp": 1779055671.934672
   },
   {
     "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
@@ -141,23 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779052363.034818
+    "timestamp": 1779055671.9347086
   },
   {
-    "title_fa": "آیا حزب‌الله هنوز در جنوب لبنان طرفدار دارد؟",
-    "title_en": "آیا حزب‌الله هنوز در جنوب لبنان طرفدار دارد؟",
+    "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
+    "title_en": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
     "summary": [
-      "با وجود ادامه حملات اسرائیل و اشغال بخش‌هایی از جنوب لبنان، بسیاری از ساکنان این منطقه همچنان بر این باورند که حزب‌الله تنها نیرویی است که می‌تواند از آن‌ها دفاع کند."
+      "درحالی‌که برخی محافل در داخل آمریکا نسبت به نقش میانجی‌گری پاکستان میان ایالات متحده و ایران ابراز تردید کرده‌اند، دولت‌های آمریکا و ایران نسبت به نقش پاکستان حمایت کرده‌اند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779052363.0348492
+    "timestamp": 1779055671.934724
   },
   {
     "title_fa": "پس از تهدید اسرائیل به شکایت، نیویورک تایمز از روزنامه‌نگار خود دفاع کرد",
@@ -173,23 +157,23 @@
     "url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779052363.034937
+    "timestamp": 1779055671.9348273
   },
   {
-    "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
-    "title_en": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
+    "title_fa": "آیا حزب‌الله هنوز در جنوب لبنان طرفدار دارد؟",
+    "title_en": "آیا حزب‌الله هنوز در جنوب لبنان طرفدار دارد؟",
     "summary": [
-      "مسئولان جمهوری اسلامی می‌گویند پویش «جان‌فدا» تصویر «واقعی از ملت ایران» و «نمایش جمهوریت و تاب‌آوری ملی» است، در مقابل مخالفان حکومت به آمار و ارقام‌های منتشرشده از سوی حکومت شک و تردید دارند و آن را یک «تصویر جعلی» و وسیله‌ای برای کسب مشروعیت از دست‌رفته، به‌ویژه پس از کشتار خونین معترضان در دی‌ماه سال ۱۴۰۴، می‌دانند."
+      "با وجود ادامه حملات اسرائیل و اشغال بخش‌هایی از جنوب لبنان، بسیاری از ساکنان این منطقه همچنان بر این باورند که حزب‌الله تنها نیرویی است که می‌تواند از آن‌ها دفاع کند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779052363.03499
+    "timestamp": 1779055671.9348783
   },
   {
     "title_fa": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
@@ -205,7 +189,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
     "image": null,
-    "timestamp": 1779052363.199452
+    "timestamp": 1779055672.0959034
   },
   {
     "title_fa": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
@@ -221,7 +205,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
     "image": null,
-    "timestamp": 1779052363.1994734
+    "timestamp": 1779055672.0959203
   },
   {
     "title_fa": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
@@ -237,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1779052363.1995084
+    "timestamp": 1779055672.0959556
   },
   {
     "title_fa": "Three community kitchen workers among eight killed by Israel in Gaza",
@@ -253,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1779052363.1995566
+    "timestamp": 1779055672.096003
   },
   {
     "title_fa": "Canadian FM: Is the US still a reliable ally?",
@@ -269,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss",
     "image": null,
-    "timestamp": 1779052363.199571
+    "timestamp": 1779055672.096017
   },
   {
     "title_fa": "Iranian civilians get defence training",
@@ -285,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
     "image": null,
-    "timestamp": 1779052363.1995897
+    "timestamp": 1779055672.0960355
   },
   {
     "title_fa": "US college graduates face harsh job market amid economic uncertainty",
@@ -301,7 +285,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss",
     "image": null,
-    "timestamp": 1779052363.1995993
+    "timestamp": 1779055672.096046
   },
   {
     "title_fa": "Is Christian Zionism in the US on a decline?",
@@ -317,6 +301,6 @@
     "url": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
     "image": null,
-    "timestamp": 1779052363.1996384
+    "timestamp": 1779055672.0960855
   }
 ]
