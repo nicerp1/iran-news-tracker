@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "«حمله پهپادی» به نزدیکی نیروگاه هسته‌ای امارات؛ ابوظبی: آتش‌سوزی کنترل شد",
-    "title_en": "«حمله پهپادی» به نزدیکی نیروگاه هسته‌ای امارات؛ ابوظبی: آتش‌سوزی کنترل شد",
+    "title_fa": "دیدار قالیباف با وزیر کشور پاکستان در تهران",
+    "title_en": "دیدار قالیباف با وزیر کشور پاکستان در تهران",
     "summary": [
-      "مقام‌های ابوظبی می‌گویند آتش‌سوزی ناشی از حمله یک پهپاد به یک ژنراتور برق در بیرون محدوده نیروگاه هسته‌ای براکه کنترل شده و به این نیروگاه آسیبی وارد نشده است. امارات به منشا حمله اشاره‌ای نکرده است. نیروگاه هسته‌ای براکه در منطقه ظفره امارات اولین نیروگاه هسته‌ای در جهان عرب است. در همین حال رسانه‌های ایران می‌گویند که به پیشنهاد مسعود پزشکیان و تایید رهبر جمهوری اسلامی، محمدباقر قالیباف به‌عنوان نماینده ویژه ایران در امور چین منصوب شده است. خبرگزاری فارس هم می‌گوید ایران و آمریکا هر یک پنج شرط"
+      "محسن نقوی، وزیر کشور پاکستان، عصر امروز با محمدباقر قالیباف، در تهران دیدار و گفت‌وگو کرد. به گفته سفارت پاکستان در تهران، آقای نقوی دیروز پس از ورود به تهران یک ساعت و نیم با مسعود پزشکیان دیدار کرده بود. گزارش‌ها حاکی از تبادل پیام بین ایران و آمریکاست درحالیکه ساعاتی پیش دونالد ترامپ شرایط را به «آرامش پیش از طوفان» تشبیه کرد. در همین حال مقام‌های ابوظبی می‌گویند حمله پهپادی باعث آتش گرفتن یک ژنراتور برق در بیرون محدوده نیروگاه هسته‌ای براکه شده است اما آتش مهار شده و آسیبی به نیروگاه وارد نش"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779026991.7154677
+    "timestamp": 1779030917.8316634
+  },
+  {
+    "title_fa": "قالیباف «نماینده ویژه» ایران در امور چین شد",
+    "title_en": "قالیباف «نماینده ویژه» ایران در امور چین شد",
+    "summary": [
+      "خبرگزاری تسنیم می‌گوید که محمدباقر قالیباف با پیشنهاد رئیس‌جمهور و تایید رهبر جمهوری اسلامی «نماینده ویژه ایران در امور چین» شده است. این خبرگزاری که به نهادهای نظامی و امنیتی نزدیک است، نوشت رئیس مجلس «هماهنگ‌کننده بخش‌های مختلف این کشور در ارتباط با چین» خواهد بود و سطح اختیارات آقای قالیباف با نمایندگان قبلی در امور چین «متفاوت» است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779030917.831712
   },
   {
     "title_fa": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
@@ -29,23 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779026991.715531
-  },
-  {
-    "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
-    "title_en": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
-    "summary": [
-      "«تله توسیدید»، ایده‌ای از زمان یونان باستان که شی جین‌پینگ، رئیس‌جمهور چین در حضور دونالد ترامپ به آن اشاره کرد، در واقع بازتاب‌دهنده هراس از وقوع جنگ احتمالی میان چین، به عنوان یک قدرت نوظهور، و ایالات متحده، به عنوان قدرت مسلط و حاکم است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779026991.7155519
+    "timestamp": 1779030917.8317513
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779026991.7155702
+    "timestamp": 1779030917.8317711
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779026991.715591
+    "timestamp": 1779030917.8317919
   },
   {
     "title_fa": "آمریکا یک فرمانده شبه‌نظامیان عراقی را به توطئه برای هدف قرار دادن یهودیان در شهرهایی از لندن تا لس‌آنجلس متهم کرد",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779026991.715618
+    "timestamp": 1779030917.83182
   },
   {
     "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
@@ -109,7 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779026991.715635
+    "timestamp": 1779030917.831837
+  },
+  {
+    "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
+    "title_en": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
+    "summary": [
+      "«تله توسیدید»، ایده‌ای از زمان یونان باستان که شی جین‌پینگ، رئیس‌جمهور چین در حضور دونالد ترامپ به آن اشاره کرد، در واقع بازتاب‌دهنده هراس از وقوع جنگ احتمالی میان چین، به عنوان یک قدرت نوظهور، و ایالات متحده، به عنوان قدرت مسلط و حاکم است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779030917.8318567
   },
   {
     "title_fa": "آیا حزب‌الله هنوز در جنوب لبنان طرفدار دارد؟",
@@ -125,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779026991.715677
-  },
-  {
-    "title_fa": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
-    "title_en": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
-    "summary": [
-      "وال‌استریت ژورنال از ایجاد پایگاه مخفی اسرائیل در مناطق بیابانی عراق برای پشتیبانی از عملیات علیه ایران گزارش داده، اما مقام‌های امنیتی عراق حضور هرگونه نیروی خارجی را تکذیب کرده‌اند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779026991.715692
+    "timestamp": 1779030917.8318975
   },
   {
     "title_fa": "پس از تهدید اسرائیل به شکایت، نیویورک تایمز از روزنامه‌نگار خود دفاع کرد",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779026991.7157733
+    "timestamp": 1779030917.8319826
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -173,7 +173,23 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779026991.7158113
+    "timestamp": 1779030917.8320222
+  },
+  {
+    "title_fa": "Is Christian Zionism in the US on a decline?",
+    "title_en": "Is Christian Zionism in the US on a decline?",
+    "summary": [
+      "Support for Israel among young American conservatives is weakening. That might not bode well for Christian Zionism."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779030917.9986346
   },
   {
     "title_fa": "How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?",
@@ -189,7 +205,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss",
     "image": null,
-    "timestamp": 1779026991.859449
+    "timestamp": 1779030917.9986753
   },
   {
     "title_fa": "New wave of Israeli strikes pound Lebanon despite ceasefire",
@@ -205,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss",
     "image": null,
-    "timestamp": 1779026991.8594613
+    "timestamp": 1779030917.9986851
   },
   {
     "title_fa": "Schoolchildren flee Israeli raid in occupied West Bank",
@@ -221,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/schoolchildren-flee-israeli-raid-in-occupied-west-bank?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/schoolchildren-flee-israeli-raid-in-occupied-west-bank?traffic_source=rss",
     "image": null,
-    "timestamp": 1779026991.8594816
+    "timestamp": 1779030917.9987087
   },
   {
     "title_fa": "Israel comes second at Eurovision amid boycotts and backlash",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss",
     "image": null,
-    "timestamp": 1779026991.8595042
+    "timestamp": 1779030917.9987304
   },
   {
     "title_fa": "Javier Bardem says condemning the Gaza genocide has led to more work",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/javier-bardem-says-condemning-the-gaza-genocide-has-led-to-more-work?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/javier-bardem-says-condemning-the-gaza-genocide-has-led-to-more-work?traffic_source=rss",
     "image": null,
-    "timestamp": 1779026991.8595273
+    "timestamp": 1779030917.9987552
   },
   {
     "title_fa": "The strike that changed the geometry of war",
@@ -269,54 +285,6 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1779026991.8595366
-  },
-  {
-    "title_fa": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
-    "title_en": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
-    "summary": [
-      "Al Jazeera’s Tohid Asadi reports from the strait and explains Tehran’s newest plan to manage shipping."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779026991.8595884
-  },
-  {
-    "title_fa": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
-    "title_en": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
-    "summary": [
-      "Spain, Netherlands, Ireland, Iceland and Slovenia stage biggest political boycott in Eurovision history over Gaza war."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779026991.8595982
-  },
-  {
-    "title_fa": "Sardar Azmoun left out as Iran announce World Cup 2026 squad",
-    "title_en": "Sardar Azmoun left out as Iran announce World Cup 2026 squad",
-    "summary": [
-      "Veteran striker Azmoun was not named in the 30-man squad, which will be trimmed to 26 by June 1."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779026991.8596067
+    "timestamp": 1779030917.9987648
   }
 ]
