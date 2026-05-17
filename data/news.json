@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "پگاه آهنگرانی در کن فیلمش را به مادرانی تقدیم کرد که فرزندانشان را در راه آزادی از دست داده‌اند",
-    "title_en": "پگاه آهنگرانی در کن فیلمش را به مادرانی تقدیم کرد که فرزندانشان را در راه آزادی از دست داده‌اند",
+    "title_fa": "ناو هواپیمابر یو‌اس‌اس جرالد فورد پس از ۳۲۶ روز ماموریت به آمریکا بازگشت",
+    "title_en": "ناو هواپیمابر یو‌اس‌اس جرالد فورد پس از ۳۲۶ روز ماموریت به آمریکا بازگشت",
     "summary": [
-      "فیلم «تمرین‌هایی برای یک انقلاب»، ساخته پگاه آهنگرانی در بخش ویژه هفتادونهمین دوره جشنواره کن به نمایش درآمد و با استقبال تماشاگران روبرو شد. پس از نمایش این فیلم خانم آهنگرانی، اثر خود را به مادرانی تقدیم کرد که فرزندانشان را در راه مبارزه برای آزادی از دست داده‌اند. در تحولات سیاسی اما وزارت دارایی آمریکا معافیت تحریم‌های نفتی روسیه را تمدید نکرد و وزارت امور خارجه ایران کشته‌شدن عزالدین حداد، فرمانده کل گردان‌های قسام را «به‌شدت» محکوم کرد."
+      "وزارت دفاع آمریکا تایید کرده است که ناو هواپیمابر یواس‌اس جرالد فورد که پیش از آغاز جنگ با ایران به خاورمیانه اعزام شده بود، پس از ۳۲۶ روز مأموریت، به آمریکا بازگشته است. این طولانی‌ترین مأموریت یک گروه رزمی ناو هواپیمابر آمریکا از زمان جنگ ویتنام تاکنون بوده است. در تحولی دیگر اسرائیل با وجود تمدید آتش‌بس با لبنان، موج گسترده‌ای از حملات هوایی را علیه جنوب آن کشور آغاز کرد. اسرائیل می‌گوید که اهداف مرتبط با حزب‌الله را هدف قرار می‌دهد. وزارت دارایی آمریکا معافیت تحریم‌های نفتی روسیه را تمدید نک"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.0857532
+    "timestamp": 1778995678.6635945
+  },
+  {
+    "title_fa": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
+    "title_en": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
+    "summary": [
+      "کمتر از دو ساعت پس از تایید رسمی دفتر نخست‌وزیر اسرائیل مبنی بر سفر او به امارات متحده عربی و دیدار با محمد بن زاید، رئیس این کشور در جریان جنگ ایران، وزارت امور خارجه امارات این سفر را تکذیب و استقبال از هرگونه هیئت نظامی اسرائیلی در خاک خود را رد کرد. دلیل این اعلام و تکذیب چیست؟"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1778995678.6636462
   },
   {
     "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.0857964
+    "timestamp": 1778995678.6637478
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.0858312
+    "timestamp": 1778995678.6637857
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.0858526
+    "timestamp": 1778995678.6638255
   },
   {
     "title_fa": "آمریکا یک فرمانده شبه‌نظامیان عراقی را به توطئه برای هدف قرار دادن یهودیان در شهرهایی از لندن تا لس‌آنجلس متهم کرد",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.0858753
+    "timestamp": 1778995678.6638758
   },
   {
     "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
@@ -93,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.0858977
-  },
-  {
-    "title_fa": "ترامپ: من از شی نخواستم که به ایران فشار بیاورد، اما فکر می‌کنم خودش این کار را بکند",
-    "title_en": "ترامپ: من از شی نخواستم که به ایران فشار بیاورد، اما فکر می‌کنم خودش این کار را بکند",
-    "summary": [
-      "دونالد ترامپ، رئیس‌جمهوری آمریکا، روز جمعه سفر سه روزه خود به چین را در حالی به پایان رساند که هر دو ابر قدرت پیشرفت در رابطه‌شان را ستودند اما تحول بزرگی در زمینه مسائل عمده و مورد اختلاف، از جمله ایران و تایوان، اعلام نشد. همزمان پکن اعلام کرده است که شی جین‌پینگ، رئیس‌جمهور چین، دعوت دونالد ترامپ برای سفر به آمریکا در سال جاری را پذیرفته است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cevpz4yl220o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1778981458.0859241
+    "timestamp": 1778995678.6639078
   },
   {
     "title_fa": "آیا حزب‌الله هنوز در جنوب لبنان طرفدار دارد؟",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.085959
+    "timestamp": 1778995678.6639674
   },
   {
     "title_fa": "آغاز عملیات «اعمال حاکمیت» در عراق پس از جنجال بر سر «پایگاه مخفی اسرائیلی»",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3w2n2glqx5o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.085975
+    "timestamp": 1778995678.6640136
   },
   {
     "title_fa": "چرا امارات در صدر فهرست اهداف ایران قرار گرفت؟",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21xn87vxgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.0859962
+    "timestamp": 1778995678.6640568
   },
   {
     "title_fa": "آنچه گذشت؛ گفت‌وگوی پوتین و رئیس امارات در باره جنگ ایران",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cgkpn8j8501t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cgkpn8j8501t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.086114
+    "timestamp": 1778995678.6642132
   },
   {
     "title_fa": "پس از تهدید اسرائیل به شکایت، نیویورک تایمز از روزنامه‌نگار خود دفاع کرد",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.0861406
+    "timestamp": 1778995678.6642613
   },
   {
     "title_fa": "از «پاسدار» تا «جان‌فدا»؛ چگونه جمهوری اسلامی زبان و نمادها را تغییر می‌دهد؟",
@@ -205,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cn8prp0l1mxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1778981458.0862036
+    "timestamp": 1778995678.6643407
   },
   {
     "title_fa": "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’",
@@ -221,7 +221,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss",
     "image": null,
-    "timestamp": 1778981458.3575675
+    "timestamp": 1778995678.9100513
   },
   {
     "title_fa": "Thousands protest at Eurovision final as five countries boycott over Israel",
@@ -237,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
     "image": null,
-    "timestamp": 1778981458.3576367
+    "timestamp": 1778995678.9101164
   },
   {
     "title_fa": "Francesca Albanese on Israeli sexual violence suffered by Palestinians",
@@ -253,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/upfront/2026/5/16/francesca-albanese-on-israeli-sexual-violence-suffered-by-palestinians?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/upfront/2026/5/16/francesca-albanese-on-israeli-sexual-violence-suffered-by-palestinians?traffic_source=rss",
     "image": null,
-    "timestamp": 1778981458.357691
+    "timestamp": 1778995678.9101686
   },
   {
     "title_fa": "DRC health minister warns ‘very high’ Ebola lethality rate as toll hits 80",
@@ -269,6 +269,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/16/drc-health-minister-warns-very-high-ebola-lethality-rate-as-toll-hits-80?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/16/drc-health-minister-warns-very-high-ebola-lethality-rate-as-toll-hits-80?traffic_source=rss",
     "image": null,
-    "timestamp": 1778981458.3577144
+    "timestamp": 1778995678.9101899
   }
 ]
