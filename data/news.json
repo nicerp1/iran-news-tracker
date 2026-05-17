@@ -1,19 +1,19 @@
 [
   {
-    "title_fa": "ترامپ: ایران اگر سریع اقدام نکند چیزی برایش باقی نمی‌ماند",
-    "title_en": "ترامپ: ایران اگر سریع اقدام نکند چیزی برایش باقی نمی‌ماند",
+    "title_fa": "ترامپ: ایران سریع اقدام کند، محسن رضایی: محاصره دریایی را می‌شکنیم",
+    "title_en": "ترامپ: ایران سریع اقدام کند، محسن رضایی: محاصره دریایی را می‌شکنیم",
     "summary": [
-      "دونالد ترامپ گفت که فرصت برای ایران در حال تمام شدن است و بار دیگر تهدید کرد که «اگر به‌سرعت عمل نکند، چیزی از آنها باقی نخواهد ماند.» خبرنگار اکسیوس به نقل از دو مقام آمریکایی گزارش داد که انتظار می‌رود آقای ترامپ پس‌فردا در جلسه با تیم ارشد امنیت ملی خود، گزینه‌های اقدام نظامی را بررسی کند. پیشتر بنیامین نتانیاهو گفت که قرار است با آقای ترامپ تلفنی گفت‌وگو کند. در همین حال، امارات متحده عربی «حمله پهپادی» به نزدیکی نیروگاه هسته‌ایش را اقدامی «تروریستی» و «تشدید خطرناک» تنش در منطقه خواند و حق "
+      "تنش لفظی و تهدید به درگیری نظامی مجددا میان ایران و آمریکا بالا گرفته است. دونالد ترامپ در اظهاراتی جدید و همزمان با انتشار نقشه گرافیکی که ایران را از هر جهت :«تحت حمله» نشان می‌دهد، از این کشور خواسته «سریع اقدام کند وگرنه چیزی برایش باقی نخواهد ماند». در مقابل، محسن رضایی، فرمانده پیشین سپاه پاسداران گفته نیروهای نظامی ایران «دست به ماشه» اماده‌اند و گفته ممکن است آمریکا ظرف دو سه روز آینده بخواهید به مناطق جنوبی این کشور حمله نظامی کند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779055671.9344578
+    "timestamp": 1779059321.0084138
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779055671.9345303
+    "timestamp": 1779059321.0084894
   },
   {
     "title_fa": "قالیباف «نماینده ویژه» ایران در امور چین شد",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779055671.9345577
+    "timestamp": 1779059321.008516
   },
   {
     "title_fa": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779055671.9345996
+    "timestamp": 1779059321.0085568
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779055671.9346201
+    "timestamp": 1779059321.0085762
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779055671.9346483
+    "timestamp": 1779059321.0086038
   },
   {
     "title_fa": "آمریکا یک فرمانده شبه‌نظامیان عراقی را به توطئه برای هدف قرار دادن یهودیان در شهرهایی از لندن تا لس‌آنجلس متهم کرد",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779055671.934672
+    "timestamp": 1779059321.0086281
   },
   {
     "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779055671.9347086
+    "timestamp": 1779059321.008664
   },
   {
     "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
@@ -141,23 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779055671.934724
+    "timestamp": 1779059321.0086792
   },
   {
-    "title_fa": "پس از تهدید اسرائیل به شکایت، نیویورک تایمز از روزنامه‌نگار خود دفاع کرد",
-    "title_en": "پس از تهدید اسرائیل به شکایت، نیویورک تایمز از روزنامه‌نگار خود دفاع کرد",
+    "title_fa": "آنچه گذشت؛ ترامپ: ایران اگر سریع اقدام نکند چیزی برایش باقی نمی‌ماند",
+    "title_en": "آنچه گذشت؛ ترامپ: ایران اگر سریع اقدام نکند چیزی برایش باقی نمی‌ماند",
     "summary": [
-      "نیویورک تایمز اعلام کرد که اقدام حقوقی علیه این روزنامه به اتهام افترا که بنیامین نتانیاهو، نخست وزیر اسرائیل، تهدید به انجام آن کرده، بی‌اساس است. این نزاع بر سر مقاله‌ای در نیویورک تایمز است که در آن گفته شده است «سرویس‌های امنیتی اسرائیل به بازداشت‌شدگان فلسطینی تجاوز جنسی کرده‌اند.»"
+      "دونالد ترامپ گفت که فرصت برای ایران در حال تمام شدن است و بار دیگر تهدید کرد که «اگر به‌سرعت عمل نکند، چیزی از آنها باقی نخواهد ماند.» خبرنگار اکسیوس به نقل از دو مقام آمریکایی گزارش داد که انتظار می‌رود آقای ترامپ پس‌فردا در جلسه با تیم ارشد امنیت ملی خود، گزینه‌های اقدام نظامی را بررسی کند. پیشتر بنیامین نتانیاهو گفت که قرار است با آقای ترامپ تلفنی گفت‌وگو کند. در همین حال، امارات متحده عربی «حمله پهپادی» به نزدیکی نیروگاه هسته‌ایش را اقدامی «تروریستی» و «تشدید خطرناک» تنش در منطقه خواند و حق "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cz72rx572ldo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779055671.9348273
+    "timestamp": 1779059321.0087268
   },
   {
     "title_fa": "آیا حزب‌الله هنوز در جنوب لبنان طرفدار دارد؟",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clypdpnxxqdo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779055671.9348783
+    "timestamp": 1779059321.0088408
   },
   {
     "title_fa": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
@@ -189,7 +189,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
     "image": null,
-    "timestamp": 1779055672.0959034
+    "timestamp": 1779059321.083512
   },
   {
     "title_fa": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
@@ -205,7 +205,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
     "image": null,
-    "timestamp": 1779055672.0959203
+    "timestamp": 1779059321.0835314
   },
   {
     "title_fa": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
@@ -221,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1779055672.0959556
+    "timestamp": 1779059321.0835671
   },
   {
     "title_fa": "Three community kitchen workers among eight killed by Israel in Gaza",
@@ -237,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1779055672.096003
+    "timestamp": 1779059321.0836153
   },
   {
     "title_fa": "Canadian FM: Is the US still a reliable ally?",
@@ -253,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss",
     "image": null,
-    "timestamp": 1779055672.096017
+    "timestamp": 1779059321.0836294
   },
   {
     "title_fa": "Iranian civilians get defence training",
@@ -269,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
     "image": null,
-    "timestamp": 1779055672.0960355
+    "timestamp": 1779059321.0836482
   },
   {
     "title_fa": "US college graduates face harsh job market amid economic uncertainty",
@@ -285,7 +285,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss",
     "image": null,
-    "timestamp": 1779055672.096046
+    "timestamp": 1779059321.083659
   },
   {
     "title_fa": "Is Christian Zionism in the US on a decline?",
@@ -301,6 +301,6 @@
     "url": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
     "image": null,
-    "timestamp": 1779055672.0960855
+    "timestamp": 1779059321.0836992
   }
 ]
