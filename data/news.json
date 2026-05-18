@@ -13,13 +13,29 @@
     "url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779105715.588626
+    "timestamp": 1779119508.1817696
+  },
+  {
+    "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
+    "title_en": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
+    "summary": [
+      "سازمان جهانی کار وابسته به سازمان ملل متحد هشدار داد که جنگ در خاورمیانه بر دستمزدها و شرایط کاری تاثیر منفی خواهد داشت و این تاثیر بسیار فراتر از مناطق درگیر جنگ خواهد بود. سازمان جهانی کار اعلام کرد که خاورمیانه و کشورهای حوزه خلیج فارس و منطقه آسیا و اقیانوسیه بیشترین آسیب را خواهند دید و پیامدهای آن می‌تواند از دوران همه‌گیری کرونا بدتر باشد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779119508.1821473
   },
   {
     "title_fa": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
     "title_en": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
     "summary": [
-      "گزارش سالانه عفو بین‌الملل نشان می‌دهد که اعدام در سال ۲۰۲۵ به رقم بی‌سابقه‌ای رسیده است. بنابر این گزارش، این سازمان در سال گذشته میلادی ۲۷۷۰ مورد اعدام در ۱۷ کشور را ثبت کرده است که بالاترین رقم از سال ۱۹۸۱ است که عفو بین‌الملل ثبت آمار اعدام را آغاز کرد."
+      "گزارش سالانه عفو بین‌الملل نشان می‌دهد که اعدام در سال ۲۰۲۵ به رقم بی‌سابقه‌ای رسیده است. بنابر این گزارش، این سازمان در سال گذشته میلادی ۲۷۰۷ مورد اعدام در ۱۷ کشور را ثبت کرده است که بالاترین رقم از سال ۱۹۸۱ است که عفو بین‌الملل ثبت آمار اعدام را آغاز کرد."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -29,39 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779105715.5889401
-  },
-  {
-    "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
-    "title_en": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
-    "summary": [
-      "بیش از ۸۰ سال، هیچ‌کس نمی‌دانست چه بر سر یک اسیر جنگی شوروی آمده است؛ مردی که از دست نازی‌ها در جزایر مانش گریخت و بقیه جنگ جهانی دوم را در حالی سپری کرد که با کمک یک خانواده محلی از اشغالگران آلمانی پنهان شده بود."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779105715.5889685
-  },
-  {
-    "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
-    "title_en": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
-    "summary": [
-      "نشریه حریت ترکیه روز یکشنبه ۱۷ مه / ۲۷ اردیبهشت ضمن انتشار این خبر نوشت: «جسد تکه‌تکه‌شده فرخنده قائم‌مقامی، شهروند ایرانی که در استانبول ناپدید شده بود، در شهر کرشهیر پیدا شد. بر اساس تحقیقات، مشخص شد فرخنده قائم‌مقامی پس از مشاجره با (مرد مظنون)، با قلاده سگ خودش خفه شده و سپس جسد او داخل یک خودرو تکه‌تکه و در زمینی در منطقه موجورِ کرشهیر دفن شده است.»"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779105715.5890112
+    "timestamp": 1779119508.1822262
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779105715.5890627
+    "timestamp": 1779119508.182282
   },
   {
     "title_fa": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779105715.589087
+    "timestamp": 1779119508.182308
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -109,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779105715.589115
+    "timestamp": 1779119508.1823359
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -125,7 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779105715.5891385
+    "timestamp": 1779119508.1823595
+  },
+  {
+    "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
+    "title_en": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
+    "summary": [
+      "بیش از ۸۰ سال، هیچ‌کس نمی‌دانست چه بر سر یک اسیر جنگی شوروی آمده است؛ مردی که از دست نازی‌ها در جزایر مانش گریخت و بقیه جنگ جهانی دوم را در حالی سپری کرد که با کمک یک خانواده محلی از اشغالگران آلمانی پنهان شده بود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779119508.1823938
   },
   {
     "title_fa": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
@@ -141,7 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779105715.5891576
+    "timestamp": 1779119508.1824133
+  },
+  {
+    "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
+    "title_en": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
+    "summary": [
+      "نشریه حریت ترکیه روز یکشنبه ۱۷ مه / ۲۷ اردیبهشت ضمن انتشار این خبر نوشت: «جسد تکه‌تکه‌شده فرخنده قائم‌مقامی، شهروند ایرانی که در استانبول ناپدید شده بود، در شهر کرشهیر پیدا شد. بر اساس تحقیقات، مشخص شد فرخنده قائم‌مقامی پس از مشاجره با (مرد مظنون)، با قلاده سگ خودش خفه شده و سپس جسد او داخل یک خودرو تکه‌تکه و در زمینی در منطقه موجورِ کرشهیر دفن شده است.»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779119508.182456
   },
   {
     "title_fa": "قالیباف «نماینده ویژه» ایران در امور چین شد",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779105715.5892286
+    "timestamp": 1779119508.1824796
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ: ایران اگر سریع اقدام نکند چیزی برایش باقی نمی‌ماند",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779105715.589265
+    "timestamp": 1779119508.1825156
   },
   {
     "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
@@ -189,23 +205,119 @@
     "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779105715.5893173
+    "timestamp": 1779119508.1825812
   },
   {
-    "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
-    "title_en": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
+    "title_fa": "Could the Iran war trigger the next debt shock?",
+    "title_en": "Could the Iran war trigger the next debt shock?",
     "summary": [
-      "درحالی‌که برخی محافل در داخل آمریکا نسبت به نقش میانجی‌گری پاکستان میان ایالات متحده و ایران ابراز تردید کرده‌اند، دولت‌های آمریکا و ایران نسبت به نقش پاکستان حمایت کرده‌اند."
+      "Government bonds are under pressure and households could soon feel the impact."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/18/could-the-iran-war-trigger-the-next-debt-shock?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/18/could-the-iran-war-trigger-the-next-debt-shock?traffic_source=rss",
     "image": null,
-    "timestamp": 1779105715.5893717
+    "timestamp": 1779119508.2880414
+  },
+  {
+    "title_fa": "Former US negotiator with Iran: Trump falling into Vietnam trap",
+    "title_en": "Former US negotiator with Iran: Trump falling into Vietnam trap",
+    "summary": [
+      "Rob Malley argues that current talks have ‘very small chance of success’."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/18/former-us-negotiator-with-iran-trump-falling-into-vietnam-trap?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/18/former-us-negotiator-with-iran-trump-falling-into-vietnam-trap?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779119508.2880569
+  },
+  {
+    "title_fa": "Israeli attacks kill at least 7 in Lebanon despite ‘ceasefire’ extension",
+    "title_en": "Israeli attacks kill at least 7 in Lebanon despite ‘ceasefire’ extension",
+    "summary": [
+      "The attacks came shortly after Lebanese and Israeli officials agreed to extend the ceasefire by 45 days."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/18/israeli-attacks-kill-at-least-7-in-lebanon-despite-ceasefire-extension?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/18/israeli-attacks-kill-at-least-7-in-lebanon-despite-ceasefire-extension?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779119508.2880943
+  },
+  {
+    "title_fa": "Iran eyes challenging stock market reopening after lengthy war closure",
+    "title_en": "Iran eyes challenging stock market reopening after lengthy war closure",
+    "summary": [
+      "The capital market is not Iranian economy&#039;s main financing engine, but it still matters politically and psychologically."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/18/iran-eyes-challenging-stock-market-reopening-after-lengthy-war-closure?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/18/iran-eyes-challenging-stock-market-reopening-after-lengthy-war-closure?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779119508.288129
+  },
+  {
+    "title_fa": "The Gulf does not have to choose Iran or Israel",
+    "title_en": "The Gulf does not have to choose Iran or Israel",
+    "summary": [
+      "It has to choose stability or permanent war."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/18/the-gulf-does-not-have-to-choose-iran-or-israel?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/18/the-gulf-does-not-have-to-choose-iran-or-israel?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779119508.2881444
+  },
+  {
+    "title_fa": "Iran sends response to US proposal to end war via mediator Pakistan",
+    "title_en": "Iran sends response to US proposal to end war via mediator Pakistan",
+    "summary": [
+      "Iran demands the release of assets frozen abroad, the lifting of sanctions and control over the Strait of Hormuz."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/18/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan-2?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/18/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan-2?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779119508.288154
+  },
+  {
+    "title_fa": "Iran plans to offer insurance for Hormuz transit: Will it work?",
+    "title_en": "Iran plans to offer insurance for Hormuz transit: Will it work?",
+    "summary": [
+      "Iran proposes Bitcoin-based ship insurance for the Strait of Hormuz, a move likely to raise global maritime concerns."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/18/iran-plans-to-offer-insurance-for-hormuz-transit-will-it-work?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/18/iran-plans-to-offer-insurance-for-hormuz-transit-will-it-work?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779119508.2881684
   },
   {
     "title_fa": "Iran says nuclear enrichment rights cannot be ‘negotiated’",
@@ -221,7 +333,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iran-says-nuclear-enrichment-rights-cannot-be-negotiated?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iran-says-nuclear-enrichment-rights-cannot-be-negotiated?traffic_source=rss",
     "image": null,
-    "timestamp": 1779105715.7145617
+    "timestamp": 1779119508.2881796
   },
   {
     "title_fa": "Israeli forces begin intercepting Gaza-bound aid flotilla near Cyprus",
@@ -237,7 +349,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-forces-begin-intercepting-gaza-bound-aid-flotilla-near-cyprus?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-forces-begin-intercepting-gaza-bound-aid-flotilla-near-cyprus?traffic_source=rss",
     "image": null,
-    "timestamp": 1779105715.714586
+    "timestamp": 1779119508.2881958
   },
   {
     "title_fa": "How war affects civilians for generations",
@@ -253,118 +365,6 @@
     "url": "https://www.aljazeera.com/video/all-hail/2026/5/18/how-war-affects-civilians-for-generations?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/all-hail/2026/5/18/how-war-affects-civilians-for-generations?traffic_source=rss",
     "image": null,
-    "timestamp": 1779105715.7146158
-  },
-  {
-    "title_fa": "Video: US calls on G7 to impose US-led sanctions on Iran",
-    "title_en": "Video: US calls on G7 to impose US-led sanctions on Iran",
-    "summary": [
-      "The US Treasury Secretary says he’s calling ‘the world’ to join the US in imposing sanctions on Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779105715.7146287
-  },
-  {
-    "title_fa": "Israeli settlers run over livestock in occupied West Bank",
-    "title_en": "Israeli settlers run over livestock in occupied West Bank",
-    "summary": [
-      "Israeli settlers drove into a herd of livestock belonging to a Palestinian shepherd in the occupied West Bank."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779105715.7146473
-  },
-  {
-    "title_fa": "Israel built two military bases in Iraq before war on Iran: New York Times",
-    "title_en": "Israel built two military bases in Iraq before war on Iran: New York Times",
-    "summary": [
-      "Israeli forces had been preparing the makeshift sites in western Iraq since late 2024, the US newspaper reported."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779105715.7146568
-  },
-  {
-    "title_fa": "Netanyahu says Israel controls 60 percent of Gaza",
-    "title_en": "Netanyahu says Israel controls 60 percent of Gaza",
-    "summary": [
-      "Netanyahu says Israel controls 60 percent of Gaza"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/netanyahu-says-israel-controls-60-percent-of-gaza?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/netanyahu-says-israel-controls-60-percent-of-gaza?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779105715.7146811
-  },
-  {
-    "title_fa": "Al Jazeera reports from Hormuz Island as Iran says it controls the strait",
-    "title_en": "Al Jazeera reports from Hormuz Island as Iran says it controls the strait",
-    "summary": [
-      "Al Jazeera has been given exclusive access to Iran’s Hormuz Island."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/al-jazeera-reports-from-hormuz-island-as-iran-says-it-controls-the-strait?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/al-jazeera-reports-from-hormuz-island-as-iran-says-it-controls-the-strait?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779105715.7147028
-  },
-  {
-    "title_fa": "Israeli forces storm Gaza-bound aid flotilla off Cyprus",
-    "title_en": "Israeli forces storm Gaza-bound aid flotilla off Cyprus",
-    "summary": [
-      "Organisers of the flotilla say the vessels were boarded in international waters, as Turkey condemns &#039;piracy&#039;"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779105715.7147138
-  },
-  {
-    "title_fa": "Iran war day 80: Trump issues warning; Tehran ‘ready’ to confront attacks",
-    "title_en": "Iran war day 80: Trump issues warning; Tehran ‘ready’ to confront attacks",
-    "summary": [
-      "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended &#039;ceasefire&#039;."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779105715.714732
+    "timestamp": 1779119508.2882218
   }
 ]
