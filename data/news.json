@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779141214.8266232
+    "timestamp": 1779144267.5877633
   },
   {
     "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
@@ -29,23 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779141214.8267012
-  },
-  {
-    "title_fa": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
-    "title_en": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
-    "summary": [
-      "گزارش سالانه عفو بین‌الملل نشان می‌دهد که اعدام در سال ۲۰۲۵ به رقم بی‌سابقه‌ای رسیده است. بنابر این گزارش، این سازمان در سال گذشته میلادی ۲۷۰۷ مورد اعدام در ۱۷ کشور را ثبت کرده است که بالاترین رقم از سال ۱۹۸۱ است که عفو بین‌الملل ثبت آمار اعدام را آغاز کرد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779141214.8267386
+    "timestamp": 1779144267.5878386
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -61,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779141214.8267918
+    "timestamp": 1779144267.5879283
   },
   {
     "title_fa": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779141214.8268163
+    "timestamp": 1779144267.5879552
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779141214.8268425
+    "timestamp": 1779144267.5879827
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -109,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779141214.8268654
+    "timestamp": 1779144267.5880055
   },
   {
     "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
@@ -125,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779141214.826899
+    "timestamp": 1779144267.5880404
   },
   {
     "title_fa": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
@@ -141,7 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779141214.8269174
+    "timestamp": 1779144267.5880594
+  },
+  {
+    "title_fa": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
+    "title_en": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
+    "summary": [
+      "گزارش سالانه عفو بین‌الملل نشان می‌دهد که اعدام در سال ۲۰۲۵ به رقم بی‌سابقه‌ای رسیده است. بنابر این گزارش، این سازمان در سال گذشته میلادی ۲۷۰۷ مورد اعدام در ۱۷ کشور را ثبت کرده است که بالاترین رقم از سال ۱۹۸۱ است که عفو بین‌الملل ثبت آمار اعدام را آغاز کرد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779144267.588096
   },
   {
     "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779141214.8269901
+    "timestamp": 1779144267.5881536
   },
   {
     "title_fa": "قالیباف «نماینده ویژه» ایران در امور چین شد",
@@ -173,23 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779141214.8270135
-  },
-  {
-    "title_fa": "آنچه گذشت؛ ترامپ: ایران اگر سریع اقدام نکند چیزی برایش باقی نمی‌ماند",
-    "title_en": "آنچه گذشت؛ ترامپ: ایران اگر سریع اقدام نکند چیزی برایش باقی نمی‌ماند",
-    "summary": [
-      "دونالد ترامپ گفت که فرصت برای ایران در حال تمام شدن است و بار دیگر تهدید کرد که «اگر به‌سرعت عمل نکند، چیزی از آنها باقی نخواهد ماند.» خبرنگار اکسیوس به نقل از دو مقام آمریکایی گزارش داد که انتظار می‌رود آقای ترامپ پس‌فردا در جلسه با تیم ارشد امنیت ملی خود، گزینه‌های اقدام نظامی را بررسی کند. پیشتر بنیامین نتانیاهو گفت که قرار است با آقای ترامپ تلفنی گفت‌وگو کند. در همین حال، امارات متحده عربی «حمله پهپادی» به نزدیکی نیروگاه هسته‌ایش را اقدامی «تروریستی» و «تشدید خطرناک» تنش در منطقه خواند و حق "
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779141214.8270485
+    "timestamp": 1779144267.5881772
   },
   {
     "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
@@ -205,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779141214.8270962
+    "timestamp": 1779144267.5882254
   },
   {
     "title_fa": "Protest in Greece after Israeli forces storm Gaza aid flotilla",
@@ -221,7 +205,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss",
     "image": null,
-    "timestamp": 1779141215.0405753
+    "timestamp": 1779144267.6626647
   },
   {
     "title_fa": "Trump pauses possible Iran strike after Gulf intervention",
@@ -237,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
     "image": null,
-    "timestamp": 1779141215.0405865
+    "timestamp": 1779144267.6626759
   },
   {
     "title_fa": "Iraq launches desert sweep after reports of secret Israeli bases",
@@ -253,13 +237,13 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iraq-launches-desert-sweep-after-reports-of-secret-israeli-bases?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iraq-launches-desert-sweep-after-reports-of-secret-israeli-bases?traffic_source=rss",
     "image": null,
-    "timestamp": 1779141215.040619
+    "timestamp": 1779144267.6627085
   },
   {
     "title_fa": "Croatian president rejects new Israeli ambassador",
     "title_en": "Croatian president rejects new Israeli ambassador",
     "summary": [
-      "President Zoran Milanović says Israel broke an &quot;unwritten rule&quot; by announcing their ambassador before approval."
+      "President Zoran Milanovic says Israel broke an &#039;unwritten rule&#039; by announcing its ambassador before approval."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -269,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador?traffic_source=rss",
     "image": null,
-    "timestamp": 1779141215.0406418
+    "timestamp": 1779144267.6627276
   },
   {
     "title_fa": "Massie race breaks spending record as pro-Israel groups target Trump critic",
@@ -285,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/18/massie-race-breaks-spending-record-as-pro-israel-groups-target-trump-critic?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/18/massie-race-breaks-spending-record-as-pro-israel-groups-target-trump-critic?traffic_source=rss",
     "image": null,
-    "timestamp": 1779141215.0407054
+    "timestamp": 1779144267.6627674
   },
   {
     "title_fa": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
@@ -301,6 +285,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
     "image": null,
-    "timestamp": 1779141215.0407174
+    "timestamp": 1779144267.6627784
   }
 ]
