@@ -1,35 +1,19 @@
 [
   {
-    "title_fa": "حمله مسلحانه به مسجد سن‌دیگو؛ سه نفر در مسجد و دو مظنون نوجوان کشته شدند",
-    "title_en": "حمله مسلحانه به مسجد سن‌دیگو؛ سه نفر در مسجد و دو مظنون نوجوان کشته شدند",
+    "title_fa": "ترامپ از لغو دستور حمله نظامی به علت «نزدیک شدن» به توافق با ایران خبر داد",
+    "title_en": "ترامپ از لغو دستور حمله نظامی به علت «نزدیک شدن» به توافق با ایران خبر داد",
     "summary": [
-      "حمله مسلحانه به مسجد جامع سن دیگو در جنوب کالیفرنیا سه کشته بر جای گذاشته و چند نفر هم زخمی شده‌اند. پلیس می‌گوید جسد دو نوجوان در خودرویی در نزدیکی محل تیراندازی پیدا شده که احتمالا مهاجمان تیرانداز بوده‌اند و به نظر می‌رسد در پی شلیک به خود جان باخته‌اند. پلیس و اف‌بی‌آی می‌گویند این تیراندازی را تحت عنوان «جنایت ناشی از نفرت» تحت بررسی دارند. دونالد ترامپ می‌گوید که قرار بود فردا به ایران حمله نظامی کند اما به درخواست قطر، عربستان و امارات این حمله را به تعویق انداخته است. ایران و سه کشوری که"
+      "دونالد ترامپ که روز یکشنبه گفت دستور توقف حمله نظامی جدید به ایران را در پی درخواست رهبران کشورهای عربی منطقه، صادر کرده است، می‌گوید مذاکرات با تهران به سوی توافقی که شامل دست نیافتن ایران به سلاح هسته‌ای است، پیش می‌رود. او تاکید کرده که برای فرصت دادن به روند مذاکرات و در پی گفتگو با رهبران کشورهای منطقه از جمله عربستان، امارات و قطر، فعلا دو - سه روزی از عملیات نظامی منصرف شده است. ایران و کشورهای منطقه واکنشی به این اظهارات آقای ترامپ نشان نداده‌اند اما قرارگاه خانم الانبیاء در تهران گفته ن"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779144267.5877633
-  },
-  {
-    "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
-    "title_en": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
-    "summary": [
-      "سازمان جهانی کار وابسته به سازمان ملل متحد هشدار داد که جنگ در خاورمیانه بر دستمزدها و شرایط کاری تاثیر منفی خواهد داشت و این تاثیر بسیار فراتر از مناطق درگیر جنگ خواهد بود. سازمان جهانی کار اعلام کرد که خاورمیانه و کشورهای حوزه خلیج فارس و منطقه آسیا و اقیانوسیه بیشترین آسیب را خواهند دید و پیامدهای آن می‌تواند از دوران همه‌گیری کرونا بدتر باشد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779144267.5878386
+    "timestamp": 1779147999.4842036
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -45,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779144267.5879283
+    "timestamp": 1779147999.4843426
   },
   {
     "title_fa": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
@@ -61,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779144267.5879552
+    "timestamp": 1779147999.4843688
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779144267.5879827
+    "timestamp": 1779147999.4843957
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779144267.5880055
+    "timestamp": 1779147999.4844189
   },
   {
     "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
@@ -109,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779144267.5880404
+    "timestamp": 1779147999.4844534
   },
   {
     "title_fa": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
@@ -125,7 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779144267.5880594
+    "timestamp": 1779147999.4844723
+  },
+  {
+    "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
+    "title_en": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
+    "summary": [
+      "سازمان جهانی کار وابسته به سازمان ملل متحد هشدار داد که جنگ در خاورمیانه بر دستمزدها و شرایط کاری تاثیر منفی خواهد داشت و این تاثیر بسیار فراتر از مناطق درگیر جنگ خواهد بود. سازمان جهانی کار اعلام کرد که خاورمیانه و کشورهای حوزه خلیج فارس و منطقه آسیا و اقیانوسیه بیشترین آسیب را خواهند دید و پیامدهای آن می‌تواند از دوران همه‌گیری کرونا بدتر باشد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779147999.4845138
   },
   {
     "title_fa": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779144267.588096
+    "timestamp": 1779147999.4845343
   },
   {
     "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
@@ -157,23 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779144267.5881536
-  },
-  {
-    "title_fa": "قالیباف «نماینده ویژه» ایران در امور چین شد",
-    "title_en": "قالیباف «نماینده ویژه» ایران در امور چین شد",
-    "summary": [
-      "خبرگزاری تسنیم می‌گوید که محمدباقر قالیباف با پیشنهاد رئیس‌جمهور و تایید رهبر جمهوری اسلامی «نماینده ویژه ایران در امور چین» شده است. این خبرگزاری که به نهادهای نظامی و امنیتی نزدیک است، نوشت رئیس مجلس «هماهنگ‌کننده بخش‌های مختلف این کشور در ارتباط با چین» خواهد بود و سطح اختیارات آقای قالیباف با نمایندگان قبلی در امور چین «متفاوت» است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779144267.5881772
+    "timestamp": 1779147999.4845908
   },
   {
     "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
@@ -189,7 +173,23 @@
     "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779144267.5882254
+    "timestamp": 1779147999.4846392
+  },
+  {
+    "title_fa": "Brazil call up Neymar to World Cup 2026 squad",
+    "title_en": "Brazil call up Neymar to World Cup 2026 squad",
+    "summary": [
+      "Brazil&#039;s all-time leading scorer Neymar called up for World Cup 2026 as Carlo Ancelotti turns to forward for first time."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779147999.6494906
   },
   {
     "title_fa": "Protest in Greece after Israeli forces storm Gaza aid flotilla",
@@ -205,7 +205,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss",
     "image": null,
-    "timestamp": 1779144267.6626647
+    "timestamp": 1779147999.649549
   },
   {
     "title_fa": "Trump pauses possible Iran strike after Gulf intervention",
@@ -221,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
     "image": null,
-    "timestamp": 1779144267.6626759
+    "timestamp": 1779147999.649559
   },
   {
     "title_fa": "Iraq launches desert sweep after reports of secret Israeli bases",
@@ -237,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iraq-launches-desert-sweep-after-reports-of-secret-israeli-bases?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iraq-launches-desert-sweep-after-reports-of-secret-israeli-bases?traffic_source=rss",
     "image": null,
-    "timestamp": 1779144267.6627085
+    "timestamp": 1779147999.6495905
   },
   {
     "title_fa": "Croatian president rejects new Israeli ambassador",
@@ -253,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador?traffic_source=rss",
     "image": null,
-    "timestamp": 1779144267.6627276
+    "timestamp": 1779147999.6496103
   },
   {
     "title_fa": "Massie race breaks spending record as pro-Israel groups target Trump critic",
@@ -269,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/18/massie-race-breaks-spending-record-as-pro-israel-groups-target-trump-critic?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/18/massie-race-breaks-spending-record-as-pro-israel-groups-target-trump-critic?traffic_source=rss",
     "image": null,
-    "timestamp": 1779144267.6627674
+    "timestamp": 1779147999.6496506
   },
   {
     "title_fa": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
@@ -285,6 +285,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
     "image": null,
-    "timestamp": 1779144267.6627784
+    "timestamp": 1779147999.6496618
   }
 ]
