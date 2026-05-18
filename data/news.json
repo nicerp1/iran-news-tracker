@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779093259.7100384
+    "timestamp": 1779105715.588626
+  },
+  {
+    "title_fa": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
+    "title_en": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
+    "summary": [
+      "گزارش سالانه عفو بین‌الملل نشان می‌دهد که اعدام در سال ۲۰۲۵ به رقم بی‌سابقه‌ای رسیده است. بنابر این گزارش، این سازمان در سال گذشته میلادی ۲۷۷۰ مورد اعدام در ۱۷ کشور را ثبت کرده است که بالاترین رقم از سال ۱۹۸۱ است که عفو بین‌الملل ثبت آمار اعدام را آغاز کرد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779105715.5889401
   },
   {
     "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779093259.7104268
+    "timestamp": 1779105715.5889685
   },
   {
     "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
@@ -45,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779093259.710513
-  },
-  {
-    "title_fa": "حسن پایکر کیست و چرا در آمریکا این‌قدر بحث‌برانگیز شده است؟",
-    "title_en": "حسن پایکر کیست و چرا در آمریکا این‌قدر بحث‌برانگیز شده است؟",
-    "summary": [
-      "حسن پایکر، مفسر سیاسی آمریکایی-ترکیه‌ای، با انتقادهای تند از سیاست‌های ایالات متحده و اسرائیل به چهره‌ای جنجالی تبدیل شده است. منتقدان او را افراطی و هوادارانش صدای نسل جوان و ناراضی می‌دانند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779093259.7105484
+    "timestamp": 1779105715.5890112
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779093259.7106006
+    "timestamp": 1779105715.5890627
   },
   {
     "title_fa": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779093259.7106252
+    "timestamp": 1779105715.589087
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779093259.7106519
+    "timestamp": 1779105715.589115
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -125,23 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779093259.710675
+    "timestamp": 1779105715.5891385
   },
   {
-    "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
-    "title_en": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
+    "title_fa": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
+    "title_en": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
     "summary": [
-      "«تله توسیدید»، ایده‌ای از زمان یونان باستان که شی جین‌پینگ، رئیس‌جمهور چین در حضور دونالد ترامپ به آن اشاره کرد، در واقع بازتاب‌دهنده هراس از وقوع جنگ احتمالی میان چین، به عنوان یک قدرت نوظهور، و ایالات متحده، به عنوان قدرت مسلط و حاکم است."
+      "حسن پایکر، مفسر سیاسی آمریکایی-ترکیه‌ای، با انتقادهای تند از سیاست‌های ایالات متحده و اسرائیل به چهره‌ای جنجالی تبدیل شده است. منتقدان او را افراطی و هوادارانش صدای نسل جوان و ناراضی می‌دانند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779093259.7107399
+    "timestamp": 1779105715.5891576
   },
   {
     "title_fa": "قالیباف «نماینده ویژه» ایران در امور چین شد",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779093259.7107635
+    "timestamp": 1779105715.5892286
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ: ایران اگر سریع اقدام نکند چیزی برایش باقی نمی‌ماند",
@@ -173,7 +173,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779093259.7107985
+    "timestamp": 1779105715.589265
+  },
+  {
+    "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
+    "title_en": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
+    "summary": [
+      "«تله توسیدید»، ایده‌ای از زمان یونان باستان که شی جین‌پینگ، رئیس‌جمهور چین در حضور دونالد ترامپ به آن اشاره کرد، در واقع بازتاب‌دهنده هراس از وقوع جنگ احتمالی میان چین، به عنوان یک قدرت نوظهور، و ایالات متحده، به عنوان قدرت مسلط و حاکم است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779105715.5893173
   },
   {
     "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
@@ -189,11 +205,155 @@
     "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779093259.7108626
+    "timestamp": 1779105715.5893717
   },
   {
-    "title_fa": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
-    "title_en": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
+    "title_fa": "Iran says nuclear enrichment rights cannot be ‘negotiated’",
+    "title_en": "Iran says nuclear enrichment rights cannot be ‘negotiated’",
+    "summary": [
+      "Iran’s nuclear enrichment is a right that ‘already exists’, foreign ministry spokesman Esmaeil Baghaei said."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iran-says-nuclear-enrichment-rights-cannot-be-negotiated?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iran-says-nuclear-enrichment-rights-cannot-be-negotiated?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779105715.7145617
+  },
+  {
+    "title_fa": "Israeli forces begin intercepting Gaza-bound aid flotilla near Cyprus",
+    "title_en": "Israeli forces begin intercepting Gaza-bound aid flotilla near Cyprus",
+    "summary": [
+      "Israeli forces have begun intercepting boats from the Gaza-bound Global Sumud Flotilla."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-forces-begin-intercepting-gaza-bound-aid-flotilla-near-cyprus?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-forces-begin-intercepting-gaza-bound-aid-flotilla-near-cyprus?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779105715.714586
+  },
+  {
+    "title_fa": "How war affects civilians for generations",
+    "title_en": "How war affects civilians for generations",
+    "summary": [
+      "War can have a hidden legacy that no one talks about."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/all-hail/2026/5/18/how-war-affects-civilians-for-generations?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/all-hail/2026/5/18/how-war-affects-civilians-for-generations?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779105715.7146158
+  },
+  {
+    "title_fa": "Video: US calls on G7 to impose US-led sanctions on Iran",
+    "title_en": "Video: US calls on G7 to impose US-led sanctions on Iran",
+    "summary": [
+      "The US Treasury Secretary says he’s calling ‘the world’ to join the US in imposing sanctions on Iran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779105715.7146287
+  },
+  {
+    "title_fa": "Israeli settlers run over livestock in occupied West Bank",
+    "title_en": "Israeli settlers run over livestock in occupied West Bank",
+    "summary": [
+      "Israeli settlers drove into a herd of livestock belonging to a Palestinian shepherd in the occupied West Bank."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779105715.7146473
+  },
+  {
+    "title_fa": "Israel built two military bases in Iraq before war on Iran: New York Times",
+    "title_en": "Israel built two military bases in Iraq before war on Iran: New York Times",
+    "summary": [
+      "Israeli forces had been preparing the makeshift sites in western Iraq since late 2024, the US newspaper reported."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779105715.7146568
+  },
+  {
+    "title_fa": "Netanyahu says Israel controls 60 percent of Gaza",
+    "title_en": "Netanyahu says Israel controls 60 percent of Gaza",
+    "summary": [
+      "Netanyahu says Israel controls 60 percent of Gaza"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/netanyahu-says-israel-controls-60-percent-of-gaza?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/netanyahu-says-israel-controls-60-percent-of-gaza?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779105715.7146811
+  },
+  {
+    "title_fa": "Al Jazeera reports from Hormuz Island as Iran says it controls the strait",
+    "title_en": "Al Jazeera reports from Hormuz Island as Iran says it controls the strait",
+    "summary": [
+      "Al Jazeera has been given exclusive access to Iran’s Hormuz Island."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/al-jazeera-reports-from-hormuz-island-as-iran-says-it-controls-the-strait?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/al-jazeera-reports-from-hormuz-island-as-iran-says-it-controls-the-strait?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779105715.7147028
+  },
+  {
+    "title_fa": "Israeli forces storm Gaza-bound aid flotilla off Cyprus",
+    "title_en": "Israeli forces storm Gaza-bound aid flotilla off Cyprus",
+    "summary": [
+      "Organisers of the flotilla say the vessels were boarded in international waters, as Turkey condemns &#039;piracy&#039;"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779105715.7147138
+  },
+  {
+    "title_fa": "Iran war day 80: Trump issues warning; Tehran ‘ready’ to confront attacks",
+    "title_en": "Iran war day 80: Trump issues warning; Tehran ‘ready’ to confront attacks",
     "summary": [
       "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended &#039;ceasefire&#039;."
     ],
@@ -205,102 +365,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
     "image": null,
-    "timestamp": 1779093259.871763
-  },
-  {
-    "title_fa": "Growing bread queues in Gaza as Israel restricts fuel, flour imports",
-    "title_en": "Growing bread queues in Gaza as Israel restricts fuel, flour imports",
-    "summary": [
-      "Bread shortages deepen in Gaza as flour imports dwindle and bakeries struggle to meet rising demand amid fuel scarcity."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/18/growing-bread-lines-gaza-israel-restricts-fuel-flour?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/18/growing-bread-lines-gaza-israel-restricts-fuel-flour?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779093259.8717933
-  },
-  {
-    "title_fa": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
-    "title_en": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
-    "summary": [
-      "Al Jazeera’s Obaida Hitto reports from Tyre in southern Lebanon on the latest Israeli strikes in the region."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779093259.8718622
-  },
-  {
-    "title_fa": "Iran war live: Tehran says talks ongoing through Pakistan",
-    "title_en": "Iran war live: Tehran says talks ongoing through Pakistan",
-    "summary": [
-      "Iran&#039;s Foreign Ministry spokesperson says talks are ongoing through Pakistan as the mediators."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779093259.871879
-  },
-  {
-    "title_fa": "Pakistan interior minister holds talks with Iranian president in Tehran",
-    "title_en": "Pakistan interior minister holds talks with Iranian president in Tehran",
-    "summary": [
-      "Pakistan Interior Minister Mohsin Naqvi met Iranian President Masoud Pezeshkian in Tehran"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779093259.871889
-  },
-  {
-    "title_fa": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
-    "title_en": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
-    "summary": [
-      "The US president has pressured Iran to concede to demands including dismantling nuclear programme and missile stocks."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779093259.871938
-  },
-  {
-    "title_fa": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
-    "title_en": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
-    "summary": [
-      "At least five people have been killed in Israeli air attacks on several locations in southern and eastern Lebanon."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779093259.8719618
+    "timestamp": 1779105715.714732
   }
 ]
