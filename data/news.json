@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "ترامپ: ایران سریع اقدام کند، محسن رضایی: محاصره دریایی را می‌شکنیم",
-    "title_en": "ترامپ: ایران سریع اقدام کند، محسن رضایی: محاصره دریایی را می‌شکنیم",
+    "title_fa": "بقایی: به آخرین پیشنهاد آمریکا پاسخ دادیم اما بر سر حق غنی‌سازی گفت‌وگو نمی‌کنیم",
+    "title_en": "بقایی: به آخرین پیشنهاد آمریکا پاسخ دادیم اما بر سر حق غنی‌سازی گفت‌وگو نمی‌کنیم",
     "summary": [
-      "تنش لفظی و تهدید به درگیری نظامی مجددا میان ایران و آمریکا بالا گرفته است. دونالد ترامپ در اظهاراتی جدید و همزمان با انتشار نقشه گرافیکی که ایران را از هر جهت :«تحت حمله» نشان می‌دهد، از این کشور خواسته «سریع اقدام کند وگرنه چیزی برایش باقی نخواهد ماند». در مقابل، محسن رضایی، فرمانده پیشین سپاه پاسداران گفته نیروهای نظامی ایران «دست به ماشه» اماده‌اند و گفته ممکن است آمریکا ظرف دو سه روز آینده بخواهید به مناطق جنوبی این کشور حمله نظامی کند."
+      "اسماعیل بقایی در نشست خبری گفت ایران به تازه‌ترین پیشنهاد آمریکا پاسخ داده است. سخنگوی وزارت خارجه ایران گفت که مذاکرات با آمریکا با میانجی‌گری پاکستان ادامه دارد اما ایران بر سر حق غنی‌سازی گفت‌وگو نخواهد کرد. اسماعیل بقایی از کشورهای منطقه هم خواست از اتفاقات اخیر درس بگیرند. این درحالیست که دونالد ترامپ هشدار داده است فرصت دارد به پایان می‌رسد. کویت و قطر در بیانیه‌هایی جداگانه، حملات پهپادی به عربستان را که مقام‌های سعودی گفته‌اند از عراق انجام شده، به‌شدت محکوم کرده‌اند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cr4p3702kwzt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779079122.6059995
+    "timestamp": 1779093259.7100384
+  },
+  {
+    "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
+    "title_en": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
+    "summary": [
+      "بیش از ۸۰ سال، هیچ‌کس نمی‌دانست چه بر سر یک اسیر جنگی شوروی آمده است؛ مردی که از دست نازی‌ها در جزایر مانش گریخت و بقیه جنگ جهانی دوم را در حالی سپری کرد که با کمک یک خانواده محلی از اشغالگران آلمانی پنهان شده بود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779093259.7104268
   },
   {
     "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779079122.6060321
+    "timestamp": 1779093259.710513
   },
   {
     "title_fa": "حسن پایکر کیست و چرا در آمریکا این‌قدر بحث‌برانگیز شده است؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779079122.6064136
+    "timestamp": 1779093259.7105484
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779079122.6064909
+    "timestamp": 1779093259.7106006
   },
   {
     "title_fa": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779079122.6065161
+    "timestamp": 1779093259.7106252
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779079122.6065366
+    "timestamp": 1779093259.7106519
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -109,23 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779079122.6065645
-  },
-  {
-    "title_fa": "آمریکا یک فرمانده شبه‌نظامیان عراقی را به توطئه برای هدف قرار دادن یهودیان در شهرهایی از لندن تا لس‌آنجلس متهم کرد",
-    "title_en": "آمریکا یک فرمانده شبه‌نظامیان عراقی را به توطئه برای هدف قرار دادن یهودیان در شهرهایی از لندن تا لس‌آنجلس متهم کرد",
-    "summary": [
-      "آمریکا می‌گوید که محمد باقر سعد داوود ساعدی یک فرمانده شبه‌نظامیان عراقی را به اتهام نقش داشتن در طراحی بیش از ۱۲ حمله «تروریستی» در آمریکای شمالی و اروپا بازداشت و به آمریکا منتقل کرده است مقامات قضایی آمریکا گفته‌اند که این حملات در واکنش به جنگ با ایران برنامه‌ریزی شده بود."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c9v37wm91kro?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779079122.606588
+    "timestamp": 1779093259.710675
   },
   {
     "title_fa": "«تله توسیدید» چیست و چرا رئیس‌جمهور چین در حضور ترامپ به آن اشاره کرد؟",
@@ -141,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78q4p5gx28o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779079122.606639
-  },
-  {
-    "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
-    "title_en": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
-    "summary": [
-      "درحالی‌که برخی محافل در داخل آمریکا نسبت به نقش میانجی‌گری پاکستان میان ایالات متحده و ایران ابراز تردید کرده‌اند، دولت‌های آمریکا و ایران نسبت به نقش پاکستان حمایت کرده‌اند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779079122.6066544
+    "timestamp": 1779093259.7107399
   },
   {
     "title_fa": "قالیباف «نماینده ویژه» ایران در امور چین شد",
@@ -173,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pldkg8j2o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779079122.6066768
+    "timestamp": 1779093259.7107635
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ: ایران اگر سریع اقدام نکند چیزی برایش باقی نمی‌ماند",
@@ -189,7 +173,55 @@
     "url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c4g4k3y77zgt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779079122.6067107
+    "timestamp": 1779093259.7107985
+  },
+  {
+    "title_fa": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
+    "title_en": "آیا روزهای میانجی‌گری پاکستان بین آمریکا و ایران به شماره افتاده است؟",
+    "summary": [
+      "درحالی‌که برخی محافل در داخل آمریکا نسبت به نقش میانجی‌گری پاکستان میان ایالات متحده و ایران ابراز تردید کرده‌اند، دولت‌های آمریکا و ایران نسبت به نقش پاکستان حمایت کرده‌اند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c7v91n3zyelo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779093259.7108626
+  },
+  {
+    "title_fa": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
+    "title_en": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
+    "summary": [
+      "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended &#039;ceasefire&#039;."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779093259.871763
+  },
+  {
+    "title_fa": "Growing bread queues in Gaza as Israel restricts fuel, flour imports",
+    "title_en": "Growing bread queues in Gaza as Israel restricts fuel, flour imports",
+    "summary": [
+      "Bread shortages deepen in Gaza as flour imports dwindle and bakeries struggle to meet rising demand amid fuel scarcity."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/18/growing-bread-lines-gaza-israel-restricts-fuel-flour?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/18/growing-bread-lines-gaza-israel-restricts-fuel-flour?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779093259.8717933
   },
   {
     "title_fa": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
@@ -205,13 +237,13 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
     "image": null,
-    "timestamp": 1779079122.6851501
+    "timestamp": 1779093259.8718622
   },
   {
-    "title_fa": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
-    "title_en": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
+    "title_fa": "Iran war live: Tehran says talks ongoing through Pakistan",
+    "title_en": "Iran war live: Tehran says talks ongoing through Pakistan",
     "summary": [
-      "Peace talks remain deadlocked as drones hit sites in Saudi Arabia and the UAE."
+      "Iran&#039;s Foreign Ministry spokesperson says talks are ongoing through Pakistan as the mediators."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -221,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
     "image": null,
-    "timestamp": 1779079122.6851704
+    "timestamp": 1779093259.871879
   },
   {
     "title_fa": "Pakistan interior minister holds talks with Iranian president in Tehran",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
     "image": null,
-    "timestamp": 1779079122.6851797
+    "timestamp": 1779093259.871889
   },
   {
     "title_fa": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
     "image": null,
-    "timestamp": 1779079122.6852016
+    "timestamp": 1779093259.871938
   },
   {
     "title_fa": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
@@ -269,54 +301,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
     "image": null,
-    "timestamp": 1779079122.6852143
-  },
-  {
-    "title_fa": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
-    "title_en": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
-    "summary": [
-      "Israel bombed a kitchen that provided meals to the displaced in Gaza, killing three and injuring others."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779079122.6852462
-  },
-  {
-    "title_fa": "Three community kitchen workers among eight killed by Israel in Gaza",
-    "title_en": "Three community kitchen workers among eight killed by Israel in Gaza",
-    "summary": [
-      "Israeli attacks on Gaza have killed at least 871 Palestinians since the so-called ceasefire started last year."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779079122.685292
-  },
-  {
-    "title_fa": "Canadian FM: Is the US still a reliable ally?",
-    "title_en": "Canadian FM: Is the US still a reliable ally?",
-    "summary": [
-      "Anita Anand discusses Donald Trump, NATO, Israel, China and Canada’s international role."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779079122.6853046
+    "timestamp": 1779093259.8719618
   }
 ]
