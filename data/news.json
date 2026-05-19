@@ -3,7 +3,7 @@
     "title_fa": "ترامپ از لغو دستور حمله نظامی به علت «نزدیک شدن» به توافق با ایران خبر داد",
     "title_en": "ترامپ از لغو دستور حمله نظامی به علت «نزدیک شدن» به توافق با ایران خبر داد",
     "summary": [
-      "دونالد ترامپ که روز یکشنبه گفت دستور توقف حمله نظامی جدید به ایران را در پی درخواست رهبران کشورهای عربی منطقه، صادر کرده است، می‌گوید مذاکرات با تهران به سوی توافقی که شامل دست نیافتن ایران به سلاح هسته‌ای است، پیش می‌رود. او تاکید کرده که برای فرصت دادن به روند مذاکرات و در پی گفتگو با رهبران کشورهای منطقه از جمله عربستان، امارات و قطر، فعلا دو - سه روزی از عملیات نظامی منصرف شده است. ایران و کشورهای منطقه واکنشی به این اظهارات آقای ترامپ نشان نداده‌اند اما قرارگاه خانم الانبیاء در تهران گفته ن"
+      "دونالد ترامپ گفت دستور توقف حمله نظامی به ایران را به درخواست رهبران عربستان، امارات و قطر صادر کرده است. او در شبکه اجتماعی نوشت مذاکرات به سوی توافقی پیش می‌رود که برای امریکا قابل قبول است اما تاکید کرد که ایران نباید «سلاح هسته‌ای» داشته باشد. ایران و کشورهای منطقه واکنش رسمی به این اظهارات آقای ترامپ نشان نداده‌اند اما قرارگاه مرکزی خاتم الانبیاء گفت نیروهای مسلح ایران از قبل «قوی‌تر و آماده‌ترند.»"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779169973.8637326
+    "timestamp": 1779180711.188423
+  },
+  {
+    "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
+    "title_en": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
+    "summary": [
+      "دزدی دریایی در سواحل سومالی با تشدید بی‌ثباتی در منطقه توسط جنگ ایران، دوباره رواج پیدا کرده است و در حال حاضر سه کشتی تجاری به گروگان گرفته شده‌اند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779180711.1884484
   },
   {
     "title_fa": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779169973.8637636
+    "timestamp": 1779180711.1884718
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779169973.8638773
+    "timestamp": 1779180711.1885614
   },
   {
     "title_fa": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779169973.8639011
+    "timestamp": 1779180711.1886113
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779169973.8639276
+    "timestamp": 1779180711.1886387
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779169973.8639503
+    "timestamp": 1779180711.1886613
   },
   {
     "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779169973.8640096
+    "timestamp": 1779180711.188721
   },
   {
     "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
@@ -125,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779169973.8640494
-  },
-  {
-    "title_fa": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
-    "title_en": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
-    "summary": [
-      "گزارش سالانه عفو بین‌الملل نشان می‌دهد که اعدام در سال ۲۰۲۵ به رقم بی‌سابقه‌ای رسیده است. بنابر این گزارش، این سازمان در سال گذشته میلادی ۲۷۰۷ مورد اعدام در ۱۷ کشور را ثبت کرده است که بالاترین رقم از سال ۱۹۸۱ است که عفو بین‌الملل ثبت آمار اعدام را آغاز کرد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779169973.8640702
+    "timestamp": 1779180711.1887841
   },
   {
     "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779169973.864095
+    "timestamp": 1779180711.188809
   },
   {
     "title_fa": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
@@ -173,7 +173,55 @@
     "url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779169973.8641124
+    "timestamp": 1779180711.1888263
+  },
+  {
+    "title_fa": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
+    "title_en": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
+    "summary": [
+      "Damascus and Beirut focus on sovereignty and cooperation, moving away from decades of Syrian dominance over Lebanon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779180711.377405
+  },
+  {
+    "title_fa": "Palestine weekly wrap: Jerusalem Day, Nakba mark week of surging attacks",
+    "title_en": "Palestine weekly wrap: Jerusalem Day, Nakba mark week of surging attacks",
+    "summary": [
+      "Far-right marchers in the Old City chant &quot;death to Arabs&quot; while Israel kills Hamas military chief in Gaza."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/19/palestine-weekly-wrap-jerusalem-day-nakba-surging-attacks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/19/palestine-weekly-wrap-jerusalem-day-nakba-surging-attacks?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779180711.377427
+  },
+  {
+    "title_fa": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+    "title_en": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+    "summary": [
+      "US president says he held off a scheduled attack on Iran after pressure from Gulf allies as renewed talks gain momentum."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779180711.377447
   },
   {
     "title_fa": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
@@ -189,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1779169974.0721843
+    "timestamp": 1779180711.377506
   },
   {
     "title_fa": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
@@ -205,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
     "image": null,
-    "timestamp": 1779169974.0722258
+    "timestamp": 1779180711.3775444
   },
   {
     "title_fa": "US suspends joint defence effort with Canada dating back to World War II",
@@ -221,54 +269,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
     "image": null,
-    "timestamp": 1779169974.0722368
-  },
-  {
-    "title_fa": "Brazil call up Neymar to World Cup 2026 squad",
-    "title_en": "Brazil call up Neymar to World Cup 2026 squad",
-    "summary": [
-      "Brazil&#039;s all-time leading scorer Neymar called up for World Cup 2026 as Carlo Ancelotti turns to forward for first time."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779169974.0722585
-  },
-  {
-    "title_fa": "Protest in Greece after Israeli forces storm Gaza aid flotilla",
-    "title_en": "Protest in Greece after Israeli forces storm Gaza aid flotilla",
-    "summary": [
-      "Demonstrators gathered outside Greece’s foreign ministry in Athens."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779169974.0723135
-  },
-  {
-    "title_fa": "Trump pauses possible Iran strike after Gulf intervention",
-    "title_en": "Trump pauses possible Iran strike after Gulf intervention",
-    "summary": [
-      "US President Donald Trump has announced that he is delaying a planned attack on Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779169974.0723228
+    "timestamp": 1779180711.3775547
   }
 ]
