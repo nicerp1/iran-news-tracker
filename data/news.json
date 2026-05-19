@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779218404.5493443
+    "timestamp": 1779224053.81113
   },
   {
     "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779218404.5494115
+    "timestamp": 1779224053.811243
   },
   {
     "title_fa": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779218404.5494275
+    "timestamp": 1779224053.8112657
   },
   {
     "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779218404.5494525
+    "timestamp": 1779224053.8113053
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779218404.5494921
+    "timestamp": 1779224053.8113554
   },
   {
     "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779218404.5495934
+    "timestamp": 1779224053.8114643
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779218404.5496213
+    "timestamp": 1779224053.811536
   },
   {
     "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779218404.5496364
+    "timestamp": 1779224053.8115554
   },
   {
     "title_fa": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
@@ -141,7 +141,87 @@
     "url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779218404.5496616
+    "timestamp": 1779224053.8115866
+  },
+  {
+    "title_fa": "More than 15,800 people killed in Russia’s all-out war on Ukraine: UN",
+    "title_en": "More than 15,800 people killed in Russia’s all-out war on Ukraine: UN",
+    "summary": [
+      "Nearly 800 children are among those killed in Ukraine since Russia&#039;s full-scale invasion in February 2022, the UN says."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779224054.066345
+  },
+  {
+    "title_fa": "Does Ukraine have the advantage at the moment?",
+    "title_en": "Does Ukraine have the advantage at the moment?",
+    "summary": [
+      "Kyiv takes the war deeper into Russia with a huge attack on the Moscow region."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/5/19/does-ukraine-have-the-advantage-at-the-moment?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/19/does-ukraine-have-the-advantage-at-the-moment?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779224054.0663729
+  },
+  {
+    "title_fa": "Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla",
+    "title_en": "Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla",
+    "summary": [
+      "Israeli naval forces are accused of firing ‘rubber bullets’ at activists on board the Gaza-bound Global Sumud Flotilla."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779224054.0664148
+  },
+  {
+    "title_fa": "High prices in Iran’s stunted housing market leave tenants with few options",
+    "title_en": "High prices in Iran’s stunted housing market leave tenants with few options",
+    "summary": [
+      "Tenants face bleak prospects as economic uncertainty persists amid a potential resumption of fighting."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779224054.0664248
+  },
+  {
+    "title_fa": "Trump’s Board of Peace urges fix to ‘gap’ in funding",
+    "title_en": "Trump’s Board of Peace urges fix to ‘gap’ in funding",
+    "summary": [
+      "UN-approved body says that pledged funds have not materialised despite urgent situation in Gaza."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/19/trumps-board-of-peace-urges-fix-to-gap-in-funding?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/19/trumps-board-of-peace-urges-fix-to-gap-in-funding?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779224054.0664358
   },
   {
     "title_fa": "Somaliland to open embassy in Jerusalem, Israel in Hargeisa: Envoy",
@@ -157,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/19/somaliland-israel-announce-mutual-embassies-in-jerusalem-and-hargeisa?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/19/somaliland-israel-announce-mutual-embassies-in-jerusalem-and-hargeisa?traffic_source=rss",
     "image": null,
-    "timestamp": 1779218404.6038997
+    "timestamp": 1779224054.0664606
   },
   {
     "title_fa": "US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown",
@@ -173,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss",
     "image": null,
-    "timestamp": 1779218404.6039152
+    "timestamp": 1779224054.0664775
   },
   {
     "title_fa": "Israel’s far-right Finance Minister Smotrich says ICC seeking his arrest",
@@ -189,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israels-far-right-finance-minister-smotrich-says-icc-seeking-his-arrest?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israels-far-right-finance-minister-smotrich-says-icc-seeking-his-arrest?traffic_source=rss",
     "image": null,
-    "timestamp": 1779218404.603925
+    "timestamp": 1779224054.0664995
   },
   {
     "title_fa": "Trump says Xi assured him China would not send weapons to Iran",
@@ -205,54 +285,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/19/trump-says-xi-assured-him-china-would-not-send-weapons-to-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/19/trump-says-xi-assured-him-china-would-not-send-weapons-to-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1779218404.6039412
-  },
-  {
-    "title_fa": "At least 22 killed in Israeli attacks on Lebanon in 24 hours: Ministry",
-    "title_en": "At least 22 killed in Israeli attacks on Lebanon in 24 hours: Ministry",
-    "summary": [
-      "Lebanon death toll since March 2 has reached 3,042, according to the country&#039;s Health Ministry."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779218404.6039624
-  },
-  {
-    "title_fa": "Qatar says US-Iran negotiations need ‘more time’",
-    "title_en": "Qatar says US-Iran negotiations need ‘more time’",
-    "summary": [
-      "Qatar’s foreign ministry says more time is needed for US-Iran negotiations."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/qatar-says-us-iran-negotiations-need-more?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/qatar-says-us-iran-negotiations-need-more?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779218404.603994
-  },
-  {
-    "title_fa": "Flight to Argentina: How significant is it for Israel’s LatAm outreach?",
-    "title_en": "Flight to Argentina: How significant is it for Israel’s LatAm outreach?",
-    "summary": [
-      "Experts say Israel is using the new flight as a geopolitical tool to cement its footprint in Latin America."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/economy/2026/5/19/flight-to-argentina-how-significant-is-it-for-israels-latam-outreach?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/economy/2026/5/19/flight-to-argentina-how-significant-is-it-for-israels-latam-outreach?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779218404.6040254
+    "timestamp": 1779224054.0665193
   }
 ]
