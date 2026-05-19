@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779155363.5274773
+    "timestamp": 1779169973.8637326
+  },
+  {
+    "title_fa": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
+    "title_en": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
+    "summary": [
+      "حزب‌الله لبنان استفاده از پهپادهای کوچک «دید اول‌شخص» یا اف‌پی‌وی را برای حمله به اسرائیل افزایش داده است؛ از جمله سامانه‌هایی که با کابل‌های فیبر نوری هدایت می‌شوند تا بتوانند از سامانه‌های پیشرفته دفاعی عبور کنند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779169973.8637636
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779155363.5276263
+    "timestamp": 1779169973.8638773
   },
   {
     "title_fa": "چرا امارات سفر نتانیاهو را تکذیب کرد و چرا اسرائیل آن را اعلام کرد؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp6v1er63o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779155363.5276515
+    "timestamp": 1779169973.8639011
   },
   {
     "title_fa": "نیویورک تایمز: آمریکا و اسرائیل برای احتمال از سرگیری حملات علیه ایران آماده می‌شوند",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyp4w9n8jxo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779155363.5276787
+    "timestamp": 1779169973.8639276
   },
   {
     "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779155363.527702
+    "timestamp": 1779169973.8639503
   },
   {
     "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
@@ -93,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779155363.5277467
-  },
-  {
-    "title_fa": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
-    "title_en": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
-    "summary": [
-      "حسن پایکر، مفسر سیاسی آمریکایی-ترکیه‌ای، با انتقادهای تند از سیاست‌های ایالات متحده و اسرائیل به چهره‌ای جنجالی تبدیل شده است. منتقدان او را افراطی و هوادارانش صدای نسل جوان و ناراضی می‌دانند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779155363.527767
+    "timestamp": 1779169973.8640096
   },
   {
     "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779155363.5277913
+    "timestamp": 1779169973.8640494
   },
   {
     "title_fa": "عفو بین‌الملل: افزایش اعدام در ایران، آمار جهانی سال ۲۰۲۵ را به رقم بی‌سابقه‌ای رساند",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2l2v1qld8jo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779155363.5278106
+    "timestamp": 1779169973.8640702
   },
   {
     "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
@@ -157,7 +157,39 @@
     "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779155363.527864
+    "timestamp": 1779169973.864095
+  },
+  {
+    "title_fa": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
+    "title_en": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
+    "summary": [
+      "حسن پایکر، مفسر سیاسی آمریکایی-ترکیه‌ای، با انتقادهای تند از سیاست‌های ایالات متحده و اسرائیل به چهره‌ای جنجالی تبدیل شده است. منتقدان او را افراطی و هوادارانش صدای نسل جوان و ناراضی می‌دانند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779169973.8641124
+  },
+  {
+    "title_fa": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
+    "title_en": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
+    "summary": [
+      "Foad Izadi says US President Trump&#039;s repeated threats of renewed full-scale war are a sign of weakness."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779169974.0721843
   },
   {
     "title_fa": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
@@ -173,7 +205,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
     "image": null,
-    "timestamp": 1779155363.8036098
+    "timestamp": 1779169974.0722258
   },
   {
     "title_fa": "US suspends joint defence effort with Canada dating back to World War II",
@@ -189,7 +221,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
     "image": null,
-    "timestamp": 1779155363.8036227
+    "timestamp": 1779169974.0722368
   },
   {
     "title_fa": "Brazil call up Neymar to World Cup 2026 squad",
@@ -205,7 +237,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss",
     "image": null,
-    "timestamp": 1779155363.8036463
+    "timestamp": 1779169974.0722585
   },
   {
     "title_fa": "Protest in Greece after Israeli forces storm Gaza aid flotilla",
@@ -221,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss",
     "image": null,
-    "timestamp": 1779155363.8037026
+    "timestamp": 1779169974.0723135
   },
   {
     "title_fa": "Trump pauses possible Iran strike after Gulf intervention",
@@ -237,38 +269,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
     "image": null,
-    "timestamp": 1779155363.8037114
-  },
-  {
-    "title_fa": "Iraq launches desert sweep after reports of secret Israeli bases",
-    "title_en": "Iraq launches desert sweep after reports of secret Israeli bases",
-    "summary": [
-      "Iraqi security forces have launched sweeping operations in the country’s western desert."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iraq-launches-desert-sweep-after-reports-of-secret-israeli-bases?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iraq-launches-desert-sweep-after-reports-of-secret-israeli-bases?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779155363.8037417
-  },
-  {
-    "title_fa": "Croatian president rejects new Israeli ambassador",
-    "title_en": "Croatian president rejects new Israeli ambassador",
-    "summary": [
-      "President Zoran Milanovic says Israel broke an &#039;unwritten rule&#039; by announcing its ambassador before approval."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779155363.8037598
+    "timestamp": 1779169974.0723228
   }
 ]
