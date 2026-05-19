@@ -1,19 +1,35 @@
 [
   {
-    "title_fa": "ورود پوتین به چین همزمان با تهدید مجدد ترامپ برای حمله به ایران",
-    "title_en": "ورود پوتین به چین همزمان با تهدید مجدد ترامپ برای حمله به ایران",
+    "title_fa": "پس از هفت بار شکست، طرح محدودیت اختیارات جنگی ترامپ به صحن سنا آمریکا راه یافت",
+    "title_en": "پس از هفت بار شکست، طرح محدودیت اختیارات جنگی ترامپ به صحن سنا آمریکا راه یافت",
     "summary": [
-      "دونالد ترامپ یک بار دیگر تهدید کرد که اگر ایران با آمریکا به توافق نرسد، در روزهای آینده هدف حمله قرار خواهد گرفت، چون نمی‌تواند به آنها اجازه دهد «سلاح هسته‌ای» داشته باشند. کمتر از ۲۴ ساعت پیش، رئیس‌جمهور آمریکا گفته بود که به درخواست رهبران عربستان، امارات و قطر، حمله‌ای را که تصمیم داشت روز سه‌شنبه به ایران انجام دهد، لغو کرده است. در همین حال ولادیمیر پوتین برای دیداری دو روزه وارد چین شده است."
+      "با پیوستن چهار سناتور جمهوری‌خواه به جمع اقلیت دموکرات‌ها، مجلس سنا آمریکا به راه یافتن طرح محدودیت اختیارات جنگی دونالد ترامپ، رای مثبت داد. این طرح که همچنان شانس کمی برای تصویب نهایی دارد، رئیس جمهور آمریکا را ملزم می کند که برای هرگونه اقدام نظامی دیگر علیه ایران، ابتدا از کنگره امریکا تاییدیه بگیرد. دونالد ترامپ یک بار دیگر تهدید کرد که اگر ایران با آمریکا به توافق نرسد، در روزهای آینده هدف حمله قرار خواهد گرفت، چون نمی‌تواند به آنها اجازه دهد «سلاح هسته‌ای» داشته باشند. کمتر از ۲۴ ساعت پیش"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779228172.43034
+    "timestamp": 1779232492.20733
+  },
+  {
+    "title_fa": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
+    "title_en": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
+    "summary": [
+      "ولادیمیر پوتین که رئیس‌جمهور چین او را «دوست عزیز» خود می‌خواند، نه‌تنها می‌تواند روی استقبال گرم پکن حساب کند، بلکه امیدوار است در این سفر قرارداد سودآوری برای فروش گاز به دست آورد؛ قراردادی که به دلیل جنگی که دونالد ترامپ با ایران آغاز کرده، حالا شانس بیشتری برای نهایی شدن پیدا کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779232492.2073944
   },
   {
     "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779228172.4304566
+    "timestamp": 1779232492.2074447
   },
   {
     "title_fa": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779228172.4304876
+    "timestamp": 1779232492.207464
   },
   {
     "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779228172.4305415
+    "timestamp": 1779232492.2074943
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -77,7 +93,23 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779228172.430596
+    "timestamp": 1779232492.207539
+  },
+  {
+    "title_fa": "آنچه گذشت؛ پوتین تنها چند روز پس از سفر ترامپ، وارد چین شد",
+    "title_en": "آنچه گذشت؛ پوتین تنها چند روز پس از سفر ترامپ، وارد چین شد",
+    "summary": [
+      "دونالد ترامپ یک بار دیگر تهدید کرد که اگر ایران با آمریکا به توافق نرسد، در روزهای آینده هدف حمله قرار خواهد گرفت، چون نمی‌تواند به آنها اجازه دهد «سلاح هسته‌ای» داشته باشند. کمتر از ۲۴ ساعت پیش، رئیس‌جمهور آمریکا گفته بود که به درخواست رهبران عربستان، امارات و قطر، حمله‌ای را که تصمیم داشت روز سه‌شنبه به ایران انجام دهد، لغو کرده است. در همین حال ولادیمیر پوتین برای دیداری دو روزه وارد چین شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779232492.2076347
   },
   {
     "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
@@ -93,23 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779228172.4307086
-  },
-  {
-    "title_fa": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
-    "title_en": "عزالدین حداد‌، فرمانده ارشد حماس در حمله اسرائیل کشته شد",
-    "summary": [
-      "حماس و ارتش اسرائیل تأیید کرده‌اند که عزالدین حداد، فرمانده گردان‌های قسام، شاخه نظامی این گروه، شامگاه جمعه (۱۵ مه، ۲۵ اردیبهشت) در حمله‌ اسرائیل در شهر غزه کشته شده است. اسرائیل او را یکی از طراحان حملات هفتم اکتبر ۲۰۲۳ حماس خوانده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c202e3x5kl7o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779228172.4307442
+    "timestamp": 1779232492.2076826
   },
   {
     "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
@@ -125,23 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779228172.430763
+    "timestamp": 1779232492.207739
   },
   {
-    "title_fa": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
-    "title_en": "حسن پایکر کیست و چرا در آمریکا بحث‌برانگیز شده است؟",
+    "title_fa": "US authorities say missionary who contracted Ebola en route to Germany",
+    "title_en": "US authorities say missionary who contracted Ebola en route to Germany",
     "summary": [
-      "حسن پایکر، مفسر سیاسی آمریکایی-ترکیه‌ای، با انتقادهای تند از سیاست‌های ایالات متحده و اسرائیل به چهره‌ای جنجالی تبدیل شده است. منتقدان او را افراطی و هوادارانش صدای نسل جوان و ناراضی می‌دانند."
+      "World Health Organization says death toll from outbreak has risen to 134, as experts warn of continued challenges."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c707rkj65j3o?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/19/us-authorities-say-missionary-who-contracted-ebola-en-route-to-germany?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/19/us-authorities-say-missionary-who-contracted-ebola-en-route-to-germany?traffic_source=rss",
     "image": null,
-    "timestamp": 1779228172.430795
+    "timestamp": 1779232492.3079045
   },
   {
     "title_fa": "Video shows oil spill on Iranian island after refinery attack last month",
@@ -157,7 +173,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss",
     "image": null,
-    "timestamp": 1779228172.523374
+    "timestamp": 1779232492.3079436
   },
   {
     "title_fa": "More than 15,800 people killed in Russia’s all-out war on Ukraine: UN",
@@ -173,7 +189,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un?traffic_source=rss",
     "image": null,
-    "timestamp": 1779228172.5234165
+    "timestamp": 1779232492.3079867
   },
   {
     "title_fa": "Does Ukraine have the advantage at the moment?",
@@ -189,7 +205,7 @@
     "url": "https://www.aljazeera.com/video/inside-story/2026/5/19/does-ukraine-have-the-advantage-at-the-moment?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/19/does-ukraine-have-the-advantage-at-the-moment?traffic_source=rss",
     "image": null,
-    "timestamp": 1779228172.52344
+    "timestamp": 1779232492.308009
   },
   {
     "title_fa": "Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla",
@@ -205,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss",
     "image": null,
-    "timestamp": 1779228172.523483
+    "timestamp": 1779232492.3080535
   },
   {
     "title_fa": "High prices in Iran’s stunted housing market leave tenants with few options",
@@ -221,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss",
     "image": null,
-    "timestamp": 1779228172.5234935
+    "timestamp": 1779232492.3080697
   },
   {
     "title_fa": "Trump’s Board of Peace urges fix to ‘gap’ in funding",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/19/trumps-board-of-peace-urges-fix-to-gap-in-funding?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/19/trumps-board-of-peace-urges-fix-to-gap-in-funding?traffic_source=rss",
     "image": null,
-    "timestamp": 1779228172.5235047
+    "timestamp": 1779232492.3080812
   },
   {
     "title_fa": "Somaliland to open embassy in Jerusalem, Israel in Hargeisa: Envoy",
@@ -253,22 +269,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/19/somaliland-israel-announce-mutual-embassies-in-jerusalem-and-hargeisa?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/19/somaliland-israel-announce-mutual-embassies-in-jerusalem-and-hargeisa?traffic_source=rss",
     "image": null,
-    "timestamp": 1779228172.5235498
-  },
-  {
-    "title_fa": "US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown",
-    "title_en": "US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown",
-    "summary": [
-      "Rights advocates say Trump administration is using sanctions and &#039;terrorism label&#039; to silence Palestinian activism."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779228172.5235677
+    "timestamp": 1779232492.308107
   }
 ]
