@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "قالیباف: تحرکات دشمن نشان می‌دهد به‌دنبال دور جدیدی از جنگ است",
-    "title_en": "قالیباف: تحرکات دشمن نشان می‌دهد به‌دنبال دور جدیدی از جنگ است",
+    "title_fa": "سنتکام می‌گوید نیروهای آمریکایی وارد یک کشتی «با پرچم ایران» شدند و بعد از تغییر مسیر آن را آزاد کردند",
+    "title_en": "سنتکام می‌گوید نیروهای آمریکایی وارد یک کشتی «با پرچم ایران» شدند و بعد از تغییر مسیر آن را آزاد کردند",
     "summary": [
-      "محمدباقر قالیباف می‌گوید که «تحرکات آشکار و پنهان دشمن نشان می‌دهد که به موازات فشارهای اقتصادی و سیاسی از اهداف نظامی خود دست نکشیده و به دنبال دور جدیدی از جنگ و ماجراجویی جدید است.» او در سومین پیام صوتی خود تاکید کرد که ساختار نظامی کشورش در دوره یک‌ماهه آتش‌بس توان عملیاتی خود را بازسازی کرده است. همزمان وزیر کشور پاکستان برای دومین بار در کمتر از یک هفته با هدف احیای مذاکرات میان ایران و آمریکا وارد تهران شده است. نیروی دریایی سپاه هم در اطلاعیه‌ای گفت که در شبانه‌روز گذشته ۲۶ نفتکش و دیگر"
+      "فرماندهی مرکزی آمریکا، سنتکام، با انتشار ویدیویی در حساب رسمی خود در شبکه اجتماعی ایکس گفته است که نیروهای آمریکایی وارد یک نفتکش با «پرچم ایران» شدند و آن را مجبور به تغییر مسیر کردند. این کشتی بعد از تغییر مسیر آزاد شده است. دونالد ترامپ، رئیس‌جمهور آمریکا، روز چهارشنبه گفت که مذاکرات با ایران به مراحل پایانی رسیده، اما هشدار داد اگر تهران با توافق موافقت نکند، حملات بیشتری انجام خواهد شد. او گفته است: «یا به توافق می‌رسیم یا کارهایی خواهیم کرد که کمی ناخوشایند خواهد بود، اما امیدوارم به آنجا "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,55 @@
     "url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779295262.8312755
+    "timestamp": 1779304011.3065956
+  },
+  {
+    "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
+    "title_en": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
+    "summary": [
+      "مروری بر فراز و فرود سیاسی محمود احمدی‌نژاد؛ از دوران قدرت و مواضع تند ضدغربی تا اختلاف با حاکمیت، تغییر رویکردها و رد صلاحیت‌های مکرر، تا ادعای نیویورک‌تایمز درباره طرحی از سوی آمریکا و اسرائیل که او را به‌عنوان گزینه‌ای احتمالی در سناریوی تغییر قدرت در ایران مطرح کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779304011.3066247
+  },
+  {
+    "title_fa": "انتشار ویدیویی درباره نحوه رفتار با کاروان کمک به غزه و انتقاد از «نمایش شرم‌آور» وزیر امنیت اسرائیل",
+    "title_en": "انتشار ویدیویی درباره نحوه رفتار با کاروان کمک به غزه و انتقاد از «نمایش شرم‌آور» وزیر امنیت اسرائیل",
+    "summary": [
+      "ایتالیا، کانادا و فرانسه برخورد با فعالان حامی فلسطین را که در یک کاروان کمک‌رسانی عازم غزه حضور داشتند و توسط نیروهای دریایی اسرائیل متوقف شدند، «غیرقابل قبول» توصیف کردند. پس از آن‌که ایتامار بن‌ گویر، وزیر امنیت ملی اسرائیل، ویدیویی منتشر کرد که در آن فعالان را در حالی که زانو زده و دستانشان از پشت بسته شده بود، مورد تمسخر قرار می‌داد، سفرای اسرائیل در این کشورها احضار شدند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c4g50dv3zrgo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c4g50dv3zrgo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779304011.3066576
+  },
+  {
+    "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
+    "title_en": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
+    "summary": [
+      "دونالد ترامپ، رئیس جمهور آمریکا، در چند هفته گذشته بارها تکرار کرده است که برای معترضان ایرانی «از طریق کردها سلاح فرستاده است» اما کردها این اسلحه‌ها را برای خود نگه داشته‌اند. تحقیقات بی‌بی‌سی نشان می‌دهد که بخشی از سخنان آقای ترامپ ممکن است صحیح باشد، که طرحی برای تسلیح و حمایت از کردها برای مشارکت آنها در جنگ احتمالی با ایران بوده است اما عملی شدن آن با مشکلاتی روبرو شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779304011.3067296
   },
   {
     "title_fa": "هشدار پزشکیان درباره محدودیت‌های تامین بنزین و حامل‌های انرژی در ایران",
@@ -29,23 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779295262.8313086
-  },
-  {
-    "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
-    "title_en": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
-    "summary": [
-      "دونالد ترامپ، رئیس جمهور آمریکا، در چند هفته گذشته بارها تکرار کرده است که برای معترضان ایرانی «از طریق کردها سلاح فرستاده» است، اما کردها این اسلحه‌ها را برای خود نگه داشته‌اند. تحقیقات بی‌بی‌سی نشان می‌دهد که بخشی از سخنان آقای ترامپ ممکن است صحیح باشد، که طرحی برای تسلیح و حمایت از کردها برای مشارکت آنها در جنگ احتمالی با ایران بوده است اما عملی شدن آن با مشکلاتی روبرو شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779295262.8313403
+    "timestamp": 1779304011.3067486
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -61,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779295262.8314588
+    "timestamp": 1779304011.306768
   },
   {
     "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
@@ -77,39 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779295262.8314764
-  },
-  {
-    "title_fa": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
-    "title_en": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
-    "summary": [
-      "حزب‌الله لبنان استفاده از پهپادهای کوچک «دید اول‌شخص» یا اف‌پی‌وی را برای حمله به اسرائیل افزایش داده است؛ از جمله سامانه‌هایی که با کابل‌های فیبر نوری هدایت می‌شوند تا بتوانند از سامانه‌های پیشرفته دفاعی عبور کنند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779295262.8315036
-  },
-  {
-    "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
-    "title_en": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
-    "summary": [
-      "سازمان جهانی کار وابسته به سازمان ملل متحد هشدار داد که جنگ در خاورمیانه بر دستمزدها و شرایط کاری تاثیر منفی خواهد داشت و این تاثیر بسیار فراتر از مناطق درگیر جنگ خواهد بود. سازمان جهانی کار اعلام کرد که خاورمیانه و کشورهای حوزه خلیج فارس و منطقه آسیا و اقیانوسیه بیشترین آسیب را خواهند دید و پیامدهای آن می‌تواند از دوران همه‌گیری کرونا بدتر باشد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779295262.8315322
+    "timestamp": 1779304011.306785
   },
   {
     "title_fa": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779295262.8315837
+    "timestamp": 1779304011.3068864
   },
   {
     "title_fa": "خانواده زوج بریتانیایی زندانی در ایران می‌گویند که آنها  دوباره اعتصاب غذا کرده‌اند",
@@ -141,7 +141,71 @@
     "url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779295262.8316107
+    "timestamp": 1779304011.3069148
+  },
+  {
+    "title_fa": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
+    "title_en": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
+    "summary": [
+      "حزب‌الله لبنان استفاده از پهپادهای کوچک «دید اول‌شخص» یا اف‌پی‌وی را برای حمله به اسرائیل افزایش داده است؛ از جمله سامانه‌هایی که با کابل‌های فیبر نوری هدایت می‌شوند تا بتوانند از سامانه‌های پیشرفته دفاعی عبور کنند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779304011.3069925
+  },
+  {
+    "title_fa": "Controlled reopening ends Iran’s lengthy stock market shutdown",
+    "title_en": "Controlled reopening ends Iran’s lengthy stock market shutdown",
+    "summary": [
+      "Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn&#039;t take part in the reopening."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779304011.4878833
+  },
+  {
+    "title_fa": "Trump jokes about running for Israeli prime minister",
+    "title_en": "Trump jokes about running for Israeli prime minister",
+    "summary": [
+      "Donald Trump joked that he could run for Israeli prime minister after claiming he enjoys ‘99%’ support in Israel."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779304011.487925
+  },
+  {
+    "title_fa": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
+    "title_en": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
+    "summary": [
+      "The IRGC claims to maintain control over the Strait of Hormuz despite the US blockade on Iran&#039;s ports."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779304011.4879358
   },
   {
     "title_fa": "At least eight killed in Israel’s air attacks on southern Lebanon",
@@ -157,7 +221,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1779295262.980177
+    "timestamp": 1779304011.4879491
   },
   {
     "title_fa": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
@@ -173,7 +237,7 @@
     "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss",
     "image": null,
-    "timestamp": 1779295262.9802036
+    "timestamp": 1779304011.4879713
   },
   {
     "title_fa": "Families demand justice for victims killed in Israeli strikes on Beirut",
@@ -189,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/families-demand-justice-for-victims-killed-in-israeli-strikes-on-beirut?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/families-demand-justice-for-victims-killed-in-israeli-strikes-on-beirut?traffic_source=rss",
     "image": null,
-    "timestamp": 1779295262.9802244
+    "timestamp": 1779304011.4879916
   },
   {
     "title_fa": "Why is Trump’s Gaza Board of Peace facing a funding shortfall?",
@@ -205,7 +269,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/20/why-is-trumps-gaza-board-of-peace-facing-a-funding-shortfall?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/20/why-is-trumps-gaza-board-of-peace-facing-a-funding-shortfall?traffic_source=rss",
     "image": null,
-    "timestamp": 1779295262.9802365
+    "timestamp": 1779304011.4880044
   },
   {
     "title_fa": "Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky",
@@ -221,7 +285,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/20/massie-defeated-the-israel-lobbys-pyrrhic-victory-in-kentucky?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/20/massie-defeated-the-israel-lobbys-pyrrhic-victory-in-kentucky?traffic_source=rss",
     "image": null,
-    "timestamp": 1779295262.9802568
+    "timestamp": 1779304011.4880257
   },
   {
     "title_fa": "Israel’s ambassador to Christians gives rose-coloured spiel",
@@ -237,70 +301,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ambassador-to-christians-gives-rose-coloured-spiel?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ambassador-to-christians-gives-rose-coloured-spiel?traffic_source=rss",
     "image": null,
-    "timestamp": 1779295262.9802856
-  },
-  {
-    "title_fa": "Israel’s Ben-Gvir publishes video taunting detained flotilla activists",
-    "title_en": "Israel’s Ben-Gvir publishes video taunting detained flotilla activists",
-    "summary": [
-      "Israel’s Ben-Gvir publishes video taunting detained flotilla activists"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ben-gvir-publishes-video-taunting-detained-flotilla-activists?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ben-gvir-publishes-video-taunting-detained-flotilla-activists?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779295262.9802964
-  },
-  {
-    "title_fa": "WHO says 600 suspected cases, 139 deaths in growing Ebola outbreak",
-    "title_en": "WHO says 600 suspected cases, 139 deaths in growing Ebola outbreak",
-    "summary": [
-      "Numbers are expected to rise, the WHO warns, as European officials emphasise the risk of a European outbreak is low."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/20/who-says-600-cases-139-suspected-deaths-in-growing-ebola-outbreak?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/20/who-says-600-cases-139-suspected-deaths-in-growing-ebola-outbreak?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779295262.9803238
-  },
-  {
-    "title_fa": "Israeli lawmakers advance bill to dissolve parliament",
-    "title_en": "Israeli lawmakers advance bill to dissolve parliament",
-    "summary": [
-      "Netanyahu is under mounting pressure as his fractious right-wing coalition submitted the bill to dissolve parliament."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/20/israeli-lawmakers-advance-bill-to-dissolve-parliament?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/20/israeli-lawmakers-advance-bill-to-dissolve-parliament?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779295262.9803343
-  },
-  {
-    "title_fa": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
-    "title_en": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
-    "summary": [
-      "Nearly all flotillas over 20 years have been intercepted by Israel. Hundreds remain missing after latest interdiction."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779295262.9803443
+    "timestamp": 1779304011.4880548
   }
 ]
