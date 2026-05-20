@@ -13,23 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779251994.1959393
+    "timestamp": 1779264308.6896353
   },
   {
-    "title_fa": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
-    "title_en": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
+    "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
+    "title_en": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
     "summary": [
-      "ولادیمیر پوتین که رئیس‌جمهور چین او را «دوست عزیز» خود می‌خواند، نه‌تنها می‌تواند روی استقبال گرم پکن حساب کند، بلکه امیدوار است در این سفر قرارداد سودآوری برای فروش گاز به دست آورد؛ قراردادی که به دلیل جنگی که دونالد ترامپ با ایران آغاز کرده، حالا شانس بیشتری برای نهایی شدن پیدا کرده است."
+      "هر بار که جنگی بزرگ جهان را تکان می‌دهد، نام کارل فون کلاوزویتس و اندیشه‌هایش دوباره زنده می‌شود."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779251994.1960063
+    "timestamp": 1779264308.6896753
   },
   {
     "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779251994.1960387
+    "timestamp": 1779264308.6897452
   },
   {
     "title_fa": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779251994.1960585
+    "timestamp": 1779264308.6897645
   },
   {
     "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779251994.196095
+    "timestamp": 1779264308.689797
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779251994.1961446
+    "timestamp": 1779264308.6898472
   },
   {
     "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
@@ -109,23 +109,55 @@
     "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779251994.1962802
+    "timestamp": 1779264308.6899831
   },
   {
-    "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
-    "title_en": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
+    "title_fa": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
+    "title_en": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
     "summary": [
-      "بیش از ۸۰ سال، هیچ‌کس نمی‌دانست چه بر سر یک اسیر جنگی شوروی آمده است؛ مردی که از دست نازی‌ها در جزایر مانش گریخت و بقیه جنگ جهانی دوم را در حالی سپری کرد که با کمک یک خانواده محلی از اشغالگران آلمانی پنهان شده بود."
+      "ولادیمیر پوتین که رئیس‌جمهور چین او را «دوست عزیز» خود می‌خواند، نه‌تنها می‌تواند روی استقبال گرم پکن حساب کند، بلکه امیدوار است در این سفر قرارداد سودآوری برای فروش گاز به دست آورد؛ قراردادی که به دلیل جنگی که دونالد ترامپ با ایران آغاز کرده، حالا شانس بیشتری برای نهایی شدن پیدا کرده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779251994.196338
+    "timestamp": 1779264308.690021
+  },
+  {
+    "title_fa": "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
+    "title_en": "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
+    "summary": [
+      "Oil prices ease amid the latest comments from the White House, but experts warn they will stay high even after any deal."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779264308.8499556
+  },
+  {
+    "title_fa": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
+    "title_en": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
+    "summary": [
+      "Iran says it learned from past clashes as Trump gives Tehran &#039;two to three days&#039; to reach a deal."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779264308.849972
   },
   {
     "title_fa": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
@@ -141,7 +173,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss",
     "image": null,
-    "timestamp": 1779251994.2931225
+    "timestamp": 1779264308.8501296
   },
   {
     "title_fa": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
@@ -157,7 +189,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1779251994.293137
+    "timestamp": 1779264308.8501418
   },
   {
     "title_fa": "Iran war live: Tehran warns US of ‘surprises’; Xi, Putin meet in Beijing",
@@ -173,54 +205,6 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss",
     "image": null,
-    "timestamp": 1779251994.2931488
-  },
-  {
-    "title_fa": "US authorities say missionary who contracted Ebola en route to Germany",
-    "title_en": "US authorities say missionary who contracted Ebola en route to Germany",
-    "summary": [
-      "World Health Organization says death toll from outbreak has risen to 134, as experts warn of continued challenges."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/19/us-authorities-say-missionary-who-contracted-ebola-en-route-to-germany?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/19/us-authorities-say-missionary-who-contracted-ebola-en-route-to-germany?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779251994.2931793
-  },
-  {
-    "title_fa": "Video shows oil spill on Iranian island after refinery attack last month",
-    "title_en": "Video shows oil spill on Iranian island after refinery attack last month",
-    "summary": [
-      "The impact of an oil spill caused by an attack on Iran’s Lavan refinery last month has been revealed."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779251994.2932103
-  },
-  {
-    "title_fa": "More than 15,800 people killed in Russia’s all-out war on Ukraine: UN",
-    "title_en": "More than 15,800 people killed in Russia’s all-out war on Ukraine: UN",
-    "summary": [
-      "Nearly 800 children are among those killed in Ukraine since Russia&#039;s full-scale invasion in February 2022, the UN says."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779251994.29325
+    "timestamp": 1779264308.8501534
   }
 ]
