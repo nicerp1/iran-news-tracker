@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "پس از هفت بار شکست، طرح محدودیت اختیارات جنگی ترامپ به صحن سنای آمریکا راه یافت",
-    "title_en": "پس از هفت بار شکست، طرح محدودیت اختیارات جنگی ترامپ به صحن سنای آمریکا راه یافت",
+    "title_fa": "نیویورک‌تایمز: حمله به خانه احمدی‌نژاد در آغاز جنگ برای کمک به تغییر رژیم در ایران بود",
+    "title_en": "نیویورک‌تایمز: حمله به خانه احمدی‌نژاد در آغاز جنگ برای کمک به تغییر رژیم در ایران بود",
     "summary": [
-      "با پیوستن چهار سناتور جمهوری‌خواه به جمع اقلیت دموکرات‌ها، مجلس سنا آمریکا به راه یافتن طرح محدودیت اختیارات جنگی دونالد ترامپ، به موضوعات صحن اصلی رای مثبت داد. این طرح که همچنان شانس کمی برای تصویب نهایی دارد، رئیس جمهور آمریکا را ملزم می کند که برای هرگونه اقدام نظامی دیگر علیه ایران، ابتدا از کنگره امریکا تاییدیه بگیرد. دونالد ترامپ یک بار دیگر تهدید کرد که اگر ایران با آمریکا به توافق نرسد، در روزهای آینده هدف حمله قرار خواهد گرفت، چون نمی‌تواند به آنها اجازه دهد «سلاح هسته‌ای» داشته باشند."
+      "نیویورک تایمز در گزارشی اختصاصی نوشته هدف از حمله هوایی به محل سکونت محمود احمدی‌نژاد، رئیس جمهور سابق ایران در اوایل جنگ آمریکا و اسرائیل با ایران، آزادی او از «حصر خانگی» و بخشی از تسهیل روند تغییر حکومت در ایران بوده است. این روزنامه آمریکایی نوشته که «این برنامه جسورانه که توسط اسرائیل طراحی شده و احمدی‌نژاد نیز درباره آن مورد مشورت قرار گرفته بود، خیلی زود از مسیر خارج شد.» در همین حال شی جین‌پینگ، رهبر چین در دیدار با ولادیمیر پوتین در پکن گفته خاورمیانه در یک مقطع سرنوشت‌ساز و حیاتی قرار "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779236316.7396574
+    "timestamp": 1779251994.1959393
   },
   {
     "title_fa": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779236316.7397213
+    "timestamp": 1779251994.1960063
   },
   {
     "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779236316.7397738
+    "timestamp": 1779251994.1960387
   },
   {
     "title_fa": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779236316.739794
+    "timestamp": 1779251994.1960585
   },
   {
     "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779236316.739826
+    "timestamp": 1779251994.196095
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -93,23 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779236316.7398736
-  },
-  {
-    "title_fa": "آنچه گذشت؛ پوتین تنها چند روز پس از سفر ترامپ، وارد چین شد",
-    "title_en": "آنچه گذشت؛ پوتین تنها چند روز پس از سفر ترامپ، وارد چین شد",
-    "summary": [
-      "دونالد ترامپ یک بار دیگر تهدید کرد که اگر ایران با آمریکا به توافق نرسد، در روزهای آینده هدف حمله قرار خواهد گرفت، چون نمی‌تواند به آنها اجازه دهد «سلاح هسته‌ای» داشته باشند. کمتر از ۲۴ ساعت پیش، رئیس‌جمهور آمریکا گفته بود که به درخواست رهبران عربستان، امارات و قطر، حمله‌ای را که تصمیم داشت روز سه‌شنبه به ایران انجام دهد، لغو کرده است. در همین حال ولادیمیر پوتین برای دیداری دو روزه وارد چین شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c8e896911det?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779236316.7399697
+    "timestamp": 1779251994.1961446
   },
   {
     "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
@@ -125,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779236316.7400203
+    "timestamp": 1779251994.1962802
   },
   {
     "title_fa": "به دنبال «عمو تام»؛ چگونه معمای یک اسیر جنگی شوروی پس از ۸۰ سال حل شد",
@@ -141,7 +125,55 @@
     "url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlp6w9kgpvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779236316.7400792
+    "timestamp": 1779251994.196338
+  },
+  {
+    "title_fa": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
+    "title_en": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
+    "summary": [
+      "US Vice President JD Vance says the US is prepared to take military action if Iran does not agree to a nuclear deal"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779251994.2931225
+  },
+  {
+    "title_fa": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
+    "title_en": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
+    "summary": [
+      "Vote to advance War Powers Resolution seen as rare rebuke of the president as pressure grows to end US attack on Iran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779251994.293137
+  },
+  {
+    "title_fa": "Iran war live: Tehran warns US of ‘surprises’; Xi, Putin meet in Beijing",
+    "title_en": "Iran war live: Tehran warns US of ‘surprises’; Xi, Putin meet in Beijing",
+    "summary": [
+      "Warning comes after Trump threatened military action against Iran and gave it &#039;two to three days&#039; to strike a deal."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779251994.2931488
   },
   {
     "title_fa": "US authorities say missionary who contracted Ebola en route to Germany",
@@ -157,7 +189,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/19/us-authorities-say-missionary-who-contracted-ebola-en-route-to-germany?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/19/us-authorities-say-missionary-who-contracted-ebola-en-route-to-germany?traffic_source=rss",
     "image": null,
-    "timestamp": 1779236316.936306
+    "timestamp": 1779251994.2931793
   },
   {
     "title_fa": "Video shows oil spill on Iranian island after refinery attack last month",
@@ -173,7 +205,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss",
     "image": null,
-    "timestamp": 1779236316.9363408
+    "timestamp": 1779251994.2932103
   },
   {
     "title_fa": "More than 15,800 people killed in Russia’s all-out war on Ukraine: UN",
@@ -189,70 +221,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un?traffic_source=rss",
     "image": null,
-    "timestamp": 1779236316.936382
-  },
-  {
-    "title_fa": "Does Ukraine have the advantage at the moment?",
-    "title_en": "Does Ukraine have the advantage at the moment?",
-    "summary": [
-      "Kyiv takes the war deeper into Russia with a huge attack on the Moscow region."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/5/19/does-ukraine-have-the-advantage-at-the-moment?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/19/does-ukraine-have-the-advantage-at-the-moment?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779236316.9364038
-  },
-  {
-    "title_fa": "Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla",
-    "title_en": "Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla",
-    "summary": [
-      "Israeli naval forces are accused of firing ‘rubber bullets’ at activists on board the Gaza-bound Global Sumud Flotilla."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779236316.9364672
-  },
-  {
-    "title_fa": "High prices in Iran’s stunted housing market leave tenants with few options",
-    "title_en": "High prices in Iran’s stunted housing market leave tenants with few options",
-    "summary": [
-      "Tenants face bleak prospects as economic uncertainty persists amid a potential resumption of fighting."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779236316.936486
-  },
-  {
-    "title_fa": "Trump’s Board of Peace urges fix to ‘gap’ in funding",
-    "title_en": "Trump’s Board of Peace urges fix to ‘gap’ in funding",
-    "summary": [
-      "UN-approved body says that pledged funds have not materialised despite urgent situation in Gaza."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/19/trumps-board-of-peace-urges-fix-to-gap-in-funding?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/19/trumps-board-of-peace-urges-fix-to-gap-in-funding?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779236316.9365044
+    "timestamp": 1779251994.29325
   }
 ]
