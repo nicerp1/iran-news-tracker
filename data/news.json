@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779304011.3065956
+    "timestamp": 1779311240.087884
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779304011.3066247
+    "timestamp": 1779311240.0879138
   },
   {
     "title_fa": "انتشار ویدیویی درباره نحوه رفتار با کاروان کمک به غزه و انتقاد از «نمایش شرم‌آور» وزیر امنیت اسرائیل",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g50dv3zrgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g50dv3zrgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779304011.3066576
+    "timestamp": 1779311240.0879452
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779304011.3067296
+    "timestamp": 1779311240.0880156
   },
   {
     "title_fa": "هشدار پزشکیان درباره محدودیت‌های تامین بنزین و حامل‌های انرژی در ایران",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779304011.3067486
+    "timestamp": 1779311240.0880346
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779304011.306768
+    "timestamp": 1779311240.0880535
   },
   {
     "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779304011.306785
+    "timestamp": 1779311240.0880702
   },
   {
     "title_fa": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779304011.3068864
+    "timestamp": 1779311240.0881736
   },
   {
     "title_fa": "خانواده زوج بریتانیایی زندانی در ایران می‌گویند که آنها  دوباره اعتصاب غذا کرده‌اند",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779304011.3069148
+    "timestamp": 1779311240.0881875
   },
   {
     "title_fa": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
@@ -157,7 +157,39 @@
     "url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779304011.3069925
+    "timestamp": 1779311240.0882936
+  },
+  {
+    "title_fa": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
+    "title_en": "Israeli settlers burn vehicles, install caravans in occupied West Bank",
+    "summary": [
+      "Palestinian residents say Israeli settlers burned vehicles, sprayed racist graffiti, and installed new outposts."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779311240.313059
+  },
+  {
+    "title_fa": "As AIPAC becomes ‘toxic’, it is trying to conceal spending in US elections",
+    "title_en": "As AIPAC becomes ‘toxic’, it is trying to conceal spending in US elections",
+    "summary": [
+      "Al Jazeera analyses how pro-Israel lobby group has relied on shell PACs with deceptive names to defeat Israel critics."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/20/as-aipac-becomes-toxic-it-is-trying-to-conceal-spending-in-us-elections?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/20/as-aipac-becomes-toxic-it-is-trying-to-conceal-spending-in-us-elections?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779311240.313077
   },
   {
     "title_fa": "Controlled reopening ends Iran’s lengthy stock market shutdown",
@@ -173,7 +205,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
     "image": null,
-    "timestamp": 1779304011.4878833
+    "timestamp": 1779311240.3131776
   },
   {
     "title_fa": "Trump jokes about running for Israeli prime minister",
@@ -189,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss",
     "image": null,
-    "timestamp": 1779304011.487925
+    "timestamp": 1779311240.3132017
   },
   {
     "title_fa": "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
@@ -205,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss",
     "image": null,
-    "timestamp": 1779304011.4879358
+    "timestamp": 1779311240.313211
   },
   {
     "title_fa": "At least eight killed in Israel’s air attacks on southern Lebanon",
@@ -221,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1779304011.4879491
+    "timestamp": 1779311240.3132231
   },
   {
     "title_fa": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss",
     "image": null,
-    "timestamp": 1779304011.4879713
+    "timestamp": 1779311240.3132591
   },
   {
     "title_fa": "Families demand justice for victims killed in Israeli strikes on Beirut",
@@ -253,54 +285,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/families-demand-justice-for-victims-killed-in-israeli-strikes-on-beirut?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/families-demand-justice-for-victims-killed-in-israeli-strikes-on-beirut?traffic_source=rss",
     "image": null,
-    "timestamp": 1779304011.4879916
-  },
-  {
-    "title_fa": "Why is Trump’s Gaza Board of Peace facing a funding shortfall?",
-    "title_en": "Why is Trump’s Gaza Board of Peace facing a funding shortfall?",
-    "summary": [
-      "Experts say lack of a political horizon and Israeli land grabs are deterring donors from funding Gaza&#039;s reconstruction."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/economy/2026/5/20/why-is-trumps-gaza-board-of-peace-facing-a-funding-shortfall?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/economy/2026/5/20/why-is-trumps-gaza-board-of-peace-facing-a-funding-shortfall?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779304011.4880044
-  },
-  {
-    "title_fa": "Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky",
-    "title_en": "Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky",
-    "summary": [
-      "The campaign to unseat Thomas Massie exposed a growing Republican backlash against pro-Israel political influence."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/opinions/2026/5/20/massie-defeated-the-israel-lobbys-pyrrhic-victory-in-kentucky?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/opinions/2026/5/20/massie-defeated-the-israel-lobbys-pyrrhic-victory-in-kentucky?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779304011.4880257
-  },
-  {
-    "title_fa": "Israel’s ambassador to Christians gives rose-coloured spiel",
-    "title_en": "Israel’s ambassador to Christians gives rose-coloured spiel",
-    "summary": [
-      "George Deek, Israel’s ‘ambassador to Christians’ released a statement on X, to Christians in the region and globally."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ambassador-to-christians-gives-rose-coloured-spiel?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ambassador-to-christians-gives-rose-coloured-spiel?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779304011.4880548
+    "timestamp": 1779311240.3132787
   }
 ]
