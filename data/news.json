@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "پزشکیان: به مردم بگویید که در تامین بنزین و بعضی حامل‌های انرژی با محدودیت مواجهیم",
-    "title_en": "پزشکیان: به مردم بگویید که در تامین بنزین و بعضی حامل‌های انرژی با محدودیت مواجهیم",
+    "title_fa": "قالیباف: تحرکات دشمن نشان می‌دهد به‌دنبال دور جدیدی از جنگ است",
+    "title_en": "قالیباف: تحرکات دشمن نشان می‌دهد به‌دنبال دور جدیدی از جنگ است",
     "summary": [
-      "مسعود پزشکیان با تائید محدودیت‌های عرضه بنزین و حامل‌های دیگر انرژی، خواهان اعلام آن به شهروندان کشورش شده است. محاصره دریایی بنادر ایران، واردات به آن کشور را با اختلال روبرو کرده است. همزمان وزیر کشور پاکستان برای دومین بار در کمتر از یک هفته، وارد تهران شده است. یک مقام وزارت کشور پاکستان به بی‌بی‌سی گفت که هدف از این سفر، احیای گفت‌وگوهای میان آمریکا و ایران است. در همین حال سه نفتکش غول‌پیکر که بیش از دو ماه در خلیج فارس معطل مانده بودند با حدود شش میلیون بشکه نفت خام در حال عبور از تنگه هر"
+      "محمدباقر قالیباف می‌گوید که «تحرکات آشکار و پنهان دشمن نشان می‌دهد که به موازات فشارهای اقتصادی و سیاسی از اهداف نظامی خود دست نکشیده و به دنبال دور جدیدی از جنگ و ماجراجویی جدید است.» او در سومین پیام صوتی خود تاکید کرد که ساختار نظامی کشورش در دوره یک‌ماهه آتش‌بس توان عملیاتی خود را بازسازی کرده است. همزمان وزیر کشور پاکستان برای دومین بار در کمتر از یک هفته با هدف احیای مذاکرات میان ایران و آمریکا وارد تهران شده است. نیروی دریایی سپاه هم در اطلاعیه‌ای گفت که در شبانه‌روز گذشته ۲۶ نفتکش و دیگر"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,23 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779284884.994808
+    "timestamp": 1779295262.8312755
   },
   {
-    "title_fa": "خانواده زوج بریتانیایی زندانی در ایران می‌گویند که آنها  دوباره اعتصاب غذا کرده‌اند",
-    "title_en": "خانواده زوج بریتانیایی زندانی در ایران می‌گویند که آنها  دوباره اعتصاب غذا کرده‌اند",
+    "title_fa": "هشدار پزشکیان درباره محدودیت‌های تامین بنزین و حامل‌های انرژی در ایران",
+    "title_en": "هشدار پزشکیان درباره محدودیت‌های تامین بنزین و حامل‌های انرژی در ایران",
     "summary": [
-      "خانواده یک زوج بریتانیایی که به اتهام جاسوسی در ایران زندانی هستند ، می‌گویند که این دو نفر برای آزادی خود اعتصاب غذا کرده‌اند."
+      "در پی محدودیت‌های تامین بنزین و دیگر حامل‌های انرژی در ایران، مسعود پزشکیان، رئیس‌جمهور آن کشور، در اظهاراتی بار دیگر از این محدودیت‌ها سخن گفت و خواستار صرف‌جویی در این زمینه شد. او همچنین می‌گوید که مردم باید این موضوع را بدانند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779284884.9948921
+    "timestamp": 1779295262.8313086
+  },
+  {
+    "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
+    "title_en": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
+    "summary": [
+      "دونالد ترامپ، رئیس جمهور آمریکا، در چند هفته گذشته بارها تکرار کرده است که برای معترضان ایرانی «از طریق کردها سلاح فرستاده» است، اما کردها این اسلحه‌ها را برای خود نگه داشته‌اند. تحقیقات بی‌بی‌سی نشان می‌دهد که بخشی از سخنان آقای ترامپ ممکن است صحیح باشد، که طرحی برای تسلیح و حمایت از کردها برای مشارکت آنها در جنگ احتمالی با ایران بوده است اما عملی شدن آن با مشکلاتی روبرو شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779295262.8313403
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779284884.994919
+    "timestamp": 1779295262.8314588
   },
   {
     "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779284884.994972
+    "timestamp": 1779295262.8314764
   },
   {
     "title_fa": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779284884.994997
+    "timestamp": 1779295262.8315036
   },
   {
     "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
@@ -93,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779284884.9950306
-  },
-  {
-    "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
-    "title_en": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
-    "summary": [
-      "محسن نقوی، وزیر کشور پاکستان، عصر امروز با محمدباقر قالیباف، رئیس مجلس ایران، در تهران دیدار و گفت‌وگو کرد. رسانه‌های ایرانی و پاکستانی گزارش داده‌‌اند که آقای نقوی برای از سرگیری مذاکرات به ایران سفر کرده است. گفته شد که او حامل پیام‌ آمریکاست و پاسخ ایران را هم دریافت خواهد کرد. خبرگزاری فارس می‌گوید که آمریکا در پاسخ به پیشنهاد ایران پنج شرط تعیین کرده است. فارس که به نهادهای نظامی و امنیتی نزدیک است، این پنج شروط آمریکا را ذکر کرد و نوشت: «حتی در صورت تحقق این شرایط از سوی ایران، تهدید» حمله"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779284884.9950783
+    "timestamp": 1779295262.8315322
   },
   {
     "title_fa": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
@@ -125,23 +125,135 @@
     "url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779284884.99512
+    "timestamp": 1779295262.8315837
   },
   {
-    "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
-    "title_en": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
+    "title_fa": "خانواده زوج بریتانیایی زندانی در ایران می‌گویند که آنها  دوباره اعتصاب غذا کرده‌اند",
+    "title_en": "خانواده زوج بریتانیایی زندانی در ایران می‌گویند که آنها  دوباره اعتصاب غذا کرده‌اند",
     "summary": [
-      "نشریه حریت ترکیه روز یکشنبه ۱۷ مه / ۲۷ اردیبهشت ضمن انتشار این خبر نوشت: «جسد تکه‌تکه‌شده فرخنده قائم‌مقامی، شهروند ایرانی که در استانبول ناپدید شده بود، در شهر کرشهیر پیدا شد. بر اساس تحقیقات، مشخص شد فرخنده قائم‌مقامی پس از مشاجره با (مرد مظنون)، با قلاده سگ خودش خفه شده و سپس جسد او داخل یک خودرو تکه‌تکه و در زمینی در منطقه موجورِ کرشهیر دفن شده است.»"
+      "خانواده یک زوج بریتانیایی که به اتهام جاسوسی در ایران زندانی هستند ، می‌گویند که این دو نفر برای آزادی خود اعتصاب غذا کرده‌اند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779284884.9952426
+    "timestamp": 1779295262.8316107
+  },
+  {
+    "title_fa": "At least eight killed in Israel’s air attacks on southern Lebanon",
+    "title_en": "At least eight killed in Israel’s air attacks on southern Lebanon",
+    "summary": [
+      "Israeli attacks on Lebanon continue despite the &#039;ceasefire&#039; that was recently extended until the beginning of July."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779295262.980177
+  },
+  {
+    "title_fa": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
+    "title_en": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
+    "summary": [
+      "New approaches to war propaganda are reshaping the conflict between Israel, Hezbollah, and Iran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779295262.9802036
+  },
+  {
+    "title_fa": "Families demand justice for victims killed in Israeli strikes on Beirut",
+    "title_en": "Families demand justice for victims killed in Israeli strikes on Beirut",
+    "summary": [
+      "Two childhood neighbours say they are fighting for justice after an Israeli strike killed five of their relatives."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/families-demand-justice-for-victims-killed-in-israeli-strikes-on-beirut?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/families-demand-justice-for-victims-killed-in-israeli-strikes-on-beirut?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779295262.9802244
+  },
+  {
+    "title_fa": "Why is Trump’s Gaza Board of Peace facing a funding shortfall?",
+    "title_en": "Why is Trump’s Gaza Board of Peace facing a funding shortfall?",
+    "summary": [
+      "Experts say lack of a political horizon and Israeli land grabs are deterring donors from funding Gaza&#039;s reconstruction."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/20/why-is-trumps-gaza-board-of-peace-facing-a-funding-shortfall?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/20/why-is-trumps-gaza-board-of-peace-facing-a-funding-shortfall?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779295262.9802365
+  },
+  {
+    "title_fa": "Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky",
+    "title_en": "Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky",
+    "summary": [
+      "The campaign to unseat Thomas Massie exposed a growing Republican backlash against pro-Israel political influence."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/20/massie-defeated-the-israel-lobbys-pyrrhic-victory-in-kentucky?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/20/massie-defeated-the-israel-lobbys-pyrrhic-victory-in-kentucky?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779295262.9802568
+  },
+  {
+    "title_fa": "Israel’s ambassador to Christians gives rose-coloured spiel",
+    "title_en": "Israel’s ambassador to Christians gives rose-coloured spiel",
+    "summary": [
+      "George Deek, Israel’s ‘ambassador to Christians’ released a statement on X, to Christians in the region and globally."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ambassador-to-christians-gives-rose-coloured-spiel?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ambassador-to-christians-gives-rose-coloured-spiel?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779295262.9802856
+  },
+  {
+    "title_fa": "Israel’s Ben-Gvir publishes video taunting detained flotilla activists",
+    "title_en": "Israel’s Ben-Gvir publishes video taunting detained flotilla activists",
+    "summary": [
+      "Israel’s Ben-Gvir publishes video taunting detained flotilla activists"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ben-gvir-publishes-video-taunting-detained-flotilla-activists?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ben-gvir-publishes-video-taunting-detained-flotilla-activists?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779295262.9802964
   },
   {
     "title_fa": "WHO says 600 suspected cases, 139 deaths in growing Ebola outbreak",
@@ -157,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/20/who-says-600-cases-139-suspected-deaths-in-growing-ebola-outbreak?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/20/who-says-600-cases-139-suspected-deaths-in-growing-ebola-outbreak?traffic_source=rss",
     "image": null,
-    "timestamp": 1779284885.2273805
+    "timestamp": 1779295262.9803238
   },
   {
     "title_fa": "Israeli lawmakers advance bill to dissolve parliament",
@@ -173,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/20/israeli-lawmakers-advance-bill-to-dissolve-parliament?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/20/israeli-lawmakers-advance-bill-to-dissolve-parliament?traffic_source=rss",
     "image": null,
-    "timestamp": 1779284885.2273939
+    "timestamp": 1779295262.9803343
   },
   {
     "title_fa": "US imposes sanctions on Gaza flotilla organisers: Why it matters",
@@ -189,70 +301,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/20/us-imposes-sanctions-on-gaza-flotilla-organisers-why-it-matters?traffic_source=rss",
     "image": null,
-    "timestamp": 1779284885.2274044
-  },
-  {
-    "title_fa": "Philippines top court rejects bid to block arrest of senator wanted by ICC",
-    "title_en": "Philippines top court rejects bid to block arrest of senator wanted by ICC",
-    "summary": [
-      "Senator dela Rosa, whose whereabouts are ⁠unknown, is wanted by the ICC for his role in Duterte&#039;s bloody &#039;war on drugs&#039;."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/20/philippines-top-court-rejects-bid-to-block-arrest-of-senator-wanted-by-icc?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/20/philippines-top-court-rejects-bid-to-block-arrest-of-senator-wanted-by-icc?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779284885.2274823
-  },
-  {
-    "title_fa": "US and Israel planned to install Ahmadinejad as Iranian leader, NYT says",
-    "title_en": "US and Israel planned to install Ahmadinejad as Iranian leader, NYT says",
-    "summary": [
-      "The &#039;audacious plan&#039; quickly unravelled and Ahmadinejad&#039;s whereabouts are unknown, US officials told the newspaper"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779284885.2274926
-  },
-  {
-    "title_fa": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
-    "title_en": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
-    "summary": [
-      "Putin has talked about a truce, but some analysts say it&#039;s a ploy to buy time while Moscow&#039;s soldiers are on back foot."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779284885.2275343
-  },
-  {
-    "title_fa": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
-    "title_en": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
-    "summary": [
-      "The protest comes after Israeli forces intercepted the last remaining vessel sailing towards the besieged Gaza Strip."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/20/at-least-87-gaza-aid-flotilla-activists-abducted-by-israel-on-hunger-strike?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/20/at-least-87-gaza-aid-flotilla-activists-abducted-by-israel-on-hunger-strike?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779284885.2275527
+    "timestamp": 1779295262.9803443
   }
 ]
