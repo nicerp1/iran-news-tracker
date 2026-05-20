@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "نیویورک‌تایمز: حمله به خانه احمدی‌نژاد در آغاز جنگ برای کمک به تغییر رژیم در ایران بود",
-    "title_en": "نیویورک‌تایمز: حمله به خانه احمدی‌نژاد در آغاز جنگ برای کمک به تغییر رژیم در ایران بود",
+    "title_fa": "رهبر چین در دیدار با پوتین: ازسرگیری جنگ در خاورمیانه قابل قبول نیست",
+    "title_en": "رهبر چین در دیدار با پوتین: ازسرگیری جنگ در خاورمیانه قابل قبول نیست",
     "summary": [
-      "نیویورک تایمز در گزارشی اختصاصی نوشته هدف از حمله هوایی به محل سکونت محمود احمدی‌نژاد، رئیس جمهور سابق ایران در اوایل جنگ آمریکا و اسرائیل با ایران، آزادی او از «حصر خانگی» و بخشی از تسهیل روند تغییر حکومت در ایران بوده است. این روزنامه آمریکایی نوشته که «این برنامه جسورانه که توسط اسرائیل طراحی شده و احمدی‌نژاد نیز درباره آن مورد مشورت قرار گرفته بود، خیلی زود از مسیر خارج شد.» در همین حال شی جین‌پینگ، رهبر چین در دیدار با ولادیمیر پوتین در پکن گفته خاورمیانه در یک مقطع سرنوشت‌ساز و حیاتی قرار "
+      "رئیس جمهور چین در دیدار با ولادیمیر پوتین در پکن، وضعیت خاورمیانه را در مرحله حساسی توصیف کرد و پایان خصومت‌ها را ضروری دانست. آقای شی همچنین می‌گوید که از سرگیری درگیری در خاورمیانه غیرقابل قبول خواهد بود. همزمان سپاه پاسداران تهدید کرد که در صورت آغاز دوباره جنگ آمریکا و اسرائیل علیه ایران، درگیری‌ها «به فراتر از منطقه کشیده خواهد شد.» پیشتر دونالد ترامپ گفت که در آستانه حمله نظامی دوباره به ایران، به درخواست رهبران منطقه، دستور لغو حمله را داده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779264308.6896353
+    "timestamp": 1779275843.9842424
+  },
+  {
+    "title_fa": "خانواده زوج بریتانیایی زندانی در ایران می‌گویند که آنها  دوباره اعتصاب غذا کرده‌اند",
+    "title_en": "خانواده زوج بریتانیایی زندانی در ایران می‌گویند که آنها  دوباره اعتصاب غذا کرده‌اند",
+    "summary": [
+      "خانواده یک زوج بریتانیایی که به اتهام جاسوسی در ایران زندانی هستند ، می‌گویند که این دو نفر برای آزادی خود اعتصاب غذا کرده‌اند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779275843.98427
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779264308.6896753
+    "timestamp": 1779275843.984302
   },
   {
     "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779264308.6897452
+    "timestamp": 1779275843.9843683
   },
   {
     "title_fa": "چرا پهپادهای کوچک حزب‌الله برای اسرائیل دردسرساز شده است؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyplzqz340o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779264308.6897645
+    "timestamp": 1779275843.9843931
   },
   {
     "title_fa": "هشدار سازمان جهانی کار: تاثیر منفی جنگ ایران بر شغل و مزد فراتر از خاورمیانه است",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd6pxqe4w73o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779264308.689797
+    "timestamp": 1779275843.9844277
   },
   {
     "title_fa": "گزارش‌ها از شروط ایران و آمریکا برای ازسرگیری مذاکرات",
@@ -93,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70v98gd85lo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779264308.6898472
-  },
-  {
-    "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
-    "title_en": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
-    "summary": [
-      "نشریه حریت ترکیه روز یکشنبه ۱۷ مه / ۲۷ اردیبهشت ضمن انتشار این خبر نوشت: «جسد تکه‌تکه‌شده فرخنده قائم‌مقامی، شهروند ایرانی که در استانبول ناپدید شده بود، در شهر کرشهیر پیدا شد. بر اساس تحقیقات، مشخص شد فرخنده قائم‌مقامی پس از مشاجره با (مرد مظنون)، با قلاده سگ خودش خفه شده و سپس جسد او داخل یک خودرو تکه‌تکه و در زمینی در منطقه موجورِ کرشهیر دفن شده است.»"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779264308.6899831
+    "timestamp": 1779275843.9844813
   },
   {
     "title_fa": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
@@ -125,13 +125,93 @@
     "url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779264308.690021
+    "timestamp": 1779275843.9845068
   },
   {
-    "title_fa": "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
-    "title_en": "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
+    "title_fa": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
+    "title_en": "پلیس استانبول سه مظنون به قتل یک زن ایرانی که با «قلاده سگش خفه و بعد مثله شده» را بازداشت کرد",
     "summary": [
-      "Oil prices ease amid the latest comments from the White House, but experts warn they will stay high even after any deal."
+      "نشریه حریت ترکیه روز یکشنبه ۱۷ مه / ۲۷ اردیبهشت ضمن انتشار این خبر نوشت: «جسد تکه‌تکه‌شده فرخنده قائم‌مقامی، شهروند ایرانی که در استانبول ناپدید شده بود، در شهر کرشهیر پیدا شد. بر اساس تحقیقات، مشخص شد فرخنده قائم‌مقامی پس از مشاجره با (مرد مظنون)، با قلاده سگ خودش خفه شده و سپس جسد او داخل یک خودرو تکه‌تکه و در زمینی در منطقه موجورِ کرشهیر دفن شده است.»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cz02x5jpjkpo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779275843.9846406
+  },
+  {
+    "title_fa": "Philippines top court rejects bid to block arrest of senator wanted by ICC",
+    "title_en": "Philippines top court rejects bid to block arrest of senator wanted by ICC",
+    "summary": [
+      "Senator dela Rosa, whose whereabouts are ⁠unknown, is wanted by the ICC for his role in Duterte&#039;s bloody &#039;war on drugs&#039;."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/20/philippines-top-court-rejects-bid-to-block-arrest-of-senator-wanted-by-icc?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/20/philippines-top-court-rejects-bid-to-block-arrest-of-senator-wanted-by-icc?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779275844.2002225
+  },
+  {
+    "title_fa": "US and Israel planned to install Ahmadinejad as Iranian leader, NYT says",
+    "title_en": "US and Israel planned to install Ahmadinejad as Iranian leader, NYT says",
+    "summary": [
+      "The &#039;audacious plan&#039; quickly unravelled and Ahmadinejad&#039;s whereabouts are unknown, US officials told the newspaper"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779275844.2002354
+  },
+  {
+    "title_fa": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
+    "title_en": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
+    "summary": [
+      "Putin has talked about a truce, but some analysts say it&#039;s a ploy to buy time while Moscow&#039;s soldiers are on back foot."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779275844.20028
+  },
+  {
+    "title_fa": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
+    "title_en": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
+    "summary": [
+      "The protest comes after Israeli forces intercepted the last remaining vessel sailing towards the besieged Gaza Strip."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/20/at-least-87-gaza-aid-flotilla-activists-abducted-by-israel-on-hunger-strike?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/20/at-least-87-gaza-aid-flotilla-activists-abducted-by-israel-on-hunger-strike?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779275844.2002985
+  },
+  {
+    "title_fa": "Chinese supertankers exit Hormuz as Trump and Vance talk up Iran deal",
+    "title_en": "Chinese supertankers exit Hormuz as Trump and Vance talk up Iran deal",
+    "summary": [
+      "Oil prices eased after the White House remarks as Iran warned it would expand the war in response to any new attacks."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -141,7 +221,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal?traffic_source=rss",
     "image": null,
-    "timestamp": 1779264308.8499556
+    "timestamp": 1779275844.200319
   },
   {
     "title_fa": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
@@ -157,54 +237,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss",
     "image": null,
-    "timestamp": 1779264308.849972
-  },
-  {
-    "title_fa": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
-    "title_en": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
-    "summary": [
-      "US Vice President JD Vance says the US is prepared to take military action if Iran does not agree to a nuclear deal"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779264308.8501296
-  },
-  {
-    "title_fa": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
-    "title_en": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
-    "summary": [
-      "Vote to advance War Powers Resolution seen as rare rebuke of the president as pressure grows to end US attack on Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779264308.8501418
-  },
-  {
-    "title_fa": "Iran war live: Tehran warns US of ‘surprises’; Xi, Putin meet in Beijing",
-    "title_en": "Iran war live: Tehran warns US of ‘surprises’; Xi, Putin meet in Beijing",
-    "summary": [
-      "Warning comes after Trump threatened military action against Iran and gave it &#039;two to three days&#039; to strike a deal."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779264308.8501534
+    "timestamp": 1779275844.2003608
   }
 ]
