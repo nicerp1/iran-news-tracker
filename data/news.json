@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "تلاش فشرده پاکستان برای میانجی‌گری میان ایران و آمریکا؛ تهران هنوز پاسخ نداده است",
-    "title_en": "تلاش فشرده پاکستان برای میانجی‌گری میان ایران و آمریکا؛ تهران هنوز پاسخ نداده است",
+    "title_fa": "روبیو: دریافت عوارض در تنگه هرمز غیرقابل قبول و غیرقانونی است",
+    "title_en": "روبیو: دریافت عوارض در تنگه هرمز غیرقابل قبول و غیرقانونی است",
     "summary": [
-      "وزیر کشور پاکستان در تهران با عباس عراقچی دیدار کرده است، هرچند جزییاتی از مذاکرات آنها منتشر نشده است. ایران اعلام کرده است که در حال بررسی تازه‌ترین پیشنهادهای آمریکا برای پایان دادن به جنگ است. همزمان گزارش رسانه‌های حکومتی ایران حاکیست که قرار است فیلد مارشال عاصم منیر،‌ فرمانده ارتش پاکستان، هم برای کمک به میانجی‌گری میان ایران و آمریکا به تهران سفر کند. پیشتر دونالد ترامپ، گفت که اگر ایران با طرح صلح موافقت نکند، ایالات متحده آماده انجام حملات بیشتر علیه آن کشور است. این در حالیست که به گز"
+      "وزیر خارجه آمریکا درباره ایران گفت که ایجاد نظام عوارض‌گیری در تنگه هرمز غیرقابل قبول است و ادامه داد که «فقط ما این را نمی‌گوییم، جهان هم همین نظر را دارد.» او می‌گوید که آمریکا در حال پیگری قطعنامه‌ای در سازمان ملل است و تلاش می‌کند که آن را به شورای امنیت ببرد. مارکو روبیو گفت که این قطعنامه با حمایت بحرین ارائه شده و بیش از ۱۰۰ کشور از آن حمایت کرده‌اند که به اعتقاد او «بیشترین تعداد حامیان یک قطعنامه در تاریخ شورای امنیت است. همزمان به نظر می‌رسد که تلاش میانجی‌گرایانه پاکستان برای دریافت پ"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c0r2402qkk7t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0r2402qkk7t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779366684.0462058
+    "timestamp": 1779379093.4202924
+  },
+  {
+    "title_fa": "اولین گروه فعالان ناوگان کمک به غزه وارد ترکیه شدند؛ ادامه واکنش‌های جهانی به «نمایش ننگین» بن‌گویر",
+    "title_en": "اولین گروه فعالان ناوگان کمک به غزه وارد ترکیه شدند؛ ادامه واکنش‌های جهانی به «نمایش ننگین» بن‌گویر",
+    "summary": [
+      "در حالیکه انتقادهای بین‌المللی از اسرائیل به‌دلیل انتشار ویدئو بدرفتاری با فعالان بازداشت شده ناوگان کمک به غزه،‌ ادامه دارد، فعالان بازداشت شده با هواپیماهای ترکیه از اسرائیل خارج و اولین گروه آنها اکنون وارد ترکیه شده‌اند. همزمان بیش از ۲۰ کشور جهان رفتار ایتامار بن‌ گویر، وزیر امنیت ملی اسرائیل را به‌شدت محکوم کردند و بسیاری از آنها سفرای اسرائیل را فراخواندند در این میان ایتالیا حتی خواستار تحریم آقای بن گویر شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cy529ddn5qgo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cy529ddn5qgo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779379093.4203303
   },
   {
     "title_fa": "سرانجام متهمان پرونده اکباتان؛ سرهایی که پای دار رفت اما بالای دار نرفت",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21k6z3k8mo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21k6z3k8mo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779366684.0462353
+    "timestamp": 1779379093.420378
   },
   {
     "title_fa": "قوه‌قضائیه ایران، رامین زله و کریم معروف‌پور را به اتهام «عضویت در گروه‌های تجزیه‌طلب» محاکمه و اعدام کرد",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c759xkly3klo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c759xkly3klo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779366684.0462825
+    "timestamp": 1779379093.4203997
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779366684.046327
+    "timestamp": 1779379093.4204206
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779366684.046352
+    "timestamp": 1779379093.4204466
   },
   {
     "title_fa": "هشدار پزشکیان درباره محدودیت‌های تامین بنزین و حامل‌های انرژی در ایران",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779366684.0463765
+    "timestamp": 1779379093.4204712
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779366684.0463898
+    "timestamp": 1779379093.4204857
   },
   {
     "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779366684.0464041
+    "timestamp": 1779379093.4205227
   },
   {
     "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779366684.0464182
+    "timestamp": 1779379093.4205377
   },
   {
     "title_fa": "انتشار ویدیویی درباره نحوه رفتار با کاروان کمک به غزه و انتقاد از «نمایش شرم‌آور» وزیر امنیت اسرائیل",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g50dv3zrgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g50dv3zrgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779366684.0464857
+    "timestamp": 1779379093.4205904
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ: مذاکرات با ایران به مراحل پایانی رسیده اگر توافق نکند حمله می‌کنیم",
@@ -173,7 +189,167 @@
     "url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779366684.0465214
+    "timestamp": 1779379093.4206276
+  },
+  {
+    "title_fa": "Ecuador’s Disappeared",
+    "title_en": "Ecuador’s Disappeared",
+    "summary": [
+      "Fault Lines investigates forced disappearances conducted by Ecuador’s military while waging a war against drug cartels."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/fault-lines/2026/5/21/ecuadors-disappeared?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/fault-lines/2026/5/21/ecuadors-disappeared?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779379093.506546
+  },
+  {
+    "title_fa": "US-Iran diplomacy picks up: What’s the latest?",
+    "title_en": "US-Iran diplomacy picks up: What’s the latest?",
+    "summary": [
+      "Iranian media reported that the Pakistani interior minister is in Iran to help the US and Iran reach a peace deal."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779379093.5065732
+  },
+  {
+    "title_fa": "Israel’s arrogance is becoming the evidence in the case against it",
+    "title_en": "Israel’s arrogance is becoming the evidence in the case against it",
+    "summary": [
+      "Ben-Gvir’s video of flotilla activists reveals a state so accustomed to impunity that it documents its own cruelty."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/21/israels-arrogance-is-becoming-the-evidence-in-the-case-against-it?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/21/israels-arrogance-is-becoming-the-evidence-in-the-case-against-it?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779379093.506597
+  },
+  {
+    "title_fa": "Sadio Mane, Kalidou Koulibaly star picks in Senegal’s World Cup squad",
+    "title_en": "Sadio Mane, Kalidou Koulibaly star picks in Senegal’s World Cup squad",
+    "summary": [
+      "Iliman Ndiaye, Nicolas Jackson and Ismaila Sarr are other key players joining Mane in Senegal&#039;s World Cup forward line."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/21/sadio-mane-kalidou-koulibaly-star-picks-in-senegals-world-cup-squad?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/21/sadio-mane-kalidou-koulibaly-star-picks-in-senegals-world-cup-squad?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779379093.5066302
+  },
+  {
+    "title_fa": "Activists take part in a land convoy from Libya to bring aid to Gaza",
+    "title_en": "Activists take part in a land convoy from Libya to bring aid to Gaza",
+    "summary": [
+      "Activists take part in a land convoy from Libya to bring aid to Gaza"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/activists-take-part-in-a-land-convoy-from-libya-to-bring-aid-to-gaza?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/activists-take-part-in-a-land-convoy-from-libya-to-bring-aid-to-gaza?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779379093.50664
+  },
+  {
+    "title_fa": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
+    "title_en": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
+    "summary": [
+      "Economics of Hormuz closure are skewed towards Iran, so why won&#039;t the vessels just pay Tehran and sail away?"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779379093.5066607
+  },
+  {
+    "title_fa": "Iran World Cup squad members apply for US, Canada visas in Turkiye",
+    "title_en": "Iran World Cup squad members apply for US, Canada visas in Turkiye",
+    "summary": [
+      "A number of players submitted visa applications in person at the US embassy in Ankara ahead of their training camp."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/21/iran-world-cup-squad-members-apply-for-us-canada-visas-in-turkiye?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/21/iran-world-cup-squad-members-apply-for-us-canada-visas-in-turkiye?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779379093.5066965
+  },
+  {
+    "title_fa": "How Ben-Gvir’s flotilla video shattered Israel’s multimillion ‘Hasbara’",
+    "title_en": "How Ben-Gvir’s flotilla video shattered Israel’s multimillion ‘Hasbara’",
+    "summary": [
+      "The Israeli minister’s taunting of abducted activists triggers a global condemnation forcing Israel into damage control."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/21/how-ben-gvirs-flotilla-video-shattered-israels-multimillion-hasbara?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/21/how-ben-gvirs-flotilla-video-shattered-israels-multimillion-hasbara?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779379093.5067194
+  },
+  {
+    "title_fa": "Israel begins deporting Gaza aid flotilla activists amid global outcry",
+    "title_en": "Israel begins deporting Gaza aid flotilla activists amid global outcry",
+    "summary": [
+      "Israel’s treatment of the hundreds of abductees has been condemned by several countries, including key allies."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/21/israel-begins-deporting-gaza-aid-flotilla-activists-amid-global-outcry?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/21/israel-begins-deporting-gaza-aid-flotilla-activists-amid-global-outcry?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779379093.5067315
+  },
+  {
+    "title_fa": "This is the face of Israel",
+    "title_en": "This is the face of Israel",
+    "summary": [
+      "Ben Gvir’s video of bound flotilla activists showed Israel without the mask."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/21/this-is-the-face-of-israel?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/21/this-is-the-face-of-israel?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779379093.5067427
   },
   {
     "title_fa": "Gaza sisters win Earth Prize for turning war rubble into bricks",
@@ -189,166 +365,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/gaza-sisters-win-earth-prize-for-turning-war-rubble-into-bricks?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/gaza-sisters-win-earth-prize-for-turning-war-rubble-into-bricks?traffic_source=rss",
     "image": null,
-    "timestamp": 1779366684.2327993
-  },
-  {
-    "title_fa": "Outrage over Israel’s Ben-Gvir flotilla abuse video: What we know",
-    "title_en": "Outrage over Israel’s Ben-Gvir flotilla abuse video: What we know",
-    "summary": [
-      "In a video released by his office, National Security Minister Ben-Gvir taunts zip-tied activists, causing condemnation."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/21/outrage-over-israels-ben-gvir-flotilla-abuse-video-what-we-know?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/21/outrage-over-israels-ben-gvir-flotilla-abuse-video-what-we-know?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779366684.2328176
-  },
-  {
-    "title_fa": "Canada is using its borders to police Palestine solidarity",
-    "title_en": "Canada is using its borders to police Palestine solidarity",
-    "summary": [
-      "Critics of Israel’s war on Gaza are increasingly facing interrogations, visa revocations and denials of entry."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/opinions/2026/5/21/canada-is-using-its-borders-to-police-palestine-solidarity?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/opinions/2026/5/21/canada-is-using-its-borders-to-police-palestine-solidarity?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779366684.2328343
-  },
-  {
-    "title_fa": "How Chinese, Iranian companies profit in Russia-occupied Ukrainian regions",
-    "title_en": "How Chinese, Iranian companies profit in Russia-occupied Ukrainian regions",
-    "summary": [
-      "More than a dozen Chinese companies operate in Donetsk and Luhansk, according to a Ukrainian monitor."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/21/how-chinese-iranian-companies-profit-in-russia-occupied-ukrainian-regions?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/21/how-chinese-iranian-companies-profit-in-russia-occupied-ukrainian-regions?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779366684.232844
-  },
-  {
-    "title_fa": "Dropped Sardar Azmoun asserts his love for Iran, backs World Cup squad",
-    "title_en": "Dropped Sardar Azmoun asserts his love for Iran, backs World Cup squad",
-    "summary": [
-      "Forward wishes &#039;success and pride&#039; to the Iranian team after being excluded from the squad for the 2026 tournament."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/21/dropped-sardar-azmoun-asserts-his-love-for-iran-backs-world-cup-squad?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/21/dropped-sardar-azmoun-asserts-his-love-for-iran-backs-world-cup-squad?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779366684.2328742
-  },
-  {
-    "title_fa": "What options do the US and Iran have left to bring war to an end?",
-    "title_en": "What options do the US and Iran have left to bring war to an end?",
-    "summary": [
-      "What options do the US and Iran have left to bring war to an end?"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/what-options-do-the-us-and-iran-have-left-to-bring-war-to-an-end?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/what-options-do-the-us-and-iran-have-left-to-bring-war-to-an-end?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779366684.2328827
-  },
-  {
-    "title_fa": "Kite carrying Palestinian children’s messages reaches Mount Everest summit",
-    "title_en": "Kite carrying Palestinian children’s messages reaches Mount Everest summit",
-    "summary": [
-      "Mountaineers carry a kite bearing messages and signatures from children in Gaza to the top of the world."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/21/kite-carrying-palestinian-childrens-messages-reaches-mount-everest-summit?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/21/kite-carrying-palestinian-childrens-messages-reaches-mount-everest-summit?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779366684.2328963
-  },
-  {
-    "title_fa": "Iran reviews US proposal to end war as Pakistan steps up mediation efforts",
-    "title_en": "Iran reviews US proposal to end war as Pakistan steps up mediation efforts",
-    "summary": [
-      "Pakistan military chief Asim Munir to travel to Tehran for talks, according to Iranian media reports."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/21/iran-reviews-us-proposal-to-end-war-as-pakistan-steps-up-mediation-efforts?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/21/iran-reviews-us-proposal-to-end-war-as-pakistan-steps-up-mediation-efforts?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779366684.2329204
-  },
-  {
-    "title_fa": "The economic shock of the Iran war will hit the world in four waves",
-    "title_en": "The economic shock of the Iran war will hit the world in four waves",
-    "summary": [
-      "The impact of the conflict will not stop at energy price hikes. It will spread to various sectors and last years."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/opinions/2026/5/21/the-crises-caused-by-the-iran-war-will-hit-the-world-in-four-waves?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/opinions/2026/5/21/the-crises-caused-by-the-iran-war-will-hit-the-world-in-four-waves?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779366684.232949
-  },
-  {
-    "title_fa": "Mohamed Salah to captain Egypt as squad announced for FIFA World Cup 2026",
-    "title_en": "Mohamed Salah to captain Egypt as squad announced for FIFA World Cup 2026",
-    "summary": [
-      "Versatile Nantes forward Mostafa Mohamed is a significant omission from the 27-man preliminary squad."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/21/mohamed-salah-to-captain-egypt-as-squad-announced-for-fifa-world-cup-2026?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/21/mohamed-salah-to-captain-egypt-as-squad-announced-for-fifa-world-cup-2026?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779366684.2329576
-  },
-  {
-    "title_fa": "Israel pushes for war amid US ceasefire, but its options may be limited",
-    "title_en": "Israel pushes for war amid US ceasefire, but its options may be limited",
-    "summary": [
-      "Israeli officials and media indicate renewed conflict with Iran is being actively considered despite a shaky deadlock."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/21/israel-pushes-for-war-amid-us-ceasefire-but-its-options-may-be-limited?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/21/israel-pushes-for-war-amid-us-ceasefire-but-its-options-may-be-limited?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779366684.2329762
+    "timestamp": 1779379093.5067525
   }
 ]
