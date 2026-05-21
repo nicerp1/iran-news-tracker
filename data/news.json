@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "فرمانده ارتش پاکستان برای میانجی‌گری میان ایران و آمریکا راهی تهران می‌شود",
-    "title_en": "فرمانده ارتش پاکستان برای میانجی‌گری میان ایران و آمریکا راهی تهران می‌شود",
+    "title_fa": "تلاش فشرده پاکستان برای میانجی‌گری میان ایران و آمریکا؛ تهران هنوز پاسخ نداده است",
+    "title_en": "تلاش فشرده پاکستان برای میانجی‌گری میان ایران و آمریکا؛ تهران هنوز پاسخ نداده است",
     "summary": [
-      "فیلد مارشال عاصم منیر،‌ فرمانده قدرتمند ارتش پاکستان قرار است امروز برای کمک به میانجی‌گری میان ایران و آمریکا به تهران سفر کند. وزارت خارجه ایران نیز اعلام کرده است که در حال بررسی تازه‌ترین پیشنهادهای آمریکا برای پایان دادن به جنگ است؛ پیشنهادهایی که دیروز وزیر محسن نقوی، کشور پاکستان به تهران منتقل کرد. دونالد ترامپ گفته است که چند روز دیگر به ایران برای توافق فرصت خواهد داد. در همین حال قوه قضائیه ایران از اعدام دو نفر به اتهام «تشکیل گروه با هدف برهم زدن امنیت کشو» خبرداده است. حکومت ایران "
+      "وزیر کشور پاکستان در تهران با عباس عراقچی دیدار کرده است، هرچند جزییاتی از مذاکرات آنها منتشر نشده است. ایران اعلام کرده است که در حال بررسی تازه‌ترین پیشنهادهای آمریکا برای پایان دادن به جنگ است. همزمان گزارش رسانه‌های حکومتی ایران حاکیست که قرار است فیلد مارشال عاصم منیر،‌ فرمانده ارتش پاکستان، هم برای کمک به میانجی‌گری میان ایران و آمریکا به تهران سفر کند. پیشتر دونالد ترامپ، گفت که اگر ایران با طرح صلح موافقت نکند، ایالات متحده آماده انجام حملات بیشتر علیه آن کشور است. این در حالیست که به گز"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,11 +13,27 @@
     "url": "https://www.bbc.co.uk/persian/live/c0r2402qkk7t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0r2402qkk7t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779355768.8746402
+    "timestamp": 1779366684.0462058
   },
   {
-    "title_fa": "قوه‌قضائیه ایران می‌گوید رامین زله و کریم معروف‌پور را به اتهام «عضویت در گروه‌های تجزیه‌طلب» اعدام کرده است",
-    "title_en": "قوه‌قضائیه ایران می‌گوید رامین زله و کریم معروف‌پور را به اتهام «عضویت در گروه‌های تجزیه‌طلب» اعدام کرده است",
+    "title_fa": "سرانجام متهمان پرونده اکباتان؛ سرهایی که پای دار رفت اما بالای دار نرفت",
+    "title_en": "سرانجام متهمان پرونده اکباتان؛ سرهایی که پای دار رفت اما بالای دار نرفت",
+    "summary": [
+      "قوه قضائیه ایران روز پنجشنبه (۲۱ اردیبهشت) یک روز بعد از صدور حکم متهمان «پرونده اکباتان»، توضیحاتی در این مورد منتشر کرد. دیروز احکام شش متهم در پرونده موسوم به «اکباتان» صادر شد که براساس آن سه متهم محکوم در ارتباط با کشته‌شدن آرمان علی‌وردی، طلبه بسیجی به پنج سال حبس و دیه و سه متهم دیگر از اتهامات تبرئه شدند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cx21k6z3k8mo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cx21k6z3k8mo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779366684.0462353
+  },
+  {
+    "title_fa": "قوه‌قضائیه ایران، رامین زله و کریم معروف‌پور را به اتهام «عضویت در گروه‌های تجزیه‌طلب» محاکمه و اعدام کرد",
+    "title_en": "قوه‌قضائیه ایران، رامین زله و کریم معروف‌پور را به اتهام «عضویت در گروه‌های تجزیه‌طلب» محاکمه و اعدام کرد",
     "summary": [
       "خبرگزاری میزان، رسانه وابسته به قوه‌قضائیه جمهوری اسلامی اعلام کرد که «رامین زله» و «کریم معروف‌پور» را به جرم «عضویت در گروهک‌های تروریستی تجزیه طلب» و «تشکیل گروه با هدف برهم زدن امنیت کشور»، «قیام مسلحانه از طریق تشکیل گروه‌های مجرمانه» ، «تیراندازی و اقدام به ترور» اعدام کرده است."
     ],
@@ -29,23 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c759xkly3klo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c759xkly3klo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779355768.8746974
-  },
-  {
-    "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
-    "title_en": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
-    "summary": [
-      "نخست‌وزیر جدید عراق با میراثی سنگین از تنش و درگیری میان دولت و گروه‌های مسلح روبه‌رو است و جنگ ایران، وضعیت را برای او پیچیده‌تر کرده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779355768.8747141
+    "timestamp": 1779366684.0462825
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779355768.8747387
+    "timestamp": 1779366684.046327
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779355768.8747668
+    "timestamp": 1779366684.046352
   },
   {
     "title_fa": "هشدار پزشکیان درباره محدودیت‌های تامین بنزین و حامل‌های انرژی در ایران",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779355768.8747902
+    "timestamp": 1779366684.0463765
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -109,7 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779355768.8748105
+    "timestamp": 1779366684.0463898
+  },
+  {
+    "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
+    "title_en": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
+    "summary": [
+      "نخست‌وزیر جدید عراق با میراثی سنگین از تنش و درگیری میان دولت و گروه‌های مسلح روبه‌رو است و جنگ ایران، وضعیت را برای او پیچیده‌تر کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779366684.0464041
   },
   {
     "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779355768.874828
+    "timestamp": 1779366684.0464182
   },
   {
     "title_fa": "انتشار ویدیویی درباره نحوه رفتار با کاروان کمک به غزه و انتقاد از «نمایش شرم‌آور» وزیر امنیت اسرائیل",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g50dv3zrgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g50dv3zrgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779355768.8749874
+    "timestamp": 1779366684.0464857
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ: مذاکرات با ایران به مراحل پایانی رسیده اگر توافق نکند حمله می‌کنیم",
@@ -157,43 +173,139 @@
     "url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8xwd0p4jdxt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779355768.8750386
+    "timestamp": 1779366684.0465214
   },
   {
-    "title_fa": "خانواده زوج بریتانیایی زندانی در ایران می‌گویند که آنها  دوباره اعتصاب غذا کرده‌اند",
-    "title_en": "خانواده زوج بریتانیایی زندانی در ایران می‌گویند که آنها  دوباره اعتصاب غذا کرده‌اند",
+    "title_fa": "Gaza sisters win Earth Prize for turning war rubble into bricks",
+    "title_en": "Gaza sisters win Earth Prize for turning war rubble into bricks",
     "summary": [
-      "خانواده یک زوج بریتانیایی که به اتهام جاسوسی در ایران زندانی هستند ، می‌گویند که این دو نفر برای آزادی خود اعتصاب غذا کرده‌اند."
+      "Palestinian sisters Tala and Farah Mousa turned the rubble of their bombed Gaza home into reusable bricks."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c232rnv880no?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/gaza-sisters-win-earth-prize-for-turning-war-rubble-into-bricks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/gaza-sisters-win-earth-prize-for-turning-war-rubble-into-bricks?traffic_source=rss",
     "image": null,
-    "timestamp": 1779355768.875075
+    "timestamp": 1779366684.2327993
   },
   {
-    "title_fa": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
-    "title_en": "سفر پوتین به پکن بلافاصله بعد از ترامپ؛ آیا روسیه می‌تواند گاز بیشتری به چین بفروشد؟",
+    "title_fa": "Outrage over Israel’s Ben-Gvir flotilla abuse video: What we know",
+    "title_en": "Outrage over Israel’s Ben-Gvir flotilla abuse video: What we know",
     "summary": [
-      "ولادیمیر پوتین که رئیس‌جمهور چین او را «دوست عزیز» خود می‌خواند، نه‌تنها می‌تواند روی استقبال گرم پکن حساب کند، بلکه امیدوار است در این سفر قرارداد سودآوری برای فروش گاز به دست آورد؛ قراردادی که به دلیل جنگی که دونالد ترامپ با ایران آغاز کرده، حالا شانس بیشتری برای نهایی شدن پیدا کرده است."
+      "In a video released by his office, National Security Minister Ben-Gvir taunts zip-tied activists, causing condemnation."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/ce8pqnp0pl8o?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/21/outrage-over-israels-ben-gvir-flotilla-abuse-video-what-we-know?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/21/outrage-over-israels-ben-gvir-flotilla-abuse-video-what-we-know?traffic_source=rss",
     "image": null,
-    "timestamp": 1779355768.8751242
+    "timestamp": 1779366684.2328176
   },
   {
-    "title_fa": "The crises caused by the Iran war will hit the world in four waves",
-    "title_en": "The crises caused by the Iran war will hit the world in four waves",
+    "title_fa": "Canada is using its borders to police Palestine solidarity",
+    "title_en": "Canada is using its borders to police Palestine solidarity",
+    "summary": [
+      "Critics of Israel’s war on Gaza are increasingly facing interrogations, visa revocations and denials of entry."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/21/canada-is-using-its-borders-to-police-palestine-solidarity?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/21/canada-is-using-its-borders-to-police-palestine-solidarity?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779366684.2328343
+  },
+  {
+    "title_fa": "How Chinese, Iranian companies profit in Russia-occupied Ukrainian regions",
+    "title_en": "How Chinese, Iranian companies profit in Russia-occupied Ukrainian regions",
+    "summary": [
+      "More than a dozen Chinese companies operate in Donetsk and Luhansk, according to a Ukrainian monitor."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/21/how-chinese-iranian-companies-profit-in-russia-occupied-ukrainian-regions?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/21/how-chinese-iranian-companies-profit-in-russia-occupied-ukrainian-regions?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779366684.232844
+  },
+  {
+    "title_fa": "Dropped Sardar Azmoun asserts his love for Iran, backs World Cup squad",
+    "title_en": "Dropped Sardar Azmoun asserts his love for Iran, backs World Cup squad",
+    "summary": [
+      "Forward wishes &#039;success and pride&#039; to the Iranian team after being excluded from the squad for the 2026 tournament."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/21/dropped-sardar-azmoun-asserts-his-love-for-iran-backs-world-cup-squad?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/21/dropped-sardar-azmoun-asserts-his-love-for-iran-backs-world-cup-squad?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779366684.2328742
+  },
+  {
+    "title_fa": "What options do the US and Iran have left to bring war to an end?",
+    "title_en": "What options do the US and Iran have left to bring war to an end?",
+    "summary": [
+      "What options do the US and Iran have left to bring war to an end?"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/what-options-do-the-us-and-iran-have-left-to-bring-war-to-an-end?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/what-options-do-the-us-and-iran-have-left-to-bring-war-to-an-end?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779366684.2328827
+  },
+  {
+    "title_fa": "Kite carrying Palestinian children’s messages reaches Mount Everest summit",
+    "title_en": "Kite carrying Palestinian children’s messages reaches Mount Everest summit",
+    "summary": [
+      "Mountaineers carry a kite bearing messages and signatures from children in Gaza to the top of the world."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/21/kite-carrying-palestinian-childrens-messages-reaches-mount-everest-summit?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/21/kite-carrying-palestinian-childrens-messages-reaches-mount-everest-summit?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779366684.2328963
+  },
+  {
+    "title_fa": "Iran reviews US proposal to end war as Pakistan steps up mediation efforts",
+    "title_en": "Iran reviews US proposal to end war as Pakistan steps up mediation efforts",
+    "summary": [
+      "Pakistan military chief Asim Munir to travel to Tehran for talks, according to Iranian media reports."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/21/iran-reviews-us-proposal-to-end-war-as-pakistan-steps-up-mediation-efforts?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/21/iran-reviews-us-proposal-to-end-war-as-pakistan-steps-up-mediation-efforts?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779366684.2329204
+  },
+  {
+    "title_fa": "The economic shock of the Iran war will hit the world in four waves",
+    "title_en": "The economic shock of the Iran war will hit the world in four waves",
     "summary": [
       "The impact of the conflict will not stop at energy price hikes. It will spread to various sectors and last years."
     ],
@@ -205,7 +317,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/21/the-crises-caused-by-the-iran-war-will-hit-the-world-in-four-waves?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/21/the-crises-caused-by-the-iran-war-will-hit-the-world-in-four-waves?traffic_source=rss",
     "image": null,
-    "timestamp": 1779355769.0434306
+    "timestamp": 1779366684.232949
   },
   {
     "title_fa": "Mohamed Salah to captain Egypt as squad announced for FIFA World Cup 2026",
@@ -221,7 +333,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/21/mohamed-salah-to-captain-egypt-as-squad-announced-for-fifa-world-cup-2026?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/21/mohamed-salah-to-captain-egypt-as-squad-announced-for-fifa-world-cup-2026?traffic_source=rss",
     "image": null,
-    "timestamp": 1779355769.0434437
+    "timestamp": 1779366684.2329576
   },
   {
     "title_fa": "Israel pushes for war amid US ceasefire, but its options may be limited",
@@ -237,70 +349,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/21/israel-pushes-for-war-amid-us-ceasefire-but-its-options-may-be-limited?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/21/israel-pushes-for-war-amid-us-ceasefire-but-its-options-may-be-limited?traffic_source=rss",
     "image": null,
-    "timestamp": 1779355769.0434668
-  },
-  {
-    "title_fa": "Walid Daqqa: A Parallel Life",
-    "title_en": "Walid Daqqa: A Parallel Life",
-    "summary": [
-      "Walid Daqqa, the Palestinian prisoner who turned decades in Israeli jails into moments of thought, creativity and love."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/5/21/walid-daqqa-a-parallel-life?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/al-jazeera-world/2026/5/21/walid-daqqa-a-parallel-life?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779355769.043507
-  },
-  {
-    "title_fa": "Hebron’s Ibrahimi Mosque illuminated in Israeli flag colours",
-    "title_en": "Hebron’s Ibrahimi Mosque illuminated in Israeli flag colours",
-    "summary": [
-      "Palestinian officials condemned Israel’s illumination of Hebron’s Ibrahimi Mosque with Israeli flag colours and slogans."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/hebrons-ibrahimi-mosque-illuminated-in-israeli-flag-colours?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/hebrons-ibrahimi-mosque-illuminated-in-israeli-flag-colours?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779355769.04353
-  },
-  {
-    "title_fa": "Iran war day 83: Tehran ‘reviewing’ latest US response to end conflict",
-    "title_en": "Iran war day 83: Tehran ‘reviewing’ latest US response to end conflict",
-    "summary": [
-      "Iran says diplomacy with the US remains open as Hormuz tensions deepen and outrage grows over Israel’s flotilla arrests."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/21/iran-war-day-83-tehran-reviewing-latest-us-response-to-end-conflict?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/21/iran-war-day-83-tehran-reviewing-latest-us-response-to-end-conflict?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779355769.0435429
-  },
-  {
-    "title_fa": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
-    "title_en": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
-    "summary": [
-      "Albanese is among several people sanctioned by the US for advocacy against Israel&#039;s genocidal war in Gaza."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779355769.0436258
+    "timestamp": 1779366684.2329762
   }
 ]
