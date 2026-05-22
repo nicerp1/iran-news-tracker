@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "تلاش‌‌ها برای توافق میان ایران و آمریکا؛ وزیر کشور پاکستان دوباره با عراقچی در تهران دیدار کرد",
-    "title_en": "تلاش‌‌ها برای توافق میان ایران و آمریکا؛ وزیر کشور پاکستان دوباره با عراقچی در تهران دیدار کرد",
+    "title_fa": "روبیو: منتظر شنیدن نتیجه گفت‌وگوهای جاری در تهران هستیم",
+    "title_en": "روبیو: منتظر شنیدن نتیجه گفت‌وگوهای جاری در تهران هستیم",
     "summary": [
-      "تحولات چند ساعت گذشته میان اسلام آباد و تهران نشان از شدت گرفتن تلاش‌ها برای نزدیک کردن نظرات دو طرف برای رسیدن به توافق و پایان جنگ است. امروز محسن نقوی، وزیر کشور پاکستان برای دومین بار در دو روز گذشته با عباس عراقچی، وزیر خارجه ایران دیدار کرده و خبرگزاری فارس گفته این دیدار «برای بررسی پیشنهادهایی جهت حل اختلاف» در خصوص توافق میان ایران و آمریکا بوده است. احتمال می‌رود فیلد مارشال عاصم منیر،‌ فرمانده ارتش پاکستان، نیز برای کمک به میانجی‌گری میان ایران و آمریکا به تهران سفر کند. شب گذشته مارک"
+      "وزیر خارجه آمریکا می‌گوید که واشنگتن در انتظار شنیدن نتیجه گفت‌وگوهایی است که میان ایران و پاکستان در تهران در جریان است. مارکو روبیو که در حاشیه اجلاس وزرای خارجه کشورهای عضو ناتو درسوئد همچنین گفت که «پیشرفت‌های اندکی» حاصل شده است. امروز محسن نقوی، وزیر کشور پاکستان در تهران با عباس عراقچی، وزیر خارجه ایران دیدار کرد؛ دومین دیدار آنها در دو روز گذشته. به گزارش خبرگزاری فارس این دیدار «برای بررسی پیشنهادهایی جهت حل اختلافات» میان ایران و آمریکا بوده است. احتمال می‌رود فیلد مارشال عاصم منیر،‌ ف"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779439210.239399
+    "timestamp": 1779449350.1194954
+  },
+  {
+    "title_fa": "آمریکا فروش ۱۴ میلیارد دلار تسلیحات به تایوان را «به‌دلیل جنگ ایران» متوقف کرد",
+    "title_en": "آمریکا فروش ۱۴ میلیارد دلار تسلیحات به تایوان را «به‌دلیل جنگ ایران» متوقف کرد",
+    "summary": [
+      "آمریکا می‌گوید فروش ۱۴ میلیارد دلاری تسلیحات به تایوان را موقتاً متوقف کرده است تا مطمئن شود که برای جنگ احتمالی با ایران ذخایر کافی سلاح و مهمات در اختیار دارد. هانگ کائو، سرپرست وزارت نیروی دریایی آمریکا، در جلسه دیروز سنا این موضوع را تأیید کرد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779449350.1195228
   },
   {
     "title_fa": "چرا پرونده چین به قالیباف سپرده شد؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779439210.2394445
+    "timestamp": 1779449350.119564
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779439210.2394876
+    "timestamp": 1779449350.1195998
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779439210.239514
+    "timestamp": 1779449350.1196532
   },
   {
     "title_fa": "هشدار پزشکیان درباره محدودیت‌های تامین بنزین و حامل‌های انرژی در ایران",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779439210.239539
+    "timestamp": 1779449350.1196816
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779439210.2395542
+    "timestamp": 1779449350.1196961
   },
   {
     "title_fa": "سایه یوزف منگله بر سوئیس؛ آیا «فرشته مرگ» آشویتس در این کشور پنهان شده بود؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779439210.2395794
+    "timestamp": 1779449350.1197307
   },
   {
     "title_fa": "سرانجام متهمان پرونده اکباتان؛ سرهایی که پای دار رفت اما بالای دار نرفت",
@@ -125,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21k6z3k8mo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21k6z3k8mo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779439210.2396224
-  },
-  {
-    "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
-    "title_en": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
-    "summary": [
-      "نخست‌وزیر جدید عراق با میراثی سنگین از تنش و درگیری میان دولت و گروه‌های مسلح روبه‌رو است و جنگ ایران، وضعیت را برای او پیچیده‌تر کرده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779439210.2396362
+    "timestamp": 1779449350.119774
   },
   {
     "title_fa": "اولین گروه فعالان ناوگان کمک به غزه وارد ترکیه شدند؛ ادامه واکنش‌های جهانی به «نمایش ننگین» بن‌گویر",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cy529ddn5qgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy529ddn5qgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779439210.2396815
+    "timestamp": 1779449350.1198187
   },
   {
     "title_fa": "قوه‌قضائیه ایران، رامین زله و کریم معروف‌پور را به اتهام «عضویت در گروه‌های تجزیه‌طلب» محاکمه و اعدام کرد",
@@ -173,7 +173,39 @@
     "url": "https://www.bbc.com/persian/articles/c759xkly3klo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c759xkly3klo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779439210.239734
+    "timestamp": 1779449350.1198707
+  },
+  {
+    "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
+    "title_en": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
+    "summary": [
+      "نخست‌وزیر جدید عراق با میراثی سنگین از تنش و درگیری میان دولت و گروه‌های مسلح روبه‌رو است و جنگ ایران، وضعیت را برای او پیچیده‌تر کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779449350.119885
+  },
+  {
+    "title_fa": "Lebanon’s economy struggles under renewed war and global fuel crisis",
+    "title_en": "Lebanon’s economy struggles under renewed war and global fuel crisis",
+    "summary": [
+      "Lebanon&#039;s ongoing war and financial crises threaten to render the nation economically unviable, experts warn."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/features/2026/5/22/lebanons-economy-struggles-under-renewed-war-and-global-fuel-crisis?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/features/2026/5/22/lebanons-economy-struggles-under-renewed-war-and-global-fuel-crisis?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779449350.3258724
   },
   {
     "title_fa": "Iran war day 84: US-Iran talks advance amid mediation push",
@@ -189,7 +221,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss",
     "image": null,
-    "timestamp": 1779439210.4743872
+    "timestamp": 1779449350.325901
   },
   {
     "title_fa": "Monfils warms up for final French Open with star-studded farewell party",
@@ -205,7 +237,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/22/monfils-warms-up-for-final-french-open-with-star-studded-farewell-party?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/22/monfils-warms-up-for-final-french-open-with-star-studded-farewell-party?traffic_source=rss",
     "image": null,
-    "timestamp": 1779439210.4744031
+    "timestamp": 1779449350.325915
   },
   {
     "title_fa": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
@@ -221,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss",
     "image": null,
-    "timestamp": 1779439210.4744558
+    "timestamp": 1779449350.3259628
   },
   {
     "title_fa": "Caitriona Graham recounts violent treatment after Gaza flotilla raid",
@@ -237,70 +269,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/caitriona-graham-recounts-violent-treatment-after-gaza-flotilla-raid?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/caitriona-graham-recounts-violent-treatment-after-gaza-flotilla-raid?traffic_source=rss",
     "image": null,
-    "timestamp": 1779439210.474476
-  },
-  {
-    "title_fa": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
-    "title_en": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
-    "summary": [
-      "A new opinion poll in the US suggests that 60 percent of Americans now oppose President Donald Trump&#039;s war on Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779439210.4745157
-  },
-  {
-    "title_fa": "US says it has not changed its stance on sanctioning Francesca Albanese",
-    "title_en": "US says it has not changed its stance on sanctioning Francesca Albanese",
-    "summary": [
-      "The Trump administration had sanctioned the UN expert for her criticism of Israel&#039;s policies towards Palestinians."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779439210.4745257
-  },
-  {
-    "title_fa": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
-    "title_en": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
-    "summary": [
-      "UN Security Council urged to press for Israeli obligations and Hamas disarmament under Gaza &#039;ceasefire&#039; roadmap."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779439210.4745538
-  },
-  {
-    "title_fa": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
-    "title_en": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
-    "summary": [
-      "Portugal forward Cristiano Ronaldo leads Al-Nassr to Saudi Pro League title in last game before World Cup 2026."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779439210.474564
+    "timestamp": 1779449350.3259811
   }
 ]
