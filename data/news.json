@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779413686.4340742
+    "timestamp": 1779428772.0741103
   },
   {
     "title_fa": "سایه یوزف منگله بر سوئیس؛ آیا «فرشته مرگ» آشویتس در این کشور پنهان شده بود؟",
@@ -29,23 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779413686.434133
-  },
-  {
-    "title_fa": "سرانجام متهمان پرونده اکباتان؛ سرهایی که پای دار رفت اما بالای دار نرفت",
-    "title_en": "سرانجام متهمان پرونده اکباتان؛ سرهایی که پای دار رفت اما بالای دار نرفت",
-    "summary": [
-      "قوه قضائیه ایران روز پنجشنبه (۲۱ اردیبهشت) یک روز بعد از صدور حکم متهمان «پرونده اکباتان»، توضیحاتی در این مورد منتشر کرد. دیروز احکام شش متهم در پرونده موسوم به «اکباتان» صادر شد که براساس آن سه متهم محکوم در ارتباط با کشته‌شدن آرمان علی‌وردی، طلبه بسیجی به پنج سال حبس و دیه و سه متهم دیگر از اتهامات تبرئه شدند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cx21k6z3k8mo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cx21k6z3k8mo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779413686.4341583
+    "timestamp": 1779428772.0741825
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -61,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779413686.4341824
+    "timestamp": 1779428772.0742064
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779413686.4342096
+    "timestamp": 1779428772.0742347
   },
   {
     "title_fa": "هشدار پزشکیان درباره محدودیت‌های تامین بنزین و حامل‌های انرژی در ایران",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8091ymv7gzo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779413686.4342356
+    "timestamp": 1779428772.0742598
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -109,7 +93,23 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779413686.4342499
+    "timestamp": 1779428772.074274
+  },
+  {
+    "title_fa": "سرانجام متهمان پرونده اکباتان؛ سرهایی که پای دار رفت اما بالای دار نرفت",
+    "title_en": "سرانجام متهمان پرونده اکباتان؛ سرهایی که پای دار رفت اما بالای دار نرفت",
+    "summary": [
+      "قوه قضائیه ایران روز پنجشنبه (۲۱ اردیبهشت) یک روز بعد از صدور حکم متهمان «پرونده اکباتان»، توضیحاتی در این مورد منتشر کرد. دیروز احکام شش متهم در پرونده موسوم به «اکباتان» صادر شد که براساس آن سه متهم محکوم در ارتباط با کشته‌شدن آرمان علی‌وردی، طلبه بسیجی به پنج سال حبس و دیه و سه متهم دیگر از اتهامات تبرئه شدند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cx21k6z3k8mo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cx21k6z3k8mo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779428772.0742974
   },
   {
     "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779413686.4342875
+    "timestamp": 1779428772.0743341
   },
   {
     "title_fa": "انتشار ویدیویی درباره نحوه رفتار با کاروان کمک به غزه و انتقاد از «نمایش شرم‌آور» وزیر امنیت اسرائیل",
@@ -141,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g50dv3zrgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g50dv3zrgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779413686.4343154
-  },
-  {
-    "title_fa": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
-    "title_en": "افزایش حملات دریایی در بحبوحه جنگ ایران؛ ناخدایی که به دزدان دریایی گفت: «شلیک نکنید، مسلمانم»",
-    "summary": [
-      "دزدی دریایی در سواحل سومالی با تشدید بی‌ثباتی در منطقه توسط جنگ ایران، دوباره رواج پیدا کرده است و در حال حاضر سه کشتی تجاری به گروگان گرفته شده‌اند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c4g80xvqlzpo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779413686.4343312
+    "timestamp": 1779428772.074361
   },
   {
     "title_fa": "اولین گروه فعالان ناوگان کمک به غزه وارد ترکیه شدند؛ ادامه واکنش‌های جهانی به «نمایش ننگین» بن‌گویر",
@@ -173,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cy529ddn5qgo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy529ddn5qgo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779413686.4343605
+    "timestamp": 1779428772.0743904
   },
   {
     "title_fa": "آنچه گذشت؛ روبیو عوارض گرفتن ایران از تنگه هرمز را «غیرقانونی و غیرقابل قبول» خواند",
@@ -189,7 +173,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c0r2402qkk7t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0r2402qkk7t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779413686.4344473
+    "timestamp": 1779428772.0744793
   },
   {
     "title_fa": "قوه‌قضائیه ایران، رامین زله و کریم معروف‌پور را به اتهام «عضویت در گروه‌های تجزیه‌طلب» محاکمه و اعدام کرد",
@@ -205,7 +189,39 @@
     "url": "https://www.bbc.com/persian/articles/c759xkly3klo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c759xkly3klo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779413686.4344685
+    "timestamp": 1779428772.0745034
+  },
+  {
+    "title_fa": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
+    "title_en": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
+    "summary": [
+      "Acting Navy Secretary Hung Cao&#039;s remarks come as US President Donald Trump gives mixed signals on the sale."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779428772.1394112
+  },
+  {
+    "title_fa": "Caitriona Graham recounts violent treatment after Gaza flotilla raid",
+    "title_en": "Caitriona Graham recounts violent treatment after Gaza flotilla raid",
+    "summary": [
+      "Irish activist Caitriona Graham recounts violent treatment after Gaza flotilla raid"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/caitriona-graham-recounts-violent-treatment-after-gaza-flotilla-raid?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/caitriona-graham-recounts-violent-treatment-after-gaza-flotilla-raid?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779428772.139436
   },
   {
     "title_fa": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
@@ -221,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss",
     "image": null,
-    "timestamp": 1779413686.5109444
+    "timestamp": 1779428772.1394937
   },
   {
     "title_fa": "US says it has not changed its stance on sanctioning Francesca Albanese",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss",
     "image": null,
-    "timestamp": 1779413686.5109568
+    "timestamp": 1779428772.1395044
   },
   {
     "title_fa": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
     "image": null,
-    "timestamp": 1779413686.5109866
+    "timestamp": 1779428772.139533
   },
   {
     "title_fa": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
@@ -269,7 +285,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss",
     "image": null,
-    "timestamp": 1779413686.5109973
+    "timestamp": 1779428772.139544
   },
   {
     "title_fa": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
@@ -285,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss",
     "image": null,
-    "timestamp": 1779413686.5110233
+    "timestamp": 1779428772.139572
   },
   {
     "title_fa": "US sanctions elected Hezbollah MPs and Lebanese security officials",
@@ -301,70 +317,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
     "image": null,
-    "timestamp": 1779413686.5110338
-  },
-  {
-    "title_fa": "Five key takeaways from Democrats’ autopsy report on Kamala Harris’s loss",
-    "title_en": "Five key takeaways from Democrats’ autopsy report on Kamala Harris’s loss",
-    "summary": [
-      "Riddled with mistakes and missing sections, 192-page document on 2024 election loss to Trump fails to mention Gaza."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779413686.5110638
-  },
-  {
-    "title_fa": "Trump shifts between diplomacy and threats in Iran standoff",
-    "title_en": "Trump shifts between diplomacy and threats in Iran standoff",
-    "summary": [
-      "Supporters say unpredictable Trump approach deal-making strength, others see reflection of strategic dilemma."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779413686.5110729
-  },
-  {
-    "title_fa": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
-    "title_en": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
-    "summary": [
-      "Israeli minister&#039;s mistreatment of abducted activists sparks global condemnation."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779413686.5110815
-  },
-  {
-    "title_fa": "Iran’s World Cup hopes hit US visa hurdles",
-    "title_en": "Iran’s World Cup hopes hit US visa hurdles",
-    "summary": [
-      "Players from Iran’s national football team are in Turkey applying for US visas for the 2026 World Cup."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/irans-world-cup-hopes-hit-us-visa-hurdles?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/irans-world-cup-hopes-hit-us-visa-hurdles?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779413686.5111122
+    "timestamp": 1779428772.1395824
   }
 ]
