@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779520992.8861935
+    "timestamp": 1779527790.9505072
   },
   {
     "title_fa": "چرا پرونده چین به قالیباف سپرده شد؟",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779520992.8863072
+    "timestamp": 1779527790.9506385
   },
   {
     "title_fa": "آمریکا فروش ۱۴ میلیارد دلار تسلیحات به تایوان را «به‌دلیل جنگ ایران» متوقف کرد",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779520992.886329
+    "timestamp": 1779527790.95066
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779520992.886356
+    "timestamp": 1779527790.9506876
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779520992.8863852
+    "timestamp": 1779527790.9507148
   },
   {
     "title_fa": "از ونزوئلا تا چین و ایران؛ مردم چگونه محاصره اینترنتی را می‌شکنند؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779520992.886401
+    "timestamp": 1779527790.9507306
   },
   {
     "title_fa": "سایه یوزف منگله بر سوئیس؛ آیا «فرشته مرگ» آشویتس در این کشور پنهان شده بود؟",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779520992.886454
+    "timestamp": 1779527790.9507809
   },
   {
     "title_fa": "آنچه گذشت؛ فرمانده ارتش پاکستان و هیئت قطر در تهران",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779520992.8865063
+    "timestamp": 1779527790.9508314
   },
   {
     "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779520992.8865502
+    "timestamp": 1779527790.950874
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -157,7 +157,55 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779520992.8865626
+    "timestamp": 1779527790.9508858
+  },
+  {
+    "title_fa": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
+    "title_en": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
+    "summary": [
+      "A visit by Pakistan’s army chief to Tehran is seen as a sign of significant progress in negotiations."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779527791.102426
+  },
+  {
+    "title_fa": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
+    "title_en": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
+    "summary": [
+      "Despite ICJ genocide warnings, 51 nations kept arming Israel, even after pledging to halt support."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779527791.1024384
+  },
+  {
+    "title_fa": "Iran war day 85: Tehran says major gaps remain in US talks",
+    "title_en": "Iran war day 85: Tehran says major gaps remain in US talks",
+    "summary": [
+      "Pakistan army chief Asim Munir arrives in Tehran as mediation efforts to secure a US-Iran peace deal intensify."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779527791.1024644
   },
   {
     "title_fa": "Israeli forces attack central Gaza despite ceasefire agreement",
@@ -173,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
     "image": null,
-    "timestamp": 1779520993.0464244
+    "timestamp": 1779527791.1024745
   },
   {
     "title_fa": "Burn-like rashes and hunger: Gaza’s children face skin disease crisis",
@@ -189,7 +237,7 @@
     "url": "https://www.aljazeera.com/features/2026/5/23/burn-like-rashes-and-hunger-gazas-children-face-skin-disease-crisis?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/23/burn-like-rashes-and-hunger-gazas-children-face-skin-disease-crisis?traffic_source=rss",
     "image": null,
-    "timestamp": 1779520993.0464509
+    "timestamp": 1779527791.1024945
   },
   {
     "title_fa": "Some fear US-Philippines war games are drawing conflict closer to home",
@@ -205,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home?traffic_source=rss",
     "image": null,
-    "timestamp": 1779520993.0464914
+    "timestamp": 1779527791.1025343
   },
   {
     "title_fa": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
     "image": null,
-    "timestamp": 1779520993.0465252
+    "timestamp": 1779527791.1025944
   },
   {
     "title_fa": "Israeli blockade traps would-be Hajj pilgrim in Gaza",
@@ -237,6 +285,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/israeli-blockade-traps-would-be-hajj-pilgrim-in-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/israeli-blockade-traps-would-be-hajj-pilgrim-in-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1779520993.0465345
+    "timestamp": 1779527791.1026053
   }
 ]
