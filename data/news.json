@@ -1,19 +1,35 @@
 [
   {
-    "title_fa": "ترامپ: توافق با ایران به مراحل پایانی رسیده و تنگه هرمز بازگشایی خواهد شد",
-    "title_en": "ترامپ: توافق با ایران به مراحل پایانی رسیده و تنگه هرمز بازگشایی خواهد شد",
+    "title_fa": "ترامپ: توافق با ایران تا حد زیادی مذاکره شد و شامل بازشدن تنگه هرمز است",
+    "title_en": "ترامپ: توافق با ایران تا حد زیادی مذاکره شد و شامل بازشدن تنگه هرمز است",
     "summary": [
-      "دونالد ترامپ می‌گوید که گفت‌وگوهای «بسیار خوبی» با شماری از رهبران منطقه داشت اما جنبه‌ها و جزئیات نهایی توافق با ایران همچنان در حال بررسی است و به‌زودی اعلام خواهد شد. او تاکید کرد که در چارچوب این توافق، تنگه هرمز نیز بازگشایی خواهد شد. آقای ترامپ افزود که جداگانه با بنیامین نتانیاهو نیز گفت‌وگو کرده و آن را «بسیار خوب» توصیف کرد. سفیر ایران در اسلام‌آباد، هم می‌گوید که وزیر کشور پاکستان، پس از بازگشت از تهران، «موفقیت مذاکرات» را به او تبریک گفته است. مارکو روبیو نیز احتمال داد که به‌زودی، ا"
+      "دونالد ترامپ می‌گوید که گفت‌وگوهای «بسیار خوبی» با شماری از رهبران منطقه داشت اما جنبه‌ها و جزئیات نهایی توافق با ایران همچنان در حال بررسی است و به‌زودی اعلام خواهد شد. او تاکید کرد که در چارچوب این توافق، تنگه هرمز نیز بازگشایی خواهد شد. آقای ترامپ افزود که جداگانه با بنیامین نتانیاهو نیز گفت‌وگو کرده و آن را «بسیار خوب» توصیف کرد. خبرگزاری فارس، نزدیک به سپاه پاسداران در واکنش به اظهارات آقای ترامپ مدعی شد که «براساس آخرین متن ردوبدل‌شده، در صورت توافق احتمالی، تنگه هرمز کماکان تحت مدیریت ایر"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/cjdp83y7n4kt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cjdp83y7n4kt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779575169.1243515
+    "timestamp": 1779578859.0120175
+  },
+  {
+    "title_fa": "مونیکا ویت کیست؛ نظامی سابق آمریکایی که به جاسوسی برای ایران متهم شد و اف‌بی‌آی برای او جایزه تعیین کرد",
+    "title_en": "مونیکا ویت کیست؛ نظامی سابق آمریکایی که به جاسوسی برای ایران متهم شد و اف‌بی‌آی برای او جایزه تعیین کرد",
+    "summary": [
+      "چرا اف‌بی‌آی برای یافتن مونیکا ویت، مامور پیشین ضدجاسوسی آمریکا و متخصص زبان فارسی که متهم به همکاری با ایران شده بود، ۲۰۰ هزار دلار جایزه تعیین کرد و او به چه اطلاعاتی دسترسی داشت؟"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779578859.012039
   },
   {
     "title_fa": "پرویز قلیچ‌خانی؛ «بازیکن کاملی»که پای ماندن نداشت",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cr72yl1nm0go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cr72yl1nm0go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779575169.1244261
+    "timestamp": 1779578859.012077
   },
   {
     "title_fa": "مثلث قوه قضاییه، وکلای امنیتی و خبرگزاری میزان؛ چرا اعدام‌ها با «شدت و سرعت» اجرا می‌شود؟",
@@ -45,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779575169.124465
-  },
-  {
-    "title_fa": "فعالان ناوگان غزه از «بدرفتاری شدید» نیروهای اسرائیلی در زمان بازداشت خبر می‌دهند",
-    "title_en": "فعالان ناوگان غزه از «بدرفتاری شدید» نیروهای اسرائیلی در زمان بازداشت خبر می‌دهند",
-    "summary": [
-      "فعالان حامی فلسطین که پس از توقیف کشتی کمک‌رسانی به غزه توسط نیروهای اسرائیلی در آب‌های بین‌المللی بازداشت شده بودند و به زندانی در اسرائیل منتقل شده بودند، و اکنون اخراج شدند، می‌گویند که در زمان بازداشت در اسرائیل مورد آزار و اذیت قرار گرفته‌اند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779575169.124507
+    "timestamp": 1779578859.0120964
   },
   {
     "title_fa": "چرا پرونده چین به قالیباف سپرده شد؟",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779575169.124554
+    "timestamp": 1779578859.01212
   },
   {
     "title_fa": "آمریکا فروش ۱۴ میلیارد دلار تسلیحات به تایوان را «به‌دلیل جنگ ایران» متوقف کرد",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779575169.1245947
+    "timestamp": 1779578859.012139
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779575169.1246455
+    "timestamp": 1779578859.0121658
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779575169.1246986
+    "timestamp": 1779578859.0121927
   },
   {
     "title_fa": "از ونزوئلا تا چین و ایران؛ مردم چگونه محاصره اینترنتی را می‌شکنند؟",
@@ -141,7 +141,39 @@
     "url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779575169.1248655
+    "timestamp": 1779578859.012268
+  },
+  {
+    "title_fa": "آنچه گذشت؛ ترامپ:‌ فقط توافقی را امضا خواهم کرد که در آن به تمام خواسته‌های خود برسیم",
+    "title_en": "آنچه گذشت؛ ترامپ:‌ فقط توافقی را امضا خواهم کرد که در آن به تمام خواسته‌های خود برسیم",
+    "summary": [
+      "دونالد ترامپ می‌گوید که گفت‌وگوهای «بسیار خوبی» با شماری از رهبران منطقه داشت اما جنبه‌ها و جزئیات نهایی توافق با ایران همچنان در حال بررسی است و به‌زودی اعلام خواهد شد. او تاکید کرد که در چارچوب این توافق، تنگه هرمز نیز بازگشایی خواهد شد. آقای ترامپ افزود که جداگانه با بنیامین نتانیاهو نیز گفت‌وگو کرده و آن را «بسیار خوب» توصیف کرد. سفیر ایران در اسلام‌آباد، هم می‌گوید که وزیر کشور پاکستان، پس از بازگشت از تهران، «موفقیت مذاکرات» را به او تبریک گفته است. مارکو روبیو نیز احتمال داد که به‌زودی، ا"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779578859.012301
+  },
+  {
+    "title_fa": "فعالان ناوگان غزه از «بدرفتاری شدید» نیروهای اسرائیلی در زمان بازداشت خبر می‌دهند",
+    "title_en": "فعالان ناوگان غزه از «بدرفتاری شدید» نیروهای اسرائیلی در زمان بازداشت خبر می‌دهند",
+    "summary": [
+      "فعالان حامی فلسطین که پس از توقیف کشتی کمک‌رسانی به غزه توسط نیروهای اسرائیلی در آب‌های بین‌المللی بازداشت شده بودند و به زندانی در اسرائیل منتقل شده بودند، و اکنون اخراج شدند، می‌گویند که در زمان بازداشت در اسرائیل مورد آزار و اذیت قرار گرفته‌اند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779578859.0123208
   },
   {
     "title_fa": "پرویز قلیچ‌خانی، بازیکن برجسته تیم ملی ایران و فعال سیاسی، درگذشت",
@@ -157,23 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779575169.1248975
-  },
-  {
-    "title_fa": "آنچه گذشت؛ فرمانده ارتش پاکستان و هیئت قطر در تهران",
-    "title_en": "آنچه گذشت؛ فرمانده ارتش پاکستان و هیئت قطر در تهران",
-    "summary": [
-      "تحرکات دیپلماتیک برای کمک به رفع اختلافات ایران و آمریکا و حصول نوعی توافق صلح شتاب بیشتری گرفته است. فیلد مارشال عاصم منیر،‌ فرمانده ارتش پاکستان، وارد تهران شده است تا به محسن نقوی، وزیر کشور پاکستان در پایتخت ایران بپیوندد. در همین حال وزارت خارجه ایران گزارش رویترز مبنی بر حضور هیئتی از قطر در تهران را تایید کرد اما گفت که میانجی اصلی پاکستان است. مارکو روبیو، وزیر خارجه آمریکا، امروز گفت که واشنگتن منتظر شنیدن نتیجه گفت‌وگوها در تهران است. دونالد ترامپ هم بار دیگر گفت که تهران سخت مشتاق توا"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779575169.1250353
+    "timestamp": 1779578859.0123332
   },
   {
     "title_fa": "سایه یوزف منگله بر سوئیس؛ آیا «فرشته مرگ» آشویتس در این کشور پنهان شده بود؟",
@@ -189,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779575169.1251104
+    "timestamp": 1779578859.012377
   },
   {
     "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
@@ -205,7 +221,7 @@
     "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779575169.125141
+    "timestamp": 1779578859.0123901
   },
   {
     "title_fa": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
@@ -221,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1779575169.247554
+    "timestamp": 1779578859.1809967
   },
   {
     "title_fa": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
     "image": null,
-    "timestamp": 1779575169.247568
+    "timestamp": 1779578859.181011
   },
   {
     "title_fa": "Iran move World Cup base from US to Mexico with FIFA approval",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval?traffic_source=rss",
     "image": null,
-    "timestamp": 1779575169.2476215
+    "timestamp": 1779578859.181062
   },
   {
     "title_fa": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
@@ -269,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
     "image": null,
-    "timestamp": 1779575169.2476392
+    "timestamp": 1779578859.1810796
   },
   {
     "title_fa": "Police beat and detain Gaza flotilla activists at airport",
@@ -285,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
     "image": null,
-    "timestamp": 1779575169.2476494
+    "timestamp": 1779578859.1810887
   },
   {
     "title_fa": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
@@ -301,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1779575169.2476711
+    "timestamp": 1779578859.1811104
   },
   {
     "title_fa": "Iran sends ‘mixed’ messages as Pakistani mediators depart Tehran",
@@ -317,7 +333,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss",
     "image": null,
-    "timestamp": 1779575169.2477224
+    "timestamp": 1779578859.1811543
   },
   {
     "title_fa": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
@@ -333,22 +349,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss",
     "image": null,
-    "timestamp": 1779575169.2477326
-  },
-  {
-    "title_fa": "US Secretary of State kicks off India visit, invites Modi to White House",
-    "title_en": "US Secretary of State kicks off India visit, invites Modi to White House",
-    "summary": [
-      "US-Israel war with Iran among issues looming large as Rubio expected to seek to mend in ties with New Delhi."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779575169.2477415
+    "timestamp": 1779578859.181164
   }
 ]
