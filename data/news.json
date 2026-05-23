@@ -13,23 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.307707
+    "timestamp": 1779561502.7725463
   },
   {
-    "title_fa": "پرویز قلیچ‌خانی، بازیکن برجسته تیم ملی ایران و فعال سیاسی، درگذشت",
-    "title_en": "پرویز قلیچ‌خانی، بازیکن برجسته تیم ملی ایران و فعال سیاسی، درگذشت",
+    "title_fa": "پرویز قلیچ‌خانی؛ «بازیکن کاملی»که پای ماندن نداشت",
+    "title_en": "پرویز قلیچ‌خانی؛ «بازیکن کاملی»که پای ماندن نداشت",
     "summary": [
-      "پرویز قلیچ‌خانی، کاپیتان پیشین تیم ملی فوتبال ایران و فعال سیاسی چپگرا در ۸۱ سالگی درگذشت. او به آلزایمر مبتلا بود."
+      "«کامل‌ترین بازیکن تاریخ فوتبال ایران»؛ این عنوانی است که در بیش از ۵ دهه اخیر، بارها در مورد پرویز قلیچ‌خانی از سوی بسیاری از هم‌تیمی‌ها، فوتبالیست‌های باسابقه و کارشناسان فوتبال گفته شده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cr72yl1nm0go?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cr72yl1nm0go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.3077269
+    "timestamp": 1779561502.772571
   },
   {
     "title_fa": "فعالان ناوگان غزه از «بدرفتاری شدید» نیروهای اسرائیلی در زمان بازداشت خبر می‌دهند",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.3077517
+    "timestamp": 1779561502.7725954
   },
   {
     "title_fa": "چرا پرونده چین به قالیباف سپرده شد؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.3078272
+    "timestamp": 1779561502.77267
   },
   {
     "title_fa": "آمریکا فروش ۱۴ میلیارد دلار تسلیحات به تایوان را «به‌دلیل جنگ ایران» متوقف کرد",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.3078473
+    "timestamp": 1779561502.7726898
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.3078773
+    "timestamp": 1779561502.7727213
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.3079052
+    "timestamp": 1779561502.7727494
   },
   {
     "title_fa": "از ونزوئلا تا چین و ایران؛ مردم چگونه محاصره اینترنتی را می‌شکنند؟",
@@ -125,7 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.3079376
+    "timestamp": 1779561502.7727814
+  },
+  {
+    "title_fa": "پرویز قلیچ‌خانی، بازیکن برجسته تیم ملی ایران و فعال سیاسی، درگذشت",
+    "title_en": "پرویز قلیچ‌خانی، بازیکن برجسته تیم ملی ایران و فعال سیاسی، درگذشت",
+    "summary": [
+      "پرویز قلیچ‌خانی، کاپیتان پیشین تیم ملی فوتبال ایران و فعال سیاسی چپگرا در ۸۱ سالگی درگذشت. او به آلزایمر مبتلا بود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779561502.7728188
   },
   {
     "title_fa": "آنچه گذشت؛ فرمانده ارتش پاکستان و هیئت قطر در تهران",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.3080268
+    "timestamp": 1779561502.7728822
   },
   {
     "title_fa": "سایه یوزف منگله بر سوئیس؛ آیا «فرشته مرگ» آشویتس در این کشور پنهان شده بود؟",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.3080657
+    "timestamp": 1779561502.7729087
   },
   {
     "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.30808
+    "timestamp": 1779561502.7729232
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -189,7 +205,23 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779557757.3080926
+    "timestamp": 1779561502.772935
+  },
+  {
+    "title_fa": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
+    "title_en": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
+    "summary": [
+      "Latest Truth Social post comes amid &#039;delicate diplomacy&#039;, expert says, as US and Iran indicate progress in talks."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779561502.841019
   },
   {
     "title_fa": "Spanish police beat and detain Gaza flotilla activists at airport",
@@ -205,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/spanish-police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/spanish-police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
     "image": null,
-    "timestamp": 1779557757.4885402
+    "timestamp": 1779561502.8410687
   },
   {
     "title_fa": "Iran sends ‘mixed’ messages as Pakistani mediators depart Tehran",
@@ -221,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss",
     "image": null,
-    "timestamp": 1779557757.4885566
+    "timestamp": 1779561502.8410826
   },
   {
     "title_fa": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss",
     "image": null,
-    "timestamp": 1779557757.488568
+    "timestamp": 1779561502.8410943
   },
   {
     "title_fa": "US Secretary of State kicks off India visit, invites Modi to White House",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss",
     "image": null,
-    "timestamp": 1779557757.4885778
+    "timestamp": 1779561502.841104
   },
   {
     "title_fa": "Israeli forces arrest two children in occupied West Bank village",
@@ -269,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-arrest-two-children-in-occupied-west-bank-village?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-arrest-two-children-in-occupied-west-bank-village?traffic_source=rss",
     "image": null,
-    "timestamp": 1779557757.4885983
+    "timestamp": 1779561502.8411245
   },
   {
     "title_fa": "Five police officers, 13 year-old boy killed in Israeli attack on Gaza",
@@ -285,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/five-police-officers-13-year-old-boy-killed-in-israeli-attack-on-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/five-police-officers-13-year-old-boy-killed-in-israeli-attack-on-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1779557757.488617
+    "timestamp": 1779561502.841147
   },
   {
     "title_fa": "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
@@ -301,7 +333,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir?traffic_source=rss",
     "image": null,
-    "timestamp": 1779557757.488655
+    "timestamp": 1779561502.8411849
   },
   {
     "title_fa": "Israeli air strike pounds southern Lebanon leaving many injured",
@@ -317,7 +349,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss",
     "image": null,
-    "timestamp": 1779557757.4886646
+    "timestamp": 1779561502.8411942
   },
   {
     "title_fa": "The pollution that outlives war",
@@ -333,22 +365,6 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/23/the-pollution-that-outlives-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/23/the-pollution-that-outlives-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1779557757.4886742
-  },
-  {
-    "title_fa": "DR Congo will not change World Cup preparations despite US Ebola warning",
-    "title_en": "DR Congo will not change World Cup preparations despite US Ebola warning",
-    "summary": [
-      "World Cup cohosts United States have warned Democratic Republic of the Congo team to isolate due to Ebola fears."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/23/dr-congo-will-not-change-world-cup-preparations-despite-us-warning?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/23/dr-congo-will-not-change-world-cup-preparations-despite-us-warning?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779557757.4886835
+    "timestamp": 1779561502.8412035
   }
 ]
