@@ -3,7 +3,7 @@
     "title_fa": "روبیو: نمی‌گذاریم ایران دنیا را گروگان بگیرد؛ قالیباف: پاسخ‌مان کوبنده‌تر خواهد بود",
     "title_en": "روبیو: نمی‌گذاریم ایران دنیا را گروگان بگیرد؛ قالیباف: پاسخ‌مان کوبنده‌تر خواهد بود",
     "summary": [
-      "مارکو روبیو در دیدار با نارندرا مودی‌، نخست‌وزیر هند، تاکید کرد که آمریکا اجازه نمی‌دهد ایران انرژی جهانی را گروگان بگیرد. وزیر خارجه آمریکا برای دیدار چهار روزه به هند رفته است. در همین حال محمدباقر قالیباف، رئیس مجلس، در دیدار با عاصم منیر، فرمانده کل نیروهای مسلح پاکستان، گفت که نیروهای مسلح ایران «در دوران آتش‌بس به‌نحوی خود را بازسازی کرده‌اند» که در صورت حمله مجدد آمریکا پاسخی «کوبنده‌تر» خواهند داد. شهباز شریف، نخست‌وزیر پاکستان، هم برای سفری چهار روزه وارد چین شده است. وزارت خارجه پاکستا"
+      "مارکو روبیو در دیدار با نارندرا مودی‌، نخست‌وزیر هند، تاکید کرد که آمریکا اجازه نمی‌دهد ایران انرژی جهانی را گروگان بگیرد. وزیر خارجه آمریکا برای دیدار چهار روزه به هند رفته است. در همین حال محمدباقر قالیباف، رئیس مجلس، در دیدار با عاصم منیر، فرمانده کل نیروهای مسلح پاکستان، گفت که نیروهای مسلح ایران «در دوران آتش‌بس به‌نحوی خود را بازسازی کرده‌اند» که در صورت حمله مجدد آمریکا پاسخی «کوبنده‌تر» خواهند داد. در حالی‌که عاصم منیر تهران را ترک کرد، شهباز شریف، نخست‌وزیر پاکستان، هم برای سفری چهار رو"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779540255.3778095
+    "timestamp": 1779545731.366163
+  },
+  {
+    "title_fa": "پرویز قلیچ‌خانی، بازیکن برجسته تیم ملی ایران و فعال سیاسی، درگذشت",
+    "title_en": "پرویز قلیچ‌خانی، بازیکن برجسته تیم ملی ایران و فعال سیاسی، درگذشت",
+    "summary": [
+      "پرویز قلیچ‌خانی، کاپیتان پیشین تیم ملی فوتبال ایران و فعال سیاسی چپگرا در ۸۱ سالگی درگذشت. او به آلزایمر مبتلا بود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779545731.366182
   },
   {
     "title_fa": "فعالان ناوگان غزه از «بدرفتاری شدید» نیروهای اسرائیلی در زمان بازداشت خبر می‌دهند",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779540255.377831
+    "timestamp": 1779545731.3662064
   },
   {
     "title_fa": "چرا پرونده چین به قالیباف سپرده شد؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779540255.3779001
+    "timestamp": 1779545731.3662794
   },
   {
     "title_fa": "آمریکا فروش ۱۴ میلیارد دلار تسلیحات به تایوان را «به‌دلیل جنگ ایران» متوقف کرد",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779540255.3779154
+    "timestamp": 1779545731.3662994
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779540255.377936
+    "timestamp": 1779545731.3663268
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779540255.3779566
+    "timestamp": 1779545731.3663535
   },
   {
     "title_fa": "از ونزوئلا تا چین و ایران؛ مردم چگونه محاصره اینترنتی را می‌شکنند؟",
@@ -109,23 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779540255.3779685
-  },
-  {
-    "title_fa": "سایه یوزف منگله بر سوئیس؛ آیا «فرشته مرگ» آشویتس در این کشور پنهان شده بود؟",
-    "title_en": "سایه یوزف منگله بر سوئیس؛ آیا «فرشته مرگ» آشویتس در این کشور پنهان شده بود؟",
-    "summary": [
-      "سرویس اطلاعات فدرال سوئیس اعلام کرده است که سرانجام پرونده‌های محرمانه و مهر و موم‌شده مربوط به یوزف منگله، جنایتکار بدنام جنگی نازی را منتشر خواهد کرد. منگله پس از جنگ جهانی دوم از اروپا گریخت، اما سال‌ها شایعه‌هایی وجود داشت مبنی بر این‌ که او مدتی را در سوئیس گذرانده است، آن هم در حالی که حکم بازداشت بین‌المللی برای او صادر شده بود."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779540255.3780074
+    "timestamp": 1779545731.366385
   },
   {
     "title_fa": "آنچه گذشت؛ فرمانده ارتش پاکستان و هیئت قطر در تهران",
@@ -141,7 +141,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779540255.3780553
+    "timestamp": 1779545731.366471
+  },
+  {
+    "title_fa": "سایه یوزف منگله بر سوئیس؛ آیا «فرشته مرگ» آشویتس در این کشور پنهان شده بود؟",
+    "title_en": "سایه یوزف منگله بر سوئیس؛ آیا «فرشته مرگ» آشویتس در این کشور پنهان شده بود؟",
+    "summary": [
+      "سرویس اطلاعات فدرال سوئیس اعلام کرده است که سرانجام پرونده‌های محرمانه و مهر و موم‌شده مربوط به یوزف منگله، جنایتکار بدنام جنگی نازی را منتشر خواهد کرد. منگله پس از جنگ جهانی دوم از اروپا گریخت، اما سال‌ها شایعه‌هایی وجود داشت مبنی بر این‌ که او مدتی را در سوئیس گذرانده است، آن هم در حالی که حکم بازداشت بین‌المللی برای او صادر شده بود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779545731.3665106
   },
   {
     "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779540255.3780763
+    "timestamp": 1779545731.3665245
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -173,7 +189,71 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779540255.3780851
+    "timestamp": 1779545731.3665361
+  },
+  {
+    "title_fa": "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
+    "title_en": "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
+    "summary": [
+      "French Foreign Minister Jean-Noel Barrot said France would not tolerate its nationals being threatened or intimidated."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779545731.4963431
+  },
+  {
+    "title_fa": "Israeli air strike pounds southern Lebanon leaving many injured",
+    "title_en": "Israeli air strike pounds southern Lebanon leaving many injured",
+    "summary": [
+      "An Israeli air strike has hit the Al-Baqbouq area north of Tyre in southern Lebanon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779545731.4963648
+  },
+  {
+    "title_fa": "The pollution that outlives war",
+    "title_en": "The pollution that outlives war",
+    "summary": [
+      "Long after fighting is over, the toxic leftovers of war continue to poison communities and the environment."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/23/the-pollution-that-outlives-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/23/the-pollution-that-outlives-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779545731.496382
+  },
+  {
+    "title_fa": "DR Congo will not change World Cup preparations despite US Ebola warning",
+    "title_en": "DR Congo will not change World Cup preparations despite US Ebola warning",
+    "summary": [
+      "World Cup cohosts United States have warned Democratic Republic of the Congo team to isolate due to Ebola fears."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/23/dr-congo-will-not-change-world-cup-preparations-despite-us-warning?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/23/dr-congo-will-not-change-world-cup-preparations-despite-us-warning?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779545731.496398
   },
   {
     "title_fa": "Man Utd’s Fernandes trumps Arsenal to Premier League player of season award",
@@ -189,11 +269,11 @@
     "url": "https://www.aljazeera.com/sports/2026/5/23/man-utds-fernandes-trumps-arsenal-to-premier-league-player-of-season-award?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/23/man-utds-fernandes-trumps-arsenal-to-premier-league-player-of-season-award?traffic_source=rss",
     "image": null,
-    "timestamp": 1779540255.445773
+    "timestamp": 1779545731.4965124
   },
   {
-    "title_fa": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
-    "title_en": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
+    "title_fa": "Israeli attacks in Lebanon kill at least 2 despite supposed ceasefire",
+    "title_en": "Israeli attacks in Lebanon kill at least 2 despite supposed ceasefire",
     "summary": [
       "People in southern Lebanon are living under &quot;psychological terror&quot; from Israeli air attacks and displacement orders."
     ],
@@ -205,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss",
     "image": null,
-    "timestamp": 1779540255.4458156
+    "timestamp": 1779545731.4965942
   },
   {
     "title_fa": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
@@ -221,7 +301,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss",
     "image": null,
-    "timestamp": 1779540255.4458249
+    "timestamp": 1779545731.4966104
   },
   {
     "title_fa": "Missiles to munitions: Does the US risk running out of key weapons?",
@@ -237,38 +317,6 @@
     "url": "https://www.aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss",
     "image": null,
-    "timestamp": 1779540255.4458325
-  },
-  {
-    "title_fa": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
-    "title_en": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
-    "summary": [
-      "A visit by Pakistan’s army chief to Tehran is seen as a sign of significant progress in negotiations."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779540255.4458652
-  },
-  {
-    "title_fa": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
-    "title_en": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
-    "summary": [
-      "Despite ICJ genocide warnings, 51 nations kept arming Israel, even after pledging to halt support."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779540255.4458728
+    "timestamp": 1779545731.496626
   }
 ]
