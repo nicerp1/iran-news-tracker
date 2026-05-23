@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "سفر شهباز شریف به چین؛ روبیو در هند",
-    "title_en": "سفر شهباز شریف به چین؛ روبیو در هند",
+    "title_fa": "روبیو: نمی‌گذاریم ایران دنیا را گروگان بگیرد؛ قالیباف: پاسخ‌مان کوبنده‌تر خواهد بود",
+    "title_en": "روبیو: نمی‌گذاریم ایران دنیا را گروگان بگیرد؛ قالیباف: پاسخ‌مان کوبنده‌تر خواهد بود",
     "summary": [
-      "شهباز شریف برای سفری چهار روزه عازم چین شده است. وزارت خارجه پاکستان دیروز گفته بود که جنگ ایران یکی از محورهای مذاکرات نخست‌وزیر پاکستان به مقامات پکن است. عاصم منیر، فرمانده کل نیروهای مسلح پاکستان، در تهران با محمدباقر قالیباف و مسعود پزشکیان دیدار کرد و وزارت خارجه ایران هم بار دیگر تاکید کرد که پاکستان همچنان میانجی اصلی بین تهران و واشنگتن است. در همین حال مارکو روبیو، وزیر خارجه آمریکا، هم برای یک سفر چهار روزه وارد هند شده است و از چند شهر آن کشور دیدن خواهد کرد."
+      "مارکو روبیو در دیدار با نارندرا مودی‌، نخست‌وزیر هند، تاکید کرد که آمریکا اجازه نمی‌دهد ایران انرژی جهانی را گروگان بگیرد. وزیر خارجه آمریکا برای دیدار چهار روزه به هند رفته است. در همین حال محمدباقر قالیباف، رئیس مجلس، در دیدار با عاصم منیر، فرمانده کل نیروهای مسلح پاکستان، گفت که نیروهای مسلح ایران «در دوران آتش‌بس به‌نحوی خود را بازسازی کرده‌اند» که در صورت حمله مجدد آمریکا پاسخی «کوبنده‌تر» خواهند داد. شهباز شریف، نخست‌وزیر پاکستان، هم برای سفری چهار روزه وارد چین شده است. وزارت خارجه پاکستا"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779536782.2638502
+    "timestamp": 1779540255.3778095
+  },
+  {
+    "title_fa": "فعالان ناوگان غزه از «بدرفتاری شدید» نیروهای اسرائیلی در زمان بازداشت خبر می‌دهند",
+    "title_en": "فعالان ناوگان غزه از «بدرفتاری شدید» نیروهای اسرائیلی در زمان بازداشت خبر می‌دهند",
+    "summary": [
+      "فعالان حامی فلسطین که پس از توقیف کشتی کمک‌رسانی به غزه توسط نیروهای اسرائیلی در آب‌های بین‌المللی بازداشت شده بودند و به زندانی در اسرائیل منتقل شده بودند، و اکنون اخراج شدند، می‌گویند که در زمان بازداشت در اسرائیل مورد آزار و اذیت قرار گرفته‌اند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779540255.377831
   },
   {
     "title_fa": "چرا پرونده چین به قالیباف سپرده شد؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779536782.2639606
+    "timestamp": 1779540255.3779001
   },
   {
     "title_fa": "آمریکا فروش ۱۴ میلیارد دلار تسلیحات به تایوان را «به‌دلیل جنگ ایران» متوقف کرد",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779536782.2639816
+    "timestamp": 1779540255.3779154
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779536782.26401
+    "timestamp": 1779540255.377936
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779536782.2640378
+    "timestamp": 1779540255.3779566
   },
   {
     "title_fa": "از ونزوئلا تا چین و ایران؛ مردم چگونه محاصره اینترنتی را می‌شکنند؟",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779536782.2640543
+    "timestamp": 1779540255.3779685
   },
   {
     "title_fa": "سایه یوزف منگله بر سوئیس؛ آیا «فرشته مرگ» آشویتس در این کشور پنهان شده بود؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779536782.2641072
+    "timestamp": 1779540255.3780074
   },
   {
     "title_fa": "آنچه گذشت؛ فرمانده ارتش پاکستان و هیئت قطر در تهران",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c6260545pylt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779536782.2641585
+    "timestamp": 1779540255.3780553
   },
   {
     "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779536782.2642024
+    "timestamp": 1779540255.3780763
   },
   {
     "title_fa": "چگونه ایده‌های یک ژنرال دوره جنگ‌های ناپلئون به تحلیل جنگ ایران کمک می‌کند؟",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pwqpl239o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779536782.2642145
+    "timestamp": 1779540255.3780851
   },
   {
     "title_fa": "Man Utd’s Fernandes trumps Arsenal to Premier League player of season award",
@@ -173,7 +189,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/23/man-utds-fernandes-trumps-arsenal-to-premier-league-player-of-season-award?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/23/man-utds-fernandes-trumps-arsenal-to-premier-league-player-of-season-award?traffic_source=rss",
     "image": null,
-    "timestamp": 1779536782.3814945
+    "timestamp": 1779540255.445773
   },
   {
     "title_fa": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
@@ -189,7 +205,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss",
     "image": null,
-    "timestamp": 1779536782.3815503
+    "timestamp": 1779540255.4458156
   },
   {
     "title_fa": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
@@ -205,7 +221,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss",
     "image": null,
-    "timestamp": 1779536782.3815618
+    "timestamp": 1779540255.4458249
   },
   {
     "title_fa": "Missiles to munitions: Does the US risk running out of key weapons?",
@@ -221,7 +237,7 @@
     "url": "https://www.aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss",
     "image": null,
-    "timestamp": 1779536782.3815906
+    "timestamp": 1779540255.4458325
   },
   {
     "title_fa": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
     "image": null,
-    "timestamp": 1779536782.381636
+    "timestamp": 1779540255.4458652
   },
   {
     "title_fa": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
@@ -253,38 +269,6 @@
     "url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1779536782.3816462
-  },
-  {
-    "title_fa": "Iran war day 85: Tehran says major gaps remain in US talks",
-    "title_en": "Iran war day 85: Tehran says major gaps remain in US talks",
-    "summary": [
-      "Pakistan army chief Asim Munir arrives in Tehran as mediation efforts to secure a US-Iran peace deal intensify."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779536782.3816717
-  },
-  {
-    "title_fa": "Israeli forces attack central Gaza despite ceasefire agreement",
-    "title_en": "Israeli forces attack central Gaza despite ceasefire agreement",
-    "summary": [
-      "Video shows the moment Israeli forces struck Nuseirat and Bureij refugee camps in central Gaza, injuring dozens."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779536782.381682
+    "timestamp": 1779540255.4458728
   }
 ]
