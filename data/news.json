@@ -3,7 +3,7 @@
     "title_fa": "ترامپ: توافق با ایران به مراحل پایانی رسیده و تنگه هرمز بازگشایی خواهد شد",
     "title_en": "ترامپ: توافق با ایران به مراحل پایانی رسیده و تنگه هرمز بازگشایی خواهد شد",
     "summary": [
-      "دونالد ترامپ می‌گوید که گفت‌وگوهای «بسیار خوبی» با شماری از رهبران منطقه داشت اما جنبه‌ها و جزئیات نهایی توافق با ایران همچنان در حال بررسی است و به‌زودی اعلام خواهد شد. او تاکید کرد که در چارچوب این توافق، تنگه هرمز نیز بازگشایی خواهد شد. آقای ترامپ افزود که جداگانه با بنیامین نتانیاهو نیز گفت‌وگو کرده و آن را «بسیار خوب» توصیف کرد. خبرگزاری فارس، نزدیک به سپاه پاسداران در واکنش به اظهارات آقای ترامپ مدعی شد که «براساس آخرین متن ردوبدل‌شده، در صورت توافق احتمالی، تنگه هرمز کماکان تحت مدیریت ایر"
+      "دونالد ترامپ می‌گوید که گفت‌وگوهای «بسیار خوبی» با شماری از رهبران منطقه داشت اما جنبه‌ها و جزئیات نهایی توافق با ایران همچنان در حال بررسی است و به‌زودی اعلام خواهد شد. او تاکید کرد که در چارچوب این توافق، تنگه هرمز نیز بازگشایی خواهد شد. آقای ترامپ افزود که جداگانه با بنیامین نتانیاهو نیز گفت‌وگو کرده و آن را «بسیار خوب» توصیف کرد. خبرگزاری فارس، نزدیک به سپاه پاسداران در واکنش به اظهارات آقای ترامپ نوشت که «براساس آخرین متن ردوبدل‌شده، در صورت توافق احتمالی، تنگه هرمز کماکان تحت مدیریت ایران "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,13 +13,29 @@
     "url": "https://www.bbc.co.uk/persian/live/cjdp83y7n4kt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cjdp83y7n4kt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.0923204
+    "timestamp": 1779609833.7472935
   },
   {
-    "title_fa": "جمهوری اسلامی، مجتبی کیان را به اتهام همکاری با آمریکا و اسرائیل محاکمه و اعدام کرد",
-    "title_en": "جمهوری اسلامی، مجتبی کیان را به اتهام همکاری با آمریکا و اسرائیل محاکمه و اعدام کرد",
+    "title_fa": "دستفروشی در ایران؛ خوداشتغالی برای بقا و مبارزه شخصی با فقر",
+    "title_en": "دستفروشی در ایران؛ خوداشتغالی برای بقا و مبارزه شخصی با فقر",
     "summary": [
-      "خبرگزاری میزان، وابسته به قوه‌ قضائیه ایران خبر از اعدام مجتبی کیان، به اتهام «فعالیت اطلاعاتی» برای اسرائیل و آمریکا در جنگ اخیر داده است."
+      "پدیده دستفروشی در ایران دیگر صرفا یک شغل حاشیه‌ای و موقت برای اقشار کم‌ درآمد محسوب نمی‌شود، بلکه در سال‌های اخیر به یکی از آشکارترین نشانه‌های بحران اقتصادی، گسترش فقر و فرسایش طبقه متوسط تبدیل شده است. در شهرهای بزرگ ایران، از تهران و مشهد تا اهواز، تبریز، شیراز و کرج، دستفروشان اکنون به بخشی جدایی‌ناپذیر از چهره خیابان‌ها، متروها، پیاده‌روها و حتی بزرگراه‌ها بدل شده‌اند. بسیاری از کارشناسان اقتصادی معتقدند رشد فزاینده دستفروشی، بازتاب بیکاری، سقوط قدرت خرید خانوارها، مستقیم گسترش اقتصاد غیررس"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cy520wqdl4ko?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cy520wqdl4ko?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779609833.7473383
+  },
+  {
+    "title_fa": "قوه قضائیه ایران مجتبی کیان را برای «همکاری» با آمریکا و اسرائیل اعدام کرد",
+    "title_en": "قوه قضائیه ایران مجتبی کیان را برای «همکاری» با آمریکا و اسرائیل اعدام کرد",
+    "summary": [
+      "خبرگزاری میزان، وابسته به قوه‌ قضائیه ایران، خبر از اعدام مجتبی کیان به اتهام «فعالیت اطلاعاتی» برای اسرائیل و آمریکا در جنگ اخیر داده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cz9203wwk57o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz9203wwk57o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.0923407
+    "timestamp": 1779609833.7473562
   },
   {
     "title_fa": "اختلاف جمهوری‌خواهان بر سر توافق احتمالی ترامپ با ایران",
@@ -45,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cyv21m0eg4vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cyv21m0eg4vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.0923612
-  },
-  {
-    "title_fa": "مونیکا ویت کیست؛ نظامی سابق آمریکایی که به جاسوسی برای ایران متهم شد و اف‌بی‌آی برای او جایزه تعیین کرد",
-    "title_en": "مونیکا ویت کیست؛ نظامی سابق آمریکایی که به جاسوسی برای ایران متهم شد و اف‌بی‌آی برای او جایزه تعیین کرد",
-    "summary": [
-      "چرا اف‌بی‌آی برای یافتن مونیکا ویت، مامور پیشین ضدجاسوسی آمریکا و متخصص زبان فارسی که متهم به همکاری با ایران شده بود، ۲۰۰ هزار دلار جایزه تعیین کرد و او به چه اطلاعاتی دسترسی داشت؟"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779600840.0924008
+    "timestamp": 1779609833.7474082
   },
   {
     "title_fa": "چرا پرونده چین به قالیباف سپرده شد؟",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.0924225
+    "timestamp": 1779609833.7474344
   },
   {
     "title_fa": "آمریکا فروش ۱۴ میلیارد دلار تسلیحات به تایوان را «به‌دلیل جنگ ایران» متوقف کرد",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.092442
+    "timestamp": 1779609833.7474573
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.0924692
+    "timestamp": 1779609833.7474875
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -125,7 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.0924957
+    "timestamp": 1779609833.7475195
+  },
+  {
+    "title_fa": "مونیکا ویت کیست؛ نظامی سابق آمریکایی که به جاسوسی برای ایران متهم شد و اف‌بی‌آی برای او جایزه تعیین کرد",
+    "title_en": "مونیکا ویت کیست؛ نظامی سابق آمریکایی که به جاسوسی برای ایران متهم شد و اف‌بی‌آی برای او جایزه تعیین کرد",
+    "summary": [
+      "چرا اف‌بی‌آی برای یافتن مونیکا ویت، مامور پیشین ضدجاسوسی آمریکا و متخصص زبان فارسی که متهم به همکاری با ایران شده بود، ۲۰۰ هزار دلار جایزه تعیین کرد و او به چه اطلاعاتی دسترسی داشت؟"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779609833.7475383
   },
   {
     "title_fa": "پرویز قلیچ‌خانی؛ «بازیکن کاملی»که پای ماندن نداشت",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cr72yl1nm0go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cr72yl1nm0go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.092529
+    "timestamp": 1779609833.747576
   },
   {
     "title_fa": "مثلث قوه قضاییه، وکلای امنیتی و خبرگزاری میزان؛ چرا اعدام‌ها با «شدت و سرعت» اجرا می‌شود؟",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.0925477
+    "timestamp": 1779609833.7475965
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ:‌ فقط توافقی را امضا خواهم کرد که در آن به تمام خواسته‌های خود برسیم",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.0926018
+    "timestamp": 1779609833.7476597
   },
   {
     "title_fa": "فعالان ناوگان غزه از «بدرفتاری شدید» نیروهای اسرائیلی در زمان بازداشت خبر می‌دهند",
@@ -189,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.0926228
+    "timestamp": 1779609833.7476828
   },
   {
     "title_fa": "پرویز قلیچ‌خانی، بازیکن برجسته تیم ملی ایران و فعال سیاسی، درگذشت",
@@ -205,23 +221,39 @@
     "url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779600840.0926354
+    "timestamp": 1779609833.7476964
   },
   {
-    "title_fa": "از ونزوئلا تا چین و ایران؛ مردم چگونه محاصره اینترنتی را می‌شکنند؟",
-    "title_en": "از ونزوئلا تا چین و ایران؛ مردم چگونه محاصره اینترنتی را می‌شکنند؟",
+    "title_fa": "Man dies in northeast Australia after shark attack",
+    "title_en": "Man dies in northeast Australia after shark attack",
     "summary": [
-      "کافه‌های مخفی و سازندگان اپلیکشین‌های دور زدن سانسور در کشورهای مختلف به مردم کمک می‌کنند محدودیت‌ها و قطع اینترنتی را که حکومت‌های سرکوبگر اعمال می‌کنند، دور بزنند."
+      "The man was rushed to ⁠shore after being bitten on Sunday near ​Kennedy Shoal, but died shortly afterwards."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
     "image": null,
-    "timestamp": 1779600840.092705
+    "timestamp": 1779609834.0171058
+  },
+  {
+    "title_fa": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
+    "title_en": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
+    "summary": [
+      "US president makes announcement after mediator Pakistan holds &#039;highly productive&#039; talks in Tehran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779609834.0171413
   },
   {
     "title_fa": "Iranian sources lay out Iran-US deal details",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
     "image": null,
-    "timestamp": 1779600840.3047357
+    "timestamp": 1779609834.0171635
   },
   {
     "title_fa": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1779600840.3047578
+    "timestamp": 1779609834.0171833
   },
   {
     "title_fa": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
@@ -269,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
     "image": null,
-    "timestamp": 1779600840.3047695
+    "timestamp": 1779609834.017194
   },
   {
     "title_fa": "Iran move World Cup base from US to Mexico with FIFA approval",
@@ -285,7 +317,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval?traffic_source=rss",
     "image": null,
-    "timestamp": 1779600840.3048234
+    "timestamp": 1779609834.0172462
   },
   {
     "title_fa": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
@@ -301,7 +333,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
     "image": null,
-    "timestamp": 1779600840.3048422
+    "timestamp": 1779609834.017268
   },
   {
     "title_fa": "Police beat and detain Gaza flotilla activists at airport",
@@ -317,22 +349,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
     "image": null,
-    "timestamp": 1779600840.3048522
-  },
-  {
-    "title_fa": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
-    "title_en": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
-    "summary": [
-      "Latest Truth Social post comes amid &#039;delicate diplomacy&#039;, expert says, as US and Iran indicate progress in talks."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779600840.304874
+    "timestamp": 1779609834.0172915
   }
 ]
