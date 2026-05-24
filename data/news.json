@@ -13,23 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/cjdp83y7n4kt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cjdp83y7n4kt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.2303247
+    "timestamp": 1779621744.2301397
   },
   {
-    "title_fa": "دستفروشی در ایران؛ خوداشتغالی برای بقا و مبارزه شخصی با فقر",
-    "title_en": "دستفروشی در ایران؛ خوداشتغالی برای بقا و مبارزه شخصی با فقر",
+    "title_fa": "درباره محتوای توافق احتمالی ایران و آمریکا چه می‌دانیم؟",
+    "title_en": "درباره محتوای توافق احتمالی ایران و آمریکا چه می‌دانیم؟",
     "summary": [
-      "پدیده دستفروشی در ایران دیگر صرفا یک شغل حاشیه‌ای و موقت برای اقشار کم‌ درآمد محسوب نمی‌شود، بلکه در سال‌های اخیر به یکی از آشکارترین نشانه‌های بحران اقتصادی، گسترش فقر و فرسایش طبقه متوسط تبدیل شده است. در شهرهای بزرگ ایران، از تهران و مشهد تا اهواز، تبریز، شیراز و کرج، دستفروشان اکنون به بخشی جدایی‌ناپذیر از چهره خیابان‌ها، متروها، پیاده‌روها و حتی بزرگراه‌ها بدل شده‌اند. بسیاری از کارشناسان اقتصادی معتقدند رشد فزاینده دستفروشی، بازتاب بیکاری، سقوط قدرت خرید خانوارها، مستقیم گسترش اقتصاد غیررس"
+      "در حالی که مقام‌های آمریکا از نزدیک شدن به توافق با ایران می‌گویند، گزارش‌هایی غیر‌رسمی و تایید نشده از جزئیات این توافق احتمالی منتشر شده است. اکسیوس به نقل از یک مقام آمریکایی گزارش داده است که تهران و واشنگتن به امضای توافقی نزدیک هستند که در چارچوب آن آتش‌بس برای ۶۰ روز تمدید خواهد شد، تنگه هرمز باز خواهد شد، ایران اجازه فروش نفت خواهد یافت، مذاکراتی درباره محدود کردن برنامه هسته‌ای ایران انجام خواهد شد و جنگ در لبنان هم متوقف خواهد شد."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cy520wqdl4ko?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cy520wqdl4ko?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.2303886
+    "timestamp": 1779621744.2301803
+  },
+  {
+    "title_fa": "حذف سردار آزمون از جام جهانی؛ ماجرا، فقط انتشار عکس با حاکم دوبی بود؟",
+    "title_en": "حذف سردار آزمون از جام جهانی؛ ماجرا، فقط انتشار عکس با حاکم دوبی بود؟",
+    "summary": [
+      "روز شنبه ۲۶ اردیبهشت، سایت رسمی فدراسیون فوتبال جمهوری اسلامی ایران فهرست سی نفره تیم ملی برای جام جهانی ۲۰۲۶ را منتشر کرد. فهرستی با یک غایب بزرگ: سردار آزمون، مهاجمی با ۵۷ گل در ۹۱ بازی ملی، در فهرست جایی نداشت. امیر قلعه‌نویی درباره دلیل این حذف توضیحی نداد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779621744.230203
   },
   {
     "title_fa": "قوه قضائیه ایران مجتبی کیان را برای «همکاری» با آمریکا و اسرائیل اعدام کرد",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cz9203wwk57o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz9203wwk57o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.2304044
+    "timestamp": 1779621744.2302654
   },
   {
     "title_fa": "اختلاف جمهوری‌خواهان بر سر توافق احتمالی ترامپ با ایران",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cyv21m0eg4vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cyv21m0eg4vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.2304466
+    "timestamp": 1779621744.2302837
   },
   {
     "title_fa": "مثلث قوه قضاییه، وکلای امنیتی و خبرگزاری میزان؛ چرا اعدام‌ها با «شدت و سرعت» اجرا می‌شود؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.230466
+    "timestamp": 1779621744.2303095
   },
   {
     "title_fa": "چرا پرونده چین به قالیباف سپرده شد؟",
@@ -93,23 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.2304952
+    "timestamp": 1779621744.230333
   },
   {
-    "title_fa": "آمریکا فروش ۱۴ میلیارد دلار تسلیحات به تایوان را «به‌دلیل جنگ ایران» متوقف کرد",
-    "title_en": "آمریکا فروش ۱۴ میلیارد دلار تسلیحات به تایوان را «به‌دلیل جنگ ایران» متوقف کرد",
+    "title_fa": "دستفروشی در ایران؛ خوداشتغالی برای بقا و مبارزه شخصی با فقر",
+    "title_en": "دستفروشی در ایران؛ خوداشتغالی برای بقا و مبارزه شخصی با فقر",
     "summary": [
-      "آمریکا می‌گوید فروش ۱۴ میلیارد دلاری تسلیحات به تایوان را موقتاً متوقف کرده است تا مطمئن شود که برای جنگ احتمالی با ایران ذخایر کافی سلاح و مهمات در اختیار دارد. هانگ کائو، سرپرست وزارت نیروی دریایی آمریکا، در جلسه دیروز سنا این موضوع را تأیید کرد."
+      "پدیده دستفروشی در ایران دیگر صرفا یک شغل حاشیه‌ای و موقت برای اقشار کم‌ درآمد محسوب نمی‌شود، بلکه در سال‌های اخیر به یکی از آشکارترین نشانه‌های بحران اقتصادی، گسترش فقر و فرسایش طبقه متوسط تبدیل شده است. در شهرهای بزرگ ایران، از تهران و مشهد تا اهواز، تبریز، شیراز و کرج، دستفروشان اکنون به بخشی جدایی‌ناپذیر از چهره خیابان‌ها، متروها، پیاده‌روها و حتی بزرگراه‌ها بدل شده‌اند. بسیاری از کارشناسان اقتصادی معتقدند رشد فزاینده دستفروشی، بازتاب بیکاری، سقوط قدرت خرید خانوارها، مستقیم گسترش اقتصاد غیررس"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cy520wqdl4ko?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cy520wqdl4ko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.230516
+    "timestamp": 1779621744.2303662
   },
   {
     "title_fa": "مونیکا ویت کیست؛ نظامی سابق آمریکایی که به جاسوسی برای ایران متهم شد و اف‌بی‌آی برای او جایزه تعیین کرد",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.2305326
+    "timestamp": 1779621744.2303827
   },
   {
     "title_fa": "پرویز قلیچ‌خانی؛ «بازیکن کاملی»که پای ماندن نداشت",
@@ -141,23 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cr72yl1nm0go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cr72yl1nm0go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.2305815
-  },
-  {
-    "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
-    "title_en": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
-    "summary": [
-      "دونالد ترامپ، رئیس جمهور آمریکا، در چند هفته گذشته بارها تکرار کرده است که برای معترضان ایرانی «از طریق کردها سلاح فرستاده است» اما کردها این اسلحه‌ها را برای خود نگه داشته‌اند. تحقیقات بی‌بی‌سی نشان می‌دهد که بخشی از سخنان آقای ترامپ ممکن است صحیح باشد، که طرحی برای تسلیح و حمایت از کردها برای مشارکت آنها در جنگ احتمالی با ایران بوده است اما عملی شدن آن با مشکلاتی روبرو شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779616960.2306073
+    "timestamp": 1779621744.2304144
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ:‌ فقط توافقی را امضا خواهم کرد که در آن به تمام خواسته‌های خود برسیم",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.2306616
+    "timestamp": 1779621744.2304676
   },
   {
     "title_fa": "فعالان ناوگان غزه از «بدرفتاری شدید» نیروهای اسرائیلی در زمان بازداشت خبر می‌دهند",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.2306833
+    "timestamp": 1779621744.2304878
   },
   {
     "title_fa": "پرویز قلیچ‌خانی، بازیکن برجسته تیم ملی ایران و فعال سیاسی، درگذشت",
@@ -205,7 +205,55 @@
     "url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779616960.2306962
+    "timestamp": 1779621744.2305005
+  },
+  {
+    "title_fa": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
+    "title_en": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
+    "summary": [
+      "Trump announces progress on Iran peace deal, signalling the Strait of Hormuz, vital for global trade, could reopen soon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779621744.3321486
+  },
+  {
+    "title_fa": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
+    "title_en": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
+    "summary": [
+      "Iranian news agency says deal could see shipping levels through Strait of Hormuz return to pre-war levels within weeks."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779621744.3321764
+  },
+  {
+    "title_fa": "US, Iran inch closer to deal to end the war: What to know",
+    "title_en": "US, Iran inch closer to deal to end the war: What to know",
+    "summary": [
+      "The proposed US-Iran peace deal seeks to reopen the strategically vital Strait of Hormuz amid lingering disagreements."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779621744.3321905
   },
   {
     "title_fa": "Trump says US and Iran deal to end war is ‘largely negotiated’",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss",
     "image": null,
-    "timestamp": 1779616960.3841157
+    "timestamp": 1779621744.3322284
   },
   {
     "title_fa": "Rubio says ‘significant progress’ made in US-Iran negotiations",
@@ -237,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/rubio-says-significant-progress-made-in-us-iran-negotiations?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/rubio-says-significant-progress-made-in-us-iran-negotiations?traffic_source=rss",
     "image": null,
-    "timestamp": 1779616960.38414
+    "timestamp": 1779621744.332248
   },
   {
     "title_fa": "Yemen war sees scramble for scant resources between displaced and locals",
@@ -253,7 +301,7 @@
     "url": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
     "image": null,
-    "timestamp": 1779616960.3841517
+    "timestamp": 1779621744.3322582
   },
   {
     "title_fa": "“They don’t like each other:” Is Russia and Iran’s alliance falling apart?",
@@ -269,7 +317,7 @@
     "url": "https://www.aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart?traffic_source=rss",
     "image": null,
-    "timestamp": 1779616960.384189
+    "timestamp": 1779621744.3322945
   },
   {
     "title_fa": "Man dies in northeast Australia after shark attack",
@@ -285,70 +333,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
     "image": null,
-    "timestamp": 1779616960.3842177
-  },
-  {
-    "title_fa": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
-    "title_en": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
-    "summary": [
-      "US president makes announcement after mediator Pakistan holds &#039;highly productive&#039; talks in Tehran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779616960.3842463
-  },
-  {
-    "title_fa": "Iranian sources lay out Iran-US deal details",
-    "title_en": "Iranian sources lay out Iran-US deal details",
-    "summary": [
-      "Al Jazeera’s Ali Hashem reveals details of Iran&#039;s position on the potential peace agreement with the US."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779616960.384265
-  },
-  {
-    "title_fa": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
-    "title_en": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
-    "summary": [
-      "Funerals were held for paramedics killed by two Israeli air strikes in southern Lebanon on Friday."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779616960.384282
-  },
-  {
-    "title_fa": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
-    "title_en": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
-    "summary": [
-      "US president says deal would include reopening Strait of Hormuz after call with Middle East leaders."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779616960.384292
+    "timestamp": 1779621744.3323216
   }
 ]
