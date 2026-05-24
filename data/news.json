@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cjdp83y7n4kt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cjdp83y7n4kt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.0120175
+    "timestamp": 1779586085.543428
   },
   {
     "title_fa": "مونیکا ویت کیست؛ نظامی سابق آمریکایی که به جاسوسی برای ایران متهم شد و اف‌بی‌آی برای او جایزه تعیین کرد",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.012039
+    "timestamp": 1779586085.543466
   },
   {
     "title_fa": "پرویز قلیچ‌خانی؛ «بازیکن کاملی»که پای ماندن نداشت",
@@ -45,23 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cr72yl1nm0go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cr72yl1nm0go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.012077
-  },
-  {
-    "title_fa": "مثلث قوه قضاییه، وکلای امنیتی و خبرگزاری میزان؛ چرا اعدام‌ها با «شدت و سرعت» اجرا می‌شود؟",
-    "title_en": "مثلث قوه قضاییه، وکلای امنیتی و خبرگزاری میزان؛ چرا اعدام‌ها با «شدت و سرعت» اجرا می‌شود؟",
-    "summary": [
-      "قوه قضاییه ایران، دو روز پیش نیز دو نفر را به اتهام «عضویت در گروه‌های تجزیه‌طلب» محکوم و اعدام کرد. خبرگزاری میزان جزئیاتی از زمان بازداشت رامین زله و کریم معروف‌پور ارائه نداد و در باره مراحل دادرسی و محاکمه آنها توضیحی کلی منتشر کرد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779578859.0120964
+    "timestamp": 1779586085.5435019
   },
   {
     "title_fa": "چرا پرونده چین به قالیباف سپرده شد؟",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.01212
+    "timestamp": 1779586085.5435262
   },
   {
     "title_fa": "آمریکا فروش ۱۴ میلیارد دلار تسلیحات به تایوان را «به‌دلیل جنگ ایران» متوقف کرد",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy296l474do?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.012139
+    "timestamp": 1779586085.543546
   },
   {
     "title_fa": "محمود احمدی‌نژاد؛ از «اتهام جاسوسی به وزارت اطلاعات» تا ادعای «گزینه جانشینی رهبری»",
@@ -109,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpyjl2p37o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.0121658
+    "timestamp": 1779586085.5435736
   },
   {
     "title_fa": "آیا آمریکا از طریق کردها برای معترضان ایران سلاح فرستاده است؟",
@@ -125,23 +109,23 @@
     "url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8v41v14go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.0121927
+    "timestamp": 1779586085.5436015
   },
   {
-    "title_fa": "از ونزوئلا تا چین و ایران؛ مردم چگونه محاصره اینترنتی را می‌شکنند؟",
-    "title_en": "از ونزوئلا تا چین و ایران؛ مردم چگونه محاصره اینترنتی را می‌شکنند؟",
+    "title_fa": "مثلث قوه قضاییه، وکلای امنیتی و خبرگزاری میزان؛ چرا اعدام‌ها با «شدت و سرعت» اجرا می‌شود؟",
+    "title_en": "مثلث قوه قضاییه، وکلای امنیتی و خبرگزاری میزان؛ چرا اعدام‌ها با «شدت و سرعت» اجرا می‌شود؟",
     "summary": [
-      "کافه‌های مخفی و سازندگان اپلیکشین‌های دور زدن سانسور در کشورهای مختلف به مردم کمک می‌کنند محدودیت‌ها و قطع اینترنتی را که حکومت‌های سرکوبگر اعمال می‌کنند، دور بزنند."
+      "قوه قضاییه ایران، دو روز پیش نیز دو نفر را به اتهام «عضویت در گروه‌های تجزیه‌طلب» محکوم و اعدام کرد. خبرگزاری میزان جزئیاتی از زمان بازداشت رامین زله و کریم معروف‌پور ارائه نداد و در باره مراحل دادرسی و محاکمه آنها توضیحی کلی منتشر کرد."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.012268
+    "timestamp": 1779586085.543621
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ:‌ فقط توافقی را امضا خواهم کرد که در آن به تمام خواسته‌های خود برسیم",
@@ -157,7 +141,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c99lj540y3nt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.012301
+    "timestamp": 1779586085.5437205
   },
   {
     "title_fa": "فعالان ناوگان غزه از «بدرفتاری شدید» نیروهای اسرائیلی در زمان بازداشت خبر می‌دهند",
@@ -173,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czd2890m492o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.0123208
+    "timestamp": 1779586085.5437424
   },
   {
     "title_fa": "پرویز قلیچ‌خانی، بازیکن برجسته تیم ملی ایران و فعال سیاسی، درگذشت",
@@ -189,7 +173,23 @@
     "url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c202d72q93jo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.0123332
+    "timestamp": 1779586085.5437555
+  },
+  {
+    "title_fa": "از ونزوئلا تا چین و ایران؛ مردم چگونه محاصره اینترنتی را می‌شکنند؟",
+    "title_en": "از ونزوئلا تا چین و ایران؛ مردم چگونه محاصره اینترنتی را می‌شکنند؟",
+    "summary": [
+      "کافه‌های مخفی و سازندگان اپلیکشین‌های دور زدن سانسور در کشورهای مختلف به مردم کمک می‌کنند محدودیت‌ها و قطع اینترنتی را که حکومت‌های سرکوبگر اعمال می‌کنند، دور بزنند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c8e852y58x9o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779586085.5437827
   },
   {
     "title_fa": "سایه یوزف منگله بر سوئیس؛ آیا «فرشته مرگ» آشویتس در این کشور پنهان شده بود؟",
@@ -205,23 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze2661klk8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779578859.012377
-  },
-  {
-    "title_fa": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
-    "title_en": "آیا نخست‌وزیر جدید عراق می‌تواند گروه‌های مسلح وابسته به ایران را مهار کند؟",
-    "summary": [
-      "نخست‌وزیر جدید عراق با میراثی سنگین از تنش و درگیری میان دولت و گروه‌های مسلح روبه‌رو است و جنگ ایران، وضعیت را برای او پیچیده‌تر کرده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c242gn065zlo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779578859.0123901
+    "timestamp": 1779586085.5438166
   },
   {
     "title_fa": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
@@ -237,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1779578859.1809967
+    "timestamp": 1779586086.4449108
   },
   {
     "title_fa": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
@@ -253,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
     "image": null,
-    "timestamp": 1779578859.181011
+    "timestamp": 1779586086.444924
   },
   {
     "title_fa": "Iran move World Cup base from US to Mexico with FIFA approval",
@@ -269,7 +253,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval?traffic_source=rss",
     "image": null,
-    "timestamp": 1779578859.181062
+    "timestamp": 1779586086.4449785
   },
   {
     "title_fa": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
@@ -285,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
     "image": null,
-    "timestamp": 1779578859.1810796
+    "timestamp": 1779586086.4449966
   },
   {
     "title_fa": "Police beat and detain Gaza flotilla activists at airport",
@@ -301,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
     "image": null,
-    "timestamp": 1779578859.1810887
+    "timestamp": 1779586086.4450066
   },
   {
     "title_fa": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
@@ -317,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1779578859.1811104
+    "timestamp": 1779586086.4450285
   },
   {
     "title_fa": "Iran sends ‘mixed’ messages as Pakistani mediators depart Tehran",
@@ -333,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss",
     "image": null,
-    "timestamp": 1779578859.1811543
+    "timestamp": 1779586086.4450743
   },
   {
     "title_fa": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
@@ -349,6 +333,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss",
     "image": null,
-    "timestamp": 1779578859.181164
+    "timestamp": 1779586086.4450848
   }
 ]
