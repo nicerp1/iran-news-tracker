@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "بقایی: نمی‌توان گفت که توافق با آمریکا قریب‌الوقوع است",
-    "title_en": "بقایی: نمی‌توان گفت که توافق با آمریکا قریب‌الوقوع است",
+    "title_fa": "قالیباف و عراقچی در سفری غیرمنتظره وارد قطر شدند",
+    "title_en": "قالیباف و عراقچی در سفری غیرمنتظره وارد قطر شدند",
     "summary": [
-      "سخنگوی وزارت خارجه ایران در واکنش به اظهارات مقام‌های آمریکایی که از پیشرفت در مذاکرات می‌گویند، گفت که در برخی موضوعات دو طرف به جمع‌بندی رسیده‌اند اما نمی‌توان گفت که توافق قریب‌الوقوع است. اسماعیل بقایی مواضع ضد‌و‌نقیض مقام های آمریکا و سابقه حمله این کشور در میانه مذاکره را از جمله دلایل این امر عنوان کرد. این در حالی است که مارکو روبیو، وزیر خارجه آمریکا، گفته است که توافق میان تهران و واشنگتن «هنوز در حال پیشرفت است.» دونالد ترامپ هم دیروز از نزدیک شدن به توافق گفته بود اما بعد تاکید کرد ک"
+      "هیئت نمایندگی ایران به ریاست محمد باقر قالیباف در سفری غیرمنتظره وارد قطر شد. عباس عراقچی وزیر خارجه او را همراهی می‌کند. به گزارش خبرگزاری رسمی دولت ایران «این سفر در ادامه روند دیپلماتیکی است که در چند هفته اخیر با میانجی‌گری پاکستان» برای خاتمه جنگ شروع شده است و ادامه دارد. به گزارش رسانه‌های ایران رئیس بانک مرکزی هم برای «بررسی آزادسازی اموال بلوکه‌شده» به پایتخت قطر رفته است. یکی از خواسته‌های ایران در مذاکره با آمریکا آزاد شدن منابع مالی مسدود شده‌اش است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cjdp8v51gelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cjdp8v51gelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.2478318
+    "timestamp": 1779716946.748702
   },
   {
     "title_fa": "دیدار میانجی‌های اصلی ایران و آمریکا با شی جین‌پینگ",
@@ -29,23 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c1522430vlwo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1522430vlwo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.2478905
-  },
-  {
-    "title_fa": "عباس اکبری، از بازداشت‌شدگان اعتراضات دی ماه، اعدام شد",
-    "title_en": "عباس اکبری، از بازداشت‌شدگان اعتراضات دی ماه، اعدام شد",
-    "summary": [
-      "خبرگزاری‌های رسمی در ایران از اجرای حکم اعدام عباس اکبری در بامداد روز دوشنبه خبر دادند و از او به عنوان «لیدر مسلح کودتای دی» نام برده‌اند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cwy23yern27o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cwy23yern27o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779705806.247911
+    "timestamp": 1779716946.7487404
   },
   {
     "title_fa": "در اولین جلسه حضوری پس از جنگ، قالیباف برای هفتمین سال رئیس مجلس شد",
@@ -61,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c78qq9jvjl2o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78qq9jvjl2o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.247945
+    "timestamp": 1779716946.7488184
   },
   {
     "title_fa": "چگونه محمود احمدی‌نژاد به یکی از عجیب‌ترین معماهای جنگ ایران تبدیل شد؟",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cdxpg36dx7yo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdxpg36dx7yo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.2479756
+    "timestamp": 1779716946.7488954
   },
   {
     "title_fa": "درباره محتوای توافق احتمالی ایران و آمریکا چه می‌دانیم؟",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.2480066
+    "timestamp": 1779716946.748945
   },
   {
     "title_fa": "حذف سردار آزمون از جام جهانی؛ ماجرا، فقط انتشار عکس با حاکم دوبی بود؟",
@@ -109,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.2480285
+    "timestamp": 1779716946.7489803
   },
   {
     "title_fa": "اختلاف جمهوری‌خواهان بر سر توافق احتمالی ترامپ با ایران",
@@ -125,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cyv21m0eg4vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cyv21m0eg4vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.2480538
+    "timestamp": 1779716946.7490184
   },
   {
     "title_fa": "مثلث قوه قضاییه، وکلای امنیتی و خبرگزاری میزان؛ چرا اعدام‌ها با «شدت و سرعت» اجرا می‌شود؟",
@@ -141,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.2480755
+    "timestamp": 1779716946.7490528
   },
   {
     "title_fa": "درخت شاه‌بلوط چطور ظهور و سقوط امپراطوری روم را روایت می‌کند؟",
@@ -157,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cd909j0key7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd909j0key7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.2481086
+    "timestamp": 1779716946.7491016
   },
   {
     "title_fa": "چرا پرونده چین به قالیباف سپرده شد؟",
@@ -173,7 +157,23 @@
     "url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.248132
+    "timestamp": 1779716946.749138
+  },
+  {
+    "title_fa": "عباس اکبری، از بازداشت‌شدگان اعتراضات دی ماه، اعدام شد",
+    "title_en": "عباس اکبری، از بازداشت‌شدگان اعتراضات دی ماه، اعدام شد",
+    "summary": [
+      "خبرگزاری‌های رسمی در ایران از اجرای حکم اعدام عباس اکبری در بامداد روز دوشنبه خبر دادند و از او به عنوان «لیدر مسلح کودتای دی» نام برده‌اند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cwy23yern27o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cwy23yern27o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779716946.7491846
   },
   {
     "title_fa": "صدور حکم اعدام برای ۴ نفر از متهمان پرونده اکباتان، این بار در دادگاه انقلاب تهران",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cg5p4lj8n5eo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg5p4lj8n5eo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.248171
+    "timestamp": 1779716946.7492242
   },
   {
     "title_fa": "قوه قضائیه ایران مجتبی کیان را برای «همکاری» با آمریکا و اسرائیل اعدام کرد",
@@ -205,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cz9203wwk57o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz9203wwk57o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.2481852
+    "timestamp": 1779716946.7492387
   },
   {
     "title_fa": "دستفروشی در ایران؛ خوداشتغالی برای بقا و مبارزه شخصی با فقر",
@@ -221,7 +221,87 @@
     "url": "https://www.bbc.com/persian/articles/cy520wqdl4ko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy520wqdl4ko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779705806.2482934
+    "timestamp": 1779716946.7494102
+  },
+  {
+    "title_fa": "Could Israel sabotage US-Iran deal?",
+    "title_en": "Could Israel sabotage US-Iran deal?",
+    "summary": [
+      "As the US and Iran move closer to a peace deal, Israel vows to keep striking what it calls regional and nuclear threats."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/could-israel-sabotage-us-iran-deal?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/could-israel-sabotage-us-iran-deal?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779716946.8659816
+  },
+  {
+    "title_fa": "Iran says deal with US ‘not imminent’ despite progress",
+    "title_en": "Iran says deal with US ‘not imminent’ despite progress",
+    "summary": [
+      "Iran’s FM spokesman Baghaei says a ‘large portion’ of issues with the US have been resolved, but a deal is not imminent."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779716946.8659992
+  },
+  {
+    "title_fa": "Could Brazilian oil emerge as one of the big winners of the Iran war?",
+    "title_en": "Could Brazilian oil emerge as one of the big winners of the Iran war?",
+    "summary": [
+      "China and India are among those ramping up imports of Brazilian crude amid Strait of Hormuz disruptions."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779716946.8660102
+  },
+  {
+    "title_fa": "The world urgently needs a US-Iran deal now",
+    "title_en": "The world urgently needs a US-Iran deal now",
+    "summary": [
+      "Without a deal between Washington and Tehran, the fallout from Strait of Hormuz closure could deepen global crises."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/25/the-world-urgently-needs-a-us-iran-deal-now?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/25/the-world-urgently-needs-a-us-iran-deal-now?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779716946.8660471
+  },
+  {
+    "title_fa": "Trump’s war loop: Escalate, retreat, repeat",
+    "title_en": "Trump’s war loop: Escalate, retreat, repeat",
+    "summary": [
+      "Stuck in a quagmire of a war, Trump chafes at negative coverage while Iran digs its heels in."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/25/trumps-war-loop-escalate-retreat-repeat?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/the-listening-post/2026/5/25/trumps-war-loop-escalate-retreat-repeat?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779716946.8660772
   },
   {
     "title_fa": "Israel kills three in attacks on Lebanon, issues more displacement orders",
@@ -237,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss",
     "image": null,
-    "timestamp": 1779705806.4406252
+    "timestamp": 1779716946.8660948
   },
   {
     "title_fa": "Abandoned flotilla boat washes ashore in Egypt with Gaza aid",
@@ -253,7 +333,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/abandoned-flotilla-boat-washes-ashore-in-egypt-with-gaza-aid?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/abandoned-flotilla-boat-washes-ashore-in-egypt-with-gaza-aid?traffic_source=rss",
     "image": null,
-    "timestamp": 1779705806.4406528
+    "timestamp": 1779716946.866116
   },
   {
     "title_fa": "Iran war day 87: Trump says US not in rush to sign deal, dashing optimism",
@@ -269,54 +349,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss",
     "image": null,
-    "timestamp": 1779705806.440693
-  },
-  {
-    "title_fa": "Rubio says US will find ‘another way’ if Iran talks fail",
-    "title_en": "Rubio says US will find ‘another way’ if Iran talks fail",
-    "summary": [
-      "US secretary of state says a &#039;pretty solid&#039; deal is on the table in terms of opening up the Strait of Hormuz."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779705806.4407046
-  },
-  {
-    "title_fa": "Gaza flotilla activists return to Australia, describing abuse",
-    "title_en": "Gaza flotilla activists return to Australia, describing abuse",
-    "summary": [
-      "Australian activists from the Gaza-bound aid flotilla have arrived back in Sydney, reuniting with loved ones."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/gaza-flotilla-activists-return-to-australia-describing-abuse?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/gaza-flotilla-activists-return-to-australia-describing-abuse?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779705806.4407153
-  },
-  {
-    "title_fa": "Singapore’s economy beats expectations as gov’t warns of Iran war fallout",
-    "title_en": "Singapore’s economy beats expectations as gov’t warns of Iran war fallout",
-    "summary": [
-      "GDP grows 6 percent year-on-year in first quarter as AI boom outweighs rising energy costs."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/economy/2026/5/25/singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/economy/2026/5/25/singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779705806.4407337
+    "timestamp": 1779716946.8661542
   }
 ]
