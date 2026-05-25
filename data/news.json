@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "وزیر خارجه آمریکا می‌گوید مذاکرات با ایران «همچنان در حال پیشرفت است»",
-    "title_en": "وزیر خارجه آمریکا می‌گوید مذاکرات با ایران «همچنان در حال پیشرفت است»",
+    "title_fa": "بقایی: نمی‌توان گفت که توافق با آمریکا قریب‌الوقوع است",
+    "title_en": "بقایی: نمی‌توان گفت که توافق با آمریکا قریب‌الوقوع است",
     "summary": [
-      "مارکو روبیو، وزیر خارجه آمریکا، گفته است که توافق میان تهران و واشنگتن «هنوز در حال پیشرفت است» و دونالد ترامپ، رئیس‌جمهور آمریکا «عجله‌ای برای رسیدن به توافق ندارد.» اظهارات رهبران آمریکا و ایران نشان از نزدیک‌تر شدن دو طرف به توافقی برای پایان مخاصمه دارد. در حالی که دونالد ترامپ گفته به نمایندگان خود توصیه کرده برای توافق با ایران «عجله» نکنند، در تهران، مسعود پزشکیان گفته ایران آماده دادن اطمینان به جهان است که به دنبال سلاح هسته‌ای نیست."
+      "سخنگوی وزارت خارجه ایران در واکنش به اظهارات مقام‌های آمریکایی که از پیشرفت در مذاکرات می‌گویند، گفت که در برخی موضوعات دو طرف به جمع‌بندی رسیده‌اند اما نمی‌توان گفت که توافق قریب‌الوقوع است. اسماعیل بقایی مواضع ضد‌و‌نقیض مقام های آمریکا و سابقه حمله این کشور در میانه مذاکره را از جمله دلایل این امر عنوان کرد. این در حالی است که مارکو روبیو، وزیر خارجه آمریکا، گفته است که توافق میان تهران و واشنگتن «هنوز در حال پیشرفت است.» دونالد ترامپ هم دیروز از نزدیک شدن به توافق گفته بود اما بعد تاکید کرد ک"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,23 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cjdp8v51gelt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cjdp8v51gelt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.2209792
+    "timestamp": 1779705806.2478318
   },
   {
-    "title_fa": "چگونه محمود احمدی‌نژاد به یکی از عجیب‌ترین معماهای جنگ ایران تبدیل شد؟",
-    "title_en": "چگونه محمود احمدی‌نژاد به یکی از عجیب‌ترین معماهای جنگ ایران تبدیل شد؟",
+    "title_fa": "دیدار میانجی‌های اصلی ایران و آمریکا با شی جین‌پینگ",
+    "title_en": "دیدار میانجی‌های اصلی ایران و آمریکا با شی جین‌پینگ",
     "summary": [
-      "این گزارش به بررسی ادعاها و تحلیل‌هایی می‌پردازد که پس از انتشار گزارش نیویورک‌تایمز درباره احتمال مطرح شدن نام محمود احمدی‌نژاد در برخی سناریوهای آمریکا و اسرائیل برای آینده سیاسی ایران شکل گرفت. مقاله با مرور مواضع ضداسرائیلی احمدی‌نژاد، تغییر چهره سیاسی او پس از ریاست‌جمهوری و واکنش کارشناسان آمریکایی و اسرائیلی، این پرسش را مطرح می‌کند که آیا عملکرد و سیاست‌های او در عمل به تقویت روایت اسرائیل درباره «تهدید ایران» کمک کرده است یا نه."
+      "شی‌ جین‌پینگ در پکن با میانجیگران اصلی در گفت‌وگوهای ایران و آمریکا دیدار کرد. رسانه‌های دولتی چین گزارش دادند که تلاش‌های دیپلماتیک چندین کشور برای پایان رسمی به جنگ آمریکا و اسرائیل با ایران در جریان است. شهباز شریف، نخست‌وزیر پاکستان، برای یک سفر رسمی چهار روزه در چین است و امروز تلویزیون دولتی پاکستان گزارش کرد که فیلد مارشال عاصم منیر، فرمانده کل ارتش و نیروهای مسلح پاکستان، هم به او پیوسته و در این ملاقات حضور داشته است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cdxpg36dx7yo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cdxpg36dx7yo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c1522430vlwo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c1522430vlwo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.221013
+    "timestamp": 1779705806.2478905
   },
   {
     "title_fa": "عباس اکبری، از بازداشت‌شدگان اعتراضات دی ماه، اعدام شد",
@@ -45,39 +45,39 @@
     "url": "https://www.bbc.com/persian/articles/cwy23yern27o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy23yern27o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.2210305
+    "timestamp": 1779705806.247911
   },
   {
-    "title_fa": "صدور حکم اعدام برای ۴ نفر از متهمان پرونده اکباتان، این بار در دادگاه انقلاب تهران",
-    "title_en": "صدور حکم اعدام برای ۴ نفر از متهمان پرونده اکباتان، این بار در دادگاه انقلاب تهران",
+    "title_fa": "در اولین جلسه حضوری پس از جنگ، قالیباف برای هفتمین سال رئیس مجلس شد",
+    "title_en": "در اولین جلسه حضوری پس از جنگ، قالیباف برای هفتمین سال رئیس مجلس شد",
     "summary": [
-      "رسانه‌ها در ایران از صدور حکم دیگری برای پرونده متهمان پرونده قتل آرمان علی‌وردی در جریان اعتراضات سال ۱۴۰۱ خبر داده‌اند که این بار در جریان یک «محاکمه موازی» در دادگاه انقلاب تهران روی داده است. خبرگزاری‌های ایران روز یکشنبه نوشته‌اند این دادگاه برای ۴ نفر از متهمان این پرونده حکم اعدام صادر کرده و برای دیگر متهمان احکامی بین یک تا پنج سال زندان تعیین کرده است."
+      "انتخابات هیئت رئیسه مجلس در ایران برگزار شد و رئیس و نائب رئیس مجلس ایران یک سال دیگر ابقا شدند. محمدباقر قالیباف با ۲۳۵ رای از ۲۷۱ آرای ماخوذه، برای هفتمین سال متوالی به‌عنوان رئیس مجلس انتخاب شد. برای کرسی ریاست مجلس، محمدباقر قالیباف و محمدتقی نقدعلی و عثمان سالاری نامزد بودند. علی نیکزاد، نماینده اردبیل، و حمیدرضا حاجی بابایی، نماینده همدان، هم به‌عنوان نواب رئیس انتخاب شدند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cg5p4lj8n5eo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cg5p4lj8n5eo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c78qq9jvjl2o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c78qq9jvjl2o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.221056
+    "timestamp": 1779705806.247945
   },
   {
-    "title_fa": "درخت شاه‌بلوط چطور ظهور و سقوط امپراطوری روم را روایت می‌کند؟",
-    "title_en": "درخت شاه‌بلوط چطور ظهور و سقوط امپراطوری روم را روایت می‌کند؟",
+    "title_fa": "چگونه محمود احمدی‌نژاد به یکی از عجیب‌ترین معماهای جنگ ایران تبدیل شد؟",
+    "title_en": "چگونه محمود احمدی‌نژاد به یکی از عجیب‌ترین معماهای جنگ ایران تبدیل شد؟",
     "summary": [
-      "درختان شاه‌بلوط اروپا روایت‌گر داستانی پنهانی‌اند که سرنوشت امپراطوری روم باستان و میراث به جای مانده از آن در جنگل‌های این قاره را به تصویر می‌کشند."
+      "این گزارش به بررسی ادعاها و تحلیل‌هایی می‌پردازد که پس از انتشار گزارش نیویورک‌تایمز درباره احتمال مطرح شدن نام محمود احمدی‌نژاد در برخی سناریوهای آمریکا و اسرائیل برای آینده سیاسی ایران شکل گرفت. مقاله با مرور مواضع ضداسرائیلی احمدی‌نژاد، تغییر چهره سیاسی او پس از ریاست‌جمهوری و واکنش کارشناسان آمریکایی و اسرائیلی، این پرسش را مطرح می‌کند که آیا عملکرد و سیاست‌های او در عمل به تقویت روایت اسرائیل درباره «تهدید ایران» کمک کرده است یا نه."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cd909j0key7o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cd909j0key7o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cdxpg36dx7yo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cdxpg36dx7yo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.2210712
+    "timestamp": 1779705806.2479756
   },
   {
     "title_fa": "درباره محتوای توافق احتمالی ایران و آمریکا چه می‌دانیم؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.2211041
+    "timestamp": 1779705806.2480066
   },
   {
     "title_fa": "حذف سردار آزمون از جام جهانی؛ ماجرا، فقط انتشار عکس با حاکم دوبی بود؟",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.2211246
+    "timestamp": 1779705806.2480285
   },
   {
     "title_fa": "اختلاف جمهوری‌خواهان بر سر توافق احتمالی ترامپ با ایران",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cyv21m0eg4vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cyv21m0eg4vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.2211492
+    "timestamp": 1779705806.2480538
   },
   {
     "title_fa": "مثلث قوه قضاییه، وکلای امنیتی و خبرگزاری میزان؛ چرا اعدام‌ها با «شدت و سرعت» اجرا می‌شود؟",
@@ -141,7 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.221169
+    "timestamp": 1779705806.2480755
+  },
+  {
+    "title_fa": "درخت شاه‌بلوط چطور ظهور و سقوط امپراطوری روم را روایت می‌کند؟",
+    "title_en": "درخت شاه‌بلوط چطور ظهور و سقوط امپراطوری روم را روایت می‌کند؟",
+    "summary": [
+      "درختان شاه‌بلوط اروپا روایت‌گر داستانی پنهانی‌اند که سرنوشت امپراطوری روم باستان و میراث به جای مانده از آن در جنگل‌های این قاره را به تصویر می‌کشند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cd909j0key7o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cd909j0key7o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779705806.2481086
   },
   {
     "title_fa": "چرا پرونده چین به قالیباف سپرده شد؟",
@@ -157,7 +173,23 @@
     "url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrpe4e7vg6o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.2211914
+    "timestamp": 1779705806.248132
+  },
+  {
+    "title_fa": "صدور حکم اعدام برای ۴ نفر از متهمان پرونده اکباتان، این بار در دادگاه انقلاب تهران",
+    "title_en": "صدور حکم اعدام برای ۴ نفر از متهمان پرونده اکباتان، این بار در دادگاه انقلاب تهران",
+    "summary": [
+      "رسانه‌ها در ایران از صدور حکم دیگری برای پرونده متهمان پرونده قتل آرمان علی‌وردی در جریان اعتراضات سال ۱۴۰۱ خبر داده‌اند که این بار در جریان یک «محاکمه موازی» در دادگاه انقلاب تهران روی داده است. خبرگزاری‌های ایران روز یکشنبه نوشته‌اند این دادگاه برای ۴ نفر از متهمان این پرونده حکم اعدام صادر کرده و برای دیگر متهمان احکامی بین یک تا پنج سال زندان تعیین کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cg5p4lj8n5eo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cg5p4lj8n5eo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779705806.248171
   },
   {
     "title_fa": "قوه قضائیه ایران مجتبی کیان را برای «همکاری» با آمریکا و اسرائیل اعدام کرد",
@@ -173,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cz9203wwk57o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cz9203wwk57o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.2212555
+    "timestamp": 1779705806.2481852
   },
   {
     "title_fa": "دستفروشی در ایران؛ خوداشتغالی برای بقا و مبارزه شخصی با فقر",
@@ -189,150 +221,102 @@
     "url": "https://www.bbc.com/persian/articles/cy520wqdl4ko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy520wqdl4ko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779689145.2213423
+    "timestamp": 1779705806.2482934
   },
   {
-    "title_fa": "مونیکا ویت کیست؛ نظامی سابق آمریکایی که به جاسوسی برای ایران متهم شد و اف‌بی‌آی برای او جایزه تعیین کرد",
-    "title_en": "مونیکا ویت کیست؛ نظامی سابق آمریکایی که به جاسوسی برای ایران متهم شد و اف‌بی‌آی برای او جایزه تعیین کرد",
+    "title_fa": "Israel kills three in attacks on Lebanon, issues more displacement orders",
+    "title_en": "Israel kills three in attacks on Lebanon, issues more displacement orders",
     "summary": [
-      "چرا اف‌بی‌آی برای یافتن مونیکا ویت، مامور پیشین ضدجاسوسی آمریکا و متخصص زبان فارسی که متهم به همکاری با ایران شده بود، ۲۰۰ هزار دلار جایزه تعیین کرد و او به چه اطلاعاتی دسترسی داشت؟"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/czr2084p8zdo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779689145.2213593
-  },
-  {
-    "title_fa": "Oil prices fall amid mixed signals on US-Iran peace deal",
-    "title_en": "Oil prices fall amid mixed signals on US-Iran peace deal",
-    "summary": [
-      "Japan&#039;s stock market surges to record high on hopes of an end to US-Israel war on Iran."
+      "Israel carries out attacks on multiple villages and towns in southern Lebanon."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss",
+    "url": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss",
     "image": null,
-    "timestamp": 1779689145.4263175
+    "timestamp": 1779705806.4406252
   },
   {
-    "title_fa": "LIVE: Rubio says Trump ‘not going to make a bad deal’ with Iran",
-    "title_en": "LIVE: Rubio says Trump ‘not going to make a bad deal’ with Iran",
+    "title_fa": "Abandoned flotilla boat washes ashore in Egypt with Gaza aid",
+    "title_en": "Abandoned flotilla boat washes ashore in Egypt with Gaza aid",
     "summary": [
-      "US president says any potential agreement with Tehran will be &#039;good and proper&#039; as mediation efforts continue."
+      "A small boat believed to be part of the Global Sumud Flotilla that was carrying aid for Gaza has washed ashore in Egypt"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-iran-deal-not-fully-negotiated-yet?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-iran-deal-not-fully-negotiated-yet?traffic_source=rss",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/abandoned-flotilla-boat-washes-ashore-in-egypt-with-gaza-aid?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/abandoned-flotilla-boat-washes-ashore-in-egypt-with-gaza-aid?traffic_source=rss",
     "image": null,
-    "timestamp": 1779689145.4263484
+    "timestamp": 1779705806.4406528
   },
   {
-    "title_fa": "Ecuador’s Noboa pledges to extradite criminals in State of the Union speech",
-    "title_en": "Ecuador’s Noboa pledges to extradite criminals in State of the Union speech",
+    "title_fa": "Iran war day 87: Trump says US not in rush to sign deal, dashing optimism",
+    "title_en": "Iran war day 87: Trump says US not in rush to sign deal, dashing optimism",
     "summary": [
-      "The right-wing president highlighted anti-crime operations and economic progress, while critics warned of abuses."
+      "Iranian media are reporting that a deal may not be reached amid disagreements on some key issues."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/24/ecuadors-noboa-pledges-to-extradite-criminals-in-state-of-the-union-speech?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/24/ecuadors-noboa-pledges-to-extradite-criminals-in-state-of-the-union-speech?traffic_source=rss",
+    "url": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss",
     "image": null,
-    "timestamp": 1779689145.426361
+    "timestamp": 1779705806.440693
   },
   {
-    "title_fa": "Inside a Beirut barbershop shaped by war and crisis",
-    "title_en": "Inside a Beirut barbershop shaped by war and crisis",
+    "title_fa": "Rubio says US will find ‘another way’ if Iran talks fail",
+    "title_en": "Rubio says US will find ‘another way’ if Iran talks fail",
     "summary": [
-      "For nearly 20 years, Mario Habib has run a barbershop through wars, economic collapse and political crisis in Lebanon."
+      "US secretary of state says a &#039;pretty solid&#039; deal is on the table in terms of opening up the Strait of Hormuz."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/inside-a-beirut-barbershop-shaped-by-war-and-crisis?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/inside-a-beirut-barbershop-shaped-by-war-and-crisis?traffic_source=rss",
+    "url": "https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail?traffic_source=rss",
     "image": null,
-    "timestamp": 1779689145.4263809
+    "timestamp": 1779705806.4407046
   },
   {
-    "title_fa": "Pakistan’s Eid livestock traders losing as war on Iran pushes up prices",
-    "title_en": "Pakistan’s Eid livestock traders losing as war on Iran pushes up prices",
+    "title_fa": "Gaza flotilla activists return to Australia, describing abuse",
+    "title_en": "Gaza flotilla activists return to Australia, describing abuse",
     "summary": [
-      "Livestock traders in Pakistan say the war on Iran has hurt their sales ahead of Eid al-Adha."
+      "Australian activists from the Gaza-bound aid flotilla have arrived back in Sydney, reuniting with loved ones."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/pakistans-eid-livestock-traders-losing-as-war-on-iran-pushes-up-prices?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/pakistans-eid-livestock-traders-losing-as-war-on-iran-pushes-up-prices?traffic_source=rss",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/gaza-flotilla-activists-return-to-australia-describing-abuse?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/gaza-flotilla-activists-return-to-australia-describing-abuse?traffic_source=rss",
     "image": null,
-    "timestamp": 1779689145.4264004
+    "timestamp": 1779705806.4407153
   },
   {
-    "title_fa": "‘Trump needs a deal, no matter how bad it is’",
-    "title_en": "‘Trump needs a deal, no matter how bad it is’",
+    "title_fa": "Singapore’s economy beats expectations as gov’t warns of Iran war fallout",
+    "title_en": "Singapore’s economy beats expectations as gov’t warns of Iran war fallout",
     "summary": [
-      "Harlan Ullman argues that US President Donald Trump is chasing any Iran deal to relieve mounting pressure at home."
+      "GDP grows 6 percent year-on-year in first quarter as AI boom outweighs rising energy costs."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/quotable/2026/5/24/trump-needs-a-deal-no-matter-how-bad-it?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/quotable/2026/5/24/trump-needs-a-deal-no-matter-how-bad-it?traffic_source=rss",
+    "url": "https://www.aljazeera.com/economy/2026/5/25/singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/25/singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout?traffic_source=rss",
     "image": null,
-    "timestamp": 1779689145.426421
-  },
-  {
-    "title_fa": "How will Iran war fallout impact upcoming US elections?",
-    "title_en": "How will Iran war fallout impact upcoming US elections?",
-    "summary": [
-      "Trump purges Republican critics, but are the prospects for his party in upcoming elections heading up or down?"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779689145.42644
-  },
-  {
-    "title_fa": "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
-    "title_en": "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
-    "summary": [
-      "Israel&#039;s attacks in southern Lebanon are expanding despite supposed ceasefire."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779689145.426449
+    "timestamp": 1779705806.4407337
   }
 ]
