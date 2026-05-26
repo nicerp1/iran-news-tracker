@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c202294kr66t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c202294kr66t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779827080.0862832
+    "timestamp": 1779832791.6399364
   },
   {
     "title_fa": "تهدید روسیه برای حملات بیشتر به کی‌یف و هشدار به اتباع خارجی برای ترک این شهر",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/clyppvyx493o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyppvyx493o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779827080.0863516
+    "timestamp": 1779832791.6400661
   },
   {
     "title_fa": "بازگشت «نسبی» اینترنت ایران و تصمیم دیوان عدالت اداری در منتفی کردن دستور پزشکیان",
@@ -45,23 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779827080.0863817
-  },
-  {
-    "title_fa": "قوه قضائیه ایران می‌گوید غلامرضا خانی‌شکراب را برای «جاسوسی برای اسرائیل» محاکمه و اعدام کرد",
-    "title_en": "قوه قضائیه ایران می‌گوید غلامرضا خانی‌شکراب را برای «جاسوسی برای اسرائیل» محاکمه و اعدام کرد",
-    "summary": [
-      "قوهٔ قضائیه ایران اعلام کرده است که غلامرضا خانی‌شکراب پس از محاکمه به اتهام جاسوسی برای اسرائیل و تأیید حکم اعدامش در دیوان عالی کشور، اعدام شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779827080.0863976
+    "timestamp": 1779832791.6401014
   },
   {
     "title_fa": "رسانه‌های اسرائیلی ایران را برنده توافق احتمالی با آمریکا می‌دانند",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c2k2214nv3vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2k2214nv3vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779827080.0864146
+    "timestamp": 1779832791.6401207
   },
   {
     "title_fa": "سنتکام: به چند سایت پرتاب موشک و قایق در جنوب ایران حمله کردیم",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779827080.0864336
+    "timestamp": 1779832791.6401365
   },
   {
     "title_fa": "قالیباف و عراقچی در سفری غیرمنتظره وارد قطر شدند",
@@ -109,7 +93,23 @@
     "url": "https://www.bbc.com/persian/articles/c62dd7zn2ydo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c62dd7zn2ydo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779827080.0864902
+    "timestamp": 1779832791.640194
+  },
+  {
+    "title_fa": "قوه قضائیه ایران می‌گوید غلامرضا خانی‌شکراب را برای «جاسوسی برای اسرائیل» محاکمه و اعدام کرد",
+    "title_en": "قوه قضائیه ایران می‌گوید غلامرضا خانی‌شکراب را برای «جاسوسی برای اسرائیل» محاکمه و اعدام کرد",
+    "summary": [
+      "قوهٔ قضائیه ایران اعلام کرده است که غلامرضا خانی‌شکراب پس از محاکمه به اتهام جاسوسی برای اسرائیل و تأیید حکم اعدامش در دیوان عالی کشور، اعدام شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779832791.6402717
   },
   {
     "title_fa": "آغاز مناسک حج با حضور بیش از ۱/۵ میلیون زائر خارجی علی‌رغم بیم از جنگ ایران",
@@ -125,23 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cg5pp4eg622o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cg5pp4eg622o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779827080.0866034
-  },
-  {
-    "title_fa": "دیدار میانجی‌های اصلی ایران و آمریکا با شی جین‌پینگ",
-    "title_en": "دیدار میانجی‌های اصلی ایران و آمریکا با شی جین‌پینگ",
-    "summary": [
-      "شی‌ جین‌پینگ در پکن با میانجیگران اصلی در گفت‌وگوهای ایران و آمریکا دیدار کرد. رسانه‌های دولتی چین گزارش دادند که تلاش‌های دیپلماتیک چندین کشور برای پایان رسمی به جنگ آمریکا و اسرائیل با ایران در جریان است. شهباز شریف، نخست‌وزیر پاکستان، برای یک سفر رسمی چهار روزه در چین است و امروز تلویزیون دولتی پاکستان گزارش کرد که فیلد مارشال عاصم منیر، فرمانده کل ارتش و نیروهای مسلح پاکستان، هم به او پیوسته و در این ملاقات حضور داشته است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c1522430vlwo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c1522430vlwo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779827080.0866597
+    "timestamp": 1779832791.6403298
   },
   {
     "title_fa": "درباره محتوای توافق احتمالی ایران و آمریکا چه می‌دانیم؟",
@@ -157,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779827080.086704
+    "timestamp": 1779832791.6404014
   },
   {
     "title_fa": "حذف سردار آزمون از جام جهانی؛ ماجرا، فقط انتشار عکس با حاکم دوبی بود؟",
@@ -173,7 +157,55 @@
     "url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779827080.0867248
+    "timestamp": 1779832791.6404235
+  },
+  {
+    "title_fa": "Aftermath of deadly Israeli strikes in southern Lebanon",
+    "title_en": "Aftermath of deadly Israeli strikes in southern Lebanon",
+    "summary": [
+      "New videos show widespread destruction in Maarakeh following deadly Israeli strikes across southern Lebanon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779832791.8667572
+  },
+  {
+    "title_fa": "US picks potential partners for using Cold War-era plutonium as fuel",
+    "title_en": "US picks potential partners for using Cold War-era plutonium as fuel",
+    "summary": [
+      "Trump gov&#039;t plans to make about 20 tonnes of plutonium from dismantled nuclear warheads available to US power firms."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779832791.8667927
+  },
+  {
+    "title_fa": "US Senate confirms veteran naval officer Frank Garcia as top Africa envoy",
+    "title_en": "US Senate confirms veteran naval officer Frank Garcia as top Africa envoy",
+    "summary": [
+      "The Senate confirmation ends a long vacancy and signals a trade-focused shift in US policy towards Africa."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779832791.866813
   },
   {
     "title_fa": "Did Trump oversell a broken Iran ceasefire deal?",
@@ -189,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
     "image": null,
-    "timestamp": 1779827080.1653304
+    "timestamp": 1779832791.8668225
   },
   {
     "title_fa": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
@@ -205,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss",
     "image": null,
-    "timestamp": 1779827080.165347
+    "timestamp": 1779832791.8668354
   },
   {
     "title_fa": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
@@ -221,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/lebanon-latest-netanyahu-vows-escalation-against-hezbollah?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/lebanon-latest-netanyahu-vows-escalation-against-hezbollah?traffic_source=rss",
     "image": null,
-    "timestamp": 1779827080.1654062
+    "timestamp": 1779832791.866892
   },
   {
     "title_fa": "What has Pope Leo warned about AI – and why that’s significant",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/26/what-has-pope-leo-warned-about-ai-and-why-thats-significant?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/26/what-has-pope-leo-warned-about-ai-and-why-thats-significant?traffic_source=rss",
     "image": null,
-    "timestamp": 1779827080.1654167
+    "timestamp": 1779832791.8669024
   },
   {
     "title_fa": "Iranian fishermen struggle to survive amid Hormuz blockade",
@@ -253,86 +285,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss",
     "image": null,
-    "timestamp": 1779827080.1654496
-  },
-  {
-    "title_fa": "Tehran labels US attacks ‘gross violation’, says it is prepared to respond",
-    "title_en": "Tehran labels US attacks ‘gross violation’, says it is prepared to respond",
-    "summary": [
-      "The US says it struck boats and missile sites in Iran, shortly after both sides had indicated progress in peace talks."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/26/tehran-labels-us-attacks-gross-violation-says-it-is-prepared-to-respond?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/26/tehran-labels-us-attacks-gross-violation-says-it-is-prepared-to-respond?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779827080.165483
-  },
-  {
-    "title_fa": "Israel is no longer ‘shooting and crying’",
-    "title_en": "Israel is no longer ‘shooting and crying’",
-    "summary": [
-      "A settler society rewarded for its violence has stopped pretending to mourn it."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/opinions/2026/5/26/israel-is-no-longer-shooting-and-crying?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/opinions/2026/5/26/israel-is-no-longer-shooting-and-crying?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779827080.1654935
-  },
-  {
-    "title_fa": "Hajj pilgrims gather at Mount Arafat under scorching desert sun",
-    "title_en": "Hajj pilgrims gather at Mount Arafat under scorching desert sun",
-    "summary": [
-      "Temperatures near 44°C test worshippers’ endurance as the annual pilgrimage unfolds under the shadow of war."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/gallery/2026/5/26/hajj-pilgrims-gather-at-mount-arafat-under-scorching-desert-sun?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/gallery/2026/5/26/hajj-pilgrims-gather-at-mount-arafat-under-scorching-desert-sun?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779827080.1655066
-  },
-  {
-    "title_fa": "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation",
-    "title_en": "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation",
-    "summary": [
-      "Russia and Ukraine have been at war since February 2022 and have not yet agreed on a peace deal."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/26/leave-kyiv-why-russias-latest-ukraine-threat-is-a-major-escalation?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/26/leave-kyiv-why-russias-latest-ukraine-threat-is-a-major-escalation?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779827080.1655176
-  },
-  {
-    "title_fa": "Iran’s president praises military after US strikes",
-    "title_en": "Iran’s president praises military after US strikes",
-    "summary": [
-      "President Masoud Pezeshkian praised Iran’s military capabilities after the US carried out ‘self-defence’ strikes on Iran"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779827080.165529
+    "timestamp": 1779832791.866935
   }
 ]
