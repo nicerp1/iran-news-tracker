@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c202294kr66t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c202294kr66t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779774358.0779078
+    "timestamp": 1779785785.4544094
   },
   {
     "title_fa": "سنتکام: به چند سایت پرتاب موشک و قایق در جنوب ایران حمله کردیم",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779774358.0779424
+    "timestamp": 1779785785.4544673
   },
   {
     "title_fa": "قالیباف و عراقچی در سفری غیرمنتظره وارد قطر شدند",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c62dd7zn2ydo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c62dd7zn2ydo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779774358.0780048
+    "timestamp": 1779785785.454532
   },
   {
     "title_fa": "چگونه محمود احمدی‌نژاد به یکی از عجیب‌ترین معماهای جنگ ایران تبدیل شد؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cdxpg36dx7yo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdxpg36dx7yo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779774358.0780354
+    "timestamp": 1779785785.454569
   },
   {
     "title_fa": "درباره محتوای توافق احتمالی ایران و آمریکا چه می‌دانیم؟",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779774358.0780718
+    "timestamp": 1779785785.454602
   },
   {
     "title_fa": "حذف سردار آزمون از جام جهانی؛ ماجرا، فقط انتشار عکس با حاکم دوبی بود؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779774358.0780945
+    "timestamp": 1779785785.4546537
   },
   {
     "title_fa": "درخت شاه‌بلوط چطور ظهور و سقوط امپراطوری روم را روایت می‌کند؟",
@@ -109,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cd909j0key7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd909j0key7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779774358.0781407
-  },
-  {
-    "title_fa": "مثلث قوه قضاییه، وکلای امنیتی و خبرگزاری میزان؛ چرا اعدام‌ها با «شدت و سرعت» اجرا می‌شود؟",
-    "title_en": "مثلث قوه قضاییه، وکلای امنیتی و خبرگزاری میزان؛ چرا اعدام‌ها با «شدت و سرعت» اجرا می‌شود؟",
-    "summary": [
-      "قوه قضاییه ایران، دو روز پیش نیز دو نفر را به اتهام «عضویت در گروه‌های تجزیه‌طلب» محکوم و اعدام کرد. خبرگزاری میزان جزئیاتی از زمان بازداشت رامین زله و کریم معروف‌پور ارائه نداد و در باره مراحل دادرسی و محاکمه آنها توضیحی کلی منتشر کرد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/ckgpz3g38r7o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779774358.0781605
+    "timestamp": 1779785785.4546697
   },
   {
     "title_fa": "دیدار میانجی‌های اصلی ایران و آمریکا با شی جین‌پینگ",
@@ -141,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c1522430vlwo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1522430vlwo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779774358.0781896
+    "timestamp": 1779785785.4546998
   },
   {
     "title_fa": "در اولین جلسه حضوری پس از جنگ، قالیباف برای هفتمین سال رئیس مجلس شد",
@@ -157,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c78qq9jvjl2o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78qq9jvjl2o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779774358.078216
+    "timestamp": 1779785785.4547536
   },
   {
     "title_fa": "عباس اکبری، از بازداشت‌شدگان اعتراضات دی ماه، اعدام شد",
@@ -173,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy23yern27o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy23yern27o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779774358.07823
+    "timestamp": 1779785785.4547727
   },
   {
     "title_fa": "اختلاف جمهوری‌خواهان بر سر توافق احتمالی ترامپ با ایران",
@@ -189,7 +173,87 @@
     "url": "https://www.bbc.com/persian/articles/cyv21m0eg4vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cyv21m0eg4vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779774358.078248
+    "timestamp": 1779785785.4547923
+  },
+  {
+    "title_fa": "Bodies with names: Inside Gaza’s cemetery of the missing",
+    "title_en": "Bodies with names: Inside Gaza’s cemetery of the missing",
+    "summary": [
+      "Gaza’s cemetery of unidentified bodies reflects toll of Israel&#039;s war as families search for disappeared relatives."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/features/2026/5/26/bodies-with-names-inside-gazas-cemetery-of-the-missing?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/features/2026/5/26/bodies-with-names-inside-gazas-cemetery-of-the-missing?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779785785.5374613
+  },
+  {
+    "title_fa": "US strikes Iran again: What we know, and is the ceasefire over?",
+    "title_en": "US strikes Iran again: What we know, and is the ceasefire over?",
+    "summary": [
+      "Before the US strikes on targets in southern Iran, Tehran said a deal with Washington was not imminent."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/26/us-strikes-iran-again-what-we-know-and-is-the-ceasefire-over?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/26/us-strikes-iran-again-what-we-know-and-is-the-ceasefire-over?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779785785.5374734
+  },
+  {
+    "title_fa": "As Trump woos China, the Quad grouping drifts towards irrelevance",
+    "title_en": "As Trump woos China, the Quad grouping drifts towards irrelevance",
+    "summary": [
+      "As Washington shifts military focus away from Asia, analysts say the Quad is struggling to define its purpose."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/26/as-trump-woos-china-the-quad-alliance-drifts-toward-irrelevance?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/26/as-trump-woos-china-the-quad-alliance-drifts-toward-irrelevance?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779785785.5375252
+  },
+  {
+    "title_fa": "Rubio says Iran deal could take days after US forces launch new attacks",
+    "title_en": "Rubio says Iran deal could take days after US forces launch new attacks",
+    "summary": [
+      "US forces say they hit Iranian missile sites and boats as Iranian delegation in Qatar for talks on extending ceasefire."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/26/rubio-says-iran-deal-could-take-days-after-us-forces-launch-new-attacks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/26/rubio-says-iran-deal-could-take-days-after-us-forces-launch-new-attacks?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779785785.5375466
+  },
+  {
+    "title_fa": "Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar",
+    "title_en": "Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar",
+    "summary": [
+      "US forces carry out series of attacks in the country&#039;s south as Iranian delegation holds talks in Qatar."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/26/iran-war-day-88-us-attacks-near-strait-of-hormuz-talks-under-way-in-qatar?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/26/iran-war-day-88-us-attacks-near-strait-of-hormuz-talks-under-way-in-qatar?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779785785.5375562
   },
   {
     "title_fa": "US strikes southern Iran in ‘self defence’ targeting Iranian mine boats",
@@ -205,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_reported-us-strikes-southern-iran-in-self-defence-250526?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_reported-us-strikes-southern-iran-in-self-defence-250526?traffic_source=rss",
     "image": null,
-    "timestamp": 1779774358.2510052
+    "timestamp": 1779785785.537587
   },
   {
     "title_fa": "Netanyahu vows to ‘smite’ Hezbollah with ‘overwhelming’ force",
@@ -221,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/netanyahu-vows-to-smite-hezbollah-with-overwhelming-force?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/netanyahu-vows-to-smite-hezbollah-with-overwhelming-force?traffic_source=rss",
     "image": null,
-    "timestamp": 1779774358.2510235
+    "timestamp": 1779785785.5375998
   },
   {
     "title_fa": "US military launches strikes on southern Iran amid talks in Qatar",
@@ -237,118 +301,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/26/us-military-launches-strikes-on-southern-iran-amid-talks-in-qatar?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/26/us-military-launches-strikes-on-southern-iran-amid-talks-in-qatar?traffic_source=rss",
     "image": null,
-    "timestamp": 1779774358.2510622
-  },
-  {
-    "title_fa": "Canada’s Mark Carney calls treatment of Gaza flotilla activists ‘appalling’",
-    "title_en": "Canada’s Mark Carney calls treatment of Gaza flotilla activists ‘appalling’",
-    "summary": [
-      "The prime minister called for an independent investigation into Israeli mistreatment, but stopped short of penalties."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/26/canadas-mark-carney-calls-treatment-of-gaza-flotilla-activists-appalling?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/26/canadas-mark-carney-calls-treatment-of-gaza-flotilla-activists-appalling?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779774358.2510748
-  },
-  {
-    "title_fa": "Tensions rise in Bolivia as protesters march toward presidential palace",
-    "title_en": "Tensions rise in Bolivia as protesters march toward presidential palace",
-    "summary": [
-      "Demonstrators gathered near the presidential palace in La Paz as police maintained blockades and tensions remained high."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_report-bolivia-protesters-presidential-palace-250526?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_report-bolivia-protesters-presidential-palace-250526?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779774358.251085
-  },
-  {
-    "title_fa": "Iran war live: US strikes Iran’s south, Tehran officials in Qatar for talks",
-    "title_en": "Iran war live: US strikes Iran’s south, Tehran officials in Qatar for talks",
-    "summary": [
-      "Iran&#039;s President Masoud Pezeshkian has ordered the restoration of internet services after months of blocked access."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779774358.2510962
-  },
-  {
-    "title_fa": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
-    "title_en": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
-    "summary": [
-      "Prime Minister Netanyahu&#039;s order comes despite &#039;ceasefire&#039; agreed with Lebanon last month, which was recently extended."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779774358.2511275
-  },
-  {
-    "title_fa": "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
-    "title_en": "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
-    "summary": [
-      "US President Donald Trump marked Memorial Day at Arlington National Cemetery, paying tribute to US troops killed."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-pays-tribute-to-us-troops-killed-in-war-on-iran-on-memorial-day?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-pays-tribute-to-us-troops-killed-in-war-on-iran-on-memorial-day?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779774358.2511468
-  },
-  {
-    "title_fa": "Trump dangles normalisation amid pro-Israel criticism of possible Iran deal",
-    "title_en": "Trump dangles normalisation amid pro-Israel criticism of possible Iran deal",
-    "summary": [
-      "US president says he is &#039;mandatorily requesting&#039; that regional countries establish formal relations with Israel."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/25/trump-dangles-normalisation-amid-pro-israel-criticism-of-possible-iran-deal?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/25/trump-dangles-normalisation-amid-pro-israel-criticism-of-possible-iran-deal?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779774358.2511642
-  },
-  {
-    "title_fa": "Father mourns daughter killed in Israeli strike on Gaza",
-    "title_en": "Father mourns daughter killed in Israeli strike on Gaza",
-    "summary": [
-      "A six-year-old Palestinian girl was killed by an Israeli strike on a displacement camp in Khan Younis."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779774358.251191
+    "timestamp": 1779785785.5376344
   }
 ]
