@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c0r2yw8dll9t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0r2yw8dll9t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779857465.6278408
+    "timestamp": 1779870739.6167414
   },
   {
     "title_fa": "کدام ارزها از جنگ ایران سود بردند و کدام آسیب دیدند؟",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779857465.627863
+    "timestamp": 1779870739.6173205
   },
   {
     "title_fa": "بازگشت «نسبی» اینترنت ایران و تصمیم دیوان عدالت اداری در منتفی کردن دستور پزشکیان",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779857465.6282113
+    "timestamp": 1779870739.6173804
   },
   {
     "title_fa": "رسانه‌های اسرائیلی ایران را برنده توافق احتمالی با آمریکا می‌دانند",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c2k2214nv3vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2k2214nv3vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779857465.6282318
+    "timestamp": 1779870739.6173987
   },
   {
     "title_fa": "سنتکام: به چند سایت پرتاب موشک و قایق در جنوب ایران حمله کردیم",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779857465.6282535
+    "timestamp": 1779870739.6174195
   },
   {
     "title_fa": "تهدید روسیه برای حملات بیشتر به کی‌یف و هشدار به اتباع خارجی برای ترک این شهر",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/clyppvyx493o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyppvyx493o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779857465.6283653
+    "timestamp": 1779870739.617522
   },
   {
     "title_fa": "آنچه گذشت؛ پس از حدود سه ماه، اینترنت در ایران به شبکه جهانی بازگشت",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c202294kr66t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c202294kr66t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779857465.6284034
+    "timestamp": 1779870739.6175575
   },
   {
     "title_fa": "قوه قضائیه ایران می‌گوید غلامرضا خانی‌شکراب را برای «جاسوسی برای اسرائیل» محاکمه و اعدام کرد",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779857465.6284213
+    "timestamp": 1779870739.6175766
   },
   {
     "title_fa": "درباره محتوای توافق احتمالی ایران و آمریکا چه می‌دانیم؟",
@@ -141,23 +141,103 @@
     "url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pkl0dl52o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779857465.6284873
+    "timestamp": 1779870739.617655
   },
   {
-    "title_fa": "حذف سردار آزمون از جام جهانی؛ ماجرا، فقط انتشار عکس با حاکم دوبی بود؟",
-    "title_en": "حذف سردار آزمون از جام جهانی؛ ماجرا، فقط انتشار عکس با حاکم دوبی بود؟",
+    "title_fa": "Pope appeals for Gaza aid after being asked about flotilla activists",
+    "title_en": "Pope appeals for Gaza aid after being asked about flotilla activists",
     "summary": [
-      "روز شنبه ۲۶ اردیبهشت، سایت رسمی فدراسیون فوتبال جمهوری اسلامی ایران فهرست سی نفره تیم ملی برای جام جهانی ۲۰۲۶ را منتشر کرد. فهرستی با یک غایب بزرگ: سردار آزمون، مهاجمی با ۵۷ گل در ۹۱ بازی ملی، در فهرست جایی نداشت. امیر قلعه‌نویی درباره دلیل این حذف توضیحی نداد."
+      "Pope appeals for Gaza aid after being asked about flotilla activists"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cvgz08x1kp8o?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/pope-appeals-for-gaza-aid-after-being-asked-about-flotilla-activists?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/pope-appeals-for-gaza-aid-after-being-asked-about-flotilla-activists?traffic_source=rss",
     "image": null,
-    "timestamp": 1779857465.628508
+    "timestamp": 1779870739.8072956
+  },
+  {
+    "title_fa": "How badly is Europe affected by fertiliser shortages due to the Iran war?",
+    "title_en": "How badly is Europe affected by fertiliser shortages due to the Iran war?",
+    "summary": [
+      "EU launches fertiliser plan as Strait of Hormuz disruption fuels food security fears."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779870739.8073275
+  },
+  {
+    "title_fa": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
+    "title_en": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
+    "summary": [
+      "Israeli strikes kill 31 in Lebanon as attacks intensify and displacement orders spread."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779870739.8073363
+  },
+  {
+    "title_fa": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war",
+    "title_en": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war",
+    "summary": [
+      "Iranian officials said the latest US strikes only validated their scepticism and resolve to stand firm on demands."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779870739.8073475
+  },
+  {
+    "title_fa": "‘No livestock but still hope’: Palestinians prepare for Eid al-Adha in Gaza",
+    "title_en": "‘No livestock but still hope’: Palestinians prepare for Eid al-Adha in Gaza",
+    "summary": [
+      "Gaza Palestinians will mark a third Eid under war-like conditions, with a shortage of food and joy."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/27/no-livestock-but-still-hope-palestinians-prepare-for-eid-al-adha-in-gaza?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/27/no-livestock-but-still-hope-palestinians-prepare-for-eid-al-adha-in-gaza?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779870739.8073597
+  },
+  {
+    "title_fa": "Israel ‘intensifies’ attacks in Lebanon killing at least 31 people",
+    "title_en": "Israel ‘intensifies’ attacks in Lebanon killing at least 31 people",
+    "summary": [
+      "At least 31 people have been killed in Israeli attacks across southern Lebanon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-intensifies-attacks-in-lebanon-killing-at-least-31-people?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-intensifies-attacks-in-lebanon-killing-at-least-31-people?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779870739.8073902
   },
   {
     "title_fa": "How decision-making happens in Iran",
@@ -173,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_draft-3-dnrexp-260526-hashema-iran_decision_making-260526?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_draft-3-dnrexp-260526-hashema-iran_decision_making-260526?traffic_source=rss",
     "image": null,
-    "timestamp": 1779857465.7518961
+    "timestamp": 1779870739.8074398
   },
   {
     "title_fa": "Iran war live: Israel kills 31 in Lebanon; Tehran blasts US truce violation",
@@ -189,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?traffic_source=rss",
     "image": null,
-    "timestamp": 1779857465.75192
+    "timestamp": 1779870739.80746
   },
   {
     "title_fa": "Is the viral ‘Cockroach Janta Party’ a threat to Modi’s government?",
@@ -205,86 +285,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_dnrexp-260526-warrinera-modi_05-260526?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_dnrexp-260526-warrinera-modi_05-260526?traffic_source=rss",
     "image": null,
-    "timestamp": 1779857465.7519317
-  },
-  {
-    "title_fa": "Aftermath of deadly Israeli strikes in southern Lebanon",
-    "title_en": "Aftermath of deadly Israeli strikes in southern Lebanon",
-    "summary": [
-      "New videos show widespread destruction in Maarakeh following deadly Israeli strikes across southern Lebanon."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779857465.75195
-  },
-  {
-    "title_fa": "US picks potential partners for using Cold War-era plutonium as fuel",
-    "title_en": "US picks potential partners for using Cold War-era plutonium as fuel",
-    "summary": [
-      "Trump gov&#039;t plans to make about 20 tonnes of plutonium from dismantled nuclear warheads available to US power firms."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779857465.7519765
-  },
-  {
-    "title_fa": "US Senate confirms veteran naval officer Frank Garcia as top Africa envoy",
-    "title_en": "US Senate confirms veteran naval officer Frank Garcia as top Africa envoy",
-    "summary": [
-      "The Senate confirmation ends a long vacancy and signals a trade-focused shift in US policy towards Africa."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779857465.7519956
-  },
-  {
-    "title_fa": "Did Trump oversell a broken Iran ceasefire deal?",
-    "title_en": "Did Trump oversell a broken Iran ceasefire deal?",
-    "summary": [
-      "The US and Iran appear closer to a broader agreement, but disputes over sanctions relief remain."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779857465.7520049
-  },
-  {
-    "title_fa": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
-    "title_en": "Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims",
-    "summary": [
-      "A Gaza City school taught children how to perform the entire Hajj, as Palestinians miss the pilgrimage for a third year."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779857465.7520175
+    "timestamp": 1779870739.8074708
   }
 ]
