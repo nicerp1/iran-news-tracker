@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "ترامپ: ایران خیلی مایل به توافق است اما هنوز ما از مذاکرات راضی نیستیم",
-    "title_en": "ترامپ: ایران خیلی مایل به توافق است اما هنوز ما از مذاکرات راضی نیستیم",
+    "title_fa": "شهباز شریف: پاکستان در کنار ایران خواهد ایستاد",
+    "title_en": "شهباز شریف: پاکستان در کنار ایران خواهد ایستاد",
     "summary": [
-      "دونالد ترامپ، در جریان جلسه با اعضای کابینه‌اش گفت که ایران خیلی مایل به توافق است اما مذاکره با آنها «تا اینجا به نتیجه نرسیده است» و «ما هنوز از آن راضی نیستیم، اما خواهیم شد.» آقای ترامپ افزود که «یا این‌طور می‌شود، یا مجبور خواهیم شد کار را تمام کنیم.» رئیس‌جمهور آمریکا گفت رهبران جمهوری اسلامی ایران «در حال مذاکره از موضع ضعف هستند.» او گفت اقتصاد ایران «در حال سقوط آزاد است، و تورم ۲۵۰ درصدی دارند.» همزمان با اتصال اینترنت در ایران پس از ۸۸ روز قطع سراسری، وزارت اطلاعات ایران در مورد «شکست"
+      "شهباز شریف، نخست‌وزیر پاکستان، که به تازگی در پکن با شی جین پینگ دیدار کرد گفته است اسلام آباد به عنوان دوست و همسایه دیرینه «در کنار ایران خواهد ایستاد». در ایران بازگشت اتصال به شبکه جهانی اینترنت اگر چه با استقبال اما با مشکلاتی همراه بوده و نهادهای اطلاعاتی هم «هشدارهای امنیتی» داده‌اند. دونالد ترامپ، رئیس جمهور آمریکا هم در جریان جلسه مهمی با اعضای کابینه‌اش با تکرار نارضایتی از محتوای مذاکرات با ایران گفت که تهران خیلی مایل به توافق است اما مذاکره با آنها «تا اینجا به نتیجه نرسیده است»."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c0r2yw8dll9t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0r2yw8dll9t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779911406.2277024
+    "timestamp": 1779917552.6722825
   },
   {
     "title_fa": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
@@ -29,23 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779911406.2280097
-  },
-  {
-    "title_fa": "تلویزیون ایران: در صورت توافق، تنگه هرمز ظرف یک ماه بازگشایی می‌شود",
-    "title_en": "تلویزیون ایران: در صورت توافق، تنگه هرمز ظرف یک ماه بازگشایی می‌شود",
-    "summary": [
-      "رسانه‌های حکومتی ایران اعلام کردند که تهران، پیش‌نویس اولیه و غیررسمی چارچوب یک یادداشت تفاهم با آمریکا را دریافت کرده است که بر مبنای آن ایران ظرف یک ماه عبور و مرور تجاری از تنگه هرمز را به سطح پیش از جنگ بازمی‌گرداند و در مقابل، آمریکا نیروهای نظامی خود را از اطراف ایران خارج و محاصره دریایی را لغو خواهد کرد. اما کاخ سفید این گزارش را رد کرده و آن را «کاملا ساختگی» خوانده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779911406.2280772
+    "timestamp": 1779917552.6723425
   },
   {
     "title_fa": "کدام ارزها از جنگ ایران سود بردند و کدام آسیب دیدند؟",
@@ -61,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779911406.2280946
+    "timestamp": 1779917552.6723812
   },
   {
     "title_fa": "بازگشت «نسبی» اینترنت ایران و تصمیم دیوان عدالت اداری در منتفی کردن دستور پزشکیان",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779911406.228141
+    "timestamp": 1779917552.6724176
   },
   {
     "title_fa": "رسانه‌های اسرائیلی ایران را برنده توافق احتمالی با آمریکا می‌دانند",
@@ -93,7 +77,23 @@
     "url": "https://www.bbc.com/persian/articles/c2k2214nv3vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2k2214nv3vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779911406.2281601
+    "timestamp": 1779917552.6724315
+  },
+  {
+    "title_fa": "تلویزیون ایران: در صورت توافق، تنگه هرمز ظرف یک ماه بازگشایی می‌شود",
+    "title_en": "تلویزیون ایران: در صورت توافق، تنگه هرمز ظرف یک ماه بازگشایی می‌شود",
+    "summary": [
+      "رسانه‌های حکومتی ایران اعلام کردند که تهران، پیش‌نویس اولیه و غیررسمی چارچوب یک یادداشت تفاهم با آمریکا را دریافت کرده است که بر مبنای آن ایران ظرف یک ماه عبور و مرور تجاری از تنگه هرمز را به سطح پیش از جنگ بازمی‌گرداند و در مقابل، آمریکا نیروهای نظامی خود را از اطراف ایران خارج و محاصره دریایی را لغو خواهد کرد. اما کاخ سفید این گزارش را رد کرده و آن را «کاملا ساختگی» خوانده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779917552.6725187
   },
   {
     "title_fa": "فرمانده جدید شاخه نظامی حماس در حمله هوایی اسرائیل به غزه کشته شد",
@@ -109,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp4xk8036o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp4xk8036o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779911406.2282686
-  },
-  {
-    "title_fa": "سنتکام: به چند سایت پرتاب موشک و قایق در جنوب ایران حمله کردیم",
-    "title_en": "سنتکام: به چند سایت پرتاب موشک و قایق در جنوب ایران حمله کردیم",
-    "summary": [
-      "ارتش آمريکا اعلام کرد حملات تازه‌ای را به جنوب ايران انجام داده و سايت‌های موشکی ايران و قايق‌هايی را که «در تلاش برای مين‌گذاری» بودند، هدف قرار داده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779911406.2282844
+    "timestamp": 1779917552.6725357
   },
   {
     "title_fa": "تهدید روسیه برای حملات بیشتر به کی‌یف و هشدار به اتباع خارجی برای ترک این شهر",
@@ -141,23 +125,87 @@
     "url": "https://www.bbc.com/persian/articles/clyppvyx493o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyppvyx493o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779911406.2283232
+    "timestamp": 1779917552.6725652
   },
   {
-    "title_fa": "قوه قضائیه ایران می‌گوید غلامرضا خانی‌شکراب را برای «جاسوسی برای اسرائیل» محاکمه و اعدام کرد",
-    "title_en": "قوه قضائیه ایران می‌گوید غلامرضا خانی‌شکراب را برای «جاسوسی برای اسرائیل» محاکمه و اعدام کرد",
+    "title_fa": "سنتکام: به چند سایت پرتاب موشک و قایق در جنوب ایران حمله کردیم",
+    "title_en": "سنتکام: به چند سایت پرتاب موشک و قایق در جنوب ایران حمله کردیم",
     "summary": [
-      "قوهٔ قضائیه ایران اعلام کرده است که غلامرضا خانی‌شکراب پس از محاکمه به اتهام جاسوسی برای اسرائیل و تأیید حکم اعدامش در دیوان عالی کشور، اعدام شده است."
+      "ارتش آمريکا اعلام کرد حملات تازه‌ای را به جنوب ايران انجام داده و سايت‌های موشکی ايران و قايق‌هايی را که «در تلاش برای مين‌گذاری» بودند، هدف قرار داده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779911406.2283385
+    "timestamp": 1779917552.6725767
+  },
+  {
+    "title_fa": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
+    "title_en": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
+    "summary": [
+      "Intensification comes while US-Iran indirect talks continue."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779917552.880724
+  },
+  {
+    "title_fa": "Trump says no one will control Strait of Hormuz",
+    "title_en": "Trump says no one will control Strait of Hormuz",
+    "summary": [
+      "Donald Trump says he won’t allow Iran to control ⁠the Strait of ⁠Hormuz under the terms of any deal reached with Tehran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779917552.880739
+  },
+  {
+    "title_fa": "Trump appears to threaten Oman over Strait of Hormuz impasse",
+    "title_en": "Trump appears to threaten Oman over Strait of Hormuz impasse",
+    "summary": [
+      "The US president warns that Oman, a US ally, &#039;will behave just like everybody else, or we will have to blow them up&#039;."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779917552.8807633
+  },
+  {
+    "title_fa": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
+    "title_en": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
+    "summary": [
+      "Israel has ordered the evacuation of the southern Lebanese city of Tyre"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779917552.8807778
   },
   {
     "title_fa": "Iran government sells subsidised meat for Eid al-Adha under blockade",
@@ -173,7 +221,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss",
     "image": null,
-    "timestamp": 1779911406.3031068
+    "timestamp": 1779917552.8808205
   },
   {
     "title_fa": "Canada chooses Swedish early warning planes rather than US model",
@@ -189,7 +237,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/27/canada-chooses-swedish-early-warning-planes-rather-than-us-model?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/27/canada-chooses-swedish-early-warning-planes-rather-than-us-model?traffic_source=rss",
     "image": null,
-    "timestamp": 1779911406.3031192
+    "timestamp": 1779917552.8808289
   },
   {
     "title_fa": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
@@ -205,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss",
     "image": null,
-    "timestamp": 1779911406.3031454
+    "timestamp": 1779917552.8808463
   },
   {
     "title_fa": "Eid celebrations in Gaza overshadowed by Israeli attacks",
@@ -221,102 +269,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/eid-celebrations-in-gaza-overshadowed-by-israeli-attacks?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/eid-celebrations-in-gaza-overshadowed-by-israeli-attacks?traffic_source=rss",
     "image": null,
-    "timestamp": 1779911406.3031726
-  },
-  {
-    "title_fa": "Will the AI race fuel another boom or another bubble?",
-    "title_en": "Will the AI race fuel another boom or another bubble?",
-    "summary": [
-      "AI giants are racing towards public listings as valuations soar."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779911406.3031807
-  },
-  {
-    "title_fa": "Family mourn ‘Hamas leader’ killed in Israeli attack",
-    "title_en": "Family mourn ‘Hamas leader’ killed in Israeli attack",
-    "summary": [
-      "A funeral has been held for Mohammed Odeh, believed to be the leader of Hamas’s military wing."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779911406.3031945
-  },
-  {
-    "title_fa": "Why is Israel attacking Lebanon’s Nabatieh, the major southern city?",
-    "title_en": "Why is Israel attacking Lebanon’s Nabatieh, the major southern city?",
-    "summary": [
-      "Israel issued forced displacement for Lebanon&#039;s southern city of Nabatieh on Tuesday. Why is it focused on this city?"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779911406.303224
-  },
-  {
-    "title_fa": "Bangladesh seeks IMF aid: How badly has Iran war hit its economy?",
-    "title_en": "Bangladesh seeks IMF aid: How badly has Iran war hit its economy?",
-    "summary": [
-      "The International Monetary Fund warns that Iran war could trigger a spike in global debt levels."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779911406.3032334
-  },
-  {
-    "title_fa": "The Baltics urgently need a de-escalation mechanism; Belarus can help",
-    "title_en": "The Baltics urgently need a de-escalation mechanism; Belarus can help",
-    "summary": [
-      "Amid growing risk of spillover from the Ukraine war, the Baltic states could seek de-escalation channels through Minsk."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/opinions/2026/5/27/the-baltics-urgently-need-a-de-escalation-mechanism-belarus-can-help?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/opinions/2026/5/27/the-baltics-urgently-need-a-de-escalation-mechanism-belarus-can-help?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779911406.303265
-  },
-  {
-    "title_fa": "DRC facing ‘catastrophic collision’ of Ebola and war, WHO chief warns",
-    "title_en": "DRC facing ‘catastrophic collision’ of Ebola and war, WHO chief warns",
-    "summary": [
-      "&#039;Stopping this Ebola transmission depends entirely on humanitarian access,&#039; said Tedros, the WHO chief."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/27/drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/27/drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779911406.3032856
+    "timestamp": 1779917552.880868
   }
 ]
