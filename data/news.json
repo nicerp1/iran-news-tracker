@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "اتصال اینترنت پس از ۸۸ روز؛ از شادی مردم تا هشدار وزارت اطلاعات ایران",
-    "title_en": "اتصال اینترنت پس از ۸۸ روز؛ از شادی مردم تا هشدار وزارت اطلاعات ایران",
+    "title_fa": "ترامپ: ایران خیلی مایل به توافق است اما هنوز ما از مذاکرات راضی نیستیم",
+    "title_en": "ترامپ: ایران خیلی مایل به توافق است اما هنوز ما از مذاکرات راضی نیستیم",
     "summary": [
-      "اتصال اینترنت در ایران پس از ۸۸ روز قطعی سراسری از سویی موجب حضور دوباره کاربران ایرانی در شبکه‌های اجتماعی شد که فضای شادی را ایجاد کرد و از سوی دیگر هشدار وزارت اطلاعات ایران در مورد «شکستن انسجام ملی» را در پی داشت. در اطلاعیه این وزارتخانه آمده است که «دشمن اکنون با توقف جنگ سخت، بر هفت محور اصلی جنگ ترکیبی» متمرکز شده است. در همین حال علی باقری کنی، معاون دبیرخانه شورای عالی امنیت ملی ایران می‌گوید که «موضوع ذخایر اورانیوم در دستور کار مذاکرات نیست.» پیشتر دونالد ترامپ گفت که اورانيوم غنی‌ش"
+      "دونالد ترامپ، در جریان جلسه با اعضای کابینه‌اش گفت که ایران خیلی مایل به توافق است اما مذاکره با آنها «تا اینجا به نتیجه نرسیده است» و «ما هنوز از آن راضی نیستیم، اما خواهیم شد.» آقای ترامپ افزود که «یا این‌طور می‌شود، یا مجبور خواهیم شد کار را تمام کنیم.» رئیس‌جمهور آمریکا گفت رهبران جمهوری اسلامی ایران «در حال مذاکره از موضع ضعف هستند.» او گفت اقتصاد ایران «در حال سقوط آزاد است، و تورم ۲۵۰ درصدی دارند.» همزمان با اتصال اینترنت در ایران پس از ۸۸ روز قطع سراسری، وزارت اطلاعات ایران در مورد «شکست"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,23 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/c0r2yw8dll9t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0r2yw8dll9t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779893485.9144354
+    "timestamp": 1779904031.9037774
   },
   {
-    "title_fa": "فرمانده جدید شاخه نظامی حماس در حمله هوایی اسرائیل به غزه کشته شد",
-    "title_en": "فرمانده جدید شاخه نظامی حماس در حمله هوایی اسرائیل به غزه کشته شد",
+    "title_fa": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
+    "title_en": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
     "summary": [
-      "محمد عوده، فرمانده شاخه نظامی حماس، روز سه‌شنبه در حمله‌ اسرائیل در نوار غزه کشته شد. پزشکان محلی و شاهدان عینی گفتند که در این حمله که به یک ساختمان مسکونی در یکی از شلوغ‌ترین مناطق بازار شهر غزه اصابت کرد، حداقل سه فلسطینی کشته و ده‌ها نفر دیگر زخمی شدند."
+      "۸۹ روز از شروع جنگ آمریکا و اسرائیل با ایران می‌گذرد. در ۸۸ امین روز بخشی از کاربران در ایران توانستند با اینترنت خانگی‌شان ( وای‌فای) به اینترنت وصل شوند. اینترنتی که هنوز با دیگر کشورهای دنیا تفاوت‌هایی دارد و کاربران مجبورند برای دور زدن محدودیت‌ها از وی‌پی‌ان استفاده کنند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cdrp4xk8036o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cdrp4xk8036o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779893485.9144955
+    "timestamp": 1779904031.904307
+  },
+  {
+    "title_fa": "تلویزیون ایران: در صورت توافق، تنگه هرمز ظرف یک ماه بازگشایی می‌شود",
+    "title_en": "تلویزیون ایران: در صورت توافق، تنگه هرمز ظرف یک ماه بازگشایی می‌شود",
+    "summary": [
+      "رسانه‌های حکومتی ایران اعلام کردند که تهران، پیش‌نویس اولیه و غیررسمی چارچوب یک یادداشت تفاهم با آمریکا را دریافت کرده است که بر مبنای آن ایران ظرف یک ماه عبور و مرور تجاری از تنگه هرمز را به سطح پیش از جنگ بازمی‌گرداند و در مقابل، آمریکا نیروهای نظامی خود را از اطراف ایران خارج و محاصره دریایی را لغو خواهد کرد. اما کاخ سفید این گزارش را رد کرده و آن را «کاملا ساختگی» خوانده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779904031.9043915
   },
   {
     "title_fa": "کدام ارزها از جنگ ایران سود بردند و کدام آسیب دیدند؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779893485.9145312
+    "timestamp": 1779904031.9044554
   },
   {
     "title_fa": "بازگشت «نسبی» اینترنت ایران و تصمیم دیوان عدالت اداری در منتفی کردن دستور پزشکیان",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779893485.9145672
+    "timestamp": 1779904031.9045005
   },
   {
     "title_fa": "رسانه‌های اسرائیلی ایران را برنده توافق احتمالی با آمریکا می‌دانند",
@@ -77,7 +93,23 @@
     "url": "https://www.bbc.com/persian/articles/c2k2214nv3vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2k2214nv3vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779893485.9145813
+    "timestamp": 1779904031.9045186
+  },
+  {
+    "title_fa": "فرمانده جدید شاخه نظامی حماس در حمله هوایی اسرائیل به غزه کشته شد",
+    "title_en": "فرمانده جدید شاخه نظامی حماس در حمله هوایی اسرائیل به غزه کشته شد",
+    "summary": [
+      "محمد عوده، فرمانده شاخه نظامی حماس، روز سه‌شنبه در حمله‌ اسرائیل در نوار غزه کشته شد. پزشکان محلی و شاهدان عینی گفتند که در این حمله که به یک ساختمان مسکونی در یکی از شلوغ‌ترین مناطق بازار شهر غزه اصابت کرد، حداقل سه فلسطینی کشته و ده‌ها نفر دیگر زخمی شدند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cdrp4xk8036o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cdrp4xk8036o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779904031.904589
   },
   {
     "title_fa": "سنتکام: به چند سایت پرتاب موشک و قایق در جنوب ایران حمله کردیم",
@@ -93,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779893485.9146347
+    "timestamp": 1779904031.9046037
   },
   {
     "title_fa": "تهدید روسیه برای حملات بیشتر به کی‌یف و هشدار به اتباع خارجی برای ترک این شهر",
@@ -109,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/clyppvyx493o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyppvyx493o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779893485.9146655
-  },
-  {
-    "title_fa": "آنچه گذشت؛ پس از حدود سه ماه، اینترنت در ایران به شبکه جهانی بازگشت",
-    "title_en": "آنچه گذشت؛ پس از حدود سه ماه، اینترنت در ایران به شبکه جهانی بازگشت",
-    "summary": [
-      "نت‌بلاکس، نهاد ناظر به دسترسی اینترنت در جهان از امکان اتصال بیشتر به شبکه جهانی از داخل ایران خبر داده است. این نهاد روز سه‌شنبه در پیامی نوشت: «ایران، خوش آمدی!» همزمان خوش‌بینی به نهایی شدن مذاکرات میان تهران و واشنگتن ادامه دارد و با وجود درگیری شب گذشته در خلیج فارس و تشدید حملات اسرائیل به لبنان، به نظر می‌رسد ایران و آمریکا همچنان در مسیر پایان دادن به جنگ قرار دارند. سنتکام که دیشب از حمله به چند سایت و قایق ایرانی در نزدیکی بندرعباس خبر داده بود، روز سه‌شنبه تصریح کرد که گزارش رسانه‌ها "
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c202294kr66t?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c202294kr66t?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779893485.9146934
+    "timestamp": 1779904031.9046566
   },
   {
     "title_fa": "قوه قضائیه ایران می‌گوید غلامرضا خانی‌شکراب را برای «جاسوسی برای اسرائیل» محاکمه و اعدام کرد",
@@ -141,7 +157,55 @@
     "url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779893485.9147077
+    "timestamp": 1779904031.9046717
+  },
+  {
+    "title_fa": "Eid celebrations in Gaza overshadowed by Israeli attacks",
+    "title_en": "Eid celebrations in Gaza overshadowed by Israeli attacks",
+    "summary": [
+      "Palestinians across Gaza marked Eid al-Adha prayers amongst rubble and destruction as Israeli attacks continued."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/eid-celebrations-in-gaza-overshadowed-by-israeli-attacks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/eid-celebrations-in-gaza-overshadowed-by-israeli-attacks?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779904032.0885808
+  },
+  {
+    "title_fa": "Will the AI race fuel another boom or another bubble?",
+    "title_en": "Will the AI race fuel another boom or another bubble?",
+    "summary": [
+      "AI giants are racing towards public listings as valuations soar."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779904032.0885906
+  },
+  {
+    "title_fa": "Family mourn ‘Hamas leader’ killed in Israeli attack",
+    "title_en": "Family mourn ‘Hamas leader’ killed in Israeli attack",
+    "summary": [
+      "A funeral has been held for Mohammed Odeh, believed to be the leader of Hamas’s military wing."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779904032.088607
   },
   {
     "title_fa": "Why is Israel attacking Lebanon’s Nabatieh, the major southern city?",
@@ -157,7 +221,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss",
     "image": null,
-    "timestamp": 1779893486.1545546
+    "timestamp": 1779904032.0886521
   },
   {
     "title_fa": "Bangladesh seeks IMF aid: How badly has Iran war hit its economy?",
@@ -173,7 +237,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
     "image": null,
-    "timestamp": 1779893486.1545646
+    "timestamp": 1779904032.0886612
   },
   {
     "title_fa": "The Baltics urgently need a de-escalation mechanism; Belarus can help",
@@ -189,7 +253,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/27/the-baltics-urgently-need-a-de-escalation-mechanism-belarus-can-help?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/27/the-baltics-urgently-need-a-de-escalation-mechanism-belarus-can-help?traffic_source=rss",
     "image": null,
-    "timestamp": 1779893486.1545923
+    "timestamp": 1779904032.0886931
   },
   {
     "title_fa": "DRC facing ‘catastrophic collision’ of Ebola and war, WHO chief warns",
@@ -205,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/27/drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/27/drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns?traffic_source=rss",
     "image": null,
-    "timestamp": 1779893486.15461
+    "timestamp": 1779904032.0887175
   },
   {
     "title_fa": "‘Eid does not enter tents’: Palestinians in Gaza face grim holiday",
@@ -221,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/27/eid-does-not-enter-tents-palestinians-in-gaza-face-grim-holiday?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/27/eid-does-not-enter-tents-palestinians-in-gaza-face-grim-holiday?traffic_source=rss",
     "image": null,
-    "timestamp": 1779893486.1546195
+    "timestamp": 1779904032.0887299
   },
   {
     "title_fa": "Israeli authorities filmed treating Palestinians with aggression on Eid",
@@ -237,6 +301,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israeli-authorities-filmed-treating-palestinians-with-aggression-on-eid?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israeli-authorities-filmed-treating-palestinians-with-aggression-on-eid?traffic_source=rss",
     "image": null,
-    "timestamp": 1779893486.1546276
+    "timestamp": 1779904032.0887396
   }
 ]
