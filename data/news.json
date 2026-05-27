@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c0r2yw8dll9t?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0r2yw8dll9t?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779904031.9037774
+    "timestamp": 1779911406.2277024
   },
   {
     "title_fa": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779904031.904307
+    "timestamp": 1779911406.2280097
   },
   {
     "title_fa": "تلویزیون ایران: در صورت توافق، تنگه هرمز ظرف یک ماه بازگشایی می‌شود",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779904031.9043915
+    "timestamp": 1779911406.2280772
   },
   {
     "title_fa": "کدام ارزها از جنگ ایران سود بردند و کدام آسیب دیدند؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779904031.9044554
+    "timestamp": 1779911406.2280946
   },
   {
     "title_fa": "بازگشت «نسبی» اینترنت ایران و تصمیم دیوان عدالت اداری در منتفی کردن دستور پزشکیان",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779904031.9045005
+    "timestamp": 1779911406.228141
   },
   {
     "title_fa": "رسانه‌های اسرائیلی ایران را برنده توافق احتمالی با آمریکا می‌دانند",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c2k2214nv3vo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2k2214nv3vo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779904031.9045186
+    "timestamp": 1779911406.2281601
   },
   {
     "title_fa": "فرمانده جدید شاخه نظامی حماس در حمله هوایی اسرائیل به غزه کشته شد",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp4xk8036o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp4xk8036o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779904031.904589
+    "timestamp": 1779911406.2282686
   },
   {
     "title_fa": "سنتکام: به چند سایت پرتاب موشک و قایق در جنوب ایران حمله کردیم",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1522p435n7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779904031.9046037
+    "timestamp": 1779911406.2282844
   },
   {
     "title_fa": "تهدید روسیه برای حملات بیشتر به کی‌یف و هشدار به اتباع خارجی برای ترک این شهر",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/clyppvyx493o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/clyppvyx493o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779904031.9046566
+    "timestamp": 1779911406.2283232
   },
   {
     "title_fa": "قوه قضائیه ایران می‌گوید غلامرضا خانی‌شکراب را برای «جاسوسی برای اسرائیل» محاکمه و اعدام کرد",
@@ -157,7 +157,55 @@
     "url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cpdpp5gg264o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779904031.9046717
+    "timestamp": 1779911406.2283385
+  },
+  {
+    "title_fa": "Iran government sells subsidised meat for Eid al-Adha under blockade",
+    "title_en": "Iran government sells subsidised meat for Eid al-Adha under blockade",
+    "summary": [
+      "Iranians are seeing the price of meat, and other basics, escalate due to the US blockade and sanctions."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779911406.3031068
+  },
+  {
+    "title_fa": "Canada chooses Swedish early warning planes rather than US model",
+    "title_en": "Canada chooses Swedish early warning planes rather than US model",
+    "summary": [
+      "Canadian Prime Minister Carney has said he wants to diversify from the US which has threatened to annex Canada."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/5/27/canada-chooses-swedish-early-warning-planes-rather-than-us-model?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/27/canada-chooses-swedish-early-warning-planes-rather-than-us-model?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779911406.3031192
+  },
+  {
+    "title_fa": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
+    "title_en": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
+    "summary": [
+      "US president says Iran can&#039;t &#039;out-wait&#039; him, suggesting that Washington is not satisfied with Tehran&#039;s offers for deal."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779911406.3031454
   },
   {
     "title_fa": "Eid celebrations in Gaza overshadowed by Israeli attacks",
@@ -173,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/eid-celebrations-in-gaza-overshadowed-by-israeli-attacks?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/eid-celebrations-in-gaza-overshadowed-by-israeli-attacks?traffic_source=rss",
     "image": null,
-    "timestamp": 1779904032.0885808
+    "timestamp": 1779911406.3031726
   },
   {
     "title_fa": "Will the AI race fuel another boom or another bubble?",
@@ -189,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
     "image": null,
-    "timestamp": 1779904032.0885906
+    "timestamp": 1779911406.3031807
   },
   {
     "title_fa": "Family mourn ‘Hamas leader’ killed in Israeli attack",
@@ -205,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
     "image": null,
-    "timestamp": 1779904032.088607
+    "timestamp": 1779911406.3031945
   },
   {
     "title_fa": "Why is Israel attacking Lebanon’s Nabatieh, the major southern city?",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss",
     "image": null,
-    "timestamp": 1779904032.0886521
+    "timestamp": 1779911406.303224
   },
   {
     "title_fa": "Bangladesh seeks IMF aid: How badly has Iran war hit its economy?",
@@ -237,7 +285,7 @@
     "url": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
     "image": null,
-    "timestamp": 1779904032.0886612
+    "timestamp": 1779911406.3032334
   },
   {
     "title_fa": "The Baltics urgently need a de-escalation mechanism; Belarus can help",
@@ -253,7 +301,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/27/the-baltics-urgently-need-a-de-escalation-mechanism-belarus-can-help?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/27/the-baltics-urgently-need-a-de-escalation-mechanism-belarus-can-help?traffic_source=rss",
     "image": null,
-    "timestamp": 1779904032.0886931
+    "timestamp": 1779911406.303265
   },
   {
     "title_fa": "DRC facing ‘catastrophic collision’ of Ebola and war, WHO chief warns",
@@ -269,38 +317,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/27/drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/27/drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns?traffic_source=rss",
     "image": null,
-    "timestamp": 1779904032.0887175
-  },
-  {
-    "title_fa": "‘Eid does not enter tents’: Palestinians in Gaza face grim holiday",
-    "title_en": "‘Eid does not enter tents’: Palestinians in Gaza face grim holiday",
-    "summary": [
-      "Rising costs and displacement erase Eid traditions, leaving Gaza residents struggling with sorrow and economic hardship."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/27/eid-does-not-enter-tents-palestinians-in-gaza-face-grim-holiday?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/27/eid-does-not-enter-tents-palestinians-in-gaza-face-grim-holiday?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779904032.0887299
-  },
-  {
-    "title_fa": "Israeli authorities filmed treating Palestinians with aggression on Eid",
-    "title_en": "Israeli authorities filmed treating Palestinians with aggression on Eid",
-    "summary": [
-      "Israeli authorities have been filmed acting aggressively against Palestinians under occupation during Eid al-Adha."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israeli-authorities-filmed-treating-palestinians-with-aggression-on-eid?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israeli-authorities-filmed-treating-palestinians-with-aggression-on-eid?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779904032.0887396
+    "timestamp": 1779911406.3032856
   }
 ]
