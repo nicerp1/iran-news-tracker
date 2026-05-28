@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "کویت خواستار توقف فوری و بدون قید و شرط حملات موشکی و پهپادی ایران شد، سنتکام: نقض فاحش آتش‌بس است",
-    "title_en": "کویت خواستار توقف فوری و بدون قید و شرط حملات موشکی و پهپادی ایران شد، سنتکام: نقض فاحش آتش‌بس است",
+    "title_fa": "آمریکا دسترسی خطوط هوایی ایران به فرودگاه‌ها و سوخت‌گیری را محدود می‌کند",
+    "title_en": "آمریکا دسترسی خطوط هوایی ایران به فرودگاه‌ها و سوخت‌گیری را محدود می‌کند",
     "summary": [
-      "کویت از ایران خواست که «فوری و بدون قید و شرط حملات موشکی و پهپادی به کشورش را متوقف کند و اعلام کرد که مسئولیت کامل این اقدامات بر عهده تهران است.» همزمان فرماندهی مرکزی ارتش آمریکا، سنتکام، حمله موشکی ایران به کویت را «نقض فاحش» آتش‌بس خواند. سنتکام می‌گوید که نیروهای ایرانی پنج پهپاد تهاجمی یک‌طرفه را شلیک کردند اما نیروهای آمریکایی تمام پهپادها را با موفقیت رهگیری و از پرتاب ششمین پهپاد از یک سایت کنترل زمینی ایران در بندرعباس جلوگیری کردند. درگیری نظامی تازه میان ایران و آمریکا فشار بیشتری "
+      "وزارت دارایی آمریکا در چارچوب فشار بر ایران و تلاش برای بازگشایی تنگه هرمز، دسترسی خطوط هوایی ایران به فرودگاه‌ها را متوقف خواهد کرد. واشنگتن می‌گوید که تنها دستیابی به یک نتیجه‌ رضایت‌بخش در مذاکرات می‌تواند به این روند نزولی پایان دهد. همزمان سنتکام، ایران را به نقض فاحش آتش‌بس متهم کرد و گفت که تهران یک موشک بالستیک به سوی کویت شلیک کرده است. ایران می‌گوید که این حمله پایگاه‌های آمریکایی در کویت را هدف قرار داد و در واکنش به حمله موشکی آمریکا به ایران انجام شد. شروع درگیری‌ها آتش‌بس شکننده مو"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,23 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779980153.766147
-  },
-  {
-    "title_fa": "نگرانی از اینترنت محدود همزمان با حمله تندروها به دولت پزشکیان؛ «زمینه آشوب داخلی را فراهم می‌کند»",
-    "title_en": "نگرانی از اینترنت محدود همزمان با حمله تندروها به دولت پزشکیان؛ «زمینه آشوب داخلی را فراهم می‌کند»",
-    "summary": [
-      "در حالی که دسترسی به اینترنت در ایران پس از سه ماه قطعی کامل تا حد زیادی برقرار شده است، اختلاف در میان مقام‌های جمهوری اسلامی بر سر بازگشت آن به وضعیت عادی و فیلترینگ شدید، این نگرانی را ایجاد کرده که ممکن است اینترنت ایران با اختلالات همراه باشد و به شکل ناپایدار باقی بماند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c62e1p8d65wo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c62e1p8d65wo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779980153.7661765
+    "timestamp": 1779991056.4331534
   },
   {
     "title_fa": "واکنش ایران به تهدید ترامپ برای «منفجر کردن» عمان",
@@ -45,7 +29,39 @@
     "url": "https://www.bbc.com/persian/articles/crlpwyn1znko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crlpwyn1znko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779980153.7661996
+    "timestamp": 1779991056.43318
+  },
+  {
+    "title_fa": "نگرانی از اینترنت محدود همزمان با حمله تندروها به دولت پزشکیان",
+    "title_en": "نگرانی از اینترنت محدود همزمان با حمله تندروها به دولت پزشکیان",
+    "summary": [
+      "در حالی که دسترسی به اینترنت در ایران پس از سه ماه قطعی کامل تا حد زیادی برقرار شده است، اختلاف در میان مقام‌های جمهوری اسلامی بر سر بازگشت آن به وضعیت عادی و فیلترینگ شدید، این نگرانی را ایجاد کرده که ممکن است اینترنت ایران با اختلالات همراه باشد و به شکل ناپایدار باقی بماند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c62e1p8d65wo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c62e1p8d65wo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779991056.4332044
+  },
+  {
+    "title_fa": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
+    "title_en": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
+    "summary": [
+      "آژانس بین‌المللی انرژی روز پنج‌شنبه اعلام کرد جنگ خاورمیانه کشورها را وادار کرده است برای عبور از بزرگ‌ترین بحران انرژی جهان، به مسیرهای جدید تامین و همچنین منابع داخلی روی بیاورند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779991056.433222
   },
   {
     "title_fa": "حملات سنگین اسرائیل به جنوب لبنان",
@@ -61,23 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779980153.7662246
-  },
-  {
-    "title_fa": "چرا اینشتین حاضر نشد رئیس‌جمهور اسرائیل شود؟",
-    "title_en": "چرا اینشتین حاضر نشد رئیس‌جمهور اسرائیل شود؟",
-    "summary": [
-      "اسرائیل به رئیس‌جمهور جدیدی نیاز داشت. بنابراین وزارت خارجه نام یهودیان سرشناس را مطرح کرد که می‌توانستند این نقش را ایفا کنند و مهاجرت به کشور تازه‌ تاسیس را تشویق کنند. به این ترتیب، دولت داوید بن‌ گوریون نخست‌وزیر تصمیم گرفت بار دیگر یک دانشمند را برای این مقام دعوت کند و اصلی‌ترین گزینه، مشهورترین دانشمند جهان بود."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779980153.766251
+    "timestamp": 1779991056.4332447
   },
   {
     "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779980153.766273
+    "timestamp": 1779991056.433267
   },
   {
     "title_fa": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779980153.7662942
+    "timestamp": 1779991056.433288
   },
   {
     "title_fa": "کدام ارزها از جنگ ایران سود بردند و کدام آسیب دیدند؟",
@@ -125,7 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779980153.7663162
+    "timestamp": 1779991056.4333103
+  },
+  {
+    "title_fa": "چرا اینشتین حاضر نشد رئیس‌جمهور اسرائیل شود؟",
+    "title_en": "چرا اینشتین حاضر نشد رئیس‌جمهور اسرائیل شود؟",
+    "summary": [
+      "اسرائیل به رئیس‌جمهور جدیدی نیاز داشت. بنابراین وزارت خارجه نام یهودیان سرشناس را مطرح کرد که می‌توانستند این نقش را ایفا کنند و مهاجرت به کشور تازه‌ تاسیس را تشویق کنند. به این ترتیب، دولت داوید بن‌ گوریون نخست‌وزیر تصمیم گرفت بار دیگر یک دانشمند را برای این مقام دعوت کند و اصلی‌ترین گزینه، مشهورترین دانشمند جهان بود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779991056.4333503
   },
   {
     "title_fa": "پلیس استرالیا زن بازگشته از سوریه را متهم به عضویت در داعش کرد",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779980153.7664318
+    "timestamp": 1779991056.4334025
   },
   {
     "title_fa": "تلویزیون ایران: در صورت توافق، تنگه هرمز ظرف یک ماه بازگشایی می‌شود",
@@ -157,118 +173,86 @@
     "url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779980153.7665045
+    "timestamp": 1779991056.4334733
   },
   {
-    "title_fa": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
-    "title_en": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+    "title_fa": "How War Changed Eid in Lebanon",
+    "title_en": "How War Changed Eid in Lebanon",
     "summary": [
-      "The US president has issued a stark warning to a US ally, in a sign of rising tensions over Strait of Hormuz."
+      "After nearly three years of war and displacement, Eid in Lebanon no longer feels like celebration for many families."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/how-war-changed-eid-in-lebanon?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/how-war-changed-eid-in-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1779980153.9178147
+    "timestamp": 1779991056.6234019
   },
   {
-    "title_fa": "Hottest year on record almost certain to occur by end of 2030, UN warns",
-    "title_en": "Hottest year on record almost certain to occur by end of 2030, UN warns",
+    "title_fa": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
+    "title_en": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
     "summary": [
-      "Warning comes as Western Europe experiences a heatwave, with temperatures reaching highs not expected until the summer."
+      "Israeli ambassador to the UN says Tel Aviv will cut ties with UN chief Antonio Guterres over the upcoming report."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/hottest-year-in-history-almost-certain-to-occur-by-end-of-2030-un-warns?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/hottest-year-in-history-almost-certain-to-occur-by-end-of-2030-un-warns?traffic_source=rss",
+    "url": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss",
     "image": null,
-    "timestamp": 1779980153.91785
+    "timestamp": 1779991056.623419
   },
   {
-    "title_fa": "Iran says US must issue multiple-entry visas for its World Cup squad",
-    "title_en": "Iran says US must issue multiple-entry visas for its World Cup squad",
+    "title_fa": "US inflation surges to three-year high amid tensions with Iran",
+    "title_en": "US inflation surges to three-year high amid tensions with Iran",
     "summary": [
-      "Iran&#039;s delegation will be based in Tijuana, Mexico, and will travel to the US for all three group stage matches."
+      "Heightened petrol prices led the inflationary pressures, with prices that jumped 5.5 percent in April."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss",
+    "url": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1779980153.917871
+    "timestamp": 1779991056.623441
   },
   {
-    "title_fa": "For Gaza, Eid joy is now a form of resistance",
-    "title_en": "For Gaza, Eid joy is now a form of resistance",
+    "title_fa": "Smoke rises over Beirut after Israeli strike",
+    "title_en": "Smoke rises over Beirut after Israeli strike",
     "summary": [
-      "Six were killed in Remal on Eid night. Minutes later, the stalls reopened."
+      "Footage shows smoke billowing over south Beirut following an Israeli attack on the Lebanese capital."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/smoke-rises-over-beirut-after-israeli-strike?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/smoke-rises-over-beirut-after-israeli-strike?traffic_source=rss",
     "image": null,
-    "timestamp": 1779980153.9178805
+    "timestamp": 1779991056.6234512
   },
   {
-    "title_fa": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
-    "title_en": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
+    "title_fa": "US attacks Bandar Abbas again: Why is the port so important for Iran?",
+    "title_en": "US attacks Bandar Abbas again: Why is the port so important for Iran?",
     "summary": [
-      "Southern Lebanon empties out under bombardment as Red Cross warns of worsening crisis."
+      "Bandar Abbas, which the US has targeted multiple times, occupies a strategically sensitive position in Strait of Hormuz."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
+    "url": "https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran?traffic_source=rss",
     "image": null,
-    "timestamp": 1779980153.9178994
-  },
-  {
-    "title_fa": "Israel kills children in strikes on Gaza as fear taints Eid joy",
-    "title_en": "Israel kills children in strikes on Gaza as fear taints Eid joy",
-    "summary": [
-      "As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779980153.9179173
-  },
-  {
-    "title_fa": "Ireland football coach urges players to ‘win this war’ against Israel",
-    "title_en": "Ireland football coach urges players to ‘win this war’ against Israel",
-    "summary": [
-      "Ireland are set to play Israel in home and away Nations League matches, but there has been pressure to boycott games."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779980153.917931
+    "timestamp": 1779991056.623546
   }
 ]
