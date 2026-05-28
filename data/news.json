@@ -13,7 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779956077.1932826
+    "timestamp": 1779969043.7707205
+  },
+  {
+    "title_fa": "حملات سنگین اسرائیل به جنوب لبنان",
+    "title_en": "حملات سنگین اسرائیل به جنوب لبنان",
+    "summary": [
+      "ارتش اسرائیل می‌گوید که با انجام موجی از حملات به جنوب لبنان، زیرساخت‌های حزب‌الله را هدف قرار داده است. ویدیوهای منتشر شده در رسانه‌های اجتماعی جمعیت‌های پوشیده از گرد و غبار را در صور، یکی از بزرگترین شهرهای لبنان، نشان می‌دهد که در اطراف ساختمان‌های فروریخته جمع شده‌اند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779969043.7707515
+  },
+  {
+    "title_fa": "پلیس استرالیا زن بازگشته از سوریه را متهم به عضویت در داعش کرد",
+    "title_en": "پلیس استرالیا زن بازگشته از سوریه را متهم به عضویت در داعش کرد",
+    "summary": [
+      "در استرالیا زنی که به گفته پلیس با داعش ارتباط داشت و سال گذشته از سوریه به استرالیا بازگشته بود، به عضویت در یک سازمان تروریستی و ورود به منطقه‌ای که جنگی اعلام شده بود، متهم شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779969043.7707725
   },
   {
     "title_fa": "چرا اینشتین حاضر نشد رئیس‌جمهور اسرائیل شود؟",
@@ -29,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779956077.1933355
+    "timestamp": 1779969043.7707994
   },
   {
     "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
@@ -45,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779956077.193374
+    "timestamp": 1779969043.7708228
   },
   {
     "title_fa": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
@@ -61,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779956077.1934748
+    "timestamp": 1779969043.7708447
   },
   {
     "title_fa": "کدام ارزها از جنگ ایران سود بردند و کدام آسیب دیدند؟",
@@ -77,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779956077.1935027
+    "timestamp": 1779969043.7708604
   },
   {
     "title_fa": "بازگشت «نسبی» اینترنت ایران و تصمیم دیوان عدالت اداری در منتفی کردن دستور پزشکیان",
@@ -93,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779956077.193579
+    "timestamp": 1779969043.7709088
   },
   {
     "title_fa": "تلویزیون ایران: در صورت توافق، تنگه هرمز ظرف یک ماه بازگشایی می‌شود",
@@ -109,7 +141,135 @@
     "url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779956077.1938806
+    "timestamp": 1779969043.7710767
+  },
+  {
+    "title_fa": "For Gaza, Eid joy is now a form of resistance",
+    "title_en": "For Gaza, Eid joy is now a form of resistance",
+    "summary": [
+      "Six were killed in Remal on Eid night. Minutes later, the stalls reopened."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779969043.9140656
+  },
+  {
+    "title_fa": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
+    "title_en": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
+    "summary": [
+      "Southern Lebanon empties out under bombardment as Red Cross warns of worsening crisis."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779969043.9140897
+  },
+  {
+    "title_fa": "Israel kills children in strikes on Gaza as fear taints Eid joy",
+    "title_en": "Israel kills children in strikes on Gaza as fear taints Eid joy",
+    "summary": [
+      "As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779969043.914109
+  },
+  {
+    "title_fa": "Ireland football coach urges players to ‘win this war’ against Israel",
+    "title_en": "Ireland football coach urges players to ‘win this war’ against Israel",
+    "summary": [
+      "Ireland are set to play Israel in home and away Nations League matches, but there has been pressure to boycott games."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779969043.9141216
+  },
+  {
+    "title_fa": "Iran says it has a new air defence system. How significant is it?",
+    "title_en": "Iran says it has a new air defence system. How significant is it?",
+    "summary": [
+      "Iran’s claimed drone interception has renewed attention on Tehran’s military capabilities after months of bombardment."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/28/iran-says-it-has-a-new-air-defence-system-how-significant-is-it?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/28/iran-says-it-has-a-new-air-defence-system-how-significant-is-it?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779969043.9141445
+  },
+  {
+    "title_fa": "Children with Down syndrome struggle with devastation of war in Gaza",
+    "title_en": "Children with Down syndrome struggle with devastation of war in Gaza",
+    "summary": [
+      "Children with Down syndrome struggle with devastation of war in Gaza"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/children-with-down-syndrome-struggle-with-devastation-of-war-in-gaza-2?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/children-with-down-syndrome-struggle-with-devastation-of-war-in-gaza-2?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779969043.9141715
+  },
+  {
+    "title_fa": "Israeli attack on Gaza City kills at least 10, including four children",
+    "title_en": "Israeli attack on Gaza City kills at least 10, including four children",
+    "summary": [
+      "More than 20 others were injured in the attack, which came hours after the funeral of the head of Hamas’s armed wing."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/28/israeli-attack-on-gaza-city-kills-at-least-10-including-four-children?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/28/israeli-attack-on-gaza-city-kills-at-least-10-including-four-children?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779969043.9141958
+  },
+  {
+    "title_fa": "Neymar injury threatens Brazil forward’s World Cup as scans needed on calf",
+    "title_en": "Neymar injury threatens Brazil forward’s World Cup as scans needed on calf",
+    "summary": [
+      "Brazil&#039;s record scorer, Neymar, has not played since 2023, but injury now appears to threaten his World Cup comeback."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/28/neymar-injury-forces-him-out-of-brazils-first-world-cup-training-session?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/28/neymar-injury-forces-him-out-of-brazils-first-world-cup-training-session?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779969043.9142075
   },
   {
     "title_fa": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
@@ -125,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
     "image": null,
-    "timestamp": 1779956077.3540328
+    "timestamp": 1779969043.9142456
   },
   {
     "title_fa": "What’s happening on Iran war day 90 as US launches new strikes",
@@ -141,102 +301,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
     "image": null,
-    "timestamp": 1779956077.3540626
-  },
-  {
-    "title_fa": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
-    "title_en": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
-    "summary": [
-      "Trump administration has sought to pressure international officials who scrutinise reported abuses by Israeli forces."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779956077.3541667
-  },
-  {
-    "title_fa": "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
-    "title_en": "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
-    "summary": [
-      "Kuwait&#039;s military says air defences are battling &#039;hostile&#039; missiles and drones, as alarms sound across the country."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779956077.3541777
-  },
-  {
-    "title_fa": "Bolivia’s president warns ‘time is running out’ amid protest crisis",
-    "title_en": "Bolivia’s president warns ‘time is running out’ amid protest crisis",
-    "summary": [
-      "Bolivia’s president has warned protesters “time is running out” amid a weeks-long standoff."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/bolivias-president-warns-time-is-running-out-amid-protest-crisis?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/bolivias-president-warns-time-is-running-out-amid-protest-crisis?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779956077.3542018
-  },
-  {
-    "title_fa": "Markets rally amid hopes of US-Iran deal",
-    "title_en": "Markets rally amid hopes of US-Iran deal",
-    "summary": [
-      "Markets betting a deal will reopen the Strait of Hormuz and soothe the deep global economic uncertainty."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779956077.354212
-  },
-  {
-    "title_fa": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
-    "title_en": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
-    "summary": [
-      "Intensification comes while US-Iran indirect talks continue."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779956077.3542287
-  },
-  {
-    "title_fa": "Trump says no one will control Strait of Hormuz",
-    "title_en": "Trump says no one will control Strait of Hormuz",
-    "summary": [
-      "Donald Trump says he won’t allow Iran to control ⁠the Strait of ⁠Hormuz under the terms of any deal reached with Tehran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779956077.3542416
+    "timestamp": 1779969043.9142568
   }
 ]
