@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "درگیری نظامی ایران و آمریکا در خلیج فارس؛ آمریکا «نهاد مدیریت آبراه خلیج فارس» را تحریم کرد",
-    "title_en": "درگیری نظامی ایران و آمریکا در خلیج فارس؛ آمریکا «نهاد مدیریت آبراه خلیج فارس» را تحریم کرد",
+    "title_fa": "کویت خواستار توقف فوری و بدون قید و شرط حملات موشکی و پهپادی ایران شد، سنتکام: نقض فاحش آتش‌بس است",
+    "title_en": "کویت خواستار توقف فوری و بدون قید و شرط حملات موشکی و پهپادی ایران شد، سنتکام: نقض فاحش آتش‌بس است",
     "summary": [
-      "فرماندهی مرکزی ارتش آمریکا گفت که چهار پهپاد ایرانی را سرنگون و به سایت پرتاب پهپاد پنجم در حوالی بندرعباس حمله کرده است. سپاه پاسداران هم اعلام کرد که یک «پایگاه هوایی آمریکا» را هدف قرار داده است. همزمان در کویت آژیر خطر به صدا درآمد و سیستم پدافند این کشور علیه حملات موشکی و پهپادی فعال شد. در تحولی دیگر وزارت دارایی آمریکا گفت که «نهاد مدیریت آبراه خلیج فارس» را تحریم کرده است. حجم ترافیک اینترنت بین‌الملل ایران هم پس از هفته‌ها محدودیت شدید، به ۵۳ درصد حجم پیش از اعتراضات دی‌ماه ۱۴۰۴ رسیده "
+      "کویت از ایران خواست که «فوری و بدون قید و شرط حملات موشکی و پهپادی به کشورش را متوقف کند و اعلام کرد که مسئولیت کامل این اقدامات بر عهده تهران است.» همزمان فرماندهی مرکزی ارتش آمریکا، سنتکام، حمله موشکی ایران به کویت را «نقض فاحش» آتش‌بس خواند. سنتکام می‌گوید که نیروهای ایرانی پنج پهپاد تهاجمی یک‌طرفه را شلیک کردند اما نیروهای آمریکایی تمام پهپادها را با موفقیت رهگیری و از پرتاب ششمین پهپاد از یک سایت کنترل زمینی ایران در بندرعباس جلوگیری کردند. درگیری نظامی تازه میان ایران و آمریکا فشار بیشتری "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779969043.7707205
+    "timestamp": 1779980153.766147
+  },
+  {
+    "title_fa": "نگرانی از اینترنت محدود همزمان با حمله تندروها به دولت پزشکیان؛ «زمینه آشوب داخلی را فراهم می‌کند»",
+    "title_en": "نگرانی از اینترنت محدود همزمان با حمله تندروها به دولت پزشکیان؛ «زمینه آشوب داخلی را فراهم می‌کند»",
+    "summary": [
+      "در حالی که دسترسی به اینترنت در ایران پس از سه ماه قطعی کامل تا حد زیادی برقرار شده است، اختلاف در میان مقام‌های جمهوری اسلامی بر سر بازگشت آن به وضعیت عادی و فیلترینگ شدید، این نگرانی را ایجاد کرده که ممکن است اینترنت ایران با اختلالات همراه باشد و به شکل ناپایدار باقی بماند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c62e1p8d65wo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c62e1p8d65wo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779980153.7661765
+  },
+  {
+    "title_fa": "واکنش ایران به تهدید ترامپ برای «منفجر کردن» عمان",
+    "title_en": "واکنش ایران به تهدید ترامپ برای «منفجر کردن» عمان",
+    "summary": [
+      "تهدید دونالد ترامپ مبنی براینکه اگر عمان در مورد کنترل تنگه هرمز مثل بقیه کشورها رفتار نکند، آن را «منفجر» خواهد کرد،‌ واکنش‌ ایران را در پی داشته است. وزارت خارجه ایران اظهارات آقای ترامپ را محکوم کرد و آن را «عادی‌سازی قلدرمآبی در روابط بین‌الملل» خواند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/crlpwyn1znko?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/crlpwyn1znko?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779980153.7661996
   },
   {
     "title_fa": "حملات سنگین اسرائیل به جنوب لبنان",
@@ -29,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779969043.7707515
-  },
-  {
-    "title_fa": "پلیس استرالیا زن بازگشته از سوریه را متهم به عضویت در داعش کرد",
-    "title_en": "پلیس استرالیا زن بازگشته از سوریه را متهم به عضویت در داعش کرد",
-    "summary": [
-      "در استرالیا زنی که به گفته پلیس با داعش ارتباط داشت و سال گذشته از سوریه به استرالیا بازگشته بود، به عضویت در یک سازمان تروریستی و ورود به منطقه‌ای که جنگی اعلام شده بود، متهم شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1779969043.7707725
+    "timestamp": 1779980153.7662246
   },
   {
     "title_fa": "چرا اینشتین حاضر نشد رئیس‌جمهور اسرائیل شود؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779969043.7707994
+    "timestamp": 1779980153.766251
   },
   {
     "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779969043.7708228
+    "timestamp": 1779980153.766273
   },
   {
     "title_fa": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779969043.7708447
+    "timestamp": 1779980153.7662942
   },
   {
     "title_fa": "کدام ارزها از جنگ ایران سود بردند و کدام آسیب دیدند؟",
@@ -109,23 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779969043.7708604
+    "timestamp": 1779980153.7663162
   },
   {
-    "title_fa": "بازگشت «نسبی» اینترنت ایران و تصمیم دیوان عدالت اداری در منتفی کردن دستور پزشکیان",
-    "title_en": "بازگشت «نسبی» اینترنت ایران و تصمیم دیوان عدالت اداری در منتفی کردن دستور پزشکیان",
+    "title_fa": "پلیس استرالیا زن بازگشته از سوریه را متهم به عضویت در داعش کرد",
+    "title_en": "پلیس استرالیا زن بازگشته از سوریه را متهم به عضویت در داعش کرد",
     "summary": [
-      "نتبلاکس می گوید اینترنت در ایران به طور نسبی وصل و اتصال اینترنت در ایران به‌صورت جزئی در حال بازگشت است اما درباره پایدار ماندن این وضعیت ابراز تردید کرده است. این گزارش در حالی منتشر شده است که دیوان عدالت اداری ایران گفته است که ابلاغیه مسعود پزشکیان، رئیس جمهور، درباره وصل مجدد اینترنت قابل اجرا نیست. مشخص نیست که تصمیم دیوان عدالت اداری تا چه اندازه بر بازگشت اینترنت تاثیر گذاشته است."
+      "در استرالیا زنی که به گفته پلیس با داعش ارتباط داشت و سال گذشته از سوریه به استرالیا بازگشته بود، به عضویت در یک سازمان تروریستی و ورود به منطقه‌ای که جنگی اعلام شده بود، متهم شده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779969043.7709088
+    "timestamp": 1779980153.7664318
   },
   {
     "title_fa": "تلویزیون ایران: در صورت توافق، تنگه هرمز ظرف یک ماه بازگشایی می‌شود",
@@ -141,7 +157,55 @@
     "url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779969043.7710767
+    "timestamp": 1779980153.7665045
+  },
+  {
+    "title_fa": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+    "title_en": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+    "summary": [
+      "The US president has issued a stark warning to a US ally, in a sign of rising tensions over Strait of Hormuz."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779980153.9178147
+  },
+  {
+    "title_fa": "Hottest year on record almost certain to occur by end of 2030, UN warns",
+    "title_en": "Hottest year on record almost certain to occur by end of 2030, UN warns",
+    "summary": [
+      "Warning comes as Western Europe experiences a heatwave, with temperatures reaching highs not expected until the summer."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/28/hottest-year-in-history-almost-certain-to-occur-by-end-of-2030-un-warns?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/28/hottest-year-in-history-almost-certain-to-occur-by-end-of-2030-un-warns?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779980153.91785
+  },
+  {
+    "title_fa": "Iran says US must issue multiple-entry visas for its World Cup squad",
+    "title_en": "Iran says US must issue multiple-entry visas for its World Cup squad",
+    "summary": [
+      "Iran&#039;s delegation will be based in Tijuana, Mexico, and will travel to the US for all three group stage matches."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779980153.917871
   },
   {
     "title_fa": "For Gaza, Eid joy is now a form of resistance",
@@ -157,7 +221,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
     "image": null,
-    "timestamp": 1779969043.9140656
+    "timestamp": 1779980153.9178805
   },
   {
     "title_fa": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
@@ -173,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
     "image": null,
-    "timestamp": 1779969043.9140897
+    "timestamp": 1779980153.9178994
   },
   {
     "title_fa": "Israel kills children in strikes on Gaza as fear taints Eid joy",
@@ -189,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
     "image": null,
-    "timestamp": 1779969043.914109
+    "timestamp": 1779980153.9179173
   },
   {
     "title_fa": "Ireland football coach urges players to ‘win this war’ against Israel",
@@ -205,102 +269,6 @@
     "url": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
     "image": null,
-    "timestamp": 1779969043.9141216
-  },
-  {
-    "title_fa": "Iran says it has a new air defence system. How significant is it?",
-    "title_en": "Iran says it has a new air defence system. How significant is it?",
-    "summary": [
-      "Iran’s claimed drone interception has renewed attention on Tehran’s military capabilities after months of bombardment."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/iran-says-it-has-a-new-air-defence-system-how-significant-is-it?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/iran-says-it-has-a-new-air-defence-system-how-significant-is-it?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779969043.9141445
-  },
-  {
-    "title_fa": "Children with Down syndrome struggle with devastation of war in Gaza",
-    "title_en": "Children with Down syndrome struggle with devastation of war in Gaza",
-    "summary": [
-      "Children with Down syndrome struggle with devastation of war in Gaza"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/children-with-down-syndrome-struggle-with-devastation-of-war-in-gaza-2?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/children-with-down-syndrome-struggle-with-devastation-of-war-in-gaza-2?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779969043.9141715
-  },
-  {
-    "title_fa": "Israeli attack on Gaza City kills at least 10, including four children",
-    "title_en": "Israeli attack on Gaza City kills at least 10, including four children",
-    "summary": [
-      "More than 20 others were injured in the attack, which came hours after the funeral of the head of Hamas’s armed wing."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/israeli-attack-on-gaza-city-kills-at-least-10-including-four-children?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/israeli-attack-on-gaza-city-kills-at-least-10-including-four-children?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779969043.9141958
-  },
-  {
-    "title_fa": "Neymar injury threatens Brazil forward’s World Cup as scans needed on calf",
-    "title_en": "Neymar injury threatens Brazil forward’s World Cup as scans needed on calf",
-    "summary": [
-      "Brazil&#039;s record scorer, Neymar, has not played since 2023, but injury now appears to threaten his World Cup comeback."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/5/28/neymar-injury-forces-him-out-of-brazils-first-world-cup-training-session?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/5/28/neymar-injury-forces-him-out-of-brazils-first-world-cup-training-session?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779969043.9142075
-  },
-  {
-    "title_fa": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
-    "title_en": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
-    "summary": [
-      "IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779969043.9142456
-  },
-  {
-    "title_fa": "What’s happening on Iran war day 90 as US launches new strikes",
-    "title_en": "What’s happening on Iran war day 90 as US launches new strikes",
-    "summary": [
-      "The US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779969043.9142568
+    "timestamp": 1779980153.917931
   }
 ]
