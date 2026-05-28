@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "انفجار در بندرعباس و آژیر خطر در کویت؛ آمریکا: سایت پرتاب پهپاد و ۴ پهپاد ایران را هدف قرار دادیم، سپاه: پایگاه مبداء حملات را هدف قرار دادیم",
-    "title_en": "انفجار در بندرعباس و آژیر خطر در کویت؛ آمریکا: سایت پرتاب پهپاد و ۴ پهپاد ایران را هدف قرار دادیم، سپاه: پایگاه مبداء حملات را هدف قرار دادیم",
+    "title_fa": "درگیری نظامی ایران و آمریکا در خلیج فارس؛ آمریکا «نهاد مدیریت آبراه خلیج فارس» را تحریم کرد",
+    "title_en": "درگیری نظامی ایران و آمریکا در خلیج فارس؛ آمریکا «نهاد مدیریت آبراه خلیج فارس» را تحریم کرد",
     "summary": [
-      "ایران و آمریکا از درگیری نظامی دیگری در خلیج فارس خبر دادند. فرماندهی مرکزی ارتش آمریکا گفته چهار پهپاد ایرانی را سرنگون و به سایت پرتاب پهپاد پنجم در حوالی بندرعباس حمله کرده است. سپاه پاسداران هم از حمله به «پایگاه مبداء» حملات آمریکا خبر داده و هشدار داده که «تجاوز بدون پاسخ نمی‌ماند». همزمان در کویت آژیر خطر به صدا درآمده و سیستم پدافند این کشور علیه حملات موشکی و پهپادی فعال شده است اما هنوز معلوم نیست که این رویداد با حمله مورد اشاره سپاه پاسداران مرتبط بوده باشد. اینها در حالی است که مذاک"
+      "فرماندهی مرکزی ارتش آمریکا گفت که چهار پهپاد ایرانی را سرنگون و به سایت پرتاب پهپاد پنجم در حوالی بندرعباس حمله کرده است. سپاه پاسداران هم اعلام کرد که یک «پایگاه هوایی آمریکا» را هدف قرار داده است. همزمان در کویت آژیر خطر به صدا درآمد و سیستم پدافند این کشور علیه حملات موشکی و پهپادی فعال شد. در تحولی دیگر وزارت دارایی آمریکا گفت که «نهاد مدیریت آبراه خلیج فارس» را تحریم کرده است. حجم ترافیک اینترنت بین‌الملل ایران هم پس از هفته‌ها محدودیت شدید، به ۵۳ درصد حجم پیش از اعتراضات دی‌ماه ۱۴۰۴ رسیده "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779942216.9625702
+    "timestamp": 1779956077.1932826
+  },
+  {
+    "title_fa": "چرا اینشتین حاضر نشد رئیس‌جمهور اسرائیل شود؟",
+    "title_en": "چرا اینشتین حاضر نشد رئیس‌جمهور اسرائیل شود؟",
+    "summary": [
+      "اسرائیل به رئیس‌جمهور جدیدی نیاز داشت. بنابراین وزارت خارجه نام یهودیان سرشناس را مطرح کرد که می‌توانستند این نقش را ایفا کنند و مهاجرت به کشور تازه‌ تاسیس را تشویق کنند. به این ترتیب، دولت داوید بن‌ گوریون نخست‌وزیر تصمیم گرفت بار دیگر یک دانشمند را برای این مقام دعوت کند و اصلی‌ترین گزینه، مشهورترین دانشمند جهان بود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779956077.1933355
+  },
+  {
+    "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
+    "title_en": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
+    "summary": [
+      "با افزایش تعطیلی و غیرحضوری شدن مدارس ایران، این نگرانی بین خانواده‌ها و معلمان ایجاد شده که دانش‌آموزان با افت تحصیلی جدی رو‌به‌رو شوند. مرکز پژوهش‌های مجلس هم هشدار داده که اگر سیاست‌های متناسب با این شرایط جنگی و آتش‌بس مهیا نشود، «آثار جبران ناپذیری برای نظام آموزشی کشور به دنبال خواهد داشت.»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1779956077.193374
   },
   {
     "title_fa": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
@@ -29,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779942216.9626486
+    "timestamp": 1779956077.1934748
   },
   {
     "title_fa": "کدام ارزها از جنگ ایران سود بردند و کدام آسیب دیدند؟",
@@ -45,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779942216.9626613
+    "timestamp": 1779956077.1935027
   },
   {
     "title_fa": "بازگشت «نسبی» اینترنت ایران و تصمیم دیوان عدالت اداری در منتفی کردن دستور پزشکیان",
@@ -61,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v22225605o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779942216.9626966
+    "timestamp": 1779956077.193579
   },
   {
     "title_fa": "تلویزیون ایران: در صورت توافق، تنگه هرمز ظرف یک ماه بازگشایی می‌شود",
@@ -77,23 +109,39 @@
     "url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cze29rdxnr1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1779942216.9628124
+    "timestamp": 1779956077.1938806
   },
   {
-    "title_fa": "فرمانده جدید شاخه نظامی حماس در حمله هوایی اسرائیل به غزه کشته شد",
-    "title_en": "فرمانده جدید شاخه نظامی حماس در حمله هوایی اسرائیل به غزه کشته شد",
+    "title_fa": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
+    "title_en": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
     "summary": [
-      "محمد عوده، فرمانده شاخه نظامی حماس، روز سه‌شنبه در حمله‌ اسرائیل در نوار غزه کشته شد. پزشکان محلی و شاهدان عینی گفتند که در این حمله که به یک ساختمان مسکونی در یکی از شلوغ‌ترین مناطق بازار شهر غزه اصابت کرد، حداقل سه فلسطینی کشته و ده‌ها نفر دیگر زخمی شدند."
+      "IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cdrp4xk8036o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cdrp4xk8036o?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
     "image": null,
-    "timestamp": 1779942216.962829
+    "timestamp": 1779956077.3540328
+  },
+  {
+    "title_fa": "What’s happening on Iran war day 90 as US launches new strikes",
+    "title_en": "What’s happening on Iran war day 90 as US launches new strikes",
+    "summary": [
+      "The US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
+    "image": null,
+    "timestamp": 1779956077.3540626
   },
   {
     "title_fa": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
@@ -109,7 +157,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
     "image": null,
-    "timestamp": 1779942217.129883
+    "timestamp": 1779956077.3541667
   },
   {
     "title_fa": "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
@@ -125,7 +173,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1779942217.129893
+    "timestamp": 1779956077.3541777
   },
   {
     "title_fa": "Bolivia’s president warns ‘time is running out’ amid protest crisis",
@@ -141,7 +189,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/bolivias-president-warns-time-is-running-out-amid-protest-crisis?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/bolivias-president-warns-time-is-running-out-amid-protest-crisis?traffic_source=rss",
     "image": null,
-    "timestamp": 1779942217.1299126
+    "timestamp": 1779956077.3542018
   },
   {
     "title_fa": "Markets rally amid hopes of US-Iran deal",
@@ -157,7 +205,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
     "image": null,
-    "timestamp": 1779942217.1299207
+    "timestamp": 1779956077.354212
   },
   {
     "title_fa": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
@@ -173,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss",
     "image": null,
-    "timestamp": 1779942217.1299336
+    "timestamp": 1779956077.3542287
   },
   {
     "title_fa": "Trump says no one will control Strait of Hormuz",
@@ -189,38 +237,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss",
     "image": null,
-    "timestamp": 1779942217.1299436
-  },
-  {
-    "title_fa": "Trump appears to threaten Oman over Strait of Hormuz impasse",
-    "title_en": "Trump appears to threaten Oman over Strait of Hormuz impasse",
-    "summary": [
-      "The US president warns that Oman, a US ally, &#039;will behave just like everybody else, or we will have to blow them up&#039;."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779942217.1299646
-  },
-  {
-    "title_fa": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
-    "title_en": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
-    "summary": [
-      "Israel has ordered the evacuation of the southern Lebanese city of Tyre"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss",
-    "image": null,
-    "timestamp": 1779942217.1299784
+    "timestamp": 1779956077.3542416
   }
 ]
