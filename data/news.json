@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780018440.8993518
+    "timestamp": 1780034063.6428711
+  },
+  {
+    "title_fa": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
+    "title_en": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
+    "summary": [
+      "رئیس‌جمهور آمریکا، دونالد ترامپ، از «همه کشورها» خواسته است «فورا توافق‌های ابراهیم را امضا کنند»؛ اقدامی که ممکن است به‌عنوان یکی از شروط دستیابی به توافق صلح با ایران مطرح شود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780034063.642893
   },
   {
     "title_fa": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780018440.8993745
+    "timestamp": 1780034063.6429307
   },
   {
     "title_fa": "آیا آمریکا و ایران به صلح نزدیک شده‌اند یا دوباره به سمت جنگ می‌روند؟",
@@ -45,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780018440.8993907
-  },
-  {
-    "title_fa": "یک راننده کامیون سابق به علت همکاری در توطئه ترور مسیح علی‌نژاد به ۱۰ سال زندان محکوم شد",
-    "title_en": "یک راننده کامیون سابق به علت همکاری در توطئه ترور مسیح علی‌نژاد به ۱۰ سال زندان محکوم شد",
-    "summary": [
-      "مقامات آمریکایی اعلام کردند که یک راننده کامیون سابق به دلیل نقش‌اش در توطئه قتل مسیح علی‌نژاد، فعال سیاسی ایرانی-آمریکایی، به ۱۰ سال زندان محکوم شد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c2024e118g8o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c2024e118g8o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780018440.899428
+    "timestamp": 1780034063.6429634
   },
   {
     "title_fa": "واکنش ایران به تهدید ترامپ برای «منفجر کردن» عمان",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/crlpwyn1znko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crlpwyn1znko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780018440.8994489
+    "timestamp": 1780034063.6429844
   },
   {
     "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780018440.8994725
+    "timestamp": 1780034063.6430144
   },
   {
     "title_fa": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
@@ -109,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780018440.8995004
-  },
-  {
-    "title_fa": "کدام ارزها از جنگ ایران سود بردند و کدام آسیب دیدند؟",
-    "title_en": "کدام ارزها از جنگ ایران سود بردند و کدام آسیب دیدند؟",
-    "summary": [
-      "تیزر:‌ جنگ ایران بازارهای جهانی را متلاطم کرده، اما ارزها واکنش یکسانی نداشته‌اند؛ ارزش برخی کاهش یافته، تعدادی افزایش پیدا کرده‌اند و بعضی دیگر نوسان شدیدی را تجربه کرده‌اند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780018440.8995183
+    "timestamp": 1780034063.6430383
   },
   {
     "title_fa": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
@@ -141,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780018440.8995364
+    "timestamp": 1780034063.6430552
   },
   {
     "title_fa": "چرا اینشتین حاضر نشد رئیس‌جمهور اسرائیل شود؟",
@@ -157,7 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780018440.8996205
+    "timestamp": 1780034063.6430795
+  },
+  {
+    "title_fa": "یک راننده کامیون سابق به علت همکاری در توطئه ترور مسیح علی‌نژاد به ۱۰ سال زندان محکوم شد",
+    "title_en": "یک راننده کامیون سابق به علت همکاری در توطئه ترور مسیح علی‌نژاد به ۱۰ سال زندان محکوم شد",
+    "summary": [
+      "مقامات آمریکایی اعلام کردند که یک راننده کامیون سابق به دلیل نقش‌اش در توطئه قتل مسیح علی‌نژاد، فعال سیاسی ایرانی-آمریکایی، به ۱۰ سال زندان محکوم شد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c2024e118g8o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c2024e118g8o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780034063.6431174
   },
   {
     "title_fa": "آنچه گذشت؛ وزارت ارتباطات ایران: بهبود کیفیت اینترنت چند روز زمان می‌برد",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780018440.8996947
+    "timestamp": 1780034063.6431603
   },
   {
     "title_fa": "نگرانی از اینترنت محدود همزمان با حمله تندروها به دولت پزشکیان",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/c62e1p8d65wo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c62e1p8d65wo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780018440.8997188
+    "timestamp": 1780034063.643181
   },
   {
     "title_fa": "حملات سنگین اسرائیل به جنوب لبنان",
@@ -205,23 +205,23 @@
     "url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780018440.899741
+    "timestamp": 1780034063.6432028
   },
   {
-    "title_fa": "پلیس استرالیا زن بازگشته از سوریه را متهم به عضویت در داعش کرد",
-    "title_en": "پلیس استرالیا زن بازگشته از سوریه را متهم به عضویت در داعش کرد",
+    "title_fa": "Lebanon Latest: Mass evacuations as Israel expands attacks",
+    "title_en": "Lebanon Latest: Mass evacuations as Israel expands attacks",
     "summary": [
-      "در استرالیا زنی که به گفته پلیس با داعش ارتباط داشت و سال گذشته از سوریه به استرالیا بازگشته بود، به عضویت در یک سازمان تروریستی و ورود به منطقه‌ای که جنگی اعلام شده بود، متهم شده است."
+      "Al Jazeera’s Obaida Hitto brings you the latest from southern Lebanon amidst increasing Israeli attacks."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/lebanon-latest-mass-evacuations-as-israel-expands-attacks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/lebanon-latest-mass-evacuations-as-israel-expands-attacks?traffic_source=rss",
     "image": null,
-    "timestamp": 1780018440.8997579
+    "timestamp": 1780034063.9501824
   },
   {
     "title_fa": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
@@ -237,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
     "image": null,
-    "timestamp": 1780018440.9798038
+    "timestamp": 1780034063.9502213
   },
   {
     "title_fa": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
@@ -253,7 +253,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1780018440.9798315
+    "timestamp": 1780034063.9502316
   },
   {
     "title_fa": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
@@ -269,7 +269,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
     "image": null,
-    "timestamp": 1780018440.9798574
+    "timestamp": 1780034063.950243
   },
   {
     "title_fa": "Ireland and Qatar halted twice by protests against upcoming Israel fixtures",
@@ -285,7 +285,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss",
     "image": null,
-    "timestamp": 1780018440.979931
+    "timestamp": 1780034063.950278
   },
   {
     "title_fa": "Defiant Lebanese families refuse to leave Tyre after homes bombed",
@@ -301,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/defiant-lebanese-families-refuse-to-leave-tyre-after-homes-bombed?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/defiant-lebanese-families-refuse-to-leave-tyre-after-homes-bombed?traffic_source=rss",
     "image": null,
-    "timestamp": 1780018440.9799888
+    "timestamp": 1780034063.9503067
   },
   {
     "title_fa": "Europe hit by record-breaking heatwave",
@@ -317,54 +317,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/europe-hit-by-record-breaking-heatwave?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/europe-hit-by-record-breaking-heatwave?traffic_source=rss",
     "image": null,
-    "timestamp": 1780018440.9800324
-  },
-  {
-    "title_fa": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
-    "title_en": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
-    "summary": [
-      "European Union says sanctioned individuals and groups have violated the rights of Palestinians."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780018440.9800684
-  },
-  {
-    "title_fa": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
-    "title_en": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
-    "summary": [
-      "Israeli army has already expanded its control of Gaza by 11 percent over the &#039;Yellow Line&#039;, beyond terms of &#039;ceasefire&#039;."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780018440.980139
-  },
-  {
-    "title_fa": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-    "title_en": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-    "summary": [
-      "Restoring pre-war stockpiles of critical US munitions will take at least two years, according to CSIS report."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780018440.980162
+    "timestamp": 1780034063.950328
   }
 ]
