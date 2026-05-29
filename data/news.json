@@ -3,7 +3,7 @@
     "title_fa": "ترامپ: درباره ایران تصمیم نهایی را می‌گیرم؛ ایران: هنوز هیچ توافقی نهایی نشده است",
     "title_en": "ترامپ: درباره ایران تصمیم نهایی را می‌گیرم؛ ایران: هنوز هیچ توافقی نهایی نشده است",
     "summary": [
-      "در حالیکه دونالد ترامپ اعلام کرد که به اتاق وضعیت می‌رود تا در جلسه‌ای درباره ایران تصمیم نهایی را بگیرد. اسماعیل بقایی، سخنگوی وزارت خارجه ایران اعلام کرد که هنوز هیچ توافقی با آمریکا نهایی نشده است. او گفت که کنترل تنگه هرمز بر عهده ایران و عمان است. اما آقای ترامپ فهرستی از خواسته‌هایی را که می‌گوید ایران باید برآورده کند، مطرح کرد که شامل تعهد ایران به عدم دستیابی به سلاح هسته‌ای، باز کردن تنگه هرمز بدون دریافت عوارض، مین‌روبی کامل این آبراه و خارج‌سازی ذخایر اورانیوم ‌غنی‌شده ایران با همکار"
+      "در حالیکه دونالد ترامپ اعلام کرد که به اتاق بحران می‌رود تا درباره ایران تصمیم نهایی را بگیرد. سخنگوی وزارت خارجه ایران اعلام کرد که هنوز هیچ توافقی با آمریکا نهایی نشده است. او گفت که کنترل تنگه هرمز بر عهده ایران و عمان است. اما آقای ترامپ فهرستی از خواسته‌هایش را مطرح کرد که می‌گوید ایران باید برآورده کند و شامل تعهد به عدم دستیابی به سلاح هسته‌ای، باز کردن تنگه هرمز بدون دریافت عوارض، مین‌روبی کامل این آبراه و خارج‌سازی ذخایر اورانیوم ‌غنی‌شده با همکاری آمریکا و تحت نظارت آژانس و نابودی این "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,11 +13,27 @@
     "url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0537317
+    "timestamp": 1780088458.1925619
   },
   {
-    "title_fa": "نماینده مجلس ایران می‌گوید از چند هفته قبل از مجتبی خامنه‌ای برای رای‌گیری مجازی در مجلس اجازه خواسته‌اند",
-    "title_en": "نماینده مجلس ایران می‌گوید از چند هفته قبل از مجتبی خامنه‌ای برای رای‌گیری مجازی در مجلس اجازه خواسته‌اند",
+    "title_fa": "گزارش یک روزنامه اسرائیلی از عملیات موساد برای نفوذ در ایران",
+    "title_en": "گزارش یک روزنامه اسرائیلی از عملیات موساد برای نفوذ در ایران",
+    "summary": [
+      "روزنامه «اسرائیل هیوم» چاپ تل‌آویو گزارشی منتشر کرده از عملیات پیچیده موساد برای نفوذ در ایران و برانداختن حکومت جمهوری اسلامی. در این گزارش به نقل از منابعی در موساد، از جمله یک مقام ارشد که تا حدود سه ماه پیش رئیس شاخه نفوذ این سازمان بوده، جزئیاتی منتشر شده که انتشار آنها بسیار کم سابقه است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780088458.1925938
+  },
+  {
+    "title_fa": "نماینده مجلس ایران: از چند هفته قبل از مجتبی خامنه‌ای برای رای‌گیری مجازی در مجلس، اجازه خواسته‌اند",
+    "title_en": "نماینده مجلس ایران: از چند هفته قبل از مجتبی خامنه‌ای برای رای‌گیری مجازی در مجلس، اجازه خواسته‌اند",
     "summary": [
       "عبدالحسین روح‌الامینی، نماینده مجلس شورای اسلامی در یک برنامه تلویزیونی گفت چند هفته است که از مجتبی خامنه‌ای، رهبر جدید ایران، اجازه خواسته‌اند تا «قانون‌گذاری و رای‌گیری» مجازی در مجلس انجام شود."
     ],
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c78qg36jnnno?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78qg36jnnno?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0537546
+    "timestamp": 1780088458.1926148
   },
   {
     "title_fa": "اصابت پهپاد روسی به آپارتمانی در رومانی؛ ناتو: از هر وجب‌ خاکمان دفاع می‌کنیم",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cp3p07484jno?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cp3p07484jno?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.053793
+    "timestamp": 1780088458.1926527
   },
   {
     "title_fa": "ابراز نگرانی خانواده زوج بریتانیایی زندانی در ایران نسبت به سلامت آنها",
@@ -61,23 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c4g8xj9x8l2o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c4g8xj9x8l2o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0538135
-  },
-  {
-    "title_fa": "سازمان ملل اسرائیل و روسیه را به «فهرست سیاه» ارتکاب خشونت جنسی در زمان جنگ اضافه کرد",
-    "title_en": "سازمان ملل اسرائیل و روسیه را به «فهرست سیاه» ارتکاب خشونت جنسی در زمان جنگ اضافه کرد",
-    "summary": [
-      "سازمان ملل متحد اسرائیل و روسیه را به فهرست سیاه ارتکاب «خشونت جنسی» در زمان جنگ اضافه کرد؛ نام این کشورها در گزارش سالانه دبیرکل سازمان ملل در این فهرست قرار گرفته که هنوز رسما منتشر نشده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cvgz9qeww97o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cvgz9qeww97o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780080126.053832
+    "timestamp": 1780088458.1926734
   },
   {
     "title_fa": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0538487
+    "timestamp": 1780088458.19269
   },
   {
     "title_fa": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.053864
+    "timestamp": 1780088458.1927056
   },
   {
     "title_fa": "آیا آمریکا و ایران به صلح نزدیک شده‌اند یا دوباره به سمت جنگ می‌روند؟",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0538838
+    "timestamp": 1780088458.1927257
   },
   {
     "title_fa": "واکنش ایران به تهدید ترامپ برای «منفجر کردن» عمان",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/crlpwyn1znko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crlpwyn1znko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0539052
+    "timestamp": 1780088458.1927483
   },
   {
     "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0539281
+    "timestamp": 1780088458.192772
   },
   {
     "title_fa": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0539622
+    "timestamp": 1780088458.192808
   },
   {
     "title_fa": "چرا اینشتین حاضر نشد رئیس‌جمهور اسرائیل شود؟",
@@ -189,23 +189,23 @@
     "url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0539875
+    "timestamp": 1780088458.1928344
   },
   {
-    "title_fa": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
-    "title_en": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
+    "title_fa": "سازمان ملل اسرائیل و روسیه را به «فهرست سیاه» ارتکاب خشونت جنسی در زمان جنگ اضافه کرد",
+    "title_en": "سازمان ملل اسرائیل و روسیه را به «فهرست سیاه» ارتکاب خشونت جنسی در زمان جنگ اضافه کرد",
     "summary": [
-      "۸۹ روز از شروع جنگ آمریکا و اسرائیل با ایران می‌گذرد. در ۸۸ امین روز بخشی از کاربران در ایران توانستند با اینترنت خانگی‌شان ( وای‌فای) به اینترنت وصل شوند. اینترنتی که هنوز با دیگر کشورهای دنیا تفاوت‌هایی دارد و کاربران مجبورند برای دور زدن محدودیت‌ها از وی‌پی‌ان استفاده کنند."
+      "سازمان ملل متحد اسرائیل و روسیه را به فهرست سیاه ارتکاب «خشونت جنسی» در زمان جنگ اضافه کرد؛ نام این کشورها در گزارش سالانه دبیرکل سازمان ملل در این فهرست قرار گرفته که هنوز رسما منتشر نشده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cvgz9qeww97o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cvgz9qeww97o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0540085
+    "timestamp": 1780088458.1928527
   },
   {
     "title_fa": "یک راننده کامیون سابق به علت همکاری در توطئه ترور مسیح علی‌نژاد به ۱۰ سال زندان محکوم شد",
@@ -221,23 +221,71 @@
     "url": "https://www.bbc.com/persian/articles/c2024e118g8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2024e118g8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0540407
+    "timestamp": 1780088458.192886
   },
   {
-    "title_fa": "آنچه گذشت؛ وزارت ارتباطات ایران: بهبود کیفیت اینترنت چند روز زمان می‌برد",
-    "title_en": "آنچه گذشت؛ وزارت ارتباطات ایران: بهبود کیفیت اینترنت چند روز زمان می‌برد",
+    "title_fa": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
+    "title_en": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
     "summary": [
-      "معاون وزیر ارتباطات ایران گفته بهبود کیفیت سرویس‌ها و بازگشت ترافیک بین‌الملل به دلیل طولانی شدن قطعی‌ اینترنت «چند روز طول می‌کشد.» وزارت دارایی آمریکا در چارچوب فشار بر ایران و تلاش برای بازگشایی تنگه هرمز، دسترسی خطوط هوایی ایران به فرودگاه‌ها را متوقف خواهد کرد. واشنگتن می‌گوید که تنها دستیابی به یک نتیجه‌ رضایت‌بخش در مذاکرات می‌تواند به این روند نزولی پایان دهد. سنتکام، ایران را به نقض فاحش آتش‌بس متهم کرد و گفت که تهران یک موشک بالستیک به سوی کویت شلیک کرده است. ایران هم با متهم کردن آمری"
+      "۸۹ روز از شروع جنگ آمریکا و اسرائیل با ایران می‌گذرد. در ۸۸ امین روز بخشی از کاربران در ایران توانستند با اینترنت خانگی‌شان ( وای‌فای) به اینترنت وصل شوند. اینترنتی که هنوز با دیگر کشورهای دنیا تفاوت‌هایی دارد و کاربران مجبورند برای دور زدن محدودیت‌ها از وی‌پی‌ان استفاده کنند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780080126.0540807
+    "timestamp": 1780088458.1929076
+  },
+  {
+    "title_fa": "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
+    "title_en": "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
+    "summary": [
+      "Israeli Prime Minister Benjamin Netanyahu said Israeli forces had crossed the Litani River in southern Lebanon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/netanyahu-says-israeli-forces-have-crossed-lebanons-litani-river?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/netanyahu-says-israeli-forces-have-crossed-lebanons-litani-river?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780088458.344461
+  },
+  {
+    "title_fa": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
+    "title_en": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
+    "summary": [
+      "New report says nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780088458.3444772
+  },
+  {
+    "title_fa": "Trump heads into Situation Room to potentially finalise Iran deal",
+    "title_en": "Trump heads into Situation Room to potentially finalise Iran deal",
+    "summary": [
+      "Donald Trump says he’s in the Situation Room at the White House to make a “final determination” on a deal with Iran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/trump-heads-into-situation-room-to-potentially-finalise-iran-deal?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/trump-heads-into-situation-room-to-potentially-finalise-iran-deal?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780088458.3444948
   },
   {
     "title_fa": "Russian rate of losses in Ukraine almost triples in one year",
@@ -250,10 +298,10 @@
     "urgency": 5,
     "sentiment": 0.0,
     "source": "aljazeera",
-    "url": "https://www.aljazeera.com/features/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/features/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss",
+    "url": "https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss",
     "image": null,
-    "timestamp": 1780080126.2637036
+    "timestamp": 1780088458.3445156
   },
   {
     "title_fa": "Israeli fighter jets strike village in south Lebanon",
@@ -269,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1780080126.2637284
+    "timestamp": 1780088458.3445363
   },
   {
     "title_fa": "Trump says ‘final determination’ to be made on possible Iran deal",
@@ -285,7 +333,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal?traffic_source=rss",
     "image": null,
-    "timestamp": 1780080126.2637796
+    "timestamp": 1780088458.3445847
   },
   {
     "title_fa": "Will the AI race fuel another boom or another bubble?",
@@ -301,7 +349,7 @@
     "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/29/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/29/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
     "image": null,
-    "timestamp": 1780080126.2637894
+    "timestamp": 1780088458.3445935
   },
   {
     "title_fa": "Vance says US, Iran have made “a lot of progress” towards deal",
@@ -317,13 +365,13 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/vance-says-us-iran-have-made-a-lot-of-progress-towards-deal?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/vance-says-us-iran-have-made-a-lot-of-progress-towards-deal?traffic_source=rss",
     "image": null,
-    "timestamp": 1780080126.263802
+    "timestamp": 1780088458.3446064
   },
   {
-    "title_fa": "Five killed in Lebanon as Israeli forces advance across key Litani River",
-    "title_en": "Five killed in Lebanon as Israeli forces advance across key Litani River",
+    "title_fa": "Israeli attacks kill 14 in Lebanon as Pentagon hosts security talks",
+    "title_en": "Israeli attacks kill 14 in Lebanon as Pentagon hosts security talks",
     "summary": [
-      "Attacks come ahead of security talks between Lebanese and Israeli military delegations at the Pentagon."
+      "Israeli forces advance across Lebanon&#039;s Litani River as Lebanese and Israeli military delegations meet in the US."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -333,7 +381,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/29/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/29/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river?traffic_source=rss",
     "image": null,
-    "timestamp": 1780080126.2638128
+    "timestamp": 1780088458.3446174
   },
   {
     "title_fa": "Israel strikes building in Gaza’s Shati refugee camp",
@@ -349,7 +397,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israel-strikes-building-in-gazas-shati-refugee-camp?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israel-strikes-building-in-gazas-shati-refugee-camp?traffic_source=rss",
     "image": null,
-    "timestamp": 1780080126.263823
+    "timestamp": 1780088458.3446283
   },
   {
     "title_fa": "Eid and sacrifice in Gaza",
@@ -365,38 +413,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/eid-and-sacrifice-in-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/eid-and-sacrifice-in-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1780080126.2638335
-  },
-  {
-    "title_fa": "Just what are Israel’s long-term plans for Gaza?",
-    "title_en": "Just what are Israel’s long-term plans for Gaza?",
-    "summary": [
-      "Despite an apparent ceasefire, Israel&#039;s leaders continue to hint at annexation and ethnic cleansing."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/29/just-what-are-israels-long-term-plans-for?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/29/just-what-are-israels-long-term-plans-for?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780080126.2638874
-  },
-  {
-    "title_fa": "Kambo: What is the frog poison ‘spiritual ritual’ killing detoxers?",
-    "title_en": "Kambo: What is the frog poison ‘spiritual ritual’ killing detoxers?",
-    "summary": [
-      "Indigenous groups have warned against the use of kambo by non-specialist practitioners."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/29/kambo-what-is-the-frog-poison-spiritual-ritual-killing?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/29/kambo-what-is-the-frog-poison-spiritual-ritual-killing?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780080126.2639067
+    "timestamp": 1780088458.3446388
   }
 ]
