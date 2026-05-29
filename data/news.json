@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "مقام‌های آمریکایی از توافق اولیه با ایران بر سر تمدید ۶۰ روزه آتش‌بس می‌گویند",
-    "title_en": "مقام‌های آمریکایی از توافق اولیه با ایران بر سر تمدید ۶۰ روزه آتش‌بس می‌گویند",
+    "title_fa": "ونس: ایران و آمریکا به توافق «خیلی نزدیک» شده‌اند اما هنوز «نهایی نشده» است",
+    "title_en": "ونس: ایران و آمریکا به توافق «خیلی نزدیک» شده‌اند اما هنوز «نهایی نشده» است",
     "summary": [
-      "مقام‌های آمريکايی می گويند مذاکره‌کنندگان ايالات متحده و ايران بر سر چارچوب توافقی به تفاهم رسيده‌اند که بر اساس آن آتش‌بس ميان دو کشور به مدت ۶۰ روز تمديد می‌شود و مذاکرات درباره آينده برنامه هسته‌ای ايران آغاز خواهد شد. با این حال، از تهران اخبار متناقضی مخابره می‌شود؛ خبرگزاری تسنیم به نقل از مقام‌های ایران گفته چنین توافقی هنوز «نهایی یا تایید» نشده است. همزمان معاون وزیر ارتباطات ایران گفته ارتقای کیفیت اتصال به اینترنت به علت قطعی بلندمدت، چند روز طول خواهد کشید. در جنوب ایران فرماندار شهر"
+      "جی دی ونس، معاون رئيس جمهوری آمريکا، گفت ايالات متحده و ايران همچنان بايد چند موضوع اختلافی را حل و فصل کنند تا توافقی درباره جنگ حاصل شود. پيشتر در روز پنجشنبه، مقام‌های آمريکايی به بی‌بی‌سی گفته بودند دو کشور بر سر چارچوب يک توافق به تفاهم رسيده‌اند، اما اين توافق هنوز نياز به تاييد دونالد ترامپ و رهبران ايران دارد. خبرگزاری تسنیم هم به نقل از مقام‌های ایران گفت چنین توافقی هنوز «نهایی یا تایید» نشده است. فرماندار شهر جم در نزدیکی بوشهر از هدف قرار گرفتن یک «هواگرد متخاصم» خبر داد. سنتکام اما "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.754404
+    "timestamp": 1780018440.8993518
+  },
+  {
+    "title_fa": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
+    "title_en": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
+    "summary": [
+      "مارکو روبیو، وزیر امور خارجه آمریکا، سفر چهار روزه خود به هند را در حالی به پایان رساند که این سفر همچنان در شبکه‌های اجتماعی موضوع بحث و گفت‌وگوست."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780018440.8993745
   },
   {
     "title_fa": "آیا آمریکا و ایران به صلح نزدیک شده‌اند یا دوباره به سمت جنگ می‌روند؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.7544434
+    "timestamp": 1780018440.8993907
   },
   {
     "title_fa": "یک راننده کامیون سابق به علت همکاری در توطئه ترور مسیح علی‌نژاد به ۱۰ سال زندان محکوم شد",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c2024e118g8o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2024e118g8o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.754483
+    "timestamp": 1780018440.899428
   },
   {
     "title_fa": "واکنش ایران به تهدید ترامپ برای «منفجر کردن» عمان",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/crlpwyn1znko?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crlpwyn1znko?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.7545042
+    "timestamp": 1780018440.8994489
   },
   {
     "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.7545278
+    "timestamp": 1780018440.8994725
   },
   {
     "title_fa": "بازگشت به «فیلترنت» بعد از ۸۸ روز؛ «دلم برایتان تنگ شده بود»",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1l2ymrq902o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.75455
+    "timestamp": 1780018440.8995004
   },
   {
     "title_fa": "کدام ارزها از جنگ ایران سود بردند و کدام آسیب دیدند؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq5ppwen2v0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.7545726
+    "timestamp": 1780018440.8995183
   },
   {
     "title_fa": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.7546043
+    "timestamp": 1780018440.8995364
   },
   {
     "title_fa": "چرا اینشتین حاضر نشد رئیس‌جمهور اسرائیل شود؟",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cd7yzn4482eo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.7546313
+    "timestamp": 1780018440.8996205
   },
   {
     "title_fa": "آنچه گذشت؛ وزارت ارتباطات ایران: بهبود کیفیت اینترنت چند روز زمان می‌برد",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c0l2yx6glgyt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.7546976
+    "timestamp": 1780018440.8996947
   },
   {
     "title_fa": "نگرانی از اینترنت محدود همزمان با حمله تندروها به دولت پزشکیان",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/c62e1p8d65wo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c62e1p8d65wo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.7547202
+    "timestamp": 1780018440.8997188
   },
   {
     "title_fa": "حملات سنگین اسرائیل به جنوب لبنان",
@@ -189,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.7547436
+    "timestamp": 1780018440.899741
   },
   {
     "title_fa": "پلیس استرالیا زن بازگشته از سوریه را متهم به عضویت در داعش کرد",
@@ -205,7 +221,39 @@
     "url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8932ndq32no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780011624.754761
+    "timestamp": 1780018440.8997579
+  },
+  {
+    "title_fa": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
+    "title_en": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
+    "summary": [
+      "Lebanese PM Nawaf Salam says &#039;nothing can justify&#039; Israel&#039;s military onslaught against &#039;peaceful people&#039; in Lebanon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780018440.9798038
+  },
+  {
+    "title_fa": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
+    "title_en": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
+    "summary": [
+      "Israeli Prime Minister Benjamin Netanyahu says he has ordered the military to take control of 70 percent of Gaza."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780018440.9798315
   },
   {
     "title_fa": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
     "image": null,
-    "timestamp": 1780011624.9055347
+    "timestamp": 1780018440.9798574
   },
   {
     "title_fa": "Ireland and Qatar halted twice by protests against upcoming Israel fixtures",
@@ -237,7 +285,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss",
     "image": null,
-    "timestamp": 1780011624.9055774
+    "timestamp": 1780018440.979931
   },
   {
     "title_fa": "Defiant Lebanese families refuse to leave Tyre after homes bombed",
@@ -253,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/defiant-lebanese-families-refuse-to-leave-tyre-after-homes-bombed?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/defiant-lebanese-families-refuse-to-leave-tyre-after-homes-bombed?traffic_source=rss",
     "image": null,
-    "timestamp": 1780011624.9056094
+    "timestamp": 1780018440.9799888
   },
   {
     "title_fa": "Europe hit by record-breaking heatwave",
@@ -269,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/europe-hit-by-record-breaking-heatwave?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/europe-hit-by-record-breaking-heatwave?traffic_source=rss",
     "image": null,
-    "timestamp": 1780011624.9056332
+    "timestamp": 1780018440.9800324
   },
   {
     "title_fa": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
@@ -285,7 +333,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
     "image": null,
-    "timestamp": 1780011624.905654
+    "timestamp": 1780018440.9800684
   },
   {
     "title_fa": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
@@ -301,7 +349,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
     "image": null,
-    "timestamp": 1780011624.9056933
+    "timestamp": 1780018440.980139
   },
   {
     "title_fa": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
@@ -317,38 +365,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
     "image": null,
-    "timestamp": 1780011624.9057038
-  },
-  {
-    "title_fa": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
-    "title_en": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
-    "summary": [
-      "US and Iranian negotiators have reached a memorandum of understanding on a proposed 60-day ceasefire extension."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780011624.9057143
-  },
-  {
-    "title_fa": "US and Iran reach tentative deal for 60-day truce extension, officials say",
-    "title_en": "US and Iran reach tentative deal for 60-day truce extension, officials say",
-    "summary": [
-      "The memorandum of understanding, which would enable further negotiations, still requires Donald Trump&#039;s final approval."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780011624.905723
+    "timestamp": 1780018440.980162
   }
 ]
