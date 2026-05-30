@@ -10,10 +10,42 @@
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780180775.272388
+    "timestamp": 1780184375.0033536
+  },
+  {
+    "title_fa": "جنگ ایران چقدر به اقتصاد عراق آسیب زده است؟",
+    "title_en": "جنگ ایران چقدر به اقتصاد عراق آسیب زده است؟",
+    "summary": [
+      "جنگ آمریکا و اسرائیل با ایران و اختلال ناشی از آن در عبور کشتی‌ها از تنگه هرمز، شکنندگی اقتصاد عراق و وابستگی شدید آن به صادرات نفت و همچنین اتکای این کشور به گاز ایران برای تامین برق را آشکار کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/czr2x4lgg7no?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/czr2x4lgg7no?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780184375.0033789
+  },
+  {
+    "title_fa": "نازنین زاغری-رتکلیف: خیاطی در زندان ایران به من امید می‌داد",
+    "title_en": "نازنین زاغری-رتکلیف: خیاطی در زندان ایران به من امید می‌داد",
+    "summary": [
+      "نازنین زاغری-رتکلیف در یک گفت‌وگوی تازه از خیاطی در سال‌های به‌سر بردن در زندان ایران سخن گفت و از این که چطور دوخت‌ودوز به او امید و انگیزه می‌داد. او می‌گوید که آزادی در تک‌تک چیزهای کوچک زندگی ما نهفته است؛ این‌که بتوانیم زیر نور خورشید قدم بزنیم یا هر ماه ماه کامل را ببینیم."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c3w2jd13y6wo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c3w2jd13y6wo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780184375.003405
   },
   {
     "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
@@ -29,103 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780180775.2724302
-  },
-  {
-    "title_fa": "هگست: آمریکا از متحدان آسیایی خود روی برنمی‌گرداند، اما انتظار دارد دفاعشان را تقویت کنند",
-    "title_en": "هگست: آمریکا از متحدان آسیایی خود روی برنمی‌گرداند، اما انتظار دارد دفاعشان را تقویت کنند",
-    "summary": [
-      "پیت هگست، وزیر دفاع آمریکا، در یک مجمع عالی دفاعی منطقه‌ای در سنگاپور گفت که ارتش آمریکا در حالی که به «تعهدات جهانی» خود مانند جنگ ایران عمل می‌کند، به آسیا «پشت نمی‌کند». در پی تعلیق فروش تسلیحاتی آمریکا به تایوان، آقای هگست سعی کرد که به متحدان واشنگتن در آسیا-اقیانوسیه اطمینان دهد که آمریکا همچنان پای تعهداتش به این منطقه ایستاده است. هرچند او درخواست‌های آمریکا از شرکای آسیایی برای صرف هزینه‌های بیشتر در حوزه دفاعی را تکرار کرد."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cgjpqvp5vp4o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cgjpqvp5vp4o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780180775.2725046
-  },
-  {
-    "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
-    "title_en": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
-    "summary": [
-      "احتمال دستیابی به «توافق بزرگ» میان ایران و آمریکا در شرایط کنونی چقدر است و چنین توافقی بر چه اساسی می‌تواند شکل بگیرد؟ روسلان سلیمانوف، شرق‌شناس، در پادکست «چه اتفاقی افتاد؟» از بخش روسی بی‌بی‌سی به این پرسش‌ها پاسخ داده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780180775.272525
-  },
-  {
-    "title_fa": "گزارش یک روزنامه اسرائیلی از عملیات موساد برای نفوذ در ایران",
-    "title_en": "گزارش یک روزنامه اسرائیلی از عملیات موساد برای نفوذ در ایران",
-    "summary": [
-      "روزنامه «اسرائیل هیوم» چاپ تل‌آویو گزارشی منتشر کرده از عملیات پیچیده موساد برای نفوذ در ایران و برانداختن حکومت جمهوری اسلامی. در این گزارش به نقل از منابعی در موساد، از جمله یک مقام ارشد که تا حدود سه ماه پیش رئیس شاخه نفوذ این سازمان بوده، جزئیاتی منتشر شده که انتشار آنها بسیار کم سابقه است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780180775.2725475
-  },
-  {
-    "title_fa": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
-    "title_en": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
-    "summary": [
-      "رئیس‌جمهور آمریکا، دونالد ترامپ، از «همه کشورها» خواسته است «فورا توافق‌های ابراهیم را امضا کنند»؛ اقدامی که ممکن است به‌عنوان یکی از شروط دستیابی به توافق صلح با ایران مطرح شود."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780180775.2725701
-  },
-  {
-    "title_fa": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
-    "title_en": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
-    "summary": [
-      "مارکو روبیو، وزیر امور خارجه آمریکا، سفر چهار روزه خود به هند را در حالی به پایان رساند که این سفر همچنان در شبکه‌های اجتماعی موضوع بحث و گفت‌وگوست."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780180775.2725868
-  },
-  {
-    "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
-    "title_en": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
-    "summary": [
-      "با افزایش تعطیلی و غیرحضوری شدن مدارس ایران، این نگرانی بین خانواده‌ها و معلمان ایجاد شده که دانش‌آموزان با افت تحصیلی جدی رو‌به‌رو شوند. مرکز پژوهش‌های مجلس هم هشدار داده که اگر سیاست‌های متناسب با این شرایط جنگی و آتش‌بس مهیا نشود، «آثار جبران ناپذیری برای نظام آموزشی کشور به دنبال خواهد داشت.»"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780180775.2726352
+    "timestamp": 1780184375.0034409
   },
   {
     "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
@@ -141,39 +77,119 @@
     "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780180775.2726653
+    "timestamp": 1780184375.0034556
   },
   {
-    "title_fa": "نماینده مجلس ایران: از چند هفته قبل از مجتبی خامنه‌ای برای رای‌گیری مجازی در مجلس، اجازه خواسته‌اند",
-    "title_en": "نماینده مجلس ایران: از چند هفته قبل از مجتبی خامنه‌ای برای رای‌گیری مجازی در مجلس، اجازه خواسته‌اند",
+    "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
+    "title_en": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
     "summary": [
-      "عبدالحسین روح‌الامینی، نماینده مجلس شورای اسلامی در یک برنامه تلویزیونی گفت چند هفته است که از مجتبی خامنه‌ای، رهبر جدید ایران، اجازه خواسته‌اند تا «قانون‌گذاری و رای‌گیری» مجازی در مجلس انجام شود."
+      "احتمال دستیابی به «توافق بزرگ» میان ایران و آمریکا در شرایط کنونی چقدر است و چنین توافقی بر چه اساسی می‌تواند شکل بگیرد؟ روسلان سلیمانوف، شرق‌شناس، در پادکست «چه اتفاقی افتاد؟» از بخش روسی بی‌بی‌سی به این پرسش‌ها پاسخ داده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c78qg36jnnno?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c78qg36jnnno?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780180775.2726946
+    "timestamp": 1780184375.0034764
   },
   {
-    "title_fa": "اصابت پهپاد روسی به آپارتمانی در رومانی؛ ناتو: از هر وجب‌ خاکمان دفاع می‌کنیم",
-    "title_en": "اصابت پهپاد روسی به آپارتمانی در رومانی؛ ناتو: از هر وجب‌ خاکمان دفاع می‌کنیم",
+    "title_fa": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
+    "title_en": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
     "summary": [
-      "به دنبال اصابت پهپاد روسیه به یک ساختمان مسکونی در رومانی، ناتو هشدار داد که این ائتلاف نظامی آماده است از «هر وجب» از قلمرو خود دفاع کند. یکی از پهپادهایی که روسیه به سمت اوکراین شلیک کرده بود، به مجتمعی آپارتمانی در شهر گالاتی اصابت کرد که نزدیک مرز شرقی رومانی با اوکراین و مولداوی است؛ اصابت این پهپاد باعث آتش‌سوزی و مجروح شدن دو نفر شد. از زمان تمام تهاجم تمام عیار روسیه به اوکراین در سال ۲۰۲۲ و آغاز جنگ، این نخستین بار است که یک ساختمان مسکونی در رومانی مورد اصابت قرار می‌گیرد."
+      "رئیس‌جمهور آمریکا، دونالد ترامپ، از «همه کشورها» خواسته است «فورا توافق‌های ابراهیم را امضا کنند»؛ اقدامی که ممکن است به‌عنوان یکی از شروط دستیابی به توافق صلح با ایران مطرح شود."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cp3p07484jno?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cp3p07484jno?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780180775.2727287
+    "timestamp": 1780184375.0034993
+  },
+  {
+    "title_fa": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
+    "title_en": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
+    "summary": [
+      "مارکو روبیو، وزیر امور خارجه آمریکا، سفر چهار روزه خود به هند را در حالی به پایان رساند که این سفر همچنان در شبکه‌های اجتماعی موضوع بحث و گفت‌وگوست."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780184375.003516
+  },
+  {
+    "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
+    "title_en": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
+    "summary": [
+      "با افزایش تعطیلی و غیرحضوری شدن مدارس ایران، این نگرانی بین خانواده‌ها و معلمان ایجاد شده که دانش‌آموزان با افت تحصیلی جدی رو‌به‌رو شوند. مرکز پژوهش‌های مجلس هم هشدار داده که اگر سیاست‌های متناسب با این شرایط جنگی و آتش‌بس مهیا نشود، «آثار جبران ناپذیری برای نظام آموزشی کشور به دنبال خواهد داشت.»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780184375.0035646
+  },
+  {
+    "title_fa": "هگست: آمریکا از متحدان آسیایی خود روی برنمی‌گرداند، اما انتظار دارد دفاعشان را تقویت کنند",
+    "title_en": "هگست: آمریکا از متحدان آسیایی خود روی برنمی‌گرداند، اما انتظار دارد دفاعشان را تقویت کنند",
+    "summary": [
+      "پیت هگست، وزیر دفاع آمریکا، در یک مجمع عالی دفاعی منطقه‌ای در سنگاپور گفت که ارتش آمریکا در حالی که به «تعهدات جهانی» خود مانند جنگ ایران عمل می‌کند، به آسیا «پشت نمی‌کند». در پی تعلیق فروش تسلیحاتی آمریکا به تایوان، آقای هگست سعی کرد که به متحدان واشنگتن در آسیا-اقیانوسیه اطمینان دهد که آمریکا همچنان پای تعهداتش به این منطقه ایستاده است. هرچند او درخواست‌های آمریکا از شرکای آسیایی برای صرف هزینه‌های بیشتر در حوزه دفاعی را تکرار کرد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cgjpqvp5vp4o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cgjpqvp5vp4o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780184375.0036383
+  },
+  {
+    "title_fa": "آنچه گذشت؛ هشدار عمان به دریانوردان درباره احتمال مشاهده مین دریایی",
+    "title_en": "آنچه گذشت؛ هشدار عمان به دریانوردان درباره احتمال مشاهده مین دریایی",
+    "summary": [
+      "ارتش آمریکا اعلام کرد که روز جمعه به موتورخانه یک کشتی که با پرچم گامبیا در تلاش بود از محاصره دریایی ایران عبور کند، موشک هلفایر شلیک کرده است. سنتکام می‌گوید که این کشتی در آب‌های بین‌المللی به سمت یکی از بنادر ایران در خلیج عمان در حرکت بود. در همین حال قرارگاه مرکزی خاتم الانبیا، هشدار داد که هرگونه اقدام شناورهای نظامی جهت «مداخله در مدیریت تنگه هرمز یا ایجاد اختلال در تردد، مورد هدف نیروهای مسلح ایران» قرار خواهد گرفت. پیشتر مرکز امنیت دریایی عمان از دریانوردان خواست در صورت مشاهده شیٔ شنا"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780184375.0036743
+  },
+  {
+    "title_fa": "گزارش یک روزنامه اسرائیلی از عملیات موساد برای نفوذ در ایران",
+    "title_en": "گزارش یک روزنامه اسرائیلی از عملیات موساد برای نفوذ در ایران",
+    "summary": [
+      "روزنامه «اسرائیل هیوم» چاپ تل‌آویو گزارشی منتشر کرده از عملیات پیچیده موساد برای نفوذ در ایران و برانداختن حکومت جمهوری اسلامی. در این گزارش به نقل از منابعی در موساد، از جمله یک مقام ارشد که تا حدود سه ماه پیش رئیس شاخه نفوذ این سازمان بوده، جزئیاتی منتشر شده که انتشار آنها بسیار کم سابقه است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780184375.0036972
   },
   {
     "title_fa": "پهپادهای فیبر نوری حزب‌الله؛ تهدیدی تازه و رو‌به‌افزایش در مرز لبنان و اسرائیل",
@@ -189,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780180775.2727504
+    "timestamp": 1780184375.0037186
   },
   {
     "title_fa": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
@@ -205,7 +221,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780180775.2727664
+    "timestamp": 1780184375.0037346
   },
   {
     "title_fa": "آیا آمریکا و ایران به صلح نزدیک شده‌اند یا دوباره به سمت جنگ می‌روند؟",
@@ -221,7 +237,23 @@
     "url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780180775.2727792
+    "timestamp": 1780184375.0037472
+  },
+  {
+    "title_fa": "US Congress advances American-Israeli military integration plan",
+    "title_en": "US Congress advances American-Israeli military integration plan",
+    "summary": [
+      "A provision in the 2027 draft US defence bill could bind the two countries&#039; weapons industries closer than ever."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780184375.1291363
   },
   {
     "title_fa": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
     "image": null,
-    "timestamp": 1780180775.3635483
+    "timestamp": 1780184375.1291506
   },
   {
     "title_fa": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
     "image": null,
-    "timestamp": 1780180775.36357
+    "timestamp": 1780184375.12918
   },
   {
     "title_fa": "Is the war in Ukraine entering a new phase?",
@@ -269,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss",
     "image": null,
-    "timestamp": 1780180775.3636053
+    "timestamp": 1780184375.1292224
   },
   {
     "title_fa": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
@@ -285,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
     "image": null,
-    "timestamp": 1780180775.3636158
+    "timestamp": 1780184375.1292326
   },
   {
     "title_fa": "Two killed, including Palestinian doctor, in Israeli attacks on Gaza",
@@ -301,22 +333,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1780180775.363663
-  },
-  {
-    "title_fa": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
-    "title_en": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
-    "summary": [
-      "Israel’s military has advanced beyond Lebanon&#039;s Litani River for the first time since 2006."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780180775.36374
+    "timestamp": 1780184375.1292944
   }
 ]
