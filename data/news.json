@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780141388.474507
+    "timestamp": 1780145324.5240085
+  },
+  {
+    "title_fa": "هگست: آمریکا از متحدان آسیایی خود روی برنمی‌گرداند، اما انتظار دارد دفاعشان را تقویت کنند",
+    "title_en": "هگست: آمریکا از متحدان آسیایی خود روی برنمی‌گرداند، اما انتظار دارد دفاعشان را تقویت کنند",
+    "summary": [
+      "پیت هگست، وزیر دفاع آمریکا، در یک مجمع عالی دفاعی منطقه‌ای در سنگاپور گفت که ارتش آمریکا در حالی که به «تعهدات جهانی» خود مانند جنگ ایران عمل می‌کند، به آسیا «پشت نمی‌کند». در پی تعلیق فروش تسلیحاتی آمریکا به تایوان، آقای هگست سعی کرد که به متحدان واشنگتن در آسیا-اقیانوسیه اطمینان دهد که آمریکا همچنان پای تعهداتش به این منطقه ایستاده است. هرچند او درخواست‌های آمریکا از شرکای آسیایی برای صرف هزینه‌های بیشتر در حوزه دفاعی را تکرار کرد."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cgjpqvp5vp4o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cgjpqvp5vp4o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780145324.5240476
   },
   {
     "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
@@ -29,23 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780141388.4748218
-  },
-  {
-    "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
-    "title_en": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
-    "summary": [
-      "سرنوشت و مکان نگهداری ذخایر اورانیوم غنی‌شده ایران،‌ به ويژه ذخایر ۶۰ درصدی، به معمایی پیچیده در پرونده هسته‌ای جمهوری اسلامی تبدیل شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780141388.47484
+    "timestamp": 1780145324.5240858
   },
   {
     "title_fa": "پهپادهای فیبر نوری حزب‌الله؛ تهدیدی تازه و رو به افزایش در مرز لبنان و اسرائیل",
@@ -61,7 +61,23 @@
     "url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780141388.4748642
+    "timestamp": 1780145324.5241098
+  },
+  {
+    "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
+    "title_en": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
+    "summary": [
+      "سرنوشت و مکان نگهداری ذخایر اورانیوم غنی‌شده ایران،‌ به ويژه ذخایر ۶۰ درصدی، به معمایی پیچیده در پرونده هسته‌ای جمهوری اسلامی تبدیل شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780145324.5241246
   },
   {
     "title_fa": "گزارش یک روزنامه اسرائیلی از عملیات موساد برای نفوذ در ایران",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780141388.4748874
+    "timestamp": 1780145324.5241494
   },
   {
     "title_fa": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780141388.4749036
+    "timestamp": 1780145324.5241723
   },
   {
     "title_fa": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
@@ -109,23 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780141388.474925
-  },
-  {
-    "title_fa": "آیا آمریکا و ایران به صلح نزدیک شده‌اند یا دوباره به سمت جنگ می‌روند؟",
-    "title_en": "آیا آمریکا و ایران به صلح نزدیک شده‌اند یا دوباره به سمت جنگ می‌روند؟",
-    "summary": [
-      "با وجود تنش‌های روزهای اخیر، به نظر نمی‌رسد آمریکا و ایران، هیچ‌کدام تمایلی به بازگشت به یک درگیری تمام‌عیار داشته باشند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780141388.4749398
+    "timestamp": 1780145324.5241897
   },
   {
     "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780141388.474974
+    "timestamp": 1780145324.5242248
   },
   {
     "title_fa": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780141388.4750078
+    "timestamp": 1780145324.5242593
   },
   {
     "title_fa": "نماینده مجلس ایران: از چند هفته قبل از مجتبی خامنه‌ای برای رای‌گیری مجازی در مجلس، اجازه خواسته‌اند",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/c78qg36jnnno?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78qg36jnnno?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780141388.4750378
+    "timestamp": 1780145324.5242898
   },
   {
     "title_fa": "اصابت پهپاد روسی به آپارتمانی در رومانی؛ ناتو: از هر وجب‌ خاکمان دفاع می‌کنیم",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cp3p07484jno?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cp3p07484jno?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780141388.4750729
+    "timestamp": 1780145324.524325
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ: درباره ایران تصمیم نهایی را می‌گیرم؛ ایران: هنوز هیچ توافقی نهایی نشده است",
@@ -205,7 +205,55 @@
     "url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780141388.4751132
+    "timestamp": 1780145324.524365
+  },
+  {
+    "title_fa": "آیا آمریکا و ایران به صلح نزدیک شده‌اند یا دوباره به سمت جنگ می‌روند؟",
+    "title_en": "آیا آمریکا و ایران به صلح نزدیک شده‌اند یا دوباره به سمت جنگ می‌روند؟",
+    "summary": [
+      "با وجود تنش‌های روزهای اخیر، به نظر نمی‌رسد آمریکا و ایران، هیچ‌کدام تمایلی به بازگشت به یک درگیری تمام‌عیار داشته باشند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780145324.5243793
+  },
+  {
+    "title_fa": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+    "title_en": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+    "summary": [
+      "Egypt races to salvage Gaza ceasefire as Israeli attacks and displacement threats push deal to the brink of collapse."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780145324.6816614
+  },
+  {
+    "title_fa": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
+    "title_en": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
+    "summary": [
+      "101 East investigates the plight of two North Korean POWs in Ukraine and the campaign to transfer them to South Korea."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/101-east/2026/5/30/north-korean-pows-political-pawns-in-russias-war-on-ukraine?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/101-east/2026/5/30/north-korean-pows-political-pawns-in-russias-war-on-ukraine?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780145324.6816993
   },
   {
     "title_fa": "Israel launches more than 10 strikes across southern Lebanon",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/israel-launches-more-than-10-strikes-across-southern-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/israel-launches-more-than-10-strikes-across-southern-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1780141388.5741148
+    "timestamp": 1780145324.6817205
   },
   {
     "title_fa": "Damage seen in northern Israel after Hezbollah launches rocket barrages",
@@ -237,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/damage-seen-in-northern-israel-after-hezbollah-launches-rocket-barrages?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/damage-seen-in-northern-israel-after-hezbollah-launches-rocket-barrages?traffic_source=rss",
     "image": null,
-    "timestamp": 1780141388.574137
+    "timestamp": 1780145324.6817398
   },
   {
     "title_fa": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
@@ -253,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal?traffic_source=rss",
     "image": null,
-    "timestamp": 1780141388.5742085
+    "timestamp": 1780145324.681807
   },
   {
     "title_fa": "Frustration in Lebanon as Israel expands invasion",
@@ -269,22 +317,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
     "image": null,
-    "timestamp": 1780141388.57425
-  },
-  {
-    "title_fa": "Iran war live: Supreme leader’s adviser blames US blockade for stalled deal",
-    "title_en": "Iran war live: Supreme leader’s adviser blames US blockade for stalled deal",
-    "summary": [
-      "Israel issues three rounds of forced displacement orders for southern Lebanon towns as forces push deeper into country."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780141388.5742786
+    "timestamp": 1780145324.6818483
   }
 ]
