@@ -3,7 +3,7 @@
     "title_fa": "هشدار عمان به دریانوردان درباره احتمال مشاهده مین دریایی",
     "title_en": "هشدار عمان به دریانوردان درباره احتمال مشاهده مین دریایی",
     "summary": [
-      "مرکز امنیت دریایی عمان از دریانوردان خواست در صورت مشاهده شیٔ شناوری که ممکن است مین دریایی باشد، نهایت احتیاط را به خرج دهند. در حالی که تلاش‌های دیپلماتیک برای پایان دادن به درگیری ایران و آمریکا ادامه دارد، ارتش ایران در بیانیه‌ای اعلام کرد نیروی پدافندش یک فروند پهپاد «اوربیتر دشمن متجاوز» را رهگیری و با «شلیک موفق» ساقط کرده است. روز گذشته، جلسه دونالد ترامپ دربارهٔ توافق احتمالی با ایران، بدون اعلام تصمیم به پایان رسید. در همین حال، نمایندگان مجلس ایران می‌گویند خسارت وارده به میدان گازی پ"
+      "مرکز امنیت دریایی عمان از دریانوردان خواست در صورت مشاهده شیٔ شناوری که ممکن است مین دریایی باشد، نهایت احتیاط را به خرج دهند. در حالی که تلاش‌های دیپلماتیک برای پایان دادن به درگیری ایران و آمریکا ادامه دارد، ارتش ایران در بیانیه‌ای اعلام کرد که یک فروند پهپاد «اوربیتر دشمن متجاوز» را رهگیری و ساقط کرده است. دیروز، جلسه دونالد ترامپ درباره توافق احتمالی با ایران، بدون اعلام تصمیم به پایان رسید. در همین حال، نمایندگان مجلس ایران می‌گویند که خسارت وارده به میدان گازی پارس جنوبی در ایران حدود چهار"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.464019
+    "timestamp": 1780171032.7280161
   },
   {
     "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.464047
+    "timestamp": 1780171032.7280588
   },
   {
     "title_fa": "هگست: آمریکا از متحدان آسیایی خود روی برنمی‌گرداند، اما انتظار دارد دفاعشان را تقویت کنند",
@@ -45,23 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cgjpqvp5vp4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgjpqvp5vp4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.4641078
-  },
-  {
-    "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
-    "title_en": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
-    "summary": [
-      "سرنوشت و مکان نگهداری ذخایر اورانیوم غنی‌شده ایران،‌ به ويژه ذخایر ۶۰ درصدی، به معمایی پیچیده در پرونده هسته‌ای جمهوری اسلامی تبدیل شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780166828.4641223
+    "timestamp": 1780171032.728119
   },
   {
     "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.4641416
+    "timestamp": 1780171032.7281392
   },
   {
     "title_fa": "گزارش یک روزنامه اسرائیلی از عملیات موساد برای نفوذ در ایران",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.464165
+    "timestamp": 1780171032.7281623
   },
   {
     "title_fa": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
@@ -109,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.464188
+    "timestamp": 1780171032.7281852
   },
   {
     "title_fa": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
@@ -125,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.4642053
+    "timestamp": 1780171032.7282026
   },
   {
     "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
@@ -141,7 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.4642537
+    "timestamp": 1780171032.72825
+  },
+  {
+    "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
+    "title_en": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
+    "summary": [
+      "سرنوشت و مکان نگهداری ذخایر اورانیوم غنی‌شده ایران،‌ به ويژه ذخایر ۶۰ درصدی، به معمایی پیچیده در پرونده هسته‌ای جمهوری اسلامی تبدیل شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780171032.7282808
   },
   {
     "title_fa": "نماینده مجلس ایران: از چند هفته قبل از مجتبی خامنه‌ای برای رای‌گیری مجازی در مجلس، اجازه خواسته‌اند",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c78qg36jnnno?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78qg36jnnno?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.4642997
+    "timestamp": 1780171032.7283406
   },
   {
     "title_fa": "اصابت پهپاد روسی به آپارتمانی در رومانی؛ ناتو: از هر وجب‌ خاکمان دفاع می‌کنیم",
@@ -173,23 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cp3p07484jno?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cp3p07484jno?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.4643333
-  },
-  {
-    "title_fa": "آنچه گذشت؛ ترامپ: درباره ایران تصمیم نهایی را می‌گیرم؛ ایران: هنوز هیچ توافقی نهایی نشده است",
-    "title_en": "آنچه گذشت؛ ترامپ: درباره ایران تصمیم نهایی را می‌گیرم؛ ایران: هنوز هیچ توافقی نهایی نشده است",
-    "summary": [
-      "دونالد ترامپ جلسه‌ای با مشاوران خود برگزار کرده است تا درباره تمدید آتش‌بس با ایران تصمیم نهایی را اتخاذ کند، اما نتیجه این نشست هنوز مشخص نیست. پیشتر آقای ترامپ فهرستی از خواسته‌هایش را مطرح کرد که می‌گوید ایران باید برآورده کند و شامل تعهد به عدم دستیابی به سلاح هسته‌ای، باز کردن تنگه هرمز بدون دریافت عوارض، مین‌روبی کامل این آبراه و خارج‌سازی ذخایر اورانیوم ‌غنی‌شده با همکاری آمریکا و تحت نظارت آژانس و نابودی این مواد است. او تاکید کرد که «تا اطلاع ثانوی هیچ پولی رد و بدل نخواهد شد.» در مقابل"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780166828.4643884
+    "timestamp": 1780171032.7283769
   },
   {
     "title_fa": "پهپادهای فیبر نوری حزب‌الله؛ تهدیدی تازه و رو‌به‌افزایش در مرز لبنان و اسرائیل",
@@ -205,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.46441
+    "timestamp": 1780171032.7283993
   },
   {
     "title_fa": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
@@ -221,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.4644263
+    "timestamp": 1780171032.7284162
   },
   {
     "title_fa": "آیا آمریکا و ایران به صلح نزدیک شده‌اند یا دوباره به سمت جنگ می‌روند؟",
@@ -237,7 +221,7 @@
     "url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780166828.4644384
+    "timestamp": 1780171032.7284296
   },
   {
     "title_fa": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
@@ -253,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1780166828.7423742
+    "timestamp": 1780171032.8772516
   },
   {
     "title_fa": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
@@ -269,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
     "image": null,
-    "timestamp": 1780166828.7424607
+    "timestamp": 1780171032.877355
   },
   {
     "title_fa": "The Iran war is dividing Muslims in the Philippines",
@@ -285,7 +269,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
     "image": null,
-    "timestamp": 1780166828.7424872
+    "timestamp": 1780171032.877382
   },
   {
     "title_fa": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
@@ -301,22 +285,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
     "image": null,
-    "timestamp": 1780166828.7425077
-  },
-  {
-    "title_fa": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
-    "title_en": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
-    "summary": [
-      "101 East investigates the plight of two North Korean POWs in Ukraine and the campaign to transfer them to South Korea."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/101-east/2026/5/30/north-korean-pows-political-pawns-in-russias-war-on-ukraine?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/101-east/2026/5/30/north-korean-pows-political-pawns-in-russias-war-on-ukraine?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780166828.7425392
+    "timestamp": 1780171032.8774028
   }
 ]
