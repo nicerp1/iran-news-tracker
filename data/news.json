@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.403959
+    "timestamp": 1780163003.7349887
+  },
+  {
+    "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
+    "title_en": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
+    "summary": [
+      "حسین علایی، از فرماندهان پیشین سپاه پاسداران انقلاب اسلامی گفته است که سه روز قبل از حمله نهم اسفند آمریکا و اسرائیل به ایران، به علی شمخانی، مشاور علی خامنه‌ای گفته بود که حمله جدید به ایران با ترور رهبر شروع می شود «اما او گفت نمی‌توانند رهبر انقلاب را پیدا کنند.»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780163003.7350047
   },
   {
     "title_fa": "هگست: آمریکا از متحدان آسیایی خود روی برنمی‌گرداند، اما انتظار دارد دفاعشان را تقویت کنند",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cgjpqvp5vp4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgjpqvp5vp4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.403995
+    "timestamp": 1780163003.735022
   },
   {
     "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.4040115
+    "timestamp": 1780163003.7350304
   },
   {
     "title_fa": "پهپادهای فیبر نوری حزب‌الله؛ تهدیدی تازه و رو‌به‌افزایش در مرز لبنان و اسرائیل",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.4040358
+    "timestamp": 1780163003.735043
   },
   {
     "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.4040694
+    "timestamp": 1780163003.7350535
   },
   {
     "title_fa": "گزارش یک روزنامه اسرائیلی از عملیات موساد برای نفوذ در ایران",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cq8p9488k7go?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.404092
+    "timestamp": 1780163003.7350657
   },
   {
     "title_fa": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.404114
+    "timestamp": 1780163003.7350786
   },
   {
     "title_fa": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.4041302
+    "timestamp": 1780163003.7350879
   },
   {
     "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
@@ -141,23 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.4041646
-  },
-  {
-    "title_fa": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
-    "title_en": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
-    "summary": [
-      "آژانس بین‌المللی انرژی روز پنج‌شنبه اعلام کرد جنگ خاورمیانه کشورها را وادار کرده است برای عبور از بزرگ‌ترین بحران انرژی جهان، به مسیرهای جدید تامین و همچنین منابع داخلی روی بیاورند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780159185.4042006
+    "timestamp": 1780163003.7351143
   },
   {
     "title_fa": "نماینده مجلس ایران: از چند هفته قبل از مجتبی خامنه‌ای برای رای‌گیری مجازی در مجلس، اجازه خواسته‌اند",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/c78qg36jnnno?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c78qg36jnnno?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.4042296
+    "timestamp": 1780163003.7351394
   },
   {
     "title_fa": "اصابت پهپاد روسی به آپارتمانی در رومانی؛ ناتو: از هر وجب‌ خاکمان دفاع می‌کنیم",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cp3p07484jno?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cp3p07484jno?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.404263
+    "timestamp": 1780163003.7351573
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ: درباره ایران تصمیم نهایی را می‌گیرم؛ ایران: هنوز هیچ توافقی نهایی نشده است",
@@ -205,7 +205,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cgrp7w2458lt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.404302
+    "timestamp": 1780163003.7351775
+  },
+  {
+    "title_fa": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
+    "title_en": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
+    "summary": [
+      "آژانس بین‌المللی انرژی روز پنج‌شنبه اعلام کرد جنگ خاورمیانه کشورها را وادار کرده است برای عبور از بزرگ‌ترین بحران انرژی جهان، به مسیرهای جدید تامین و همچنین منابع داخلی روی بیاورند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780163003.7351863
   },
   {
     "title_fa": "آیا آمریکا و ایران به صلح نزدیک شده‌اند یا دوباره به سمت جنگ می‌روند؟",
@@ -221,7 +237,23 @@
     "url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crkp5m12vm7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780159185.4043145
+    "timestamp": 1780163003.7351933
+  },
+  {
+    "title_fa": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
+    "title_en": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
+    "summary": [
+      "Israeli settlers attacked Palestinian homes and property across the occupied West Bank."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780163003.843631
   },
   {
     "title_fa": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
@@ -237,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
     "image": null,
-    "timestamp": 1780159185.6284144
+    "timestamp": 1780163003.8436806
   },
   {
     "title_fa": "The Iran war is dividing Muslims in the Philippines",
@@ -253,7 +285,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
     "image": null,
-    "timestamp": 1780159185.6284413
+    "timestamp": 1780163003.8436954
   },
   {
     "title_fa": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
@@ -269,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
     "image": null,
-    "timestamp": 1780159185.6284611
+    "timestamp": 1780163003.8437064
   },
   {
     "title_fa": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
@@ -285,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/101-east/2026/5/30/north-korean-pows-political-pawns-in-russias-war-on-ukraine?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/101-east/2026/5/30/north-korean-pows-political-pawns-in-russias-war-on-ukraine?traffic_source=rss",
     "image": null,
-    "timestamp": 1780159185.6284912
+    "timestamp": 1780163003.843724
   },
   {
     "title_fa": "Israel launches more than 10 strikes across southern Lebanon",
@@ -301,22 +333,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/israel-launches-more-than-10-strikes-across-southern-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/israel-launches-more-than-10-strikes-across-southern-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1780159185.6285107
-  },
-  {
-    "title_fa": "Damage seen in northern Israel after Hezbollah launches rocket barrages",
-    "title_en": "Damage seen in northern Israel after Hezbollah launches rocket barrages",
-    "summary": [
-      "Israel says it has intercepted an air attack from Hezbollah on Saturday, May 30th."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/damage-seen-in-northern-israel-after-hezbollah-launches-rocket-barrages?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/damage-seen-in-northern-israel-after-hezbollah-launches-rocket-barrages?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780159185.6285427
+    "timestamp": 1780163003.8437357
   }
 ]
