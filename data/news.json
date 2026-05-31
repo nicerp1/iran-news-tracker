@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "رسانه‌های آمریکایی: ترامپ خواهان سخت‌تر شدن مفاد توافق با ایران شده است",
-    "title_en": "رسانه‌های آمریکایی: ترامپ خواهان سخت‌تر شدن مفاد توافق با ایران شده است",
+    "title_fa": "قالیباف: تا از گرفتن حقوق‌مان مطمئن نشویم هیچ توافقی را تایید نمی‌کنیم",
+    "title_en": "قالیباف: تا از گرفتن حقوق‌مان مطمئن نشویم هیچ توافقی را تایید نمی‌کنیم",
     "summary": [
-      "رسانه‌های آمریکایی گزارش می‌دهند که دونالد ترامپ خواهان سخت‌تر شدن برخی مفاد توافق پیشنهادی برای پایان دادن به جنگ خاورمیانه شده است. به گزارش نیویورک تایمز، نسخه اصلاح‌شده این توافق برای بررسی به ایران ارسال شده و آکسیوس نیز نوشت که تغییرات مورد نظر آقای ترامپ عمدتا به برنامه هسته‌ای و ذخایر اورانیوم غنی‌شده ایران مربوط می‌شود. وزارت خارجه ایران نیز تایید کرد که توافق هنوز نهایی نشده است. همزمان، سپاه پاسداران بامداد امروز از سرنگونی یک پهپاد ام‌کیو-۱ آمریکا خبر داد و سنتکام اعلام کرد که با موش"
+      "محمد باقر قالیباف در نطق پیش از دستور آغاز سومین سال مجلس گفت پیام رهبر جمهوری اسلامی به نمایندگان مجلس «چراغ راه آینده و نقشه راه مجلس دوازدهم» است. رئیس مجلس همچنین گفت که «هیچ اعتمادی به حرف‌ها و وعده‌های دشمن» نیست و «تا اطمینان پیدا نکنیم که حقوق ملت ایران را گرفته‌ایم، هیچ توافقی را تأیید نخواهیم کرد.» در همین حال رسانه‌های آمریکا می‌گویند دونالد ترامپ در آخرین پیش‌نویس توافق اولیه با ایران شروط خود را سخت‌گیرانه‌تر کرده و این پیشنهاد به تهران ارسال شده است. ارتش اسرائیل هم می‌گوید عملیات "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.469105
+    "timestamp": 1780225725.2121067
+  },
+  {
+    "title_fa": "اسرائیل با عبور از رود لیتانی در حال گسترش عملیات در جنوب لبنان است",
+    "title_en": "اسرائیل با عبور از رود لیتانی در حال گسترش عملیات در جنوب لبنان است",
+    "summary": [
+      "ارتش اسرائیل اعلام کرد عملیات زمینی خود علیه نیروهای حزب‌الله در جنوب لبنان را به فراتر از رود لیتانی در حدود ۳۰ کیلومتری شمال مرز اسرائیل گسترش می‌دهد. ارتش همچنین تایید کرد که قلعه تاریخی و استراتژیک شقیف (بوفورت) در جنوب لبنان را تصرف کرده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780225725.212142
   },
   {
     "title_fa": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.469124
+    "timestamp": 1780225725.2121837
   },
   {
     "title_fa": "نان نسیه و پشت‌بام اجاره‌ای؛ وقتی ایرانیان از آینده خود خرج می‌کنند",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c9v32wnj3n0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9v32wnj3n0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.4691405
+    "timestamp": 1780225725.2122054
   },
   {
     "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.4691808
+    "timestamp": 1780225725.2122295
   },
   {
     "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.469192
+    "timestamp": 1780225725.2122457
   },
   {
     "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.4692113
+    "timestamp": 1780225725.2122734
   },
   {
     "title_fa": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.4692247
+    "timestamp": 1780225725.2122931
   },
   {
     "title_fa": "جنگ ایران چقدر به اقتصاد عراق آسیب زده است؟",
@@ -125,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/czr2x4lgg7no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czr2x4lgg7no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.4692383
-  },
-  {
-    "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
-    "title_en": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
-    "summary": [
-      "با افزایش تعطیلی و غیرحضوری شدن مدارس ایران، این نگرانی بین خانواده‌ها و معلمان ایجاد شده که دانش‌آموزان با افت تحصیلی جدی رو‌به‌رو شوند. مرکز پژوهش‌های مجلس هم هشدار داده که اگر سیاست‌های متناسب با این شرایط جنگی و آتش‌بس مهیا نشود، «آثار جبران ناپذیری برای نظام آموزشی کشور به دنبال خواهد داشت.»"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780219069.469275
+    "timestamp": 1780225725.2123284
   },
   {
     "title_fa": "نازنین زاغری-رتکلیف: خیاطی در زندان ایران به من امید می‌داد",
@@ -157,23 +157,23 @@
     "url": "https://www.bbc.com/persian/articles/c3w2jd13y6wo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3w2jd13y6wo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.4692912
+    "timestamp": 1780225725.2123935
   },
   {
-    "title_fa": "آنچه گذشت؛ هشدار عمان به دریانوردان درباره احتمال مشاهده مین دریایی",
-    "title_en": "آنچه گذشت؛ هشدار عمان به دریانوردان درباره احتمال مشاهده مین دریایی",
+    "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
+    "title_en": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
     "summary": [
-      "ارتش آمریکا اعلام کرد که روز جمعه به موتورخانه یک کشتی که با پرچم گامبیا در تلاش بود از محاصره دریایی ایران عبور کند، موشک هلفایر شلیک کرده است. سنتکام می‌گوید که این کشتی در آب‌های بین‌المللی به سمت یکی از بنادر ایران در خلیج عمان در حرکت بود. در همین حال قرارگاه مرکزی خاتم الانبیا، هشدار داد که هرگونه اقدام شناورهای نظامی جهت «مداخله در مدیریت تنگه هرمز یا ایجاد اختلال در تردد، مورد هدف نیروهای مسلح ایران» قرار خواهد گرفت. پیشتر مرکز امنیت دریایی عمان از دریانوردان خواست در صورت مشاهده شیٔ شنا"
+      "با افزایش تعطیلی و غیرحضوری شدن مدارس ایران، این نگرانی بین خانواده‌ها و معلمان ایجاد شده که دانش‌آموزان با افت تحصیلی جدی رو‌به‌رو شوند. مرکز پژوهش‌های مجلس هم هشدار داده که اگر سیاست‌های متناسب با این شرایط جنگی و آتش‌بس مهیا نشود، «آثار جبران ناپذیری برای نظام آموزشی کشور به دنبال خواهد داشت.»"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c5y94zrewjqt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.4693506
+    "timestamp": 1780225725.2124548
   },
   {
     "title_fa": "پهپادهای فیبر نوری حزب‌الله؛ تهدیدی تازه و رو‌به‌افزایش در مرز لبنان و اسرائیل",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.4693675
+    "timestamp": 1780225725.2124774
   },
   {
     "title_fa": "واکنش کنایه‌آمیز ایران به عکس روبیو در تاج‌محل: «اگر تاریخ را می‌دانست، اینجا عکس نمی‌گرفت»",
@@ -205,23 +205,23 @@
     "url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cgmpdml1ml7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780219069.4693785
+    "timestamp": 1780225725.2124927
   },
   {
-    "title_fa": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
-    "title_en": "آژانس بین‌المللی انرژی: جنگ خاورمیانه مسیر سرمایه‌گذاری جهانی انرژی را تغییر داد",
+    "title_fa": "Trump tightens terms on Iran war deal, US media say",
+    "title_en": "Trump tightens terms on Iran war deal, US media say",
     "summary": [
-      "آژانس بین‌المللی انرژی روز پنج‌شنبه اعلام کرد جنگ خاورمیانه کشورها را وادار کرده است برای عبور از بزرگ‌ترین بحران انرژی جهان، به مسیرهای جدید تامین و همچنین منابع داخلی روی بیاورند."
+      "US officials indicate Tehran may take days to respond to Trump&#039;s tougher terms on a potential peace agreement."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cvgzlg9g9j4o?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
     "image": null,
-    "timestamp": 1780219069.4693909
+    "timestamp": 1780225725.3276784
   },
   {
     "title_fa": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
@@ -237,7 +237,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
     "image": null,
-    "timestamp": 1780219069.6557794
+    "timestamp": 1780225725.3276923
   },
   {
     "title_fa": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
@@ -253,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
     "image": null,
-    "timestamp": 1780219069.6558108
+    "timestamp": 1780225725.327715
   },
   {
     "title_fa": "Panic on beach in northern Israel during Hezbollah strikes",
@@ -269,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes?traffic_source=rss",
     "image": null,
-    "timestamp": 1780219069.655847
+    "timestamp": 1780225725.327748
   },
   {
     "title_fa": "Mexico beat Australia 1-0 before World Cup squad submission deadline",
@@ -285,7 +285,7 @@
     "url": "https://www.aljazeera.com/sports/2026/5/31/mexico-beat-australia-1-0-a-day-before-world-cup-squad-submission-deadline?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/5/31/mexico-beat-australia-1-0-a-day-before-world-cup-squad-submission-deadline?traffic_source=rss",
     "image": null,
-    "timestamp": 1780219069.655869
+    "timestamp": 1780225725.3277688
   },
   {
     "title_fa": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
@@ -301,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
     "image": null,
-    "timestamp": 1780219069.6559477
+    "timestamp": 1780225725.327841
   },
   {
     "title_fa": "Congress advances US-Israeli military integration plan",
@@ -317,7 +317,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
     "image": null,
-    "timestamp": 1780219069.6559565
+    "timestamp": 1780225725.3278525
   },
   {
     "title_fa": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
@@ -333,22 +333,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
     "image": null,
-    "timestamp": 1780219069.655964
-  },
-  {
-    "title_fa": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-    "title_en": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-    "summary": [
-      "Geopolitical analyst Joe Macaron says the Lebanese army is ‘overly stretched’ as Israeli troops expand their occupation."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780219069.6559758
+    "timestamp": 1780225725.3278627
   }
 ]
