@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7593653
+    "timestamp": 1780264482.3239148
+  },
+  {
+    "title_fa": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
+    "title_en": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
+    "summary": [
+      "دولت ایتالیا به‌دلیل ارائه مشوق‌ها و معافیت‌های مالیاتی مورد انتقاد قرار گرفته است. این کشور با این کار ثروتمندان فرانسوی و ساکنان خارجی فرانسه را به ترک این کشور ترغیب کرده و هدف انتقاد دولت فرانسه قرار گرفته است. همچنین در پی آسیب‌هایی که جنگ در خاورمیانه به کشورهای حوزه خلیج فارس وارد کرده، ایتالیا بیش از پیش به مقصدی جذاب برای ثروتمندان تبدیل شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780264482.3239505
   },
   {
     "title_fa": "نتانیاهو تصرف قلعه استراتژیک در لبنان را «تغییری چشمگیر» در جنگ با حزب‌الله خواند",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7594137
+    "timestamp": 1780264482.3239942
   },
   {
     "title_fa": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7594516
+    "timestamp": 1780264482.3240135
   },
   {
     "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7595081
+    "timestamp": 1780264482.3240361
   },
   {
     "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7595308
+    "timestamp": 1780264482.3240542
   },
   {
     "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7595575
+    "timestamp": 1780264482.3240805
   },
   {
     "title_fa": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7595751
+    "timestamp": 1780264482.3240983
   },
   {
     "title_fa": "نان نسیه و پشت‌بام اجاره‌ای؛ وقتی ایرانیان از آینده خود خرج می‌کنند",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c9v32wnj3n0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9v32wnj3n0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7595947
+    "timestamp": 1780264482.3241348
   },
   {
     "title_fa": "جنگ ایران چقدر به اقتصاد عراق آسیب زده است؟",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/czr2x4lgg7no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czr2x4lgg7no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7596273
+    "timestamp": 1780264482.3241668
   },
   {
     "title_fa": "نازنین زاغری-رتکلیف: خیاطی در زندان ایران به من امید می‌داد",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/c3w2jd13y6wo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3w2jd13y6wo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7596767
+    "timestamp": 1780264482.3242028
   },
   {
     "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7597463
+    "timestamp": 1780264482.3242729
   },
   {
     "title_fa": "پهپادهای فیبر نوری حزب‌الله؛ تهدیدی تازه و رو‌به‌افزایش در مرز لبنان و اسرائیل",
@@ -189,7 +205,39 @@
     "url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780261001.7597678
+    "timestamp": 1780264482.3242939
+  },
+  {
+    "title_fa": "Ethiopia to vote in first elections since Tigray peace deal",
+    "title_en": "Ethiopia to vote in first elections since Tigray peace deal",
+    "summary": [
+      "Four years after the formal end of Ethiopia&#039;s Tigray war, Ethiopians will be voting in general elections."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780264482.4073932
+  },
+  {
+    "title_fa": "Ethiopia’s election is about affirming national commitment to democracy",
+    "title_en": "Ethiopia’s election is about affirming national commitment to democracy",
+    "summary": [
+      "A national vote alone can&#039;t address all challenges in the country, but it can be a step toward democratic consolidation."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780264482.4074259
   },
   {
     "title_fa": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
@@ -205,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
     "image": null,
-    "timestamp": 1780261001.8279965
+    "timestamp": 1780264482.4074366
   },
   {
     "title_fa": "US measure to deepen Israel military cooperation faces bipartisan pushback",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
     "image": null,
-    "timestamp": 1780261001.8280382
+    "timestamp": 1780264482.4074707
   },
   {
     "title_fa": "US Congress moves to deepen military ties with Israel: Why it matters",
@@ -237,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
     "image": null,
-    "timestamp": 1780261001.8280494
+    "timestamp": 1780264482.4074817
   },
   {
     "title_fa": "The largest Israeli advance into Lebanon in years",
@@ -253,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
     "image": null,
-    "timestamp": 1780261001.8280632
+    "timestamp": 1780264482.4074943
   },
   {
     "title_fa": "Iran ⁠restores some gas production at South Pars facility",
@@ -269,54 +317,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
     "image": null,
-    "timestamp": 1780261001.8281093
-  },
-  {
-    "title_fa": "Iran reinstates some internet access but restrictions remain for most",
-    "title_en": "Iran reinstates some internet access but restrictions remain for most",
-    "summary": [
-      "Not all data centres are back online while internet protocols remain blocked, restricted or &#039;whitelisted&#039;."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/31/iran-reinstates-some-internet-access-but-restrictions-remain-for-most?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/31/iran-reinstates-some-internet-access-but-restrictions-remain-for-most?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780261001.8281662
-  },
-  {
-    "title_fa": "What are the chances for the Iran-US ‘Declaration of Principles’?",
-    "title_en": "What are the chances for the Iran-US ‘Declaration of Principles’?",
-    "summary": [
-      "Analysts Negar Mortazavi and Colin Clarke dissect the complications surrounding the Iran-US deal."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/31/what-are-the-chances-for-the-iran-us-declaration-of?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/31/what-are-the-chances-for-the-iran-us-declaration-of?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780261001.8281758
-  },
-  {
-    "title_fa": "Not just the US: How 51 countries armed Israel during Gaza war",
-    "title_en": "Not just the US: How 51 countries armed Israel during Gaza war",
-    "summary": [
-      "An Al Jazeera investigation has found that military-related goods from at least 51 countries and territories continued e"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780261001.8281863
+    "timestamp": 1780264482.407559
   }
 ]
