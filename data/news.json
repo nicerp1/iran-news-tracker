@@ -1,19 +1,35 @@
 [
   {
-    "title_fa": "عراقچی: تبادل پیام‌ها در ارتباط با خاتمه جنگ بین ایران و آمریکا در جریان است",
-    "title_en": "عراقچی: تبادل پیام‌ها در ارتباط با خاتمه جنگ بین ایران و آمریکا در جریان است",
+    "title_fa": "عراقچی از ادامه تبادل پیام‌ بین واشنگتن و تهران خبر داد، «استعفای پزشکیان» تکذیب شد",
+    "title_en": "عراقچی از ادامه تبادل پیام‌ بین واشنگتن و تهران خبر داد، «استعفای پزشکیان» تکذیب شد",
     "summary": [
-      "عباس عراقچی، وزیر امور خارجه ایران می‌گوید که گفت‌وگوها و تبادل پیام‌ها بین ایران و آمریکا برای خاتمه جنگ همچنان در جریان است و تا زمانی که به نتیجه مشخصی نرسد، گمانه‌زنی‌های مطرح‌شده در این زمینه فاقد اهمیت است. پیش از این برخی رسانه‌های آمریکا گزارش داده بودند که دونالد ترامپ در آخرین پیش‌نویس توافق اولیه با ایران شروط خود را سخت‌گیرانه‌تر کرده و این پیشنهاد به تهران ارسال شده است. در همین حال محمد باقر قالیباف در نطق پیش از دستور آغاز سومین سال مجلس گفت «هیچ اعتمادی به حرف‌ها و وعده‌های دشمن»"
+      "عباس عراقچی می‌گوید تبادل پیام‌ بین ایران و آمریکا بر سر مفاد توافقی که منجر به خاتمه جنگ شود همچنان در جریان است. محمد باقر قالیباف در مراسم آغاز سومین سال مجلس شورای اسلامی گفت «هیچ اعتمادی به حرف‌ها و وعده‌های دشمن» نیست و «تا اطمینان پیدا نکنیم که حقوق ملت ایران را گرفته‌ایم، هیچ توافقی را تأیید نخواهیم کرد. در همین حال، چند مقام دولتی از جمله سخنگوی دولت ایران شایعه استعفای مسعود پزشکیان را «قویا تکذیب» کرده و آن را «جنگ روانی با هدف ایجاد ناامیدی» خوانده‌اند."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.4408674
+    "timestamp": 1780271245.5329943
+  },
+  {
+    "title_fa": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
+    "title_en": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
+    "summary": [
+      "یک نماینده مجلس خبرگان رهبری ایران می‌‌گوید زمانی که اعضای این مجلس برای انتخاب جانشین علی خامنه‌ای تشکیل جلسه دادند اسم مجتبی خامنه‌ای در فهرست نامزدهای رهبری نبوده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780271245.5330172
   },
   {
     "title_fa": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.4409022
+    "timestamp": 1780271245.5330484
   },
   {
     "title_fa": "نتانیاهو تصرف قلعه استراتژیک در لبنان را «تغییری چشمگیر» در جنگ با حزب‌الله خواند",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.4409444
+    "timestamp": 1780271245.53309
   },
   {
     "title_fa": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.440964
+    "timestamp": 1780271245.5331097
   },
   {
     "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.4409854
+    "timestamp": 1780271245.5331335
   },
   {
     "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.4410028
+    "timestamp": 1780271245.5331683
   },
   {
     "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.4410279
+    "timestamp": 1780271245.5331898
   },
   {
     "title_fa": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.4410453
+    "timestamp": 1780271245.5332062
   },
   {
     "title_fa": "نان نسیه و پشت‌بام اجاره‌ای؛ وقتی ایرانیان از آینده خود خرج می‌کنند",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/c9v32wnj3n0o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c9v32wnj3n0o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.4410803
+    "timestamp": 1780271245.5332434
   },
   {
     "title_fa": "جنگ ایران چقدر به اقتصاد عراق آسیب زده است؟",
@@ -157,7 +173,23 @@
     "url": "https://www.bbc.com/persian/articles/czr2x4lgg7no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czr2x4lgg7no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.4411116
+    "timestamp": 1780271245.533275
+  },
+  {
+    "title_fa": "آنچه گذشت؛ ادامه رد و بدل کردن پیام میان آمریکا و ایران بر سر مفاد توافق",
+    "title_en": "آنچه گذشت؛ ادامه رد و بدل کردن پیام میان آمریکا و ایران بر سر مفاد توافق",
+    "summary": [
+      "عباس عراقچی، وزیر امور خارجه ایران می‌گوید که گفت‌وگوها و تبادل پیام‌ها بین ایران و آمریکا برای خاتمه جنگ همچنان در جریان است و تا زمانی که به نتیجه مشخصی نرسد، گمانه‌زنی‌های مطرح‌شده در این زمینه فاقد اهمیت است. پیش از این برخی رسانه‌های آمریکا گزارش داده بودند که دونالد ترامپ در آخرین پیش‌نویس توافق اولیه با ایران شروط خود را سخت‌گیرانه‌تر کرده و این پیشنهاد به تهران ارسال شده است. در همین حال محمد باقر قالیباف در نطق پیش از دستور آغاز سومین سال مجلس گفت «هیچ اعتمادی به حرف‌ها و وعده‌های دشمن»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780271245.533325
   },
   {
     "title_fa": "نازنین زاغری-رتکلیف: خیاطی در زندان ایران به من امید می‌داد",
@@ -173,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/c3w2jd13y6wo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3w2jd13y6wo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.4411464
+    "timestamp": 1780271245.5333602
   },
   {
     "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
@@ -189,23 +221,7 @@
     "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780267573.4412153
-  },
-  {
-    "title_fa": "پهپادهای فیبر نوری حزب‌الله؛ تهدیدی تازه و رو‌به‌افزایش در مرز لبنان و اسرائیل",
-    "title_en": "پهپادهای فیبر نوری حزب‌الله؛ تهدیدی تازه و رو‌به‌افزایش در مرز لبنان و اسرائیل",
-    "summary": [
-      "پهپادهای مجهز به فیبر نوری به سلاح اصلی حزب‌الله علیه سربازان و غیرنظامیان اسرائیلی در دو سوی مرز لبنان تبدیل شده‌اند و با ادامه درگیری‌ها، در حالی که شش هفته از آتش‌بس اعلام‌شده می‌گذرد، اکنون به‌عنوان بزرگ‌ترین تهدید در این منطقه شناخته می‌شوند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cwy2r9evrqvo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780267573.4412358
+    "timestamp": 1780271245.5334172
   },
   {
     "title_fa": "Ethiopia to vote in first elections since Tigray peace deal",
@@ -221,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss",
     "image": null,
-    "timestamp": 1780267573.6515088
+    "timestamp": 1780271245.7148545
   },
   {
     "title_fa": "Ethiopia’s election is about affirming national commitment to democracy",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss",
     "image": null,
-    "timestamp": 1780267573.6515634
+    "timestamp": 1780271245.7148874
   },
   {
     "title_fa": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
     "image": null,
-    "timestamp": 1780267573.6515815
+    "timestamp": 1780271245.7148979
   },
   {
     "title_fa": "US measure to deepen Israel military cooperation faces bipartisan pushback",
@@ -269,7 +285,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
     "image": null,
-    "timestamp": 1780267573.6516397
+    "timestamp": 1780271245.7149322
   },
   {
     "title_fa": "US Congress moves to deepen military ties with Israel: Why it matters",
@@ -285,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
     "image": null,
-    "timestamp": 1780267573.651683
+    "timestamp": 1780271245.7149427
   },
   {
     "title_fa": "The largest Israeli advance into Lebanon in years",
@@ -301,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
     "image": null,
-    "timestamp": 1780267573.6517045
+    "timestamp": 1780271245.7149558
   },
   {
     "title_fa": "Iran ⁠restores some gas production at South Pars facility",
@@ -317,6 +333,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
     "image": null,
-    "timestamp": 1780267573.651778
+    "timestamp": 1780271245.714999
   }
 ]
