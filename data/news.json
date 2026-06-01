@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "عراقچی از ادامه تبادل پیام‌ بین واشنگتن و تهران خبر داد، «استعفای پزشکیان» تکذیب شد",
-    "title_en": "عراقچی از ادامه تبادل پیام‌ بین واشنگتن و تهران خبر داد، «استعفای پزشکیان» تکذیب شد",
+    "title_fa": "ایران و آمریکا از حمله به مواضع یکدیگر خبر دادند؛ ترامپ: همه چیز به خوبی به پایان خواهد رسید",
+    "title_en": "ایران و آمریکا از حمله به مواضع یکدیگر خبر دادند؛ ترامپ: همه چیز به خوبی به پایان خواهد رسید",
     "summary": [
-      "عباس عراقچی می‌گوید تبادل پیام‌ بین ایران و آمریکا بر سر مفاد توافقی که منجر به خاتمه جنگ شود همچنان در جریان است. محمد باقر قالیباف در مراسم آغاز سومین سال مجلس شورای اسلامی گفت «هیچ اعتمادی به حرف‌ها و وعده‌های دشمن» نیست و «تا اطمینان پیدا نکنیم که حقوق ملت ایران را گرفته‌ایم، هیچ توافقی را تأیید نخواهیم کرد. در همین حال، چند مقام دولتی از جمله سخنگوی دولت ایران شایعه استعفای مسعود پزشکیان را «قویا تکذیب» کرده و آن را «جنگ روانی با هدف ایجاد ناامیدی» خوانده‌اند."
+      "سپاه پاسداران در بیانیه‌ای گفت در پاسخ به حمله آمریکا به «یک دکل مخابراتی در جزیره سیریک» نیروی هوافضا سپاه «پایگاه هوایی مبدا» را هدف قرار داده است. این بیانیه محل هدف را مشخص نکرد اما ساعاتی قبل وزارت دفاع کویت از فعال شدن سامانه‌های پدافندی‌اش برای مقابله با حملات پهپادی و موشکی خبر داده بود. ارتش آمریکا گفته است که در پاسخ به اقدامات خصمانه ایران از جمله سرنگون کردن یک پهپاد آمریکایی، «مراکز راداری و مراکز فرماندهی و کنترل پهپادهای ایران در شهر گروگ و جزیره قشم» را هدف حمله قرار داده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780279391.2158132
+    "timestamp": 1780297916.5735219
+  },
+  {
+    "title_fa": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
+    "title_en": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
+    "summary": [
+      "خبرگزاری میزان، وابسته به قوه قضائیه ایران گزارش داده است که دو نفر از معترضان دی ماه که به گفته نهاد قضایی ایران به دلیل نقششان در ناآرامی‌های تهران در دادگاه محکوم شده بودند، امروز اعدام شدند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780297916.573546
+  },
+  {
+    "title_fa": "جنگی نامرئی که ایمنی پروازها را به خطر می‌اندازد",
+    "title_en": "جنگی نامرئی که ایمنی پروازها را به خطر می‌اندازد",
+    "summary": [
+      "داده‌ها نشان می‌دهد جعل سیگنال جی‌پی‌اس، که باعث اختلال در سیگنال‌های ماهواره‌ای و سردرگمی سامانه‌های ناوبری هواپیماها می‌شود، روزبه‌روز گسترده‌تر می‌شود."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780297916.5735638
   },
   {
     "title_fa": "فرانسه، آلمان و بریتانیا از تشدید حملات اسرائیل به لبنان انتقاد کردند",
@@ -29,39 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21z2n8xg7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21z2n8xg7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780279391.215861
-  },
-  {
-    "title_fa": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
-    "title_en": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
-    "summary": [
-      "یک نماینده مجلس خبرگان رهبری ایران می‌‌گوید زمانی که اعضای این مجلس برای انتخاب جانشین علی خامنه‌ای تشکیل جلسه دادند اسم مجتبی خامنه‌ای در فهرست نامزدهای رهبری نبوده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780279391.2158804
-  },
-  {
-    "title_fa": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
-    "title_en": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
-    "summary": [
-      "دولت ایتالیا به‌دلیل ارائه مشوق‌ها و معافیت‌های مالیاتی مورد انتقاد قرار گرفته است. این کشور با این کار ثروتمندان فرانسوی و ساکنان خارجی فرانسه را به ترک این کشور ترغیب کرده و هدف انتقاد دولت فرانسه قرار گرفته است. همچنین در پی آسیب‌هایی که جنگ در خاورمیانه به کشورهای حوزه خلیج فارس وارد کرده، ایتالیا بیش از پیش به مقصدی جذاب برای ثروتمندان تبدیل شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780279391.2159088
+    "timestamp": 1780297916.5736187
   },
   {
     "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780279391.2159545
+    "timestamp": 1780297916.5736418
   },
   {
     "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780279391.2159696
+    "timestamp": 1780297916.5736563
   },
   {
     "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780279391.2159958
+    "timestamp": 1780297916.5736814
   },
   {
     "title_fa": "پیمان ابراهیم که ترامپ امضای آن را شرطی برای صلح با ایران می‌داند چیست؟",
@@ -125,7 +125,23 @@
     "url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/ce3pe4zz073o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780279391.2160137
+    "timestamp": 1780297916.5736995
+  },
+  {
+    "title_fa": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
+    "title_en": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
+    "summary": [
+      "دولت ایتالیا به‌دلیل ارائه مشوق‌ها و معافیت‌های مالیاتی مورد انتقاد قرار گرفته است. این کشور با این کار ثروتمندان فرانسوی و ساکنان خارجی فرانسه را به ترک این کشور ترغیب کرده و هدف انتقاد دولت فرانسه قرار گرفته است. همچنین در پی آسیب‌هایی که جنگ در خاورمیانه به کشورهای حوزه خلیج فارس وارد کرده، ایتالیا بیش از پیش به مقصدی جذاب برای ثروتمندان تبدیل شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780297916.5737486
   },
   {
     "title_fa": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
@@ -141,23 +157,23 @@
     "url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780279391.2160325
+    "timestamp": 1780297916.5737672
   },
   {
-    "title_fa": "نان نسیه و پشت‌بام اجاره‌ای؛ وقتی ایرانیان از آینده خود خرج می‌کنند",
-    "title_en": "نان نسیه و پشت‌بام اجاره‌ای؛ وقتی ایرانیان از آینده خود خرج می‌کنند",
+    "title_fa": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
+    "title_en": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
     "summary": [
-      "فقر در ایران دیگر تنها در حاشیه شهرها یا روستاهای دورافتاده دیده نمی‌شود، بلکه نشانه‌های آن را می‌توان در خیابان‌های اصلی تهران، واگن‌های مترو، صف‌های داروخانه، بازارهای محلی، مدارس، خانه‌های اجاره‌ای و در سبک زندگی طبقه متوسط مشاهده کرد."
+      "یک نماینده مجلس خبرگان رهبری ایران می‌‌گوید زمانی که اعضای این مجلس برای انتخاب جانشین علی خامنه‌ای تشکیل جلسه دادند اسم مجتبی خامنه‌ای در فهرست نامزدهای رهبری نبوده است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c9v32wnj3n0o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c9v32wnj3n0o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780279391.2160683
+    "timestamp": 1780297916.5737987
   },
   {
     "title_fa": "نتانیاهو تصرف قلعه استراتژیک در لبنان را «تغییری چشمگیر» در جنگ با حزب‌الله خواند",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780279391.2160978
+    "timestamp": 1780297916.573814
   },
   {
     "title_fa": "آنچه گذشت؛ ادامه رد و بدل کردن پیام میان آمریکا و ایران بر سر مفاد توافق",
@@ -189,23 +205,7 @@
     "url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780279391.2161438
-  },
-  {
-    "title_fa": "نازنین زاغری-رتکلیف: خیاطی در زندان ایران به من امید می‌داد",
-    "title_en": "نازنین زاغری-رتکلیف: خیاطی در زندان ایران به من امید می‌داد",
-    "summary": [
-      "نازنین زاغری-رتکلیف در یک گفت‌وگوی تازه از خیاطی در سال‌های به‌سر بردن در زندان ایران سخن گفت و از این که چطور دوخت‌ودوز به او امید و انگیزه می‌داد. او می‌گوید که آزادی در تک‌تک چیزهای کوچک زندگی ما نهفته است؛ این‌که بتوانیم زیر نور خورشید قدم بزنیم یا هر ماه ماه کامل را ببینیم."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c3w2jd13y6wo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c3w2jd13y6wo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780279391.2161803
+    "timestamp": 1780297916.5738604
   },
   {
     "title_fa": "جنگ ایران چقدر به اقتصاد عراق آسیب زده است؟",
@@ -221,27 +221,43 @@
     "url": "https://www.bbc.com/persian/articles/czr2x4lgg7no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/czr2x4lgg7no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780279391.2162123
+    "timestamp": 1780297916.5739245
   },
   {
-    "title_fa": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
-    "title_en": "«این بچه‌ها با این روش آموزش چیزی یاد نمی‌گیرند»؛ جنگ، آموزش مجازی و افت تحصیلی",
+    "title_fa": "Israel airstrike kills at least two Palestinians at Gaza port",
+    "title_en": "Israel airstrike kills at least two Palestinians at Gaza port",
     "summary": [
-      "با افزایش تعطیلی و غیرحضوری شدن مدارس ایران، این نگرانی بین خانواده‌ها و معلمان ایجاد شده که دانش‌آموزان با افت تحصیلی جدی رو‌به‌رو شوند. مرکز پژوهش‌های مجلس هم هشدار داده که اگر سیاست‌های متناسب با این شرایط جنگی و آتش‌بس مهیا نشود، «آثار جبران ناپذیری برای نظام آموزشی کشور به دنبال خواهد داشت.»"
+      "At least two Palestinians were killed and around a dozen wounded when an Israeli air strike hit a crowded cafe."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cy029714rq1o?at_medium=RSS&at_campaign=rss",
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israel-airstrike-kills-at-least-two-palestinians-at-gaza-port?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israel-airstrike-kills-at-least-two-palestinians-at-gaza-port?traffic_source=rss",
     "image": null,
-    "timestamp": 1780279391.2162335
+    "timestamp": 1780297916.7723782
   },
   {
-    "title_fa": "Iran war live: Israel’s expanding invasion of Lebanon draws global alarm",
-    "title_en": "Iran war live: Israel’s expanding invasion of Lebanon draws global alarm",
+    "title_fa": "Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks",
+    "title_en": "Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks",
+    "summary": [
+      "Jerome Powell says the US central bank is undergoing a &#039;stress test&#039; like other institutions in the current era."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780297916.7723942
+  },
+  {
+    "title_fa": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
+    "title_en": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
     "summary": [
       "France requests UN Security Council meeting over Israel&#039;s invasion of Lebanon, as Iran says talks with US continue."
     ],
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
     "image": null,
-    "timestamp": 1780279391.2824135
+    "timestamp": 1780297916.7724547
   },
   {
     "title_fa": "Ethiopia to vote in first elections since Tigray peace deal",
@@ -269,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss",
     "image": null,
-    "timestamp": 1780279391.2824633
+    "timestamp": 1780297916.7725053
   },
   {
     "title_fa": "Ethiopia’s election is about affirming national commitment to democracy",
@@ -285,7 +301,7 @@
     "url": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss",
     "image": null,
-    "timestamp": 1780279391.2824945
+    "timestamp": 1780297916.77254
   },
   {
     "title_fa": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
@@ -301,54 +317,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
     "image": null,
-    "timestamp": 1780279391.282505
-  },
-  {
-    "title_fa": "US measure to deepen Israel military cooperation faces bipartisan pushback",
-    "title_en": "US measure to deepen Israel military cooperation faces bipartisan pushback",
-    "summary": [
-      "Democrat Ro Khanna and Republican Thomas Massie say they will try to remove the pro-Israel section from US defence bill."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780279391.28254
-  },
-  {
-    "title_fa": "US Congress moves to deepen military ties with Israel: Why it matters",
-    "title_en": "US Congress moves to deepen military ties with Israel: Why it matters",
-    "summary": [
-      "Analysts say the plan would weave Israeli military interests more deeply into the fabric of US national security policy."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780279391.2825506
-  },
-  {
-    "title_fa": "The largest Israeli advance into Lebanon in years",
-    "title_en": "The largest Israeli advance into Lebanon in years",
-    "summary": [
-      "Israel’s military presence in southern Lebanon has expanded dramatically."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780279391.282564
+    "timestamp": 1780297916.7725499
   }
 ]
