@@ -1,19 +1,19 @@
 [
   {
-    "title_fa": "وزیر اسرائیلی: وقت نه گفتن به ترامپ است؛ سپاه: یک کشتی آمریکایی-اسرائیلی را هدف قرار دادیم",
-    "title_en": "وزیر اسرائیلی: وقت نه گفتن به ترامپ است؛ سپاه: یک کشتی آمریکایی-اسرائیلی را هدف قرار دادیم",
+    "title_fa": "ترامپ: توافق با ایران احتمالا هفته آینده حاصل می‌شود؛ قالیباف: گفتگوها را متوقف و جلوی اسرائیل می‌ایستیم",
+    "title_en": "ترامپ: توافق با ایران احتمالا هفته آینده حاصل می‌شود؛ قالیباف: گفتگوها را متوقف و جلوی اسرائیل می‌ایستیم",
     "summary": [
-      "نیروی دریایی سپاه پاسداران از هدف قرار دادن یک کشتی تجاری که آن را «آمریکایی-اسرائیلی» خوانده به «تلافی» هدف قرار گرفتن کشتی ایرانی «لیان استار» از سوی آمریکا خبر داده است. ایتامار بن گویر، وزیر راست‌گرای تندرو کابینه بنیامین نتانیاهو که رفتار او با فعالان کمک‌رسانی به غزه خبرساز شده بود، از اعلام دونالد ترامپ مبنی بر توقف حملاتی که اسرائیل قصد داشت علیه مناطقی در حومه جنوبی بیروت انجام دهد، انتقاد کرده و گفته است: «وقت آن رسیده که به ترامپ نه بگوییم». همزمان قرارگاه خاتم‌النبیاء به ساکنان «بخش‌"
+      "دونالد ترامپ در گفتگو با ای‌بی‌سی گفته از نظر او توافق با ایران که جزییات آن در حال تکمیل شدن است «هفته آینده» به نتیجه خواهد رسید. او گفته با تلفن به نتانیاهو وحزب‌الله خواستار توقف حملات آنها شده است. محمدباقر قالیباف، در تماس تلفنی با رئیس مجلس لبنان تهدید کرده است: ««در دو روز گذشته با جدیت توقف حملات اسرائیل را دنبال کرده‌ایم و اگر جنایت‌ها ادامه پیدا کند نه تنها روند گفت‌وگوها را متوقف می کنیم بلکه جلوی رژیم صهیونیستی خواهیم ایستاد.» همزمان نیروی دریایی سپاه از هدف قرار دادن یک کشتی باربری"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780350578.1353538
+    "timestamp": 1780355902.0872085
   },
   {
     "title_fa": "درباره حمله ایران به ۲۰ پایگاه‌ آمریکا در خاورمیانه چه می‌دانیم؟",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780350578.1353881
+    "timestamp": 1780355902.087241
   },
   {
     "title_fa": "پرونده «اولم ۵»؛ جنجال بر سر محاکمه فعالان حامی فلسطینیان در آلمان",
@@ -45,23 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780350578.1354122
-  },
-  {
-    "title_fa": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
-    "title_en": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
-    "summary": [
-      "قوه قضائیه ایران گفت که دو نفر از بازداشت‌شدگان اعتراضات دی ماه را امروز اعدام کرده است. به گزارش میزان، خبرگزاری قوه قضائیه، مهرداد محمدی‌نیا و اشکان مالکی روز ۱۸ دی «با برنامه‌ریزی قبلی و با هدف ایجاد آشوب و اغتشاش در خیابان حضور یافته بودند.»"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780350578.1354597
+    "timestamp": 1780355902.0872774
   },
   {
     "title_fa": "جنگی نامرئی که ایمنی پروازها را به خطر می‌اندازد",
@@ -77,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780350578.1354752
+    "timestamp": 1780355902.087318
   },
   {
     "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
@@ -93,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780350578.1354985
+    "timestamp": 1780355902.0873404
   },
   {
     "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
@@ -109,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780350578.1355202
+    "timestamp": 1780355902.0873609
   },
   {
     "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
@@ -125,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780350578.1355433
+    "timestamp": 1780355902.0873814
   },
   {
     "title_fa": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
@@ -141,7 +125,39 @@
     "url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780350578.1356044
+    "timestamp": 1780355902.0874405
+  },
+  {
+    "title_fa": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
+    "title_en": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
+    "summary": [
+      "قوه قضائیه ایران گفت که دو نفر از بازداشت‌شدگان اعتراضات دی ماه را امروز اعدام کرده است. به گزارش میزان، خبرگزاری قوه قضائیه، مهرداد محمدی‌نیا و اشکان مالکی روز ۱۸ دی «با برنامه‌ریزی قبلی و با هدف ایجاد آشوب و اغتشاش در خیابان حضور یافته بودند.»"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780355902.0874808
+  },
+  {
+    "title_fa": "آنچه گذشت؛ سپاه: یک کشتی آمریکایی-اسرائیلی را هدف قرار دادیم",
+    "title_en": "آنچه گذشت؛ سپاه: یک کشتی آمریکایی-اسرائیلی را هدف قرار دادیم",
+    "summary": [
+      "نیروی دریایی سپاه پاسداران از هدف قرار دادن یک کشتی تجاری که آن را «آمریکایی-اسرائیلی» خوانده به «تلافی» هدف قرار گرفتن کشتی ایرانی «لیان استار» از سوی آمریکا خبر داده است. ایتامار بن گویر، وزیر راست‌گرای تندرو کابینه بنیامین نتانیاهو که رفتار او با فعالان کمک‌رسانی به غزه خبرساز شده بود، از اعلام دونالد ترامپ مبنی بر توقف حملاتی که اسرائیل قصد داشت علیه مناطقی در حومه جنوبی بیروت انجام دهد، انتقاد کرده و گفته است: «وقت آن رسیده که به ترامپ نه بگوییم». همزمان قرارگاه خاتم‌النبیاء به ساکنان «بخش‌"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780355902.0875187
   },
   {
     "title_fa": "فرانسه، آلمان و بریتانیا از تشدید حملات اسرائیل به لبنان انتقاد کردند",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21z2n8xg7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21z2n8xg7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780350578.135667
+    "timestamp": 1780355902.087556
   },
   {
     "title_fa": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
@@ -173,39 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780350578.1356835
-  },
-  {
-    "title_fa": "نتانیاهو تصرف قلعه استراتژیک در لبنان را «تغییری چشمگیر» در جنگ با حزب‌الله خواند",
-    "title_en": "نتانیاهو تصرف قلعه استراتژیک در لبنان را «تغییری چشمگیر» در جنگ با حزب‌الله خواند",
-    "summary": [
-      "بنیامین نتانیاهو، نخست وزیر اسرائیل گفت که تصرف قلعه تاریخی و استراتژیک شقیف (بوفور) در جنوب لبنان توسط نیروهای اسرائیلی، «تغییری چشمگیر» در جنگ این کشور علیه حزب‌الله است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780350578.1356997
-  },
-  {
-    "title_fa": "آنچه گذشت؛ ادامه رد و بدل کردن پیام میان آمریکا و ایران بر سر مفاد توافق",
-    "title_en": "آنچه گذشت؛ ادامه رد و بدل کردن پیام میان آمریکا و ایران بر سر مفاد توافق",
-    "summary": [
-      "عباس عراقچی، وزیر امور خارجه ایران می‌گوید که گفت‌وگوها و تبادل پیام‌ها بین ایران و آمریکا برای خاتمه جنگ همچنان در جریان است و تا زمانی که به نتیجه مشخصی نرسد، گمانه‌زنی‌های مطرح‌شده در این زمینه فاقد اهمیت است. پیش از این برخی رسانه‌های آمریکا گزارش داده بودند که دونالد ترامپ در آخرین پیش‌نویس توافق اولیه با ایران شروط خود را سخت‌گیرانه‌تر کرده و این پیشنهاد به تهران ارسال شده است. در همین حال محمد باقر قالیباف در نطق پیش از دستور آغاز سومین سال مجلس گفت «هیچ اعتمادی به حرف‌ها و وعده‌های دشمن»"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780350578.1357453
+    "timestamp": 1780355902.0875714
   },
   {
     "title_fa": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
@@ -221,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780350578.1357646
+    "timestamp": 1780355902.0875893
   },
   {
     "title_fa": "Who attended this year’s Israel Day Parade in New York?",
@@ -237,7 +221,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss",
     "image": null,
-    "timestamp": 1780350578.2818727
+    "timestamp": 1780355902.4270172
   },
   {
     "title_fa": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
@@ -253,7 +237,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/foreign-christians-ask-for-forgiveness-over-failure-to-support-israel-at-knesset?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/foreign-christians-ask-for-forgiveness-over-failure-to-support-israel-at-knesset?traffic_source=rss",
     "image": null,
-    "timestamp": 1780350578.2819035
+    "timestamp": 1780355902.4270446
   },
   {
     "title_fa": "Denmark gets new government as Greenland crisis persists",
@@ -269,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss",
     "image": null,
-    "timestamp": 1780350578.2819169
+    "timestamp": 1780355902.4270558
   },
   {
     "title_fa": "Is the US-backed Gaza peace process in serious danger?",
@@ -285,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/inside-story/2026/6/1/is-the-u-s-backed-gaza-peace-process-in-serious-danger?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/inside-story/2026/6/1/is-the-u-s-backed-gaza-peace-process-in-serious-danger?traffic_source=rss",
     "image": null,
-    "timestamp": 1780350578.2819371
+    "timestamp": 1780355902.427073
   },
   {
     "title_fa": "Gaza-bound aid ship begins voyage from Sweden",
@@ -301,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/gaza-bound-aid-ship-begins-voyage-from-sweden?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/gaza-bound-aid-ship-begins-voyage-from-sweden?traffic_source=rss",
     "image": null,
-    "timestamp": 1780350578.2819862
+    "timestamp": 1780355902.4271147
   },
   {
     "title_fa": "Israeli strike damages hospital in southern Lebanon",
@@ -317,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1780350578.2820132
+    "timestamp": 1780355902.4271376
   },
   {
     "title_fa": "Activists plaster missing posters around Mexico stadiums ahead of World Cup",
@@ -333,6 +317,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/activists-plaster-missing-posters-around-mexico-stadiums-ahead-of-world-cup?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/activists-plaster-missing-posters-around-mexico-stadiums-ahead-of-world-cup?traffic_source=rss",
     "image": null,
-    "timestamp": 1780350578.2820303
+    "timestamp": 1780355902.427152
   }
 ]
