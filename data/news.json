@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "هشدار قرارگاه خاتم‌الانبیا به ساکنان شمال اسرائیل در صورت حمله به ضاحیه",
-    "title_en": "هشدار قرارگاه خاتم‌الانبیا به ساکنان شمال اسرائیل در صورت حمله به ضاحیه",
+    "title_fa": "وزیر اسرائیلی: وقت نه گفتن به ترامپ است؛ سپاه: یک کشتی آمریکایی-اسرائیلی را هدف قرار دادیم",
+    "title_en": "وزیر اسرائیلی: وقت نه گفتن به ترامپ است؛ سپاه: یک کشتی آمریکایی-اسرائیلی را هدف قرار دادیم",
     "summary": [
-      "قرارگاه مرکزی خاتم‌النبیا به ساکنان «بخش‌های شمالی و شهرک‌های نظامی اسرائیل» هشدار داد که در صورت بمباران ضاحیه و بیروت «اگر نمی‌خواهند آسیب ببینند منطقه را ترک نمایند.» بنیامین نتانیاهو امروز دستور حمله به اهدافی در ضاحیه در جنوب بیروت را صادر کرد و بعد ارتش اسرائیل هم به ساکنان این منطقه هشدار تخلیه داد. پیشتر وزیرخارجه ایران هشدار داده بود که «نقض آتش‌بس در هر یک از جبهه‌ها، به منزله نقض آن در تمامی جبهه‌ها است.»"
+      "نیروی دریایی سپاه پاسداران از هدف قرار دادن یک کشتی تجاری که آن را «آمریکایی-اسرائیلی» خوانده به «تلافی» هدف قرار گرفتن کشتی ایرانی «لیان استار» از سوی آمریکا خبر داده است. ایتامار بن گویر، وزیر راست‌گرای تندرو کابینه بنیامین نتانیاهو که رفتار او با فعالان کمک‌رسانی به غزه خبرساز شده بود، از اعلام دونالد ترامپ مبنی بر توقف حملاتی که اسرائیل قصد داشت علیه مناطقی در حومه جنوبی بیروت انجام دهد، انتقاد کرده و گفته است: «وقت آن رسیده که به ترامپ نه بگوییم». همزمان قرارگاه خاتم‌النبیاء به ساکنان «بخش‌"
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.9018269
+    "timestamp": 1780350578.1353538
   },
   {
     "title_fa": "درباره حمله ایران به ۲۰ پایگاه‌ آمریکا در خاورمیانه چه می‌دانیم؟",
@@ -29,7 +29,23 @@
     "url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.9018595
+    "timestamp": 1780350578.1353881
+  },
+  {
+    "title_fa": "پرونده «اولم ۵»؛ جنجال بر سر محاکمه فعالان حامی فلسطینیان در آلمان",
+    "title_en": "پرونده «اولم ۵»؛ جنجال بر سر محاکمه فعالان حامی فلسطینیان در آلمان",
+    "summary": [
+      "محاکمه فعالان مرتبط با گروه «اقدام برای فلسطین» در آلمان، کشوری که از حامیان دیرینه اسرائیل به شمار می‌رود، بحث گسترده‌ای را درباره چگونگی برخورد با معترضان حامی فلسطینیان به راه انداخته است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780350578.1354122
   },
   {
     "title_fa": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.9019308
+    "timestamp": 1780350578.1354597
   },
   {
     "title_fa": "جنگی نامرئی که ایمنی پروازها را به خطر می‌اندازد",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.9019477
+    "timestamp": 1780350578.1354752
   },
   {
     "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.9019697
+    "timestamp": 1780350578.1354985
   },
   {
     "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
@@ -93,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.901991
+    "timestamp": 1780350578.1355202
   },
   {
     "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.9020123
+    "timestamp": 1780350578.1355433
   },
   {
     "title_fa": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
@@ -125,23 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.902053
-  },
-  {
-    "title_fa": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
-    "title_en": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
-    "summary": [
-      "حتی اگر چشم‌اندازی برای برقراری صلح میان ایران و آمریکا وجود داشته باشد، تهران با گسترش جنگ به سطح منطقه، اکنون با فضایی خصمانه در خلیج فارس روبه‌رو است؛ به ویژه از سوی امارات که بیشترین آسیب‌ها را از حملات ایران دیده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780338602.9020934
+    "timestamp": 1780350578.1356044
   },
   {
     "title_fa": "فرانسه، آلمان و بریتانیا از تشدید حملات اسرائیل به لبنان انتقاد کردند",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21z2n8xg7o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21z2n8xg7o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.9021327
+    "timestamp": 1780350578.135667
   },
   {
     "title_fa": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.9021487
+    "timestamp": 1780350578.1356835
   },
   {
     "title_fa": "نتانیاهو تصرف قلعه استراتژیک در لبنان را «تغییری چشمگیر» در جنگ با حزب‌الله خواند",
@@ -189,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqxpvydg9vyo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.9021647
+    "timestamp": 1780350578.1356997
   },
   {
     "title_fa": "آنچه گذشت؛ ادامه رد و بدل کردن پیام میان آمریکا و ایران بر سر مفاد توافق",
@@ -205,7 +205,119 @@
     "url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/c8d831ljg7lt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780338602.9022102
+    "timestamp": 1780350578.1357453
+  },
+  {
+    "title_fa": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
+    "title_en": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
+    "summary": [
+      "حتی اگر چشم‌اندازی برای برقراری صلح میان ایران و آمریکا وجود داشته باشد، تهران با گسترش جنگ به سطح منطقه، اکنون با فضایی خصمانه در خلیج فارس روبه‌رو است؛ به ویژه از سوی امارات که بیشترین آسیب‌ها را از حملات ایران دیده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780350578.1357646
+  },
+  {
+    "title_fa": "Who attended this year’s Israel Day Parade in New York?",
+    "title_en": "Who attended this year’s Israel Day Parade in New York?",
+    "summary": [
+      "Al Jazeera’s Ava Warriner takes a look at the Israeli and US officials who joined the annual Israel Day parade."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780350578.2818727
+  },
+  {
+    "title_fa": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
+    "title_en": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
+    "summary": [
+      "‘Lord, please forgive us for all the things that we did that we did not support Israel.’"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/foreign-christians-ask-for-forgiveness-over-failure-to-support-israel-at-knesset?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/foreign-christians-ask-for-forgiveness-over-failure-to-support-israel-at-knesset?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780350578.2819035
+  },
+  {
+    "title_fa": "Denmark gets new government as Greenland crisis persists",
+    "title_en": "Denmark gets new government as Greenland crisis persists",
+    "summary": [
+      "End of election deadlock will see PM Frederiksen continue her stewardship of response to Trump&#039;s Greenland lust."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780350578.2819169
+  },
+  {
+    "title_fa": "Is the US-backed Gaza peace process in serious danger?",
+    "title_en": "Is the US-backed Gaza peace process in serious danger?",
+    "summary": [
+      "Israel killing more Palestinians, moves to seize 70 percent of Gaza Strip"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/6/1/is-the-u-s-backed-gaza-peace-process-in-serious-danger?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/inside-story/2026/6/1/is-the-u-s-backed-gaza-peace-process-in-serious-danger?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780350578.2819371
+  },
+  {
+    "title_fa": "Gaza-bound aid ship begins voyage from Sweden",
+    "title_en": "Gaza-bound aid ship begins voyage from Sweden",
+    "summary": [
+      "A Gaza-bound ship carrying aid began its voyage from Sweden, weeks after Israeli forces intercepted a previous aid ship."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/gaza-bound-aid-ship-begins-voyage-from-sweden?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/gaza-bound-aid-ship-begins-voyage-from-sweden?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780350578.2819862
+  },
+  {
+    "title_fa": "Israeli strike damages hospital in southern Lebanon",
+    "title_en": "Israeli strike damages hospital in southern Lebanon",
+    "summary": [
+      "An Israeli attack near Jabal Amel Hospital in Tyre has destroyed wards and medical equipment."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780350578.2820132
   },
   {
     "title_fa": "Activists plaster missing posters around Mexico stadiums ahead of World Cup",
@@ -221,102 +333,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/activists-plaster-missing-posters-around-mexico-stadiums-ahead-of-world-cup?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/activists-plaster-missing-posters-around-mexico-stadiums-ahead-of-world-cup?traffic_source=rss",
     "image": null,
-    "timestamp": 1780338602.9996831
-  },
-  {
-    "title_fa": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
-    "title_en": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
-    "summary": [
-      "Iranian officials demand &#039;ceasefire on all fronts&#039; as Israel deepens Lebanon invasion and threatens to bomb Beirut."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780338602.9997673
-  },
-  {
-    "title_fa": "As Israel pushes past the Litani, Lebanese question the purpose of UNIFIL",
-    "title_en": "As Israel pushes past the Litani, Lebanese question the purpose of UNIFIL",
-    "summary": [
-      "Israel has pushed past the Litani River, with the UNFIL peacekeeping force helpless to prevent an invasion."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/features/2026/6/1/as-israel-pushes-past-the-litani-lebanese-question-the-purpose-of-unifil?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/features/2026/6/1/as-israel-pushes-past-the-litani-lebanese-question-the-purpose-of-unifil?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780338602.9997785
-  },
-  {
-    "title_fa": "Indian PM Modi meets Myanmar military gov’t leader in New Delhi",
-    "title_en": "Indian PM Modi meets Myanmar military gov’t leader in New Delhi",
-    "summary": [
-      "Myanmar opposition groups criticise India for hosting Min Aung Hlaing, but India says engagement is best way forward."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780338602.9997928
-  },
-  {
-    "title_fa": "Lebanon latest: Israel captures more land in the south",
-    "title_en": "Lebanon latest: Israel captures more land in the south",
-    "summary": [
-      "Al Jazeera’s Zeina Khodr brings you the latest from Lebanon as Israel expands its occupation there."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/lebanon-latest-israel-captures-more-land-in-the-south?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/lebanon-latest-israel-captures-more-land-in-the-south?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780338602.9998071
-  },
-  {
-    "title_fa": "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling",
-    "title_en": "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling",
-    "summary": [
-      "As the conflict destroys local production, Sudanese patients are forced to rely on expensive, smuggled medicines."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780338602.999848
-  },
-  {
-    "title_fa": "How the world failed Ryan and Yaman",
-    "title_en": "How the world failed Ryan and Yaman",
-    "summary": [
-      "An Israeli strike killed my children. What pains me is not just their loss but also the normalisation of their murder."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/features/2026/6/1/how-the-world-failed-ryan-and-yaman?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/features/2026/6/1/how-the-world-failed-ryan-and-yaman?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780338602.999869
+    "timestamp": 1780350578.2820303
   }
 ]
