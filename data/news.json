@@ -13,7 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780424820.1271782
+    "timestamp": 1780435738.8270276
+  },
+  {
+    "title_fa": "جرمی بوئن: ترامپ به پایان این جنگ نیاز دارد، اما ایران عقب‌نشینی نمی‌کند",
+    "title_en": "جرمی بوئن: ترامپ به پایان این جنگ نیاز دارد، اما ایران عقب‌نشینی نمی‌کند",
+    "summary": [
+      "سردبیر امور بین‌الملل بی‌بی‌سی نوشته است کاخ سفید تحت فشار نظرسنجی‌ها و متحدانش در خلیج‌فارس برای دستیابی به توافق تلاش می‌کند، اما ایران خواهان امتیازگیری است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c232dymj1epo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c232dymj1epo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780435738.8270485
+  },
+  {
+    "title_fa": "سه برابر سال‌های قبل؛ جزئیات نگران‌کننده آمار تورم اردیبهشت در ایران",
+    "title_en": "سه برابر سال‌های قبل؛ جزئیات نگران‌کننده آمار تورم اردیبهشت در ایران",
+    "summary": [
+      "نرخ رسمی تورم ایران در اردیبهشت‌ماه ۱۴۰۵ برای سومین ماه پیاپی رکورد هشتاد و چند ساله‌اش را شکست و به ۵۷.۷ درصد رسید. ولی فراتر از این رقم، گزارش مرکز آمار ایران درباره وضعیت قیمت‌ها پر از جزئیاتی است که نشان می‌دهد که مردم با تورم بی‌سابقه‌ای مواجهند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cx21ddg2zllo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cx21ddg2zllo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780435738.8270786
   },
   {
     "title_fa": "هما میرافشار، «زن هزار ترانه» موسیقی ایران درگذشت",
@@ -29,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/crrqdqeyqppo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crrqdqeyqppo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780424820.1272032
+    "timestamp": 1780435738.8271086
   },
   {
     "title_fa": "سه روایت از یک مکالمه تلفنی؛ دونالد ترامپ به نتانیاهو چه گفت؟",
@@ -45,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c775pg2j1eyo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c775pg2j1eyo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780424820.1272285
+    "timestamp": 1780435738.8271432
   },
   {
     "title_fa": "چرا یک قلعه ۹۰۰ ساله در جنگ اسرائیل و حزب‌الله اهمیت دارد؟",
@@ -61,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c2d262rjn57o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2d262rjn57o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780424820.1272686
+    "timestamp": 1780435738.827202
   },
   {
     "title_fa": "کدام زودتر تمام می‌شود؛ ذخایر نفت یا جنگ؟ ایران چگونه ترامپ را وادار به صلح می‌کند؟",
@@ -77,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cqlpny0ln0no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlpny0ln0no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780424820.127307
+    "timestamp": 1780435738.8272352
   },
   {
     "title_fa": "درباره حمله ایران به ۲۰ پایگاه‌ آمریکا در خاورمیانه چه می‌دانیم؟",
@@ -93,39 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780424820.1273396
-  },
-  {
-    "title_fa": "جنگی نامرئی که ایمنی پروازها را به خطر می‌اندازد",
-    "title_en": "جنگی نامرئی که ایمنی پروازها را به خطر می‌اندازد",
-    "summary": [
-      "داده‌ها نشان می‌دهد جعل سیگنال جی‌پی‌اس، که باعث اختلال در سیگنال‌های ماهواره‌ای و سردرگمی سامانه‌های ناوبری هواپیماها می‌شود، روزبه‌روز گسترده‌تر می‌شود."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780424820.1273615
-  },
-  {
-    "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
-    "title_en": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
-    "summary": [
-      "سرنوشت و مکان نگهداری ذخایر اورانیوم غنی‌شده ایران،‌ به ويژه ذخایر ۶۰ درصدی، به معمایی پیچیده در پرونده هسته‌ای جمهوری اسلامی تبدیل شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780424820.1273775
+    "timestamp": 1780435738.8272622
   },
   {
     "title_fa": "پرونده «اولم ۵»؛ جنجال بر سر محاکمه فعالان حامی فلسطینیان در آلمان",
@@ -141,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780424820.127447
+    "timestamp": 1780435738.8273306
   },
   {
     "title_fa": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
@@ -157,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780424820.127491
+    "timestamp": 1780435738.8273733
   },
   {
     "title_fa": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
@@ -173,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780424820.1275063
+    "timestamp": 1780435738.827388
   },
   {
     "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
@@ -189,27 +189,139 @@
     "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780424820.1275272
+    "timestamp": 1780435738.8274086
   },
   {
-    "title_fa": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
-    "title_en": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
+    "title_fa": "جنگی نامرئی که ایمنی پروازها را به خطر می‌اندازد",
+    "title_en": "جنگی نامرئی که ایمنی پروازها را به خطر می‌اندازد",
     "summary": [
-      "حتی اگر چشم‌اندازی برای برقراری صلح میان ایران و آمریکا وجود داشته باشد، تهران با گسترش جنگ به سطح منطقه، اکنون با فضایی خصمانه در خلیج فارس روبه‌رو است؛ به ویژه از سوی امارات که بیشترین آسیب‌ها را از حملات ایران دیده است."
+      "داده‌ها نشان می‌دهد جعل سیگنال جی‌پی‌اس، که باعث اختلال در سیگنال‌های ماهواره‌ای و سردرگمی سامانه‌های ناوبری هواپیماها می‌شود، روزبه‌روز گسترده‌تر می‌شود."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780424820.127577
+    "timestamp": 1780435738.8274565
   },
   {
-    "title_fa": "Norwegian FA supports ethics complaint against FIFA chief Infantino",
-    "title_en": "Norwegian FA supports ethics complaint against FIFA chief Infantino",
+    "title_fa": "Spain bans DR Congo World Cup warm-up due to Ebola fears",
+    "title_en": "Spain bans DR Congo World Cup warm-up due to Ebola fears",
+    "summary": [
+      "Spanish mayor bans DR Congo pre-World Cup 2026 game in La Linea de la Concepcion due to Ebola fears."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/6/2/spain-bans-dr-congo-world-cup-warm-up-due-to-ebola-fears?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/6/2/spain-bans-dr-congo-world-cup-warm-up-due-to-ebola-fears?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780435739.0131598
+  },
+  {
+    "title_fa": "Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza",
+    "title_en": "Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza",
+    "summary": [
+      "International isolation has deepened after reports of sexual abuse and the widening seizure of Gaza territory."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/6/2/palestine-weekly-wrap-no-respite-for-eid-as-israel-kills-dozens-in-gaza?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/6/2/palestine-weekly-wrap-no-respite-for-eid-as-israel-kills-dozens-in-gaza?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780435739.0131721
+  },
+  {
+    "title_fa": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion",
+    "title_en": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion",
+    "summary": [
+      "What will Israel and Lebanon discuss in Washington, as Hezbollah and Israel continue to battle in south Lebanon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780435739.0131829
+  },
+  {
+    "title_fa": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
+    "title_en": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
+    "summary": [
+      "US Secretary of State Marco Rubio says Iran’s Supreme Leader Mojtaba Khamenei is increasingly engaging in negotiations."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780435739.0132048
+  },
+  {
+    "title_fa": "Israeli settlers torch Palestinian homes in village near Ramallah",
+    "title_en": "Israeli settlers torch Palestinian homes in village near Ramallah",
+    "summary": [
+      "Khirbet Abu Falah has been frequently targeted by settler attacks, with over 30 incidents reported since late March."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-settlers-torch-palestinian-homes-in-village-near-ramallah?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-settlers-torch-palestinian-homes-in-village-near-ramallah?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780435739.0132163
+  },
+  {
+    "title_fa": "What Trump ‘telling off’ means for Netanyahu",
+    "title_en": "What Trump ‘telling off’ means for Netanyahu",
+    "summary": [
+      "US President Donald Trump reportedly lashed out at Israeli Prime Minister Benjamin Netanyahu during a phone call."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/what-trump-telling-off-means-for-netanyahu?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/what-trump-telling-off-means-for-netanyahu?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780435739.013229
+  },
+  {
+    "title_fa": "Ukraine’s Kostyuk blasts Russia stars in French Open outburst over war",
+    "title_en": "Ukraine’s Kostyuk blasts Russia stars in French Open outburst over war",
+    "summary": [
+      "Ukraine&#039;s Marta Kostyuk faces Russia&#039;s Mirra Andreeva in semifinal after beating Elina Svitolina at Roland Garros."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/6/2/ukraines-kostyuk-blasts-russia-stars-in-french-open-outburst-over-war?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/6/2/ukraines-kostyuk-blasts-russia-stars-in-french-open-outburst-over-war?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780435739.0132406
+  },
+  {
+    "title_fa": "Norway supports ethics complaint against FIFA’s Infantino on World Cup eve",
+    "title_en": "Norway supports ethics complaint against FIFA’s Infantino on World Cup eve",
     "summary": [
       "NFF president Lise Klaveness has called on FIFA to scrap the FIFA Peace Prize award to protect its political neutrality."
     ],
@@ -221,7 +333,7 @@
     "url": "https://www.aljazeera.com/sports/2026/6/2/norwegian-fa-supports-ethics-complaint-against-fifa-chief-infantino?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/6/2/norwegian-fa-supports-ethics-complaint-against-fifa-chief-infantino?traffic_source=rss",
     "image": null,
-    "timestamp": 1780424820.2773693
+    "timestamp": 1780435739.0132518
   },
   {
     "title_fa": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
@@ -237,7 +349,7 @@
     "url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
     "image": null,
-    "timestamp": 1780424820.277384
+    "timestamp": 1780435739.013262
   },
   {
     "title_fa": "Scene of damaged hospital after Israeli strike in southern Lebanon",
@@ -253,7 +365,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/scene-of-damaged-hospital-after-israeli-strike-in-southern-lebanon?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/scene-of-damaged-hospital-after-israeli-strike-in-southern-lebanon?traffic_source=rss",
     "image": null,
-    "timestamp": 1780424820.2774205
+    "timestamp": 1780435739.0132926
   },
   {
     "title_fa": "US university sells dead bodies to navy for Israeli military training",
@@ -269,86 +381,6 @@
     "url": "https://www.aljazeera.com/news/longform/2026/6/2/us-university-sells-dead-bodies-to-navy-for-israeli-military-training?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/longform/2026/6/2/us-university-sells-dead-bodies-to-navy-for-israeli-military-training?traffic_source=rss",
     "image": null,
-    "timestamp": 1780424820.27744
-  },
-  {
-    "title_fa": "UN tells world to brace for extreme weather as El Nino looms",
-    "title_en": "UN tells world to brace for extreme weather as El Nino looms",
-    "summary": [
-      "Potential impacts, including floods, drought and heatwaves, could &#039;hit even harder&#039; this year, UN chief warns."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/2/un-tells-world-to-brace-for-extreme-weather-as-el-nino-looms?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/6/2/un-tells-world-to-brace-for-extreme-weather-as-el-nino-looms?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780424820.2774582
-  },
-  {
-    "title_fa": "Could Russia hit northern Europe if it gained control of Arctic’s Bear Gap?",
-    "title_en": "Could Russia hit northern Europe if it gained control of Arctic’s Bear Gap?",
-    "summary": [
-      "Norwegian defence minister warns Russia could pose a grave risk and must not be allowed to control the corridor."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/2/could-russia-hit-northern-europe-if-it-gained-control-of-arctics-bear-gap?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/6/2/could-russia-hit-northern-europe-if-it-gained-control-of-arctics-bear-gap?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780424820.2774868
-  },
-  {
-    "title_fa": "‘Trapped’: Gaza patients flown to Iraq stuck in administrative limbo",
-    "title_en": "‘Trapped’: Gaza patients flown to Iraq stuck in administrative limbo",
-    "summary": [
-      "Palestinian patients stripped of their documents are confined inside a Baghdad medical centre."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/features/2026/6/2/trapped-gaza-patients-flown-to-iraq-stuck-in-administrative-limbo?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/features/2026/6/2/trapped-gaza-patients-flown-to-iraq-stuck-in-administrative-limbo?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780424820.277543
-  },
-  {
-    "title_fa": "Belgian NGO urges India to arrest Israeli reservist over alleged war crimes",
-    "title_en": "Belgian NGO urges India to arrest Israeli reservist over alleged war crimes",
-    "summary": [
-      "The Hind Rajab Foundation is using videos made by Eitan Gilboa and posted to social media as evidence."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/2/belgian-ngo-urges-india-to-arrest-israeli-reservist-over-alleged-war-crimes?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/6/2/belgian-ngo-urges-india-to-arrest-israeli-reservist-over-alleged-war-crimes?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780424820.277553
-  },
-  {
-    "title_fa": "Israeli attacks on Lebanon continue after Trump saying they’d stop",
-    "title_en": "Israeli attacks on Lebanon continue after Trump saying they’d stop",
-    "summary": [
-      "Israeli air strikes on southern Lebanon have continued, a day after US President said the ‘shooting’ would stop"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-attacks-on-lebanon-continue-after-trump-saying-theyd-stop?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-attacks-on-lebanon-continue-after-trump-saying-theyd-stop?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780424820.2775667
+    "timestamp": 1780435739.0133111
   }
 ]
