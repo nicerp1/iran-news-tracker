@@ -1,9 +1,9 @@
 [
   {
-    "title_fa": "ترامپ: توافق با ایران احتمالا هفته آینده حاصل می‌شود؛ لبنان: حزب‌الله با توقف درگیری با اسرائیل موافقت کرده است",
-    "title_en": "ترامپ: توافق با ایران احتمالا هفته آینده حاصل می‌شود؛ لبنان: حزب‌الله با توقف درگیری با اسرائیل موافقت کرده است",
+    "title_fa": "آرامش نسبی در بیروت پس از مکالمه «تند» ترامپ با نتانیاهو",
+    "title_en": "آرامش نسبی در بیروت پس از مکالمه «تند» ترامپ با نتانیاهو",
     "summary": [
-      "دونالد ترامپ در گفتگو با ای‌بی‌سی گفته از نظر او توافق با ایران که جزییات آن در حال تکمیل شدن است «هفته آینده» به نتیجه خواهد رسید. او گفته در گفتگو با بنیامین نتانیاهو وحزب‌الله خواستار توقف حملات آنها شده است. سفارت لبنان در آمریکا هم تایید کرده که حزب‌الله با توقف درگیری با اسرائیل موافقت کرده است. این در حالیست که ارتش اسرائیل اعلام کرد که صبح سه‌شنبه، دو پرتابه شلیک شده از لبنان را رهگیری کرده است. پیشتر محمدباقر قالیباف که ریاست مذاکرات جاری میان تهران و واشنگتن را هم بر عهده دارد، در واکن"
+      "از دیشب که دونالد ترامپ اعلام کرد که با مداخله‌اش، اسرائیل و حزب‌الله با توقف درگیری موافقت کرده‌اند، آرامش نسبی در بیروت برقرار شده است. بعد از هشدار مکرر مقام‌های ایران و تهدید قرارگاه خاتم‌الانبیا به تلافی‌کردن هرگونه حمله به ضاحیه در حومه بیروت، دونالد ترامپ با بنیامین نتانیاهو مکالمه‌ای تلفنی داشت که بنابر گزارش‌ها صریح و «تند» بوده است. در همین حال تلاش‌های دیپلماتیک برای برقراری صلح در خاورمیانه از خلیج فارس به لبنان معطوف شده و قرار است امشب شورای امنیت به درخواست فرانسه جلسه‌ای اضطراری "
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
@@ -13,7 +13,23 @@
     "url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780381137.5039089
+    "timestamp": 1780397854.2895763
+  },
+  {
+    "title_fa": "هما میرافشار، «زن هزار ترانه» موسیقی ایران درگذشت",
+    "title_en": "هما میرافشار، «زن هزار ترانه» موسیقی ایران درگذشت",
+    "summary": [
+      "هما میرافشار، روزنامه‌نگار، شاعر و ترانه‌سرای تصنیف‌های عاشقانه موسیقی دستگاهی و آثار به یادماندنی پاپ در ۸۹ سالگی درگذشت و چهره‌های نامدار موسیقی و علاقه‌مندانش در شبکه‌های اجتماعی از مقام هنری او تجلیل کردند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/crrqdqeyqppo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/crrqdqeyqppo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780397854.2896013
   },
   {
     "title_fa": "کدام زودتر تمام می‌شود؛ ذخایر نفت یا جنگ؟ ایران چگونه ترامپ را وادار به صلح می‌کند؟",
@@ -29,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cqlpny0ln0no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlpny0ln0no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780381137.5039332
+    "timestamp": 1780397854.2896442
   },
   {
     "title_fa": "درباره حمله ایران به ۲۰ پایگاه‌ آمریکا در خاورمیانه چه می‌دانیم؟",
@@ -45,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780381137.503982
+    "timestamp": 1780397854.2896917
   },
   {
     "title_fa": "جنگی نامرئی که ایمنی پروازها را به خطر می‌اندازد",
@@ -61,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780381137.5040126
+    "timestamp": 1780397854.289707
   },
   {
     "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
@@ -77,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780381137.5040348
+    "timestamp": 1780397854.2897592
   },
   {
     "title_fa": "ذخایر اورانیوم غنی‌شده ایران کجاست؟",
@@ -93,23 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c8r82z828vpo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780381137.5040557
-  },
-  {
-    "title_fa": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
-    "title_en": "آیا هنوز امکان «توافق بزرگ» میان آمریکا و ایران وجود دارد؟",
-    "summary": [
-      "احتمال دستیابی به «توافق بزرگ» میان ایران و آمریکا در شرایط کنونی چقدر است و چنین توافقی بر چه اساسی می‌تواند شکل بگیرد؟ روسلان سلیمانوف، شرق‌شناس، در پادکست «چه اتفاقی افتاد؟» از بخش روسی بی‌بی‌سی به این پرسش‌ها پاسخ داده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cqjp1jxxxwjo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780381137.5040755
+    "timestamp": 1780397854.289777
   },
   {
     "title_fa": "پرونده «اولم ۵»؛ جنجال بر سر محاکمه فعالان حامی فلسطینیان در آلمان",
@@ -125,23 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780381137.5040956
-  },
-  {
-    "title_fa": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
-    "title_en": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
-    "summary": [
-      "دولت ایتالیا به‌دلیل ارائه مشوق‌ها و معافیت‌های مالیاتی مورد انتقاد قرار گرفته است. این کشور با این کار ثروتمندان فرانسوی و ساکنان خارجی فرانسه را به ترک این کشور ترغیب کرده و هدف انتقاد دولت فرانسه قرار گرفته است. همچنین در پی آسیب‌هایی که جنگ در خاورمیانه به کشورهای حوزه خلیج فارس وارد کرده، ایتالیا بیش از پیش به مقصدی جذاب برای ثروتمندان تبدیل شده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780381137.504154
+    "timestamp": 1780397854.289811
   },
   {
     "title_fa": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
@@ -157,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780381137.5041966
+    "timestamp": 1780397854.2898874
   },
   {
     "title_fa": "آنچه گذشت؛ سپاه: یک کشتی آمریکایی-اسرائیلی را هدف قرار دادیم",
@@ -173,7 +157,7 @@
     "url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/ckgpwvxk8ylt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780381137.504234
+    "timestamp": 1780397854.2899258
   },
   {
     "title_fa": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
@@ -189,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780381137.5042498
+    "timestamp": 1780397854.2899415
   },
   {
     "title_fa": "چرا روابط ایران و امارات به مرز بحران رسیده است؟",
@@ -205,7 +189,87 @@
     "url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c3v24k023n1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780381137.504268
+    "timestamp": 1780397854.28996
+  },
+  {
+    "title_fa": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
+    "title_en": "«زندگی شیرین»؛ ایتالیا، مقصد تازه سرمایه‌داران بزرگ جهان؟",
+    "summary": [
+      "دولت ایتالیا به‌دلیل ارائه مشوق‌ها و معافیت‌های مالیاتی مورد انتقاد قرار گرفته است. این کشور با این کار ثروتمندان فرانسوی و ساکنان خارجی فرانسه را به ترک این کشور ترغیب کرده و هدف انتقاد دولت فرانسه قرار گرفته است. همچنین در پی آسیب‌هایی که جنگ در خاورمیانه به کشورهای حوزه خلیج فارس وارد کرده، ایتالیا بیش از پیش به مقصدی جذاب برای ثروتمندان تبدیل شده است."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c1j289wzx35o?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780397854.289986
+  },
+  {
+    "title_fa": "Australia, don’t conflate anti-Semitism with criticism of Israel",
+    "title_en": "Australia, don’t conflate anti-Semitism with criticism of Israel",
+    "summary": [
+      "The anti-Semitism commission should protect Jewish Australians from hatred, not shield Israel from accountability."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/6/2/australia-dont-conflate-anti-semitism-with-criticism-of-israel?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/opinions/2026/6/2/australia-dont-conflate-anti-semitism-with-criticism-of-israel?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780397854.4764733
+  },
+  {
+    "title_fa": "How does Iran’s leadership view the emerging deal with the US?",
+    "title_en": "How does Iran’s leadership view the emerging deal with the US?",
+    "summary": [
+      "Iranian authorities reject capitulation, but there are subtle differences between various factions."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/6/2/how-does-irans-leadership-view-the-emerging-deal-with-the-us-2?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/6/2/how-does-irans-leadership-view-the-emerging-deal-with-the-us-2?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780397854.4764874
+  },
+  {
+    "title_fa": "France World Cup 2026 preview: Players to watch, group matches and squad",
+    "title_en": "France World Cup 2026 preview: Players to watch, group matches and squad",
+    "summary": [
+      "Departing Deschamps looks to win second title with side led by superstar forwards Kylian Mbappe and Ousmane Dembele."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/sports/2026/6/2/france-world-cup-2026-preview-players-to-watch-group-matches-and-squad?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/sports/2026/6/2/france-world-cup-2026-preview-players-to-watch-group-matches-and-squad?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780397854.4765391
+  },
+  {
+    "title_fa": "Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks",
+    "title_en": "Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks",
+    "summary": [
+      "Trump says he persuaded Israel and Hezbollah to halt attacks, seeking to prevent a wider war in Lebanon."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780397854.4766176
   },
   {
     "title_fa": "Rafael Grossi: the next Iran nuclear deal will look very different",
@@ -221,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/aje-onl-nf_qt_grossi-on-new-iran-nuclear-deal-020626?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/aje-onl-nf_qt_grossi-on-new-iran-nuclear-deal-020626?traffic_source=rss",
     "image": null,
-    "timestamp": 1780381137.6490932
+    "timestamp": 1780397854.4766376
   },
   {
     "title_fa": "Mexican protesters clash with police ahead of the 2026 World Cup",
@@ -237,118 +301,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/mexican-protesters-clash-with-police-ahead-of-the-2026-world-cup?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/mexican-protesters-clash-with-police-ahead-of-the-2026-world-cup?traffic_source=rss",
     "image": null,
-    "timestamp": 1780381137.6491063
-  },
-  {
-    "title_fa": "President Trump attempts to end hostilities in Lebanon",
-    "title_en": "President Trump attempts to end hostilities in Lebanon",
-    "summary": [
-      "US President Trump claims a diplomatic breakthrough after speaking with Israeli PM to halt escalation toward Beirut."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780381137.6491432
-  },
-  {
-    "title_fa": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
-    "title_en": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
-    "summary": [
-      "Israeli National Security Minister Ben-Gvir says &#039;time&#039; to say &#039;no&#039; to Trump and continue striking Hezbollah in Lebanon."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780381137.6491642
-  },
-  {
-    "title_fa": "Ultra-Orthodox protesters clash with Israeli police over army draft",
-    "title_en": "Ultra-Orthodox protesters clash with Israeli police over army draft",
-    "summary": [
-      "Police seen dragging ultra-Orthodox protesters from under a bus after they blocked roads in Jerusalem over conscription."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780381137.649175
-  },
-  {
-    "title_fa": "Who attended this year’s Israel Day Parade in New York?",
-    "title_en": "Who attended this year’s Israel Day Parade in New York?",
-    "summary": [
-      "Al Jazeera’s Ava Warriner takes a look at the Israeli and US officials who joined the annual Israel Day parade."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780381137.649209
-  },
-  {
-    "title_fa": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
-    "title_en": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
-    "summary": [
-      "‘Lord, please forgive us for all the things that we did that we did not support Israel.’"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/foreign-christians-ask-for-forgiveness-over-failure-to-support-israel-at-knesset?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/foreign-christians-ask-for-forgiveness-over-failure-to-support-israel-at-knesset?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780381137.6492343
-  },
-  {
-    "title_fa": "Denmark gets new government as Greenland crisis persists",
-    "title_en": "Denmark gets new government as Greenland crisis persists",
-    "summary": [
-      "End of election deadlock will see PM Frederiksen continue her stewardship of response to Trump&#039;s Greenland lust."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780381137.6492443
-  },
-  {
-    "title_fa": "Is the US-backed Gaza peace process in serious danger?",
-    "title_en": "Is the US-backed Gaza peace process in serious danger?",
-    "summary": [
-      "Israel killing more Palestinians, moves to seize 70 percent of Gaza Strip"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/6/1/is-the-u-s-backed-gaza-peace-process-in-serious-danger?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/inside-story/2026/6/1/is-the-u-s-backed-gaza-peace-process-in-serious-danger?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780381137.649261
+    "timestamp": 1780397854.4766476
   }
 ]
