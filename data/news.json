@@ -1,19 +1,19 @@
 [
   {
-    "title_fa": "روبیو: باز کردن تنگه هرمز شرط اول مذاکره است ولی برای رفع تحریم کافی نیست",
-    "title_en": "روبیو: باز کردن تنگه هرمز شرط اول مذاکره است ولی برای رفع تحریم کافی نیست",
+    "title_fa": "سنتکام: یک نفتکش در مسیر ایران را متوقف کردیم؛ ایران: پایگاه‌های آمریکا در کویت و بحرین هدف قرار گرفتند",
+    "title_en": "سنتکام: یک نفتکش در مسیر ایران را متوقف کردیم؛ ایران: پایگاه‌های آمریکا در کویت و بحرین هدف قرار گرفتند",
     "summary": [
-      "وزیر خارجه آمریکا می‌گوید که باز کردن تنگه هرمز شرط اول مذاکره با ایران است ولی برای رفع تحریم‌ کافی نیست. مارکو روبیو تعهد ایران به مذاکرات مشخص در مورد ذخایر اورانیوم‌ غنی‌شده با خلوص بالا را یکی از شرایط لازم برای کاهش تحریم‌ها دانست. آقای روبیو همچیین از ادامه مذاکرات با ایران خبر داد اما گفت تضمینی نیست که به صلح بینجامد. این در حالیست که خبرگزاری فارس می‌گوید تبادل پیام‌ بین ایران و آمریکا «دست‌کم از چند روز پیش متوقف شده است.» در همین حال باوجود مداخله دونالد ترامپ، تبادل آتش اسرائیل و حز"
+      "در حالی که دونالد ترامپ یک بار دیگر تاکید کرده مذاکرات میان واشنگتن و تهران متوقف نشده و ادامه دارد، ستاد فرماندهی مرکزی ارتش آمریکا از حمله با موشک به یک نفتکش خالی در مسیر بنادر ایران خبر داده و خبرگزاری‌های داخل ایران هم از حمله موشکی به پایگاه‌های امریکایی در کویت و بحرین خبر داده‌اند. در ایران، گزارش جدید نرخ تورم از افزایش بی‌سابقه بهای کالاها و دشواری مضاعف تامین هزینه‌های زندگی خبر می‌دهد."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/persian/live/cgmp3gp3rjkt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cgmp3gp3rjkt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.8270276
+    "timestamp": 1780442126.3093026
   },
   {
     "title_fa": "جرمی بوئن: ترامپ به پایان این جنگ نیاز دارد، اما ایران عقب‌نشینی نمی‌کند",
@@ -29,7 +29,7 @@
     "url": "https://www.bbc.com/persian/articles/c232dymj1epo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c232dymj1epo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.8270485
+    "timestamp": 1780442126.3093252
   },
   {
     "title_fa": "سه برابر سال‌های قبل؛ جزئیات نگران‌کننده آمار تورم اردیبهشت در ایران",
@@ -45,7 +45,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21ddg2zllo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21ddg2zllo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.8270786
+    "timestamp": 1780442126.3093493
   },
   {
     "title_fa": "هما میرافشار، «زن هزار ترانه» موسیقی ایران درگذشت",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/crrqdqeyqppo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crrqdqeyqppo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.8271086
+    "timestamp": 1780442126.3093696
   },
   {
     "title_fa": "سه روایت از یک مکالمه تلفنی؛ دونالد ترامپ به نتانیاهو چه گفت؟",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c775pg2j1eyo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c775pg2j1eyo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.8271432
+    "timestamp": 1780442126.309393
   },
   {
     "title_fa": "چرا یک قلعه ۹۰۰ ساله در جنگ اسرائیل و حزب‌الله اهمیت دارد؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c2d262rjn57o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2d262rjn57o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.827202
+    "timestamp": 1780442126.3094335
   },
   {
     "title_fa": "کدام زودتر تمام می‌شود؛ ذخایر نفت یا جنگ؟ ایران چگونه ترامپ را وادار به صلح می‌کند؟",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cqlpny0ln0no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlpny0ln0no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.8272352
+    "timestamp": 1780442126.3094583
   },
   {
     "title_fa": "درباره حمله ایران به ۲۰ پایگاه‌ آمریکا در خاورمیانه چه می‌دانیم؟",
@@ -125,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.8272622
+    "timestamp": 1780442126.3094857
   },
   {
     "title_fa": "پرونده «اولم ۵»؛ جنجال بر سر محاکمه فعالان حامی فلسطینیان در آلمان",
@@ -141,7 +141,23 @@
     "url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.8273306
+    "timestamp": 1780442126.309556
+  },
+  {
+    "title_fa": "آنچه گذشت؛ ترامپ: به جمهوری اسلامی گفتم هر طوری که شده باید به توافق برسید",
+    "title_en": "آنچه گذشت؛ ترامپ: به جمهوری اسلامی گفتم هر طوری که شده باید به توافق برسید",
+    "summary": [
+      "فرماندهی مرکزی ارتش آمریکا - سنتکام - با انتشار بیانیه‌ای از حمله به نفتکشی که در مسیر بنادر ایران بوده خبر داده و گفته یک جنگنده با موشک «هلفایر» موتورخانه نفتکش ««ام تی لکسی» با پرچم بوتسوانا را هدف قرار داده و آن را متوقف کرده است. این در حالی است که دونالد ترامپ یک بار دیگر تاکید کرده مذاکرات میان واشنگتن و تهران همچنان جاری است اما خبرگزاری فارس می‌گوید تبادل پیام‌ بین ایران و آمریکا «دست‌کم از چند روز پیش متوقف شده است.» در همین حال باوجود مداخله دونالد ترامپ، تبادل آتش اسرائیل و حزب‌الله "
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780442126.3095992
   },
   {
     "title_fa": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.8273733
+    "timestamp": 1780442126.3096445
   },
   {
     "title_fa": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
@@ -173,23 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.827388
-  },
-  {
-    "title_fa": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
-    "title_en": "حسین علایی: «سه روز قبل از جنگ به شمخانی گفتم جنگ با ترور رهبر شروع می‌شود، گفت او را پیدا نمی‌کنند»",
-    "summary": [
-      "حسین علایی، از فرماندهان پیشین سپاه پاسداران انقلاب اسلامی گفته است که سه روز قبل از حمله نهم اسفند آمریکا و اسرائیل به ایران، به علی شمخانی، مشاور علی خامنه‌ای گفته بود که حمله جدید به ایران با ترور رهبر شروع می شود «اما او گفت نمی‌توانند رهبر انقلاب را پیدا کنند.»"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c1j24gg7ne4o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780435738.8274086
+    "timestamp": 1780442126.3096604
   },
   {
     "title_fa": "جنگی نامرئی که ایمنی پروازها را به خطر می‌اندازد",
@@ -205,7 +205,23 @@
     "url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780435738.8274565
+    "timestamp": 1780442126.3096938
+  },
+  {
+    "title_fa": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
+    "title_en": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
+    "summary": [
+      "Analysts say &#039;strategic leaks&#039; aim to influence public perceptions amid diplomatic impasse in US-Israel war on Iran."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780442126.574516
   },
   {
     "title_fa": "Spain bans DR Congo World Cup warm-up due to Ebola fears",
@@ -221,7 +237,7 @@
     "url": "https://www.aljazeera.com/sports/2026/6/2/spain-bans-dr-congo-world-cup-warm-up-due-to-ebola-fears?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/6/2/spain-bans-dr-congo-world-cup-warm-up-due-to-ebola-fears?traffic_source=rss",
     "image": null,
-    "timestamp": 1780435739.0131598
+    "timestamp": 1780442126.5746102
   },
   {
     "title_fa": "Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza",
@@ -237,7 +253,7 @@
     "url": "https://www.aljazeera.com/news/2026/6/2/palestine-weekly-wrap-no-respite-for-eid-as-israel-kills-dozens-in-gaza?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/6/2/palestine-weekly-wrap-no-respite-for-eid-as-israel-kills-dozens-in-gaza?traffic_source=rss",
     "image": null,
-    "timestamp": 1780435739.0131721
+    "timestamp": 1780442126.574621
   },
   {
     "title_fa": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion",
@@ -253,7 +269,7 @@
     "url": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss",
     "image": null,
-    "timestamp": 1780435739.0131829
+    "timestamp": 1780442126.5746315
   },
   {
     "title_fa": "US says Iran’s new supreme leader alive and ‘increasingly engaging’",
@@ -269,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
     "image": null,
-    "timestamp": 1780435739.0132048
+    "timestamp": 1780442126.5746531
   },
   {
     "title_fa": "Israeli settlers torch Palestinian homes in village near Ramallah",
@@ -285,7 +301,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-settlers-torch-palestinian-homes-in-village-near-ramallah?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-settlers-torch-palestinian-homes-in-village-near-ramallah?traffic_source=rss",
     "image": null,
-    "timestamp": 1780435739.0132163
+    "timestamp": 1780442126.5746644
   },
   {
     "title_fa": "What Trump ‘telling off’ means for Netanyahu",
@@ -301,7 +317,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/what-trump-telling-off-means-for-netanyahu?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/what-trump-telling-off-means-for-netanyahu?traffic_source=rss",
     "image": null,
-    "timestamp": 1780435739.013229
+    "timestamp": 1780442126.5746765
   },
   {
     "title_fa": "Ukraine’s Kostyuk blasts Russia stars in French Open outburst over war",
@@ -317,7 +333,7 @@
     "url": "https://www.aljazeera.com/sports/2026/6/2/ukraines-kostyuk-blasts-russia-stars-in-french-open-outburst-over-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/6/2/ukraines-kostyuk-blasts-russia-stars-in-french-open-outburst-over-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1780435739.0132406
+    "timestamp": 1780442126.5746875
   },
   {
     "title_fa": "Norway supports ethics complaint against FIFA’s Infantino on World Cup eve",
@@ -333,7 +349,7 @@
     "url": "https://www.aljazeera.com/sports/2026/6/2/norwegian-fa-supports-ethics-complaint-against-fifa-chief-infantino?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/sports/2026/6/2/norwegian-fa-supports-ethics-complaint-against-fifa-chief-infantino?traffic_source=rss",
     "image": null,
-    "timestamp": 1780435739.0132518
+    "timestamp": 1780442126.574699
   },
   {
     "title_fa": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
@@ -349,38 +365,6 @@
     "url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
     "image": null,
-    "timestamp": 1780435739.013262
-  },
-  {
-    "title_fa": "Scene of damaged hospital after Israeli strike in southern Lebanon",
-    "title_en": "Scene of damaged hospital after Israeli strike in southern Lebanon",
-    "summary": [
-      "Al Jazeera’s Obaida Hitto is at the scene of Jabal Amel Hospital, which was ‘significantly damaged’ in Israeli attacks."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/scene-of-damaged-hospital-after-israeli-strike-in-southern-lebanon?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/scene-of-damaged-hospital-after-israeli-strike-in-southern-lebanon?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780435739.0132926
-  },
-  {
-    "title_fa": "US university sells dead bodies to navy for Israeli military training",
-    "title_en": "US university sells dead bodies to navy for Israeli military training",
-    "summary": [
-      "The AJ+ documentary series Direct From investigates connections between body donations and Israeli military programmes."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/longform/2026/6/2/us-university-sells-dead-bodies-to-navy-for-israeli-military-training?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/longform/2026/6/2/us-university-sells-dead-bodies-to-navy-for-israeli-military-training?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780435739.0133111
+    "timestamp": 1780442126.5747092
   }
 ]
