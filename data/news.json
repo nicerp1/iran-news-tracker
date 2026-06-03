@@ -13,7 +13,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cgmp3gp3rjkt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cgmp3gp3rjkt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.0739307
+    "timestamp": 1780516391.487962
   },
   {
     "title_fa": "محاسبه‌گر تورم مواد غذایی؛ حساب کنید هزینه سبد خرید شما در ایران چقدر بالا رفته است",
@@ -29,23 +29,23 @@
     "url": "https://www.bbc.com/persian/articles/c1m2dp4dgjro?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c1m2dp4dgjro?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.0739515
+    "timestamp": 1780516391.4879842
   },
   {
-    "title_fa": "از مرد سایه‌ها تا نماد قدرت روسیه؛ پوتین چگونه تصویر خود را ساخت؟",
-    "title_en": "از مرد سایه‌ها تا نماد قدرت روسیه؛ پوتین چگونه تصویر خود را ساخت؟",
+    "title_fa": "«ملی‌پوشان در برزخ»؛ بلژیک، مصر و نیوزیلند تنها حریفان تیم ملی ایران نیستند",
+    "title_en": "«ملی‌پوشان در برزخ»؛ بلژیک، مصر و نیوزیلند تنها حریفان تیم ملی ایران نیستند",
     "summary": [
-      "از مامور مرموز کاگ‌ب تا رهبر روسیه در دوران جنگ؛ داستان پوتین، داستان بازآفرینی مداوم تصویر و هویت سیاسی اوست."
+      "کاروان تیم ملی فوتبال ایران در حالی چمدان‌های خود را برای حضور در جام جهانی ۲۰۲۶، در آمریکای شمالی می‌بندد که فضای حاکم بر اردوی تیم، فرسنگ‌ها با یک تورنمنت ورزشی عادی، فاصله دارد."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cm2p365y60no?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cm2p365y60no?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c5yrdrpqr10o?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c5yrdrpqr10o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.0740092
+    "timestamp": 1780516391.4880035
   },
   {
     "title_fa": "اگر ایران و آمریکا توافق کنند، اسرائیل چه انتخاب‌هایی خواهد داشت؟",
@@ -61,7 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c70vlewq5wyo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c70vlewq5wyo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.0740502
+    "timestamp": 1780516391.4880688
   },
   {
     "title_fa": "جرمی بوئن: ترامپ به پایان این جنگ نیاز دارد، اما ایران عقب‌نشینی نمی‌کند",
@@ -77,7 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/c232dymj1epo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c232dymj1epo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.074066
+    "timestamp": 1780516391.4880843
   },
   {
     "title_fa": "چرا یک قلعه ۹۰۰ ساله در جنگ اسرائیل و حزب‌الله اهمیت دارد؟",
@@ -93,7 +93,23 @@
     "url": "https://www.bbc.com/persian/articles/c2d262rjn57o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2d262rjn57o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.074111
+    "timestamp": 1780516391.4881294
+  },
+  {
+    "title_fa": "از مرد سایه‌ها تا نماد قدرت روسیه؛ پوتین چگونه تصویر خود را ساخت؟",
+    "title_en": "از مرد سایه‌ها تا نماد قدرت روسیه؛ پوتین چگونه تصویر خود را ساخت؟",
+    "summary": [
+      "از مامور مرموز کاگ‌ب تا رهبر روسیه در دوران جنگ؛ داستان پوتین، داستان بازآفرینی مداوم تصویر و هویت سیاسی اوست."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cm2p365y60no?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cm2p365y60no?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780516391.4881446
   },
   {
     "title_fa": "هما میرافشار، «زن هزار ترانه» موسیقی ایران درگذشت",
@@ -109,7 +125,7 @@
     "url": "https://www.bbc.com/persian/articles/crrqdqeyqppo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crrqdqeyqppo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.0741296
+    "timestamp": 1780516391.4881618
   },
   {
     "title_fa": "سه روایت از یک مکالمه تلفنی؛ دونالد ترامپ به نتانیاهو چه گفت؟",
@@ -125,7 +141,7 @@
     "url": "https://www.bbc.com/persian/articles/c775pg2j1eyo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c775pg2j1eyo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.0741513
+    "timestamp": 1780516391.4881833
   },
   {
     "title_fa": "سه برابر سال‌های قبل؛ جزئیات نگران‌کننده آمار تورم اردیبهشت در ایران",
@@ -141,7 +157,7 @@
     "url": "https://www.bbc.com/persian/articles/cx21ddg2zllo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21ddg2zllo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.0742025
+    "timestamp": 1780516391.4882214
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ: به جمهوری اسلامی گفتم هر طوری که شده باید به توافق برسید",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.074239
+    "timestamp": 1780516391.4882581
   },
   {
     "title_fa": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
@@ -173,7 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.0742831
+    "timestamp": 1780516391.4883034
   },
   {
     "title_fa": "کدام زودتر تمام می‌شود؛ ذخایر نفت یا جنگ؟ ایران چگونه ترامپ را وادار به صلح می‌کند؟",
@@ -189,7 +205,7 @@
     "url": "https://www.bbc.com/persian/articles/cqlpny0ln0no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlpny0ln0no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.0742996
+    "timestamp": 1780516391.488321
   },
   {
     "title_fa": "درباره حمله ایران به ۲۰ پایگاه‌ آمریکا در خاورمیانه چه می‌دانیم؟",
@@ -205,7 +221,103 @@
     "url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780502465.074323
+    "timestamp": 1780516391.4883575
+  },
+  {
+    "title_fa": "Israeli strikes near Tyre hospital put youngest patient at risk",
+    "title_en": "Israeli strikes near Tyre hospital put youngest patient at risk",
+    "summary": [
+      "Jabal Aamel Hospital in Tyre was heavily damaged after an Israeli strike levelled nearby buildings, leaving key medical"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780516391.6930988
+  },
+  {
+    "title_fa": "Dalai Lama receives Grammy award for spoken-word album",
+    "title_en": "Dalai Lama receives Grammy award for spoken-word album",
+    "summary": [
+      "Tibetan spiritual leader Tenzin Gyatso received his first Grammy award for his spoken-word album."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/dalai-lama-receives-grammy-award-for-spoken-word-album?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/dalai-lama-receives-grammy-award-for-spoken-word-album?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780516391.693112
+  },
+  {
+    "title_fa": "Iran faces a new energy imbalance, but its options are limited",
+    "title_en": "Iran faces a new energy imbalance, but its options are limited",
+    "summary": [
+      "Iran’s government weighs limited energy control options in a strained economy, with the war impacting production."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780516391.6931393
+  },
+  {
+    "title_fa": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
+    "title_en": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
+    "summary": [
+      "The attacks test a US-mediated deal to curb Israel-Hezbollah attacks, and new Israel-Lebanon talks in Washington."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780516391.6931512
+  },
+  {
+    "title_fa": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
+    "title_en": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
+    "summary": [
+      "US president acknowledges he had harsh words for Netanyahu over Lebanon attacks but says he &#039;likes&#039; the Israeli leader."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780516391.693182
+  },
+  {
+    "title_fa": "Israeli settlers are driving Palestinian shepherds from their grazing lands",
+    "title_en": "Israeli settlers are driving Palestinian shepherds from their grazing lands",
+    "summary": [
+      "Settler attacks in the Jordan Valley have forced growing numbers of Palestinian communities to flee their villages."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/features/2026/6/3/israeli-settlers-are-driving-palestinian-shepherds-from-their-grazing-lands?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/features/2026/6/3/israeli-settlers-are-driving-palestinian-shepherds-from-their-grazing-lands?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780516391.6932209
   },
   {
     "title_fa": "Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary",
@@ -221,86 +333,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/pro-palestine-us-army-veteran-adam-hamawy-wins-new-jersey-primary?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/pro-palestine-us-army-veteran-adam-hamawy-wins-new-jersey-primary?traffic_source=rss",
     "image": null,
-    "timestamp": 1780502465.1711257
-  },
-  {
-    "title_fa": "Israel detains Palestine international women’s football player",
-    "title_en": "Israel detains Palestine international women’s football player",
-    "summary": [
-      "Rand Halawani&#039;s detention also saw four other women arrested on Tuesday, including a former Palestine player."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/6/3/israel-detains-palestine-international-football-player?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/6/3/israel-detains-palestine-international-football-player?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780502465.1712198
-  },
-  {
-    "title_fa": "Iran’s World Cup squad to depart for Mexico on June 6 despite US visa delay",
-    "title_en": "Iran’s World Cup squad to depart for Mexico on June 6 despite US visa delay",
-    "summary": [
-      "Squad&#039;s visas for the US haven&#039;t been issued, with Marco Rubio saying IRGC-linked members won&#039;t be allowed to &#039;embed&#039;."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/6/3/irans-world-cup-squad-to-depart-for-mexico-on-june-6-despite-us-visa-delay?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/6/3/irans-world-cup-squad-to-depart-for-mexico-on-june-6-despite-us-visa-delay?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780502465.1712391
-  },
-  {
-    "title_fa": "DRC suggests behind-closed-doors World Cup warm-up to offset Ebola threat",
-    "title_en": "DRC suggests behind-closed-doors World Cup warm-up to offset Ebola threat",
-    "summary": [
-      "Mayor of Spain&#039;s La Linea de la Concepcion bans friendly between DR Congo and Chile due to health concerns."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/6/3/dr-congo-to-offset-ebola-threat-with-behind-closed-doors-world-cup-warm-up?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/6/3/dr-congo-to-offset-ebola-threat-with-behind-closed-doors-world-cup-warm-up?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780502465.1712558
-  },
-  {
-    "title_fa": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
-    "title_en": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
-    "summary": [
-      "Kuwait and Bahrain attacked as Iran launches missile and drone barrage"
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-and-bahrain-attacked-as-iran-launches-missile-and-drone-barrage?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-and-bahrain-attacked-as-iran-launches-missile-and-drone-barrage?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780502465.1712806
-  },
-  {
-    "title_fa": "Israel is building more military posts in Gaza, satellite imagery shows",
-    "title_en": "Israel is building more military posts in Gaza, satellite imagery shows",
-    "summary": [
-      "An investigation by Al Jazeera has identified 40 distinct Israeli military outposts entrenched within Gaza."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/3/israel-is-building-more-military-posts-in-gaza-satellite-imagery-shows?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/6/3/israel-is-building-more-military-posts-in-gaza-satellite-imagery-shows?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780502465.1713557
+    "timestamp": 1780516391.6932867
   }
 ]
