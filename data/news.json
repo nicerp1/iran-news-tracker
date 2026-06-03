@@ -1,7 +1,7 @@
 [
   {
-    "title_fa": "سپاه پاسداران: در پاسخ به حمله به یک نفتکش و سواحل قشم، به پایگاه‌ دریایی آمریکا حمله کردیم",
-    "title_en": "سپاه پاسداران: در پاسخ به حمله به یک نفتکش و سواحل قشم، به پایگاه‌ دریایی آمریکا حمله کردیم",
+    "title_fa": "سپاه پاسداران: به پایگاه‌ دریایی آمریکا حمله کردیم؛  سنتکام می‌گوید حملات را دفع کرده است",
+    "title_en": "سپاه پاسداران: به پایگاه‌ دریایی آمریکا حمله کردیم؛  سنتکام می‌گوید حملات را دفع کرده است",
     "summary": [
       "ساعتی پس از مخابره گزارش‌های متعدد از حملات موشکی به نقاطی در کویت و بحرین، سپاه پاسداران با انتشار اطلاعیه‌ای رسما از حمله به پایگاه ناوگان پنجم نیروی دریایی آمریکا خبر داد. در اطلاعیه سپاه پاسداران این حملات در پاسخ به حمله آمریکا به یک نفتکش و همچنین دکل مخابراتی سپاه در جنوب جزیره قشم عنوان شده است. سنتکام هم با انتشار بیانیه‌ای مدعی دفع حملات ایران و منهدم کردن موشک‌ها و پهپادهای این کشور شده است. این احتمالا جدی‌ترین درگیری نظامی دو کشور از زمان برقراری آتش‌بس در ماه آوریل است. این در حالی"
     ],
@@ -13,7 +13,39 @@
     "url": "https://www.bbc.co.uk/persian/live/cgmp3gp3rjkt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cgmp3gp3rjkt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780451265.036257
+    "timestamp": 1780468366.1872058
+  },
+  {
+    "title_fa": "از مرد سایه‌ها تا نماد قدرت روسیه؛ پوتین چگونه تصویر خود را ساخت؟",
+    "title_en": "از مرد سایه‌ها تا نماد قدرت روسیه؛ پوتین چگونه تصویر خود را ساخت؟",
+    "summary": [
+      "از مامور مرموز کاگ‌ب تا رهبر روسیه در دوران جنگ؛ داستان پوتین، داستان بازآفرینی مداوم تصویر و هویت سیاسی اوست."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cm2p365y60no?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cm2p365y60no?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780468366.18723
+  },
+  {
+    "title_fa": "اگر ایران و آمریکا توافق کنند، اسرائیل چه انتخاب‌هایی خواهد داشت؟",
+    "title_en": "اگر ایران و آمریکا توافق کنند، اسرائیل چه انتخاب‌هایی خواهد داشت؟",
+    "summary": [
+      "در حالی که مذاکرات ایران و آمریکا وارد مرحله‌ای حساس شده، در اسرائیل بحث‌ها درباره «روز بعد از توافق احتمالی» شدت گرفته است. سوال اصلی فقط این نیست که آیا توافقی شکل خواهد گرفت یا نه؛ بلکه این است که اگر واشنگتن و تهران به تفاهم برسند، اسرائیل چه خواهد کرد؟"
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/c70vlewq5wyo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c70vlewq5wyo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780468366.1872551
   },
   {
     "title_fa": "جرمی بوئن: ترامپ به پایان این جنگ نیاز دارد، اما ایران عقب‌نشینی نمی‌کند",
@@ -29,23 +61,7 @@
     "url": "https://www.bbc.com/persian/articles/c232dymj1epo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c232dymj1epo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780451265.0362794
-  },
-  {
-    "title_fa": "سه برابر سال‌های قبل؛ جزئیات نگران‌کننده آمار تورم اردیبهشت در ایران",
-    "title_en": "سه برابر سال‌های قبل؛ جزئیات نگران‌کننده آمار تورم اردیبهشت در ایران",
-    "summary": [
-      "نرخ رسمی تورم ایران در اردیبهشت‌ماه ۱۴۰۵ برای سومین ماه پیاپی رکورد هشتاد و چند ساله‌اش را شکست و به ۵۷.۷ درصد رسید. ولی فراتر از این رقم، گزارش مرکز آمار ایران درباره وضعیت قیمت‌ها پر از جزئیاتی است که نشان می‌دهد که مردم با تورم بی‌سابقه‌ای مواجهند."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cx21ddg2zllo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cx21ddg2zllo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780451265.036303
+    "timestamp": 1780468366.187271
   },
   {
     "title_fa": "هما میرافشار، «زن هزار ترانه» موسیقی ایران درگذشت",
@@ -61,23 +77,7 @@
     "url": "https://www.bbc.com/persian/articles/crrqdqeyqppo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/crrqdqeyqppo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780451265.0363224
-  },
-  {
-    "title_fa": "سه روایت از یک مکالمه تلفنی؛ دونالد ترامپ به نتانیاهو چه گفت؟",
-    "title_en": "سه روایت از یک مکالمه تلفنی؛ دونالد ترامپ به نتانیاهو چه گفت؟",
-    "summary": [
-      "مکالمه تلفنی دونالد ترامپ و بنیامین نتانیاهو که به گفته رئیس‌جمهور آمریکا مانع حمله برنامه‌ریزی‌شده اسرائیل به ضاحیه بیروت شد، بازتاب گسترده‌ای در رسانه‌ها داشته است؛ هرچند روایت‌های رسمی و غیر‌رسمی از محتوا و لحن این گفت‌و‌گوی تلفنی متفاوت است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c775pg2j1eyo?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c775pg2j1eyo?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780451265.0363448
+    "timestamp": 1780468366.1872888
   },
   {
     "title_fa": "چرا یک قلعه ۹۰۰ ساله در جنگ اسرائیل و حزب‌الله اهمیت دارد؟",
@@ -93,7 +93,7 @@
     "url": "https://www.bbc.com/persian/articles/c2d262rjn57o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/c2d262rjn57o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780451265.0363846
+    "timestamp": 1780468366.1873286
   },
   {
     "title_fa": "کدام زودتر تمام می‌شود؛ ذخایر نفت یا جنگ؟ ایران چگونه ترامپ را وادار به صلح می‌کند؟",
@@ -109,7 +109,7 @@
     "url": "https://www.bbc.com/persian/articles/cqlpny0ln0no?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cqlpny0ln0no?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780451265.0364084
+    "timestamp": 1780468366.1873536
   },
   {
     "title_fa": "درباره حمله ایران به ۲۰ پایگاه‌ آمریکا در خاورمیانه چه می‌دانیم؟",
@@ -125,23 +125,39 @@
     "url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cwy60qdznd1o?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780451265.0364351
+    "timestamp": 1780468366.1873806
   },
   {
-    "title_fa": "پرونده «اولم ۵»؛ جنجال بر سر محاکمه فعالان حامی فلسطینیان در آلمان",
-    "title_en": "پرونده «اولم ۵»؛ جنجال بر سر محاکمه فعالان حامی فلسطینیان در آلمان",
+    "title_fa": "سه روایت از یک مکالمه تلفنی؛ دونالد ترامپ به نتانیاهو چه گفت؟",
+    "title_en": "سه روایت از یک مکالمه تلفنی؛ دونالد ترامپ به نتانیاهو چه گفت؟",
     "summary": [
-      "محاکمه فعالان مرتبط با گروه «اقدام برای فلسطین» در آلمان، کشوری که از حامیان دیرینه اسرائیل به شمار می‌رود، بحث گسترده‌ای را درباره چگونگی برخورد با معترضان حامی فلسطینیان به راه انداخته است."
+      "مکالمه تلفنی دونالد ترامپ و بنیامین نتانیاهو که به گفته رئیس‌جمهور آمریکا مانع حمله برنامه‌ریزی‌شده اسرائیل به ضاحیه بیروت شد، بازتاب گسترده‌ای در رسانه‌ها داشته است؛ هرچند روایت‌های رسمی و غیر‌رسمی از محتوا و لحن این گفت‌و‌گوی تلفنی متفاوت است."
     ],
     "impact": "در حال بررسی",
     "tag": "عمومی",
     "urgency": 5,
     "sentiment": 0.0,
     "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/c893jynq579o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/persian/articles/c775pg2j1eyo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/c775pg2j1eyo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780451265.036504
+    "timestamp": 1780468366.187402
+  },
+  {
+    "title_fa": "سه برابر سال‌های قبل؛ جزئیات نگران‌کننده آمار تورم اردیبهشت در ایران",
+    "title_en": "سه برابر سال‌های قبل؛ جزئیات نگران‌کننده آمار تورم اردیبهشت در ایران",
+    "summary": [
+      "نرخ رسمی تورم ایران در اردیبهشت‌ماه ۱۴۰۵ برای سومین ماه پیاپی رکورد هشتاد و چند ساله‌اش را شکست و به ۵۷.۷ درصد رسید. ولی فراتر از این رقم، گزارش مرکز آمار ایران درباره وضعیت قیمت‌ها پر از جزئیاتی است که نشان می‌دهد که مردم با تورم بی‌سابقه‌ای مواجهند."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "bbc_persian",
+    "url": "https://www.bbc.com/persian/articles/cx21ddg2zllo?at_medium=RSS&at_campaign=rss",
+    "clean_url": "https://www.bbc.com/persian/articles/cx21ddg2zllo?at_medium=RSS&at_campaign=rss",
+    "image": null,
+    "timestamp": 1780468366.1874723
   },
   {
     "title_fa": "آنچه گذشت؛ ترامپ: به جمهوری اسلامی گفتم هر طوری که شده باید به توافق برسید",
@@ -157,7 +173,7 @@
     "url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.co.uk/persian/live/cdxp3rnv5dwt?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780451265.0365398
+    "timestamp": 1780468366.1875079
   },
   {
     "title_fa": "قوه قضائیه ایران از اعدام مهرداد محمدی‌نیا و اشکان مالکی، دو نفر از معترضان دی، خبر داد",
@@ -173,23 +189,7 @@
     "url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cdrp8dln0glo?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780451265.0365846
-  },
-  {
-    "title_fa": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
-    "title_en": "عضو مجلس خبرگان: در جلسه اول انتخاب جانشین رهبری، اسم مجتبی خامنه‌ای «در فهرست نبود»",
-    "summary": [
-      "یک نماینده مجلس خبرگان رهبری ایران می‌‌گوید زمانی که اعضای این مجلس برای انتخاب جانشین علی خامنه‌ای تشکیل جلسه دادند اسم مجتبی خامنه‌ای در فهرست نامزدهای رهبری نبوده است."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "bbc_persian",
-    "url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
-    "clean_url": "https://www.bbc.com/persian/articles/cm2pqmy70y9o?at_medium=RSS&at_campaign=rss",
-    "image": null,
-    "timestamp": 1780451265.0365999
+    "timestamp": 1780468366.1875517
   },
   {
     "title_fa": "جنگی نامرئی که ایمنی پروازها را به خطر می‌اندازد",
@@ -205,7 +205,55 @@
     "url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
     "clean_url": "https://www.bbc.com/persian/articles/cx21vn25w4po?at_medium=RSS&at_campaign=rss",
     "image": null,
-    "timestamp": 1780451265.036633
+    "timestamp": 1780468366.187585
+  },
+  {
+    "title_fa": "What’s happening on day 96 of Iran war as US, Iran engage in new attacks",
+    "title_en": "What’s happening on day 96 of Iran war as US, Iran engage in new attacks",
+    "summary": [
+      "Rubio says the US will lift sanctions on Iran only if it gives up enriched uranium, rejecting a Hormuz-linked deal."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780468366.2905045
+  },
+  {
+    "title_fa": "Accident on Kuwait motorway as Iranian missiles fly overhead",
+    "title_en": "Accident on Kuwait motorway as Iranian missiles fly overhead",
+    "summary": [
+      "Video shows a car accident occurring on a road in Kuwait City as missiles flew overhead."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/accident-on-kuwait-motorway-as-iranian-missiles-fly-overhead?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/accident-on-kuwait-motorway-as-iranian-missiles-fly-overhead?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780468366.2905252
+  },
+  {
+    "title_fa": "Benjamin Netanyahu faces Israeli backlash over Lebanon strategy",
+    "title_en": "Benjamin Netanyahu faces Israeli backlash over Lebanon strategy",
+    "summary": [
+      "Hawkish voices in Israel have accused Prime Minister Benjamin Netanyahu of holding back on bombing Beirut."
+    ],
+    "impact": "در حال بررسی",
+    "tag": "عمومی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "aljazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/benjamin-netanyahu-faces-israeli-backlash-over-lebanon-strategy?traffic_source=rss",
+    "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/benjamin-netanyahu-faces-israeli-backlash-over-lebanon-strategy?traffic_source=rss",
+    "image": null,
+    "timestamp": 1780468366.2905447
   },
   {
     "title_fa": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain",
@@ -221,7 +269,7 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
     "image": null,
-    "timestamp": 1780451265.1834347
+    "timestamp": 1780468366.2905726
   },
   {
     "title_fa": "Why women go to war",
@@ -237,7 +285,7 @@
     "url": "https://www.aljazeera.com/video/all-hail/2026/6/3/why-women-go-to-war?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/video/all-hail/2026/6/3/why-women-go-to-war?traffic_source=rss",
     "image": null,
-    "timestamp": 1780451265.183461
+    "timestamp": 1780468366.2905934
   },
   {
     "title_fa": "Trump to attend delayed White House Correspondents’ Dinner after shooting",
@@ -253,7 +301,7 @@
     "url": "https://www.aljazeera.com/news/2026/6/3/trump-to-attend-delayed-white-house-correspondents-dinner-after-shooting?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/2026/6/3/trump-to-attend-delayed-white-house-correspondents-dinner-after-shooting?traffic_source=rss",
     "image": null,
-    "timestamp": 1780451265.183473
+    "timestamp": 1780468366.290605
   },
   {
     "title_fa": "Iran war live: US hits Iran’s Qeshm, says Tehran targeted Kuwait, Bahrain",
@@ -269,38 +317,6 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss",
     "clean_url": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss",
     "image": null,
-    "timestamp": 1780451265.1834936
-  },
-  {
-    "title_fa": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
-    "title_en": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
-    "summary": [
-      "Analysts say &#039;strategic leaks&#039; aim to influence public perceptions amid diplomatic impasse in US-Israel war on Iran."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780451265.1835594
-  },
-  {
-    "title_fa": "Spain bans DR Congo World Cup warm-up due to Ebola fears",
-    "title_en": "Spain bans DR Congo World Cup warm-up due to Ebola fears",
-    "summary": [
-      "Spanish mayor bans DR Congo pre-World Cup 2026 game in La Linea de la Concepcion due to Ebola fears."
-    ],
-    "impact": "در حال بررسی",
-    "tag": "عمومی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "aljazeera",
-    "url": "https://www.aljazeera.com/sports/2026/6/2/spain-bans-dr-congo-world-cup-warm-up-due-to-ebola-fears?traffic_source=rss",
-    "clean_url": "https://www.aljazeera.com/sports/2026/6/2/spain-bans-dr-congo-world-cup-warm-up-due-to-ebola-fears?traffic_source=rss",
-    "image": null,
-    "timestamp": 1780451265.1836376
+    "timestamp": 1780468366.290626
   }
 ]
